@@ -1,0 +1,125 @@
+#8200
+pig police man~
+a Policeman~
+An officious Policeman stands here, he has an arresting look.
+~
+The policeman glows with a blue light!
+~
+221226 8 10 E
+50 -100 -20 30d50+7000 30d5+35
+5000 16666
+8 8 1 2
+E
+#8201
+white chequer~
+a White Chequer~
+A White Chequer stands around, waiting for something to inspect.
+~
+Your too busy crying at the play on words to notice anything special.
+~
+256010 8388608 -10 E
+40 -100 -20 30d50+7500 30d6+40
+10000 100000
+8 8 0 1
+E
+#8202
+light blue chequer~
+a Light-Blue Checker~
+A Light-Blue Chequer stands around, waiting for something to inspect.
+~
+Your too busy crying at the play on words to notice anything special.
+~
+256010 8388608 10 E
+40 -100 -20 30d50+7500 30d5+40
+10000 100000
+8 8 0 1
+E
+#8203
+blotted white chequer~
+a blotted White Chequer~
+A blotted White Chequer stands here, looking for revenge.
+~
+Just looking at this chequer gives you the feeling that it is mean. Its spoiling for a fight
+and will help anything to have one.
+~
+260106 8388608 -200 E
+40 -100 -20 30d50+4000 30d6+40
+10000 25000
+8 8 0 1
+E
+#8204
+blotted light blue chequer~
+a blotted Light-Blue Chequer~
+A blotted Light-Blue Chequer rolls around here. It looks an easy target.
+~
+You see though the charade and realise that this is going to be just as
+difficult as any chequer you have met in the game.  
+~
+254026 8388608 400 E
+40 -100 -20 30d50+4000 30d0+40
+10000 20000
+8 8 0 1
+E
+#8205
+dice~
+a Dice~
+A Dice stands here, it shows a six. It glows with a blinding white light.
+~
+You see before you a giant dice. It looks as if it could crush you.
+~
+258248 32809 200 E
+40 -20 -20 1d1+6000 20d20+40
+10000 25000
+8 8 0 2
+BareHandAttack: 6
+E
+#8206
+lonely white chequer~
+a lonely White Chequer.~
+A lonely White Chequer stands here. It looks as if its hiding something.
+~
+You see nothing special.
+~
+254026 0 -200 E
+40 -100 -20 1d1+5000 30d6+40
+10000 20000
+8 8 0 1
+E
+#8207
+lonely light blue chequer~
+a lonely Light-Blue Chequer~
+A lonely Light-Blue Chequer stands here. It looks as if its hiding something. 
+~
+You see nothing special.
+~
+254026 0 200 E
+40 -100 -20 1d1+5000 30d6+40
+10000 20000
+8 8 0 1
+E
+#8208
+spectator~
+a Spectator~
+A Spectator is watching you here.
+~
+You see nothing special.
+~
+258248 32808 0 E
+20 0 10 10d10+1000 20d20+20
+0 0
+8 8 1 1
+BareHandAttack: 13
+E
+#8209
+double doubling dice~
+a Doubling Dice~
+A Doubling Dice rolls forwards, threatening to crush you.
+~
+Through the blinding white light you can see a 64.
+~
+256104 32808 0 E
+60 -44 -10 30d35+20 16d18+64
+1 50000
+8 8 0 2
+E
+$

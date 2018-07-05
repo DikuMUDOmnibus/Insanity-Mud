@@ -1,0 +1,75 @@
+#1801
+staff ice~
+an ice staff~
+A frozen branch lies on the ground.~
+~
+4 0 16385
+21 3 3 0
+7 1900 0 0 0
+#1802
+wand fire~
+a wand of fire~
+A glowing ember of wood melts the snow beneath it.~
+~
+3 3 16385
+15 3 3 26
+7 1900 0 0 0
+#1803
+flaming axe~
+a flaming axe~
+An axe of blue flame boils the water beneath it.~
+~
+5 1 8193
+0 2 15 3
+14 5000 0 0 0
+A
+13 2
+A
+18 2
+#1804
+shield southwind~
+the Shield of the South Wind~
+A beautiful shield lies at your feet.~
+~
+9 1 513
+10 0 0 0
+8 1000000 0 0 0
+A
+1 1
+A
+5 1
+A
+2 3
+#1805
+mint sprig~
+a sprig of mints~
+A sprig of mint sprouts at your feet.~
+~
+10 2162700 1
+33 28 44 39
+1 20 0 0 0
+#1806
+fuchsia potion~
+a fuchsia potion~
+A pinkish purple potion is on the floor.~
+~
+10 65542 1
+15 72 35 0
+1 100 0 0 0
+#1807
+bearskin strip~
+a strip of bearskin~
+A strip of bearskin lays here.~
+~
+11 0 262145
+0 0 0 0
+1 1000 0 0 10
+A
+3 1
+A
+18 2
+A
+12 10
+A
+9 -2
+$~

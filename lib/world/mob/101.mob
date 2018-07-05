@@ -1,0 +1,480 @@
+#10100
+imperial storm trooper~
+the Imperial Storm Trooper~
+An Imperial Storm Trooper is standing here, watching your every move.
+~
+You look at one of the finest fighting troops in all the galaxy.  Trained at
+the Imperial Academy and ordered to kill, he feels nothing and will not 
+hesitate to kill you, twice if necissary.
+~
+22602 0 -500 E
+70 8 5 10d300+6000 15d27+10
+6500 50000
+8 8 1 2
+BareHandAttack: 12
+E
+#10101
+imperial storm trooper~
+the Imperial Storm Trooper~
+An Imperial Storm Trooper is searching for enemies of the Empire.
+~
+You look at one of the finest fighting troops in all the galaxy.  Trained at
+the Imperial Academy and ordered to kill, he feels nothing and will not 
+hesitate to kill you, twice if necissary.
+~
+543304 0 -500 E
+70 8 5 10d300+6000 15d27+10
+6500 50000
+8 8 1 2
+BareHandAttack: 12
+E
+#10102
+citizen~
+a citizen of the Empire~
+A Citizen of the Empire is walking here, minding his own business.
+~
+You see a citizen of the Empire.  Loyal to the his last breath, he will
+do nothing to disobey his Emperor.  Remember, an attack against the
+member of the Empire is an attack on the Empire itself.
+~
+526540 0 0 E
+50 17 5 10d100+1000 10d10+3
+1500 1000
+8 8 1 1
+BareHandAttack: 13
+E
+#10103
+citizen~
+a citizen of Coruscant~
+A citizen of Coruscant is walking about here.
+~
+You see a citizen of Coruscant and more importantly tshe Empire.  An
+attack against her would result as an attack against the Empire.
+He is plain and unconspicuous.
+~
+526540 0 0 E
+50 15 7 30d20+900 10d10+5
+2500 1000
+8 8 2 1
+BareHandAttack: 8
+E
+#10104
+imperial officer~
+an Imperial Officer~
+An Imperial Officer is walking about here, minding his own business.
+~
+You see an Officer of the Imperial Navy.  He is dressed in the garb
+of a stadard issue Imperial Uniform.  You should think twice before
+attacking him.
+~
+260296 0 -599 E
+74 8 2 10d300+5000 10d20+10
+5000 15000
+8 8 1 2
+BareHandAttack: 12
+E
+#10105
+the Imperial Commander~
+an Imperial Commander~
+An Imperial Commander is awaiting here for his officers to command.
+~
+You see an Commander of the Imperial Navy.  He is dressed in the garb
+of a stadard issue Imperial Uniform.  You should think twice before
+attacking him.
+~
+260184 32768 -500 E
+75 8 0 0d1000+7000 10d30+10
+10000 60000
+8 8 0 3
+BareHandAttack: 12
+E
+#10106
+high counselman~
+the High Counselman~
+The High Counselman is standing here watching over the Senate.
+~
+You see one of the three men with the highest stature in the Senate.
+He and his cohorts run the day to day operations of the Senate and
+meet directly with the Emperor himself.
+~
+256216 32896 -750 E
+1 5 -10 0d1000+10000 10d20+15
+10000 75000
+8 8 1 4
+BareHandAttack: 13
+E
+#10107
+imperial senator~
+an Imperial Senator~
+An Imperial Senator is standing here debating something.
+~
+You see a well statured, well respected man of the galaxy.  He has 
+eminse pull in the Senate and represents his people well.  Right now
+his is hurridly running to make an appointment with the High Counsel.
+~
+256072 32768 0 E
+80 10 0 30d1000+20000 10d15+8
+10000 150000
+8 8 1 8
+BareHandAttack: 13
+E
+#10108
+supreme chancelor~
+the Supreme Chancelor~
+The Supreme Chancelor is standing here.
+~
+You stand before the Supreme Chancelor.  You should drop to your knees
+and beg for his mercy as he is about to meet with the Emperor who
+could kill you in a blink of an eye.  You notice corrupt wisdom in
+his eyes and wonder how he got to the second highest political power
+in the galaxy.
+~
+260186 32896 -1000 E
+90 0 -10 30d167+15000 30d10+20
+100 200000
+8 8 0 5
+BareHandAttack: 9
+E
+#10109
+r2 unit droid~
+an R2 Unit~
+An R2 unit is wandering aimlessly here.
+~
+You see your standard astrodroid.  You wonder how many of these little
+things are wondering around this galaxy.  You seem to remember something
+comming over the comlink about a droid being stolen a while back, you
+wonder what all that could be about. . .
+~
+524492 0 500 E
+40 18 0 10d50+2500 10d15+2
+10 5500
+8 8 0 2
+BareHandAttack: 11
+E
+#10110
+protocol droid~
+the protocol droid~
+A protocol droid is wondering about here.
+~
+You see one of the Empire's Protocol and Translator droids.  They are
+rummored to speak over six million languages and know about all the
+species in the galaxy.  You just wonder what this droid has seen in its
+lifetime.
+~
+526428 0 1000 E
+40 18 0 30d100+2500 10d15+2
+10 7500
+8 8 0 3
+E
+#10111
+Set the Hutt~
+Set the Hutt~
+Set the Hutt is standing here awaiting your order.
+~
+You see a person who will not put up with any of your shit.  He has a
+blaster at his side and at the first sign of trouble he will whip it
+out and shoot you between the eyes.  Order a drink already.
+~
+260122 0 0 E
+100 -30 -10 30d1000+15000 30d127+50
+5000 150000
+8 8 0 3
+BareHandAttack: 12
+E
+#10112
+gran alien~
+a Gran~
+A Gran is sitting here having a drink.
+~
+You are looking at one of the many aliens in this bar.  You have
+a clue where this one might be from.  Its three eyes are distinctive
+of a Gran.  It is probably one of the many traders that are in this
+city trying to make a living.  You hope that it is not one
+of the many bounty hunters that are after your hide.
+~
+247882 0 0 E
+75 10 0 2d1000+7000 10d20+10
+1000 40000
+6 6 0 2
+BareHandAttack: 12
+E
+#10113
+drunk rodian alien~
+a drunk Rodian~
+A drunk Rodian is laying here on the floor.
+~
+You see a totally inebriated alien.  From its green-skin and fish-like
+gills you come to the conclusion that this must be a Rodian.  Known
+for their expert marksmenship, you are quite relieved to find this one
+utterly wasted.  You dont think that this one could even stand back up,
+let alone raise a gun.
+~
+256010 0 -250 E
+50 -30 -10 10d500+16000 30d127+50
+5000 10
+4 4 0 3
+BareHandAttack: 9
+E
+#10114
+imperial storekeeper~
+the Imperial Storekeeper~
+The Imperial Storekeeper is standing here awaiting your money.
+~
+You see one of the Empire owned storekeepers of Coruscant.  He is
+scrupulus and mean.  He will swindle you out of every credit you own.
+Be careful and watch your pockets, for he will be in them deeper than
+you knew they were.
+~
+260186 32896 0 E
+100 -80 -10 30d1000+15000 30d127+100
+10000 600000
+8 8 0 10
+BareHandAttack: 12
+E
+#10115
+imperial weapons dealer~
+the Imperial Weapons Dealer~
+The Imperial Weapons Dealer is standing here ready to take your order.
+~
+You see a stout man, who will only disperse weapons to people with the
+right permits, or who have lots of money.  You see standard issue
+Imperial clothes dawning on him along with his standard issue Imperial
+wares he has to sell.
+~
+260186 32896 0 E
+100 -100 10 30d1000+15000 30d127+100
+10000 600000
+8 8 0 10
+BareHandAttack: 12
+E
+#10116
+imperial armor dealer~
+the Imperial Armor Dealer~
+The Imperial Armor Dealer is standing here amongst his wares.
+~
+You see a rather skinny person who is pushing the standard Imperial
+crappy armor.  He looks rather disgruntled about working here and 
+looks like he could snap at any minute, you had better be careful.
+~
+260186 32896 0 E
+100 -80 -10 30d1000+15000 30d127+100
+10000 600000
+8 8 0 10
+BareHandAttack: 12
+E
+#10117
+dark lord sith~
+a Dark Lord of Sith~
+A Dark Lord of Sith is standing here.
+~
+You see a rather dark man.  He has great power and is evil.
+Since he is the only on in all of Coruscant licensed to sell
+magical items, looks like you are stuck dealing with him.
+~
+260122 303104 -1000 E
+100 -80 -20 30d0+30000 30d127+100
+10000 1000000
+8 8 1 5
+BareHandAttack: 3
+E
+#10118
+imperial baker~
+the Imperial Baker~
+The Imperial Baker is standing here covered with foodstuffs.
+~
+You look at a rather cute young lass covered in foodstuffs. You
+look into her eye and you two seem to have an understanding.  YOu
+whisper a password to you and she tells you, "The Imperial Trooper
+in her store has the key to the underground market."
+~
+260250 32896 500 E
+100 -80 -10 0d0+30000 30d127+100
+10000 600000
+8 8 2 8
+BareHandAttack: 12
+E
+#10119
+rebel arms dealer~
+the Rebel Arms Dealer~
+The Rebel Arms Dealer is standing here ready to assist you in your battle.
+~
+You see a young fighter who is ready to put his life on the line
+to fight the atrocities put forth by the Empire.  He has a variety
+of illegal gear and weaponry for you to pick through.  Also, he might
+know how to get off this planet to other worlds.
+~
+260110 32896 750 E
+100 -80 -10 30d1000+15000 30d127+100
+10000 750000
+8 8 1 9
+BareHandAttack: 3
+E
+#10120
+rebel pilot~
+a Rebel Pilot~
+A Rebel Pilot is here readying his ship.
+~
+You see a corageous man who has come to the Imperial Capitol with
+his own ship trying to make it to the Aliance.  He is here and he
+can offer you safe passage to other worlds if you got the cash and
+wana aid the rebellion in their struggle against the Empire.
+~
+174106 561152 750 E
+90 -55 0 30d1000+7000 30d10+75
+10000 500000
+8 8 0 3
+BareHandAttack: 12
+E
+#10121
+pilot~
+a pilot~
+A Pilot is standing here awaiting his next charter.
+~
+You see what seems to be a very experienced pilot.  You are not sure
+if he is Imperial, Rebel, or a smuggler.  He winks at you and
+motions for you to come abored his ship.  You think about it and
+wonder where he will take you.
+~
+6346 0 300 E
+75 0 5 10d100+7000 25d8+18
+5000 10000
+8 8 1 2
+BareHandAttack: 12
+E
+#10122
+emperor~
+the Emperor~
+The Emperor is standing here contimplating your death.
+~
+You see the soul of the Empire.  He is the source of all that is evil
+in this galaxy.  He is the soul possesor of the dark side of the force
+and trains the Sith.  You can only see part of his face beneath the
+blanket of black layed down by his robe.  When he speaks to you, it
+sends chills down your spine.  You fear that you have met your match
+in combat as you see him raise his hands up and lightening blots streak
+across the sky.  You fear for your life.
+~
+260632 294912 -1000 E
+110 -100 -20 0d0+30000 30d127+120
+0 2000000
+8 8 1 2
+BareHandAttack: 6
+E
+#10123
+emperors guard~
+an Emperor's Guard~
+One of the Emperor's Guards is standing at attention here.
+~
+You see one of the personal guards to the Emperor.  Although the Emperor
+could kill you with a flick of his wrist, these guards are here so that you
+do not bother his highness with your petty needs.
+This guard look like he could take on half the empire himself, you had better
+not bother him.
+~
+645210 0 -750 E
+80 5 10 30d600+10000 10d40+20
+0 100000
+8 8 0 1
+BareHandAttack: 9
+E
+#10124
+rancor~
+the rancor~
+The rancor is standing here looking rather hungry.
+~
+You see a beast of great proportions.  It stands above you atleast by 4 meters.
+It has huge claws and is staring at you and drooling intently.  You wonder
+how long ago was its last meal.  You suddenly realize the look in its eyes
+is not lust, but hunger.  You fear for your life as you see its sharp teeth
+stained with blood from its most recent kill.
+~
+543304 0 -1000 E
+114 -100 -20 0d0+30000 30d127+120
+1 680000
+8 8 0 5
+BareHandAttack: 6
+E
+#10125
+kell dragon~
+a kell dragon~
+A kell dragon is laying in wait here, ready to pounce on you.
+~
+You see a huge four legged beast.  With jaws that can easily bite through
+your biggest bone, he looks like he could eat you in just one bite.
+You feel like you should leave and rather fast.
+~
+641624 0 -1000 E
+114 10 -20 1d1+25000 30d34+10
+1 680000
+8 8 1 3
+BareHandAttack: 4
+E
+#10126
+imperial commando~
+an Imperial Commando~
+An Imperial Commando is standing here telling you, "You are not authorized to be here."
+~
+You see a rather fearless individual.  Ready to shoot to kill, he will not
+think twice about putting a laser blast between your eyes.  He is dressed in
+heavy armor that could stand a couple blasts from the likes of your wimpy.
+weapon.  You think once about trying to kill such a fighting machine, then you 
+reconsider.
+~
+19016 60 -500 E
+95 0 0 0d0+20000 30d14+20
+5000 150000
+8 8 1 2
+BareHandAttack: 12
+E
+#10127
+trandoshan alien~
+a Trandoshan~
+A Trandoshan is here, with his eye on you.
+~
+You notice an alien that is a cross between a dragon and a human.
+With teeth that can chew through anything, these creatures are known
+for their fearlessness and their cruelty.  This makes them excellent
+bounty hunters.
+~
+16600 0 0 E
+50 10 0 1d1+4500 15d10+10
+5000 25000
+8 8 0 2
+BareHandAttack: 12
+E
+#10128
+gran alien~
+a Gran~
+A Gran is lurking here, it seems to be following you.
+~
+You glace at this creature just once.  One look is all you need to know
+that this is a Gran.  Its identity is given away by its three eyes.  This
+one looks particularly intersted in what you are doing.  It watches your
+every move.  You notice the insigia on its shoulder, its of the Hutts.  A
+chill goes down your spine, this one is a bounty hunter.
+~
+16584 0 0 E
+50 10 0 1d1+4500 10d5+10
+5000 25000
+8 8 0 2
+BareHandAttack: 12
+E
+#10129
+rodian alien~
+a Rodian~
+A Rodian is staing here, its seems to be following your every move.
+~
+You glace at this creature just once.  ONe look is all you need to know
+that this is a Rodian.  ITs identity is given away by its green skin and
+fish like appearance.  This one looks particularly intersted in what you
+are doing.  It watches your every move.  You notice the insigia on its
+shoulder, its of the Hutts.  A chill goes down your spine, this one
+is a bounty hunter.
+~
+18632 0 0 E
+50 10 0 1d1+4500 10d15+10
+5000 25000
+8 8 0 2
+BareHandAttack: 12
+E
+$

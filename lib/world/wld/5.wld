@@ -1,0 +1,669 @@
+#500
+The trail through the jungle.~
+   You are standing at the edge of a vast jungle. There is a wide well used
+trail into the jungle here with trees leaning over forming a leafy canopy. 
+You can hear all sorts of strange animal noises. To the south the trial leads
+out to the bitter and cold mountain paths which weave and twist thier way
+through the rocky slopes.  
+~
+5 0 3
+D0
+~
+~
+0 0 501
+D2
+~
+~
+0 0 4095
+S
+#501
+A wide jungle path~
+You are on a jungle trail leading North and South. The trees are well spaced apart and the sky can be seen through the canopy.
+~
+5 1 3
+D0
+~
+~
+0 0 502
+D2
+~
+~
+0 0 500
+S
+#502
+A jungle trail~
+As you venture deeper into the jungle you notice the light fading.
+The trees and vegetation crowd the space and you feel watched from many eyes
+~
+5 1 3
+D0
+~
+~
+0 0 503
+D2
+~
+~
+0 0 501
+D3
+~
+~
+0 0 505
+S
+#503
+A narrowing path~
+The path narrows here quite considerably, and the jungle grows over the edges of the path. You can feel hundreds of eyes peering at you.
+~
+5 64 3
+D0
+~
+~
+0 0 504
+D2
+~
+~
+0 0 502
+S
+#504
+A dark jungle trail~
+The narrow path continues on into the thickest jungle you have ever seen.
+~
+5 0 3
+D0
+~
+~
+0 0 510
+D2
+~
+~
+0 0 503
+S
+#505
+A narrow animal path~
+West it looks quite muddy, but hey, you're an explorer aren't you?
+~
+5 4 2
+D1
+~
+~
+0 0 502
+D3
+~
+~
+0 0 506
+S
+#506
+Very muddy path~
+   The ground gets wetter and wetter until you are wading through knee height
+murky looking water. The water looks and smells revolting. You can see a deep
+mud pit, it looks positively dangerous!  
+~
+5 0 6
+D1
+~
+~
+0 0 505
+D2
+That mud pit looks positively DEADLY!
+~
+~
+0 0 507
+D3
+~
+~
+0 0 508
+S
+#507
+A deep mud pit~
+You slide down a slippery bank into a thick black sticky mud pit.
+Maybe it's oil mixed in with it???? - you'll never know as you sink slowly
+into your grave clawing at the bank until just your hand is showing above the
+surface.
+~
+5 2 0
+D0
+~
+~
+0 0 506
+S
+#508
+Swampy ground~
+You enter an open area where mist curls around your feet. Marsh gas pops
+up through the mud and creates large bubbles. As you wade through the water
+you start to worry about the animals that might be lurking around.
+~
+5 0 7
+D0
+~
+~
+0 0 509
+D1
+~
+~
+0 0 506
+S
+#509
+swampy ground~
+The ground here is very soft under your feet and you have to be careful to
+watch where you tread. You wouldn't want to tread on any creatures eh?
+~
+5 0 2
+D2
+~
+~
+0 0 508
+S
+#510
+edge of a clearing~
+   The jungle suddenly ceases to be so thick, and looks roughly hewn away as if
+by intelligent creatures. You can smell smoke and see its haze wafting through
+the trees.  
+~
+5 0 3
+D0
+~
+~
+0 0 511
+D2
+~
+~
+0 0 504
+S
+#511
+An Inca city~
+   WOW! You are absolutly stunned to see a vast city before you. The ancient
+pyramids must have been built millenia ago, but they're still standing although
+a bit overgrown. A small tribe of Inca people seem to live here. Their
+children run wild.  
+~
+5 64 1
+D1
+~
+door~
+1 0 523
+D2
+~
+~
+0 0 510
+D3
+~
+~
+0 0 512
+S
+#512
+The Jungle field~
+   A small field reaches from here to the side of the Huge temple There are a
+few animals grazing here
+~
+5 0 0
+D0
+~
+~
+0 0 513
+D1
+~
+~
+0 0 511
+D3
+~
+~
+0 0 524
+S
+#513
+Base of the temple~
+   You are at the base of the temple. A wide set of thin steps lead up into
+the sky. You can hear screams floating down to you from the room at the top.
+There is a small archway set into the wall, which has been filled in.  
+~
+5 0 2
+D0
+A hidden lift door
+~
+Lift door~
+2 501 518
+D2
+~
+~
+0 0 512
+D4
+~
+~
+0 0 514
+S
+#514
+On the wide thin steps~
+You are on your way up the steps. There are thousands!
+~
+5 4 5
+D4
+~
+~
+0 0 515
+D5
+~
+~
+0 0 513
+S
+#515
+More steps~
+This is exhausting! you are hundreds of feet from the floor now, but it still
+seems like you havent got half way. There must have been an easier way than 
+this???
+~
+5 0 5
+D4
+~
+~
+0 0 516
+D5
+~
+~
+0 0 514
+S
+#516
+Nearly there~
+   Your goal is in sight! You can see the temple clearly now and are filled
+with enthusiasm again. CLICK! - what was that? The step just moved. Very
+strange.  
+~
+5 0 1
+D4
+~
+~
+0 0 517
+D5
+~
+~
+0 0 515
+S
+#517
+The top of the steps~
+   Just as you reach the top the steps flatten themselves out into a smooth
+surface that propels you back down the slope to near the bottom. You'll have
+to try again.  
+~
+5 12 0
+D4
+~
+~
+0 0 514
+D5
+~
+~
+0 0 513
+S
+#518
+The Temple lift~
+   You are standing in a small and amazingly modern lift. The walls are lined
+with a soft velvety red padding. There is a button panel here which has two
+buttons - up and down.  
+~
+5 176 0
+D2
+A lift door
+~
+lift door~
+2 501 513
+D4
+~
+~
+0 0 520
+D5
+A long passage with a light at the end...
+~
+~
+0 0 519
+S
+#519
+Into the Unknown~
+The floor of the lift springs open and you feel like a lemming...
+Down...
+       Down...
+              Down...
+                     Down...
+                            Down...
+                                   Down...
+CruNcH
+You are impaled on several large wooden spikes along with several other
+adventurers who are quite happily rotting.
+~
+5 163 0
+D4
+~
+~
+0 0 518
+S
+#520
+The Sun room~
+   As you step out of the lift, you enter a room that is dazzling to the eyes
+the light is coming from many crystals around the walls of the room. At one
+end of the room there is an altar that looks as though sacrafices have been
+made on it recently. - Yuck! You've just stepped on someones guts.  
+~
+5 8 0
+D1
+~
+~
+0 0 521
+D5
+~
+~
+0 0 519
+S
+#521
+The sun god altar~
+   The altar is disgusting. You really don't want to know what's on it but
+just have to have a little look. - eeUERGH! You feel sick. You do however
+think you spot something.  
+~
+5 8 0
+D2
+~
+~
+0 0 522
+D3
+~
+~
+0 0 520
+S
+#522
+The temple balcony~
+The temple has an open veranda which leads over to the rather dangerous looking
+stairs down. As you wander around, you peer over the edge and feel your head
+spinning.
+~
+5 0 0
+D0
+~
+~
+0 0 521
+D5
+~
+~
+0 0 517
+S
+#523
+The sunworshipers house~
+This small house must be the sunworshipers house as adorning the walls are
+lots of skulls. Perhaps you should offer him some decorating hints?
+There is not really a great deal here.
+~
+5 0 0
+D3
+A plain wooden door
+~
+A door~
+1 0 511
+S
+#524
+A small stream~
+The water is clear and cold, but you don't think it would be safe to drink. 
+If you allow it the stream could carry you north past the temple and into the
+lands beyond. The current is quite strong.  
+~
+5 4 6
+D0
+~
+~
+0 0 525
+D1
+~
+~
+0 0 512
+S
+#525
+Into Mordor~
+You fall asleep and when you awake your boat has drifted to a stop in a huge
+underground lake. You are floating near a small beach.  
+~
+5 288 7
+D1
+~
+~
+0 0 526
+D2
+~
+~
+0 0 524
+D3
+~
+~
+0 0 533
+S
+#526
+The underground beach~
+You stand on a beach by a dark lake. The water laps gently against the shingle
+There is a cave to the east and a passageway to the west.
+Alternatively you could climb the rocks to a small ledge.
+~
+5 300 5
+D1
+~
+~
+0 0 528
+D3
+~
+~
+0 0 525
+D4
+~
+~
+0 0 527
+S
+#527
+Gollums hiding place~
+As you get to the ledge you think you see a movement, and then you hear a
+hissing voice... What hasss it got in it'ssss pocket my preciousssssss?
+We think it'sssssssss got my ring.
+~
+5 296 0
+D5
+~
+~
+0 0 526
+S
+#528
+The goblin tunnel~
+You are in a narrow windy tunnel that seems to go on for ever.
+~
+5 296 0
+D3
+~
+~
+0 0 526
+D4
+~
+~
+0 0 535
+D5
+~
+~
+0 0 529
+S
+#529
+A narrow side tunnel~
+There is a blue flickery lamp firmly fixed to the wall here that casts
+a dim light. Is that something glinting you're not sure.
+~
+5 296 0
+D0
+~
+~
+0 0 530
+D2
+~
+~
+0 0 534
+D3
+~
+~
+0 0 536
+D4
+~
+~
+0 0 528
+E
+magic ring gollum~
+You notice a small silvery ring with an unreadable enscription on it
+It looks special
+~
+S
+#530
+The well used goblin tunnel~
+The tunnel is blocked by a sturdy oak door
+~
+5 296 0
+D0
+The door has a large magical bolt locking it
+It looks like goblin magic
+~
+Oak door~
+2 506 531
+D2
+~
+~
+0 0 529
+S
+#531
+The goblin storeroom~
+   You are in a room full of barrels of wine. You can see light coming from
+the north along with a lot of noise. From the east, you can feel a cool
+breeze.  
+~
+5 296 0
+D0
+The way out
+~
+~
+1 0 532
+D2
+~
+oak door~
+2 506 530
+S
+#532
+The goblins back door~
+You are in a large open cavern with light shining through a huge door.
+There are goblins everywhere.
+~
+5 296 0
+D2
+~
+~
+0 0 531
+S
+#533
+Gollums island~
+You are on a small Island of vegetation and decomposing fish, floating on the
+surface of the underground lake.
+~
+5 296 0
+D1
+~
+~
+0 0 525
+S
+#534
+Another tunnel~
+What?? Another tunnel? This place is a maze! You seem to be going round in
+circles most of the time. You have the added bonus of being deep underground
+like this, no-one can hear you! - Well at least there don't seem to be any
+monsters around at the moment.  
+~
+5 296 0
+D0
+~
+~
+0 0 528
+D2
+~
+~
+0 0 528
+D3
+~
+~
+0 0 529
+D4
+~
+~
+0 0 528
+S
+#535
+A windy tunnel~
+   This tunnel is very narrow and winds left and right. As you follow it, you
+become very disorientated.  
+~
+5 296 0
+D0
+~
+~
+0 0 529
+D5
+~
+~
+0 0 528
+S
+#536
+The goblin hoard~
+You pass through into a huge cavern. Torches burn in holders along each wall.
+At the far end, you can see a huge pedestal with a throne carved out of
+the solid rock.
+By the throne is an absolutely huge treasure pile.
+~
+5 296 0
+D3
+~
+~
+0 0 537
+S
+#537
+By the goblin kings throne~
+   You stand by the throne and are just about to get the treasure when suddenly
+there is a hideous yelling and screaming and hundreds of goblin warriors rush
+in to protect their hoard. The way back is completely blocked off.  
+~
+5 296 0
+D0
+~
+secret trapdoor~
+1 0 535
+S
+#540
+Outside the goblins back door~
+You are standing in the bright light outside the goblins back door.
+As you stand here,  you feel threatened. It may be advisable to move to a
+safer place.
+~
+5 296 0
+S
+#599
+The back room~
+This is the small backroom used for storage.
+I don't think you should be here!
+~
+5 296 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+$~

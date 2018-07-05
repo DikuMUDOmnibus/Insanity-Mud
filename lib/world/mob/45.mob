@@ -1,0 +1,1190 @@
+#4500
+wizard~
+the wizard~
+A wizard walks around behind the counter, talking to himself.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard.  He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.
+~
+26635 8 900 E
+33 2 2 1d1+30000 2d8+18
+30000 160000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4501
+baker~
+the baker~
+The baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker.  But you can see that he has many scars on his
+body.
+~
+26635 8 900 E
+33 0 -10 1d1+30000 2d8+18
+100 160000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4502
+storekeeper shopkeeper~
+the storekeeper~
+The Storekeeper stands behind his counter, he has an imatient look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+26635 8 900 E
+33 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4503
+weaponsmith~
+the weaponsmith~
+A weaponsmith is standing here.
+~
+He is a young weaponsmith, who still has lots to learn but he is still
+eager to sell you his latest implements of carnage and destruction.
+~
+26635 8 900 E
+33 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4504
+armourer~
+the armourer~
+An armourer stands here displaying his new (and previously owned) armours.
+~
+An old but very strong armourer.  He has made more suits of armour in his
+life than you have ever seen.
+~
+26635 8 900 E
+103 0 -10 1d1+30000 2d8+18
+28500 160000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4505
+receptionist~
+the receptionist~
+A receptionist is standing behind the counter here, smiling at you.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+59419 32808 900 E
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4506
+captain stolar~
+Captain Stolar~
+A retired captain stands here, selling boats.
+~
+This captain has eaten more sharks than you have killed peas.
+~
+26635 8 900 E
+33 2 2 1d1+30000 2d8+12
+2000 160000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4507
+sailor~
+the sailor~
+A sailor stands here, waiting to help you.
+~
+He looks like a strong, fit sailor.
+~
+26634 0 900 E
+33 0 -10 1d1+30000 2d8+12
+2000 160000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4508
+uncle juan~
+Uncle Juan~
+Uncle Juan is here ready to take your order.
+~
+He looks like he may or may not have a green card.
+~
+26635 0 900 E
+33 0 -10 1d1+30000 2d8+18
+2000 160000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4509
+wally watermaster~
+Wally the Watermaster~
+Wally the Watermaster is standing behind the counter.
+~
+Wally is a bit pudgy but looks very strong.  He has a glass of Midgaard
+Natural Spring Water in his hand.  When he notices you, he proudly
+displays his fine collection of contemporary waters.
+~
+26635 8 800 E
+33 0 -10 1d1+30000 1d8+18
+1000 160000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4510
+postmaster post master~
+the postmaster~
+The head postmaster is standing here, waiting to help you with your mail.
+~
+The Postmaster seems like a happy old man, though a bit sluggish.  He
+worries about the reputation of the MMS (Midgaard Mail Service), as many
+people seem to think that it is slow.  Perhaps if he were to brush the
+cobwebs from his uniform it would help to make a better impression.
+~
+190475 32776 1000 E
+33 0 -10 1d1+30000 1d8+18
+2000 0
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4511
+angel~
+the Angel~
+An Angel floats about here glowing with a bright white Light.
+~
+   This is the Angel of new life, here to help you return back to the world of
+the living to once again go on in your quest for immortality.    
+~
+253963 99360 1000 E
+100 -30 -20 30d1000+500 30d127+50
+2 50
+8 8 0 1
+BareHandAttack: 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4512
+linguist claire~
+the Linguist~
+Claire the Linguist stands here ready to teach you a new language.
+~
+Claire is quite young and beautiful, she has long black hair and a lovely
+smile. She also knows lots of foreign languages, this kind of turns you on. 
+*growl*
+~
+122890 1024 400 E
+40 5 2 12d30+2500 5d30+25
+500 1000
+8 8 2 1
+E
+#4513
+engraver~
+the Engraver~
+The Engravers stands here sharpening his engraving tools.
+~
+   The engraver is a small, skinny man. He has small beady eyes which seem
+larger through the rounded glasses he wears. His hands seem steady as you
+watch him engraving the various items people bring in.  
+~
+253963 0 400 E
+50 -10 0 10d1000+400 10d80+20
+4000 250000
+8 8 1 2
+E
+#4520
+guildmaster master mage~
+the mages' guildmaster~
+Your guildmaster is studying a spellbook while preparing to cast a spell.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses.  She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+59419 136 1000 E
+50 -100 -10 30d150+10000 30d127+120
+1 1
+8 8 2 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4521
+guildmaster master priest~
+the priests' guildmaster~
+Your guildmaster is praying to your God here.
+~
+You are in no doubt that this guildmaster is truly close to your God; he
+has a peaceful, loving look.  You notice that he is surrounded by a white
+aura.
+~
+59419 136 1000 E
+50 -100 -20 30d10+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4522
+guildmaster master beggar thief~
+the thieves' guildmaster~
+A beggar is sitting here, could she be a guildmaster?
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief.  She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+59419 136 1000 E
+50 -100 -10 6d10+10000 30d127+120
+1 1
+8 8 2 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4523
+guildmaster master~
+the fighters' guildmaster~
+Your guildmaster is standing here sharpening an axe.
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+59419 0 1000 E
+50 -100 -10 10d10+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4524
+sorcerer~
+the sorcerer~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive
+as well as defensive spells make him a deadly opponent.
+~
+59403 136 900 E
+50 -100 -20 6d10+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4525
+knight templar~
+the knight templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the
+Faith.  His duty is to protect the faithful from persecution and infidel
+attacks and his religious devotion combined with his superior skill makes
+him a deadly opponent.
+~
+59403 136 1000 E
+50 -100 -20 25d10+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4526
+assassin~
+the assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as
+possible, using all sorts of weapons.  His superior knowledge of how
+and where to use them combined with his extraordinary stealth makes
+him a deadly opponent.
+~
+59403 786600 400 E
+50 -100 -10 6d138+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4527
+knight~
+the knight~
+A knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+59403 136 800 E
+50 -100 -20 6d10+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4528
+doctor wacky~
+the Wacky Doctor~
+The Wacky Doctor Stands Here.
+~
+This strange old bloke seems to remind you of somebody you can't think
+who though! Hmmm maybe its you!
+
+~
+253978 1152 200 E
+100 15 10 10d30+15000 5d10+10
+1000 3000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4529
+guard druid~
+the Druids' Guard~
+The Druids Guard Stands here.
+~
+The Druids Guard is quite a Large Bloke. I don't think you should
+mess with him.
+
+~
+124954 1184 500 E
+100 -30 10 10d1000+3000 10d30+50
+5000 1000000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4530
+guildmaster master druid~
+the Druids Guildmaster~
+The Druids Guildmaster waits to teach you the ways of the Druids.
+~
+He is an old but wise man, he likes being here and looks very 
+happy
+
+~
+59419 1184 300 E
+50 -100 -20 10d1000+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4531
+mapmaker cartographer shopkeeper~
+the Cartographer~
+The Cartographer leans against his counter preparing a map.
+~
+   The Cartographer is a stern man, he looks quite strong and healthy.  He must
+be to be able to walk all that distance to map the places on his maps.    
+~
+10266 0 700 E
+60 -100 -10 1d1+30000 30d120+120
+30000 10000
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4540
+bartender~
+the bartender~
+A bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+24586 0 900 E
+24 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4541
+waiter~
+the waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+24586 0 900 E
+23 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4542
+waiter~
+the waiter~
+A man now leads a quiet, peaceful life as a waiter is standing here.
+~
+This man was obviously a famous sorcerer in his younger days as you
+instantly recognize his face.
+~
+24586 0 600 E
+50 -100 2 6d200+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4543
+waiter~
+the waiter~
+A waiter who seems to have reached contact with his God is standing here.
+~
+This waiter almost makes you feel like you should drop to your knees
+and begin to worship your God.  Naaah.
+~
+24586 0 600 E
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4544
+waiter~
+the waiter~
+A waiter who knows where all his customers keep their money is standing here.
+~
+Hmmm... wonder where he got that coin he is playing with.
+~
+24586 0 600 E
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4545
+waiter~
+the waiter~
+A waiter is here.
+~
+This guy looks like he could easily kill you while still carrying
+quite a few firebreathers.
+~
+24586 0 600 E
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4546
+filthy~
+Filthy~
+Filthy is standing here, eager to serve you a special drink.
+~
+Filthy looks real, ehm, dirty.  He likes to keep his customers happy,
+but do not mess with him or else he'll get upset.
+~
+26650 8 600 E
+33 1 -10 1d1+30000 1d8+22
+2000 80000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4547
+Guildmaster~
+the Avatar's Guildmaster~
+The Avatar's mighty Guildmaster stands before you
+~
+The mighty high Avatar stands here glowing with a bright like, he has a
+wise of wrinkled face and you might not be wrong if you where to guess that he
+was of extreme age. But make no mistake while he is a good and loyal friend he
+he would be a deadly enemy.
+~
+256026 66728 300 E
+50 -100 -20 30d30+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4548
+guard~
+the Avatar Guild Guard~
+The Avatar guard stands here, making sure nobody gets in!
+~
+The Avatar guard is a tall and well built bloke, he is also rather weird
+looking, Oh well I wouldn't argue with him!    
+
+~
+194587 66560 52 E
+50 -100 10 30d1000+5000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4550
+shopkeeper man keeper junior~
+Junior's Shopkeeper~
+Junior's Shopkeeper stands ever vigilant.
+~
+Junior has assigned the job of looking after his shop when he
+isn't here to this trustworthy man. He looks uncorruptable,
+and will always give you a good deal.
+~
+10 40 0 E
+50 -30 -20 1d1+25000 30d50+50
+0 0
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4559
+Inquisitor~
+the Inquisitor~
+A Dreaded Inquisitor of Minos stands here, upholding the law of the city.
+~
+He looks very strong and wise.  Looks like he doesn't answer to ANYONE.
+~
+6233 8 1000 E
+17 3 0 5d6+225 3d3+13
+2500 30000
+8 8 1 1
+BareHandAttack: 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4560
+cityguard guard~
+the cityguard~
+A cityguard stands here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+6217 8 1000 E
+10 10 1 1d12+123 1d8+5
+500 9000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4561
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+What a tough job he has.
+~
+2121 0 800 E
+1 20 9 2d6+10 1d5+0
+34 100
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4562
+Mutt dog hound~
+a scruffy mutt~
+A Scruffy mutt is here sniffing your leg.
+~
+   This must be the ugliest looking dog you have ever seen, and now you no were
+the term dogs breath comes from !!!!    
+~
+65769 33792 -200 E
+2 18 10 1d6+20 5d4+2
+0 200
+8 8 1 1
+BareHandAttack: 4
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4563
+mercenary~
+the mercenary~
+A mercenary is waiting for a job here.
+~
+He looks pretty mean, and you imagine he'd do anything for money.
+~
+2058 0 -330 E
+5 15 5 2d6+60 1d6+1
+87 900
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4564
+drunk~
+the drunk~
+A singing, happy Drunk.
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+10 0 400 E
+2 19 8 2d6+22 1d6+0
+53 200
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4565
+beggar~
+the beggar~
+A beggar is here, asking for a few coins.
+~
+The beggar looks like she is fed up with life.
+~
+10 0 400 E
+1 20 9 2d6+10 1d5+0
+0 100
+8 8 2 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4566
+tom cat~
+a large tom cat~
+A fat tom cat curls around your ankles
+~
+The odif is a small god that has been reversed by some dog.
+This is probably the fatest ugliest Tom cat you have ever seen
+~
+65769 32768 -200 E
+2 20 10 1d6+4 1d4+0
+0 25
+8 8 1 1
+BareHandAttack: 4
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4567
+cityguard guard~
+the cityguard~
+The Minos Cityguard is here, guarding the gate.
+~
+A big, strong, helpful, trustworthy guard.
+~
+6219 0 1000 E
+10 10 1 1d12+123 1d8+5
+500 9000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4568
+green gelatinous blob~
+the green gelatinous blob~
+An oozing green gelatinous blob is here, sucking in bits of debris.
+~
+A horrid looking thing; it is huge, greenish, and looks like the blob.
+~
+256217 8 0 E
+20 0 0 1d11+325 3d6+5
+1000 40000
+8 8 0 1
+BareHandAttack: 6
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4569
+judge~
+the Judge~
+The Judge seems to be walking round like a mad man!
+~
+   This is one of the judges of Minos.  However looking at him he doesn't look
+like he is in any state to be passing sentance on criminals.  In fact he looks
+quite insane.    
+~
+10328 1024 340 E
+50 -10 -2 2d100+6402 14d30+40
+4000 250000
+8 8 1 2
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4570
+stable master~
+the stable master~
+The stable master stands here waiting for you to by something.
+~
+   The stable master is a stern and butch bloke who seems to be able to handle
+the animals.    
+~
+253962 1024 500 E
+10 0 10 1d1+20000 30d120+30
+50000 1000
+8 8 1 5
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4571
+stallion horse~
+a Large Stallion~
+A Large Stallion stands tall here.
+~
+   The Stallion is tall and looks powerfull.    
+~
+540682 67109888 400 E
+30 14 5 1d1+250 5d10+15
+0 300000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4572
+Devil Dog Evil~
+the Devil's Dog~
+The Devil's Dog Is Fighting All That Is Good
+~
+I really hope you aint good or you might be dead very soon.  Those teeth have an
+unholy glint to them you wonder if it was wise to have bought this this fiend.
+~
+770568 92282880 -999 E
+50 -5 -3 1d50+500 5d12+20
+0 50000
+8 8 0 1
+BareHandAttack: 8
+E
+#4573
+camel~
+a tall camel~
+A Tall domestic Camel stands here.
+~
+The Camel looks very tall, but friendly.
+~
+614410 1024 400 E
+40 0 3 1d1+1000 10d5+10
+1 10000
+8 8 2 1
+E
+#4574
+bill clinton~
+Randy Bill Clinton~
+Randy Bill Clinton stands here looking all embarased!
+~
+   Bill Clinton, The American President, looks all embarased, he seems to be
+putting himself away. Looking at him makes you want to laugh and the poor
+excuse of a man. Someone who stands for everything america is is just a dirty
+old man!  
+~
+200 1024 -299 E
+20 0 10 10d2+500 20d1+30
+20 1000
+8 8 1 1
+BareHandAttack: 2
+E
+#4575
+monica lewinsky intern~
+Monica Lewinsky~
+Monica Lewinsky stands here in her stained dress, waiting for a cigar.
+~
+She might only be mildly pretty, but you sense that she's got it
+where it counts, especially when you see the stains on her navy blue 
+dress. She has on a very short skirt and an equally skimpy shirt, 
+revealing cigar stains on her legs and little bite marks on her upper 
+body. She might be a slut, but at least she's prettier than Hillary,
+even with the big "Pity me!" poster plastered over her forehead. 
+~
+524296 0 0 E
+15 10 0 1d1+400 2d10+10
+0 900
+8 8 2 1
+BareHandAttack: 4
+E
+#4588
+witchunter guildmaster master~
+the Witchunters Guildmaster~
+The Witchunters Guildmaster stands before you.
+~
+The Mighty and Ancient Witch Hunters Guildmaster Stands before you, his bright
+eyes betray nothing, but he has a kindly face, he is here to help you, but be
+warned he does not suffer fools gladly, so tread very carfully in his presence,
+for he is a good and powerful allie but a mighty and brutal enemy.    
+
+~
+253978 0 200 E
+50 -100 -20 30d100+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4589
+pet shop boy~
+the Pet Shop Boy~
+There is a Pet Shop Boy standing here cuddleing something furry in his hands.
+~
+As you look at him, he opens his hands to reveal a rat!
+~
+26634 0 1000 E
+10 10 1 1d1+30000 20d4+10
+500 9000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4590
+kitten~
+the kitten~
+A small loyal kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+16398 0 0 E
+1 20 9 1d6+11 1d4+0
+0 250
+8 8 0 1
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4591
+puppy~
+the puppy~
+A small loyal puppy is here.
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+16398 0 0 E
+1 20 9 1d6+13 1d4+0
+0 500
+8 8 0 1
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4592
+beagle~
+the beagle~
+A small, quick, loyal beagle is here.
+~
+The beagle looks like a fierce fighter.
+~
+16398 0 0 E
+2 19 8 1d12+22 1d6+0
+0 1000
+8 8 0 1
+BareHandAttack: 4
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4593
+rottweiler~
+the rottweiler~
+A large, loyal rottweiler is here.
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+16398 0 0 E
+3 18 7 1d12+35 1d7+0
+0 2500
+8 8 0 1
+BareHandAttack: 4
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4594
+wolf~
+the wolf~
+A large, trained wolf is here.
+~
+The wolf looks like a strong, fearless fighter.
+~
+16398 0 0 E
+4 17 6 1d12+47 1d8+0
+0 5000
+8 8 0 1
+BareHandAttack: 4
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4595
+cryogenicist cryo~
+the cryogenicist~
+The cryogenicist is here, playing with a canister of liquid nitrogen.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+26635 32808 900 E
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4596
+newbie guide~
+the Newbie Guide~
+The Newbie Guide is here waiting for newbies.
+~
+The Newbie guide looks like quite a helpful person.
+She stands there beaming smiles to all the people who pass.
+How Nice!
+
+~
+253963 66720 1000 E
+113 -30 -20 20d1000+5000 30d120+50
+200 1
+8 8 2 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#4597
+guard witch hunter witchunter~
+the Witchunters Guard~
+The Witchunters guard stands here towering above you.
+~
+The mighty Guard for the Witch hunters stands here ready to give his live to
+protect his masters.  He is 7 ft tall and as wide as a horse mess with him at
+you peril.....    
+
+~
+258058 70824 200 E
+50 -100 -20 30d100+10000 30d127+120
+1 1
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+$

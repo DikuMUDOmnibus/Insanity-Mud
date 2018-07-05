@@ -1,0 +1,139 @@
+#19001
+Elf Guardian Elven~
+the Elven guardian~
+An Elven Guardian is standing here guarding the portal.
+~
+This is a robust built elf in his best years and as far as you can tell.
+~
+10 8 1000 E
+19 2 -1 3d6+240 3d5+6
+1000 35000
+8 8 1 1
+E
+#19002
+Elf Soldier guard elven~
+the Elven soldier~
+An Elven Soldier is standing here guarding the path.
+~
+This is an elf in his youth, sent by the chief of the village guards, 
+to guard the path from any intruder not wanted here.
+~
+10 8 1000 E
+10 10 2 1d12+123 1d8+3
+654 9000
+8 8 1 1
+E
+#19003
+Elf Soldier guard elven~
+the Elven guard~
+An Elven Guard is walking around, protecting the villagers.
+~
+This is an elf in her youth, sent by the chief of the village guards, 
+to guard the village from unwanted intruders.
+~
+8 8 1000 E
+10 10 2 1d12+123 1d8+3
+654 9000
+8 8 2 1
+E
+#19004
+Elf weaponsmith smith elven~
+the Elven weaponsmith~
+A Large Elven weaponsmith is walking behind the counter.
+~
+You notice a tired look on his face.
+~
+10 0 900 E
+23 2 2 6d10+390 1d8+12
+10000 80000
+8 8 1 1
+E
+#19005
+Elf armoursmith smith elven~
+the Elven armoursmith~
+A Large Elven armoursmith is walking around behind the counter.
+~
+You notice a tired look on his face.
+~
+10 0 900 E
+23 2 2 6d10+390 1d8+12
+10000 80000
+8 8 1 1
+E
+#19006
+Elf mage elven~
+the Elven mage~
+A Tiny Elven mage is floating behind the counter.
+~
+You notice a tired look on his face.
+~
+10 0 900 E
+23 2 2 6d10+390 1d8+12
+10000 80000
+8 8 1 1
+E
+#19007
+Elf Quintor grocer~
+the Elf named Quintor~
+An Elf named Quintor is here counting money behind the counter.
+~
+You notice a tired look on his face.
+~
+10 0 900 E
+23 2 2 6d10+390 1d8+12
+10000 80000
+8 8 1 1
+E
+#19008
+elf bartender elven~
+the Elven bartender~
+A fat Elf is standing behind the bar taking orders.
+~
+You notice a tired look on his face.
+~
+10 0 900 E
+23 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1 1
+E
+#19009
+elf receptionist elven~
+the Elven receptionist~
+A nice-looking Elf is standing in the reception.
+~
+You notice a tired look on her face.
+~
+11 0 900 E
+23 2 2 6d10+390 1d8+12
+2000 80000
+8 8 2 1
+E
+#19010
+elf chief elven guard~
+the Chief of the elven guard.~
+A lazy-looking Elf lies on his bed snoring loudly.
+~
+This elf looks somehow more experienced than any guard in the village guard.
+By the look of the uniform he is probably the chief of the village guard.
+You notice some scars on the hands and one on the neck of the elf. He has
+obviously been in battle in his days.
+~
+8 136 1000 E
+25 0 -4 1d50+500 4d6+8
+500 130000
+4 4 1 1
+E
+#19011
+Elf Soldier guard elven~
+the Elven guard~
+An Elven Guard is playing cards at the table.
+~
+This is an elf in his youth, sent by the chief of the village guards, 
+to guard the path from any intruder not wanted here.
+~
+10 8 1000 E
+10 10 2 1d12+123 1d8+3
+654 9000
+6 6 1 1
+E
+$

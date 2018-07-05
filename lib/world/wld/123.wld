@@ -1,0 +1,959 @@
+#12300
+A Dirt Road~
+You are standing at the beginning of a dirt road which heads north-south as
+far as the eye can see...off in the distance to the north, you catch 
+glimpses of eerie blue flashes of light. In front of you, the sky burns
+with fiery words. Maybe you should look at them.
+~
+123 32768 2
+D0
+~
+~
+0 0 12301
+D1
+~
+~
+0 0 9059
+D5
+~
+~
+0 0 12341
+E
+sky words~
+WARNING! This zone is extremely tough and is meant to be tackled by a group
+of adventurers rather than a single character. There are mobs here that 
+aren't meant to be killed by ANYONE, let alone a lone character.
+There are also several deathtraps. Use your eyes and things should be apparent
+Don't go whining to a god if you hit 'em.
+Oh...and have fun. =)
+
+V O R P A L B U N N Y
+~
+S
+#12301
+The Dirt Road~
+This Dirt road leads north-south. To the north, you see startling streaks of
+blue lightning which illuminate the sky eerily. To the south, the road leads
+back to much friendlier-looking land...
+~
+123 32768 2
+D0
+~
+~
+0 0 12302
+D2
+~
+~
+0 0 12300
+S
+#12302
+Close To The Dark Pyramid~
+As you travel down the dirt road, you begin to see a huge pyramid far off to
+the north. Blue lightning streaks from the clouds above its summit, hitting 
+the pyramid about two-thirds of the way up in the middle, where a large 
+lidless eye has been painted.
+The way south looks much safer, and the more you think about it, the less it
+seems like it would be wise to continue northward
+~
+123 32768 0
+D0
+~
+~
+0 0 12303
+D2
+~
+~
+0 0 12301
+S
+#12303
+In Front of the Dark Pyramid~
+You are standing in front of a giant black pyramid. It must be hundreds of
+feet high, and at least a mile across at the base. The pyramid is made of
+what appears to be obsidian, although when you touch it, it hums in a most
+unsettling way...
+From here, you can go north, to the entrance of the pyramid, south, back the
+way you came, or you could begin climbing up the pyramid.
+~
+123 32768 0
+D0
+~
+~
+0 0 12308
+D2
+~
+~
+0 0 12302
+D4
+~
+~
+0 0 12304
+S
+#12304
+Climbing up the Dark Pyramid~
+The pyramid gets steeper and steeper as you climb up it until you cannot go
+any further up without risking a fall, and possibly serious injury. Above you
+the eye in the pyramid continues to be struck by lightning again and again.
+You can go either east or west from here, along the face of the pyramid, or
+you could wimp out, and go back down the way you came...
+~
+123 32768 0
+D1
+~
+~
+0 0 12328
+D3
+~
+~
+0 0 12305
+D5
+~
+~
+0 0 12303
+S
+#12305
+On The Side of The Dark Pyramid~
+All around you, the pyramid is too steep to get a safe foothold on. You're
+stuck! Hopefully, someone will find you and save you, but you could be here
+until you starve.
+~
+123 32768 0
+D0
+~
+Secret~
+1 0 12306
+S
+#12306
+A Secret Passage~
+This passage is extremely narrow, and you have to crawl on your elbows and knees
+in order to fit into it.  All around you, the temple hums in a most disturbing
+way...  The passage opens up onto a narrow ledge to the south, and continues
+west, into darkness...    
+~
+123 32800 0
+D1
+~
+~
+0 0 12307
+D2
+~
+secret~
+1 0 12305
+S
+#12307
+The Secret Passage~
+The secret passage widens out here into a small, stuffy room. The air is very
+stale, but it's still nice to be able to stand and breathe normally. As you
+look around, you can see that people have scratched out messages all along the
+walls of the room...you are not the first person who has been here...
+~
+123 32800 0
+D1
+~
+~
+0 0 12311
+D3
+~
+~
+0 0 12306
+E
+Messages~
+There are many messages to read...most are pleas for help...some are slightly
+more interesting. In particular, there are many that look like this:
+HAIL ERIS! ALL HAIL DISCORDIA!
+
+One person has taken it upon himself to mark up the walls with philosophical
+scribblings. "There Is No Ruler Anywhere" and "I Believe In Everything, 
+Nothing Is Sacred, I Believe In Nothing, Everything Is Sacred" are repeated
+over and over again. At the end, the person has written:
+NEVER WHISTLE WHILE YOU'RE PISSING - H.C.
+~
+S
+#12308
+The Entrance To The Dark Pyramid~
+In Front of you is a huge double doorway at least 20 feet high and a hundred
+feet wide. The doors are made of the same black stone as the rest of the
+pyramid, but are carved with graphic depictions of gory deaths. Just looking
+at them almost makes you throw up. 
+~
+123 32768 0
+D0
+~
+doors~
+2 12302 12309
+D2
+~
+~
+0 0 12303
+S
+#12309
+The Main Hall~
+This room is enormous. About half a mile in front of you, you can make out
+a gigantic altar. There seems to be some sort of struggle going on, but you
+can't make out what exactly is going on. To the east and west, corridors 
+branch out, taking you into the nether regions of the pyramid. A large spiral
+staircase can take you up, to the heights of the pyramid, or down to its
+deepest depths.
+~
+123 32800 0
+D0
+~
+~
+0 0 12310
+D1
+~
+~
+0 0 12313
+D2
+~
+doors~
+2 12302 12308
+D3
+~
+~
+0 0 12315
+D4
+~
+~
+0 0 12314
+S
+#12310
+The Altar~
+You are standing in front of a huge altar. Unpleasant reddish-brown stains
+cover it, hinting at some of the unspeakable rites conducted upon it. In front
+of the altar is a towering black flame. There are signs of a struggle here.
+~
+123 32928 0
+D2
+~
+~
+0 0 12309
+S
+#12311
+In The Secret Passage~
+This is a secret passage. It is incredibly narrow, and the cieling is 
+extremely low. How you manage to squeeze through it at all amazes you. 
+To the west, the secret passage continues. To the north, you notice what 
+appears to be the see-through side of a one-way mirror.
+~
+123 32800 0
+D0
+~
+mirror~
+1 0 12312
+D3
+~
+~
+0 0 12307
+S
+#12312
+The Room Of Mirrors~
+The walls, ceiling, and floor of this room are all mirrors!The effect is
+bewildering! You blink, and lose sight of the door from which you came in.
+You have to get out of here soon, before you go insane!
+~
+123 32800 0
+D1
+~
+mirror~
+1 0 12314
+D2
+~
+secret~
+1 0 12311
+S
+#12313
+A Corridor~
+This corridor runs in an east-west direction. To the north is large metal door
+From all around you, you can hear the pyramid humming ominously. You wish the
+humming would stop...it's driving you nuts!
+~
+123 32800 0
+D0
+~
+door~
+1 0 12312
+D3
+~
+~
+0 0 12309
+S
+#12314
+The Spiralling Stairs~
+You are standing on a spiral staircase. Far below you is the main hall of the
+pyramid. Upwards, the staircase ascends into ominous darkness. All around you
+the pyramid hums likes a maddened swarm of bees. To your north and south are
+doorways that lead into other parts of the pyramid.
+~
+123 32768 0
+D2
+~
+~
+0 0 12320
+D5
+~
+~
+0 0 12309
+S
+#12315
+A Corridor~
+You are standing in a corridor that stretches in an east-west direction. 
+To the south, you notice a small wooden door. The pyramid WON'T STOP HUMMING!
+The sound is slowly driving you UP THE WALL!
+~
+123 32800 0
+D1
+~
+~
+0 0 12309
+D2
+~
+door~
+1 0 12316
+S
+#12316
+The Flooded Room~
+This room is filled to the brim with water! Strangely enough, even when the
+door is open, no water spills out. Some sort of powerful magic must be 
+holding it where it is.
+ Far up above you, there is an opening that you can swim to.
+~
+123 32800 8
+D0
+~
+door~
+1 0 12315
+D4
+~
+~
+0 0 12317
+S
+#12317
+The Well Of Stars~
+You are in a pentagonal room. The floor covered with astrological symbols
+of dark and mysterious portent. In the middle of a room is a well made of
+obsidian. To the east, the wall of the room has been blasted out, and through
+the hole in it, you can see a swirling void of color and sound. Something 
+tells you that it would be an EXTREMELY BAD IDEA to step into it.
+~
+123 32800 0
+D1
+~
+~
+0 0 12318
+D3
+~
+hidden~
+1 0 12319
+D4
+A large well maybe you could fit through it
+~
+well~
+2 0 12334
+D5
+~
+~
+0 0 12316
+S
+#12318
+The Eldritch Chaos~
+You catch one startling glimpse of the entire enormity of the universe before
+you are rended limb from limb by the currents of chaos that inhabit this 
+vortex. Strangely enough, although you feel extruciating pain, you do not die.
+Suddenly, your soul is snapped from your body and devoured by an Elder God, 
+condemning you to an eternity of hell.
+THEN you die.
+~
+123 32770 0
+S
+#12319
+The Silent Room~
+This room is silent. Really really silent. Even the normal humming of the 
+pyramid is gone. You feel at peace....
+~
+123 32772 0
+D0
+~
+~
+0 0 12320
+D1
+~
+hidden~
+1 0 12317
+S
+#12320
+The Bright Room~
+This room is BRIGHT! Perhaps that's because of the tiny sun that floats in
+the centre. This room must have some powerful magic in it! Strangely, although
+the sun is hot, it's not giving off as much heat as you might expect. From 
+here you can go north, back to the staircase or south, into an empty room...
+as you look at the sun, you feel it pull you towards it, and as you move 
+closer, you feel yourself getting smaller, until you're smaller than the sun
+itself. Upon careful consideration, you decide that you could break the 
+field that is pulling you towards the sun, or you COULD actually go into it.
+~
+123 32768 0
+D0
+~
+~
+0 0 12314
+D2
+~
+~
+0 0 12319
+D5
+~
+~
+0 0 12321
+S
+#12321
+On The Sun~
+Wow! So this is what the surface of the sun looks like! Pretty boring! Hot, 
+but boring. From here you can travel in any direction. Goin up will take
+you off the sun, and back into the bright room. East, west, north and south
+will take you along the surface of the sun, and down will take you into the
+hottest part of the sun (which isn't all that hot).
+~
+123 32768 0
+D0
+~
+~
+0 0 12321
+D1
+~
+~
+0 0 12321
+D2
+~
+~
+0 0 12321
+D3
+~
+~
+0 0 12323
+D4
+~
+~
+0 0 12320
+D5
+~
+~
+0 0 12322
+S
+#12322
+The Hottest Part of the Sun~
+This is the hottest part of the sun. It look like a forge has been set up 
+here to take advantage of the sun's heat. Little fire demons scurry to and
+fro, picking up pieces of metal and depositing them in a large oven. From here
+you can go back up to the rest of the sun.
+~
+123 32768 0
+D4
+~
+~
+0 0 12321
+S
+#12323
+On The Sun~
+Boy, the surface of the sun is just about the most boring thing you've ever
+seen. Boring and hot. But what's this? Something less boring, a patch of
+blackness on the otherwise red surface of the sun, lies to your north!
+~
+123 32768 0
+D0
+~
+~
+0 0 12324
+D1
+~
+~
+0 0 12321
+D2
+~
+~
+0 0 12321
+D3
+~
+~
+0 0 12321
+D4
+~
+~
+0 0 12320
+S
+#12324
+The Coolest Part of the Sun~
+Brrrr....it's positively chilly here! The flames from the sun have been 
+quenched, leaving only a large black area. In the centre of this area is
+a mysterious-looking well...
+~
+123 32768 0
+D2
+~
+~
+0 0 12321
+D5
+~
+well~
+1 0 12326
+S
+#12325
+The Room at the Top of the Pyramid~
+This room is extremely cramped, and the fact that the walls slope inwards
+don't help any. In the middle of the room is a mysterious-looking well.
+~
+123 32800 0
+D4
+~
+capstone cap stone~
+1 0 12327
+D5
+~
+well~
+1 0 12326
+S
+#12326
+Into the Well~
+You climb down into the well and lower yourself into the cold black water.
+As you submerge, you notice that there is a point of light at the OTHER end
+of the well! This must be a tunnel!
+~
+123 32800 8
+D4
+~
+well~
+1 0 12325
+D5
+~
+well~
+1 0 12324
+S
+#12327
+The Summit Of The Pyramid~
+From here, you can see miles around, the view is spectacular! Looking 
+downwards, your stomach churns...it's a VERY long way down....
+~
+123 32768 0
+D5
+~
+capstone cap stone~
+1 0 12325
+S
+#12328
+On the Side of the Dark Pyramid~
+You are standing on the side of the Dark Pyramid. Handholds above you make
+it possible to continue upwards, and a ledge to your west makes it possible
+to go that way as well. You could also try sliding down the pyramid, but that
+seems like a REALLY REALLY BAD IDEA.
+~
+123 32768 0
+D3
+~
+~
+0 0 12304
+D4
+~
+~
+0 0 12330
+D5
+~
+~
+0 0 12329
+S
+#12329
+Sliding down the Pyramid to your DEATH!~
+WHHHHH
+      EEEEE
+           EEEEEEE
+                 EEEEEEE
+                       EEEEEE
+                             *thud*
+                *crash*
+                                    *tinkle*
+    *crunch*
+                           *boing*
+             *moooooo*
+                          *SPLAT*
+
+Wow! That was fun! It's a shame that you're too DEAD to appreciate it.
+~
+123 32770 0
+S
+#12330
+Near the Eye~
+The wind howls here like a demon from the lowest pit of hell. Lightning 
+strikes all around you, singing your clothes and setting your hair on end.
+The smell of ozone is pervasive. To the west you see the great eye of the 
+Pyramid being hit over and over again by lightning...it might just be your
+imagination, but you think you see the eye blink...
+Going back down the way you came is seeming like a better and better idea.
+Or you could go west, into the chaos...
+~
+123 32768 0
+D3
+~
+~
+0 0 12331
+D5
+~
+~
+0 0 12328
+S
+#12331
+THE EYE!~
+The noise here is deafening and the light is blinding. Standing in front of
+the eye, you can see it pulsate and open and close. Somewhere in the back of
+your mind, a little voice screams for you to run away. The lightning streaks
+around you and hits the eye. Every time it does so, the eye glows a little
+brighter than it did before....
+~
+123 32768 0
+D0
+~
+wall~
+2 12315 12333
+D1
+~
+~
+0 0 12330
+D3
+~
+~
+0 0 12332
+S
+#12332
+Near the Eye~
+The wind howls here like a demon from the lowest pit of hell. Lightning 
+strikes all around you, singing your clothes and setting your hair on end.
+The smell of ozone is pervasive. To the east you see the great eye of the 
+Pyramid being hit over and over again by lightning...it might just be your
+imagination, but you think you see the eye blink...
+You feel a sudden urge to climb upwards, away from the eye.
+Or you could go east, into the chaos...
+~
+123 32768 0
+D1
+~
+~
+0 0 12331
+S
+#12333
+Behind the Eye~
+You are standing in a small stone room. There isn't any sort of furnishing
+whatsoever. You feel at peace here.
+~
+123 295092 0
+D2
+~
+wall~
+2 12315 12331
+S
+#12334
+The Elysian Fields~
+You are standing in the middle of miles and miles of empty, peaceful fields.
+The sun shines brightly, and a light breeze blows across the tops of the 
+tall grass. You feel like you could spend your entire life here.
+Close to where you stand, there is a well. A dirt track runs north and 
+south through the fields.
+~
+123 32768 2
+D0
+~
+~
+0 0 12335
+D5
+~
+well~
+1 0 12317
+S
+#12335
+On the Dirt Road~
+After walking for several hours along the peaceful dirt road, you find 
+yourself wondering if you're ever going to get anywhere...suddenly, on the
+horizon, you see a modest temple of some sort. Multicolored smoke rises from
+it, making a stark contrast with the cerulean sky. You can continue on towards
+the temple to the north, or you could go back south to the well.
+~
+123 32788 2
+D0
+~
+~
+0 0 12336
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 12334
+S
+#12336
+In Front Of The Temple~
+You are standing outside a modestly outfitted temple. Two torches give off
+trails of multicolored smoke that rise far into the sky. From here you can
+go south to a dirt road, or north into the temple. 
+Your gaze is drawn to a small plaque set above the doorway of the temple.
+Perhaps you should take a look at it
+~
+123 32768 0
+D0
+~
+~
+0 0 12337
+D2
+~
+~
+0 0 12335
+E
+plaque~
+HAIL ERIS! ALL HAIL DISCORDIA!
+~
+S
+#12337
+Inside the Temple of Eris~
+You are standing in a small, modestly furnished room. A small fire burns in
+the centre, giving off a sweet-smelling smoke. The walls are painted in bright
+colors that are arranged in swirly patterns. There is a wooden door to the 
+east.
+~
+123 32768 0
+D1
+~
+door~
+1 0 12339
+D2
+~
+~
+0 0 12336
+S
+#12338
+Land Ho!~
+To the north you see a small beach below some towering cliffs. To the south 
+lies more ocean.
+~
+123 32768 6
+D0
+~
+~
+0 0 12340
+D2
+~
+~
+0 0 12342
+S
+#12339
+The Swirly Room~
+The colors that this room is painted with make your head spin around and 
+around and around and around and around.....
+~
+123 32776 0
+D3
+~
+door~
+1 0 12337
+S
+#12340
+On The Beach~
+This is a small beach which consists of coarse, pebbly sand. To the south, the
+ocean glitters majestically. A rough stone stairway has been cut into the 
+cliffs above you. Your hair stands on end in anticipation of what may await
+you at the top of the cliff...
+~
+123 32768 2
+D2
+~
+~
+0 0 12338
+D4
+~
+~
+0 0 12341
+S
+#12341
+On the Cliff Stairway~
+From this point on the long stairway which has been cut into the cliff, you can
+see far out to sea.  The sea air blows through your hair and you reflect...  
+On what a long long long long way it is from here to the ground.  Maybe you
+should just keep climbing.    
+~
+123 32768 0
+D4
+~
+~
+0 0 12300
+D5
+~
+~
+0 0 12340
+S
+#12342
+A Weak Northern Current~
+A current here carries you north at a leisurely pace. The water seems to be
+getting shallower.
+~
+123 32768 6
+D0
+~
+~
+0 0 12338
+D2
+~
+~
+0 0 12343
+D3
+~
+~
+0 0 12343
+S
+#12343
+Floating in the Middle of the Ocean~
+You are floating in the middle of the ocean. A weak northern current
+threatens to carry you away to Lord knows where.
+~
+123 32768 6
+D0
+~
+~
+0 0 12342
+D1
+~
+~
+0 0 12344
+D2
+~
+~
+0 0 12344
+D3
+~
+~
+0 0 12344
+S
+#12344
+Floating in the Middle of the Ocean~
+Water water everywhere and all the boards did shrink
+Water water everywhere, nor any drop to drink...
+~
+123 32768 6
+D0
+~
+~
+0 0 12344
+D1
+~
+~
+0 0 12344
+D2
+~
+~
+0 0 12344
+D3
+~
+~
+0 0 12343
+S
+#12350
+Entrance to Monkey Mountain~
+You find that the path you are on comes to a thick tropical jungle situated on
+a seemingly small mountain.  Deep within the jungle you hear hooting,
+hollering, and screaming.  These voices do not quite sound human.  The air
+is suddenly more humid.  It is hot and sticky.  The smell in the air is very
+florid, teeming with the life all around you.  A root strewn path is directly
+ahead of you to the south, webbed with vines and undergrowth.
+It climbs sharply uphill to the south.
+~
+123 0 3
+D2
+It seems that you are able to make your way through the vines and undergrowth.
+~
+~
+0 0 12351
+S
+#12351
+A small clearing on a small plateau along the trail.~
+You are standing on a small plateau in a very thick jungle.
+The monsterous trees, with their thick trunks, vault gracefully
+into the sky, creating a dense canopy above.  The jungle is suddenly
+silent.
+~
+123 0 3
+D0
+The trail goes to the north, steeply down the mountain.
+~
+~
+0 0 12350
+S
+#12355
+Swimming in a Deep Blue Pool of Water~
+*SPLOOSH* After diving into the cool deep blue water,you find that this
+is a very pleasant place to go for a nice swim.  You body quickly adjusts
+to the water's temprature.  You find that the valley has an exotic tropical
+feel to it.
+~
+123 0 6
+D5
+Diving under the water.
+~
+~
+0 0 12356
+E
+vines~
+There are vines hanging from the trees, perfect for climbing and swinging.
+And that's exactly what the monkey are doing!
+~
+E
+birds~
+The birds seems to chatter and sing without pause.  Their beautiful colors light
+up the surrounding valley.
+~
+E
+trees~
+The trees above you sway lightly in a warm breeze.
+Within the canopy, you hear soft hooting sounds of playful monkeys.
+~
+E
+waterfall~
+The waterfall seems to provide a hypnotic symphony, drawing you into a trance.
+~
+E
+up~
+High above you, there is a canopy of trees.  You can barely make out
+the sky above it.
+~
+S
+#12356
+In the middle of the Deep Blue Pool, half-way to the bottom.~
+You are now half-way to the bottom of the Deep Blue Pool.  You can feel a strong
+current drawing to the north.  Below you, you can see the bottom of the pool.
+~
+123 0 0
+D0
+Being pulled along by the underwater current.
+~
+~
+0 0 12357
+E
+north current~
+You can definately feel the beginnings of a current here.  A little
+bit further, and it might be impossible to return.
+You feel as though you are being sucked in!
+~
+E
+below down bottom~
+The bottom of the pool looks much more quiet, serene, and dangerously calm.
+You feel like you can make the swim.  You're not out of breath...yet.
+~
+S
+#12357
+Being pulled along by the underwater currents.~
+Suddenly, without warning, you merely give up the struggle with the
+current and are washed downstream.
+~
+123 257 0
+S
+#12395
+Raven's House~
+Raven's House
+~
+123 520 0
+S
+$~

@@ -1,0 +1,39 @@
+#7400
+insane guardian~
+The Insane Guardian~
+The Insane Guardian stands here, picking her nose.
+~
+Are you sure you want to fight me?
+~
+24602 1192 100 E
+102 -80 -20 1d1+30000 30d25+100
+6500 150000
+8 8 2 5
+BareHandAttack: 12
+E
+#7401
+monkey~
+A killer monkey~
+A killer monkey screams and attacks!
+~
+Don't mess with these suckers.
+~
+28730 1192 -500 E
+80 -100 10 1d1+2000 30d30+120
+1000 500000
+8 8 0 6
+BareHandAttack: 4
+E
+#7499
+steve camel~
+Steve the Purple Camel~
+Steve the Purple Camel stands by his master.
+~
+It looks unfinished.
+~
+8 0 0 E
+102 -100 10 1d1+30000 1d1+120
+0 0
+8 8 0 10
+E
+$

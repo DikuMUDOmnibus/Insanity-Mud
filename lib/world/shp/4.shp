@@ -1,0 +1,52 @@
+CircleMUD v3.0 Shop File~
+#404~
+405
+406
+404
+408
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s Cool , thanks~
+0
+0
+407
+0
+404
+-1
+0
+28
+0
+0
+#414~
+403
+404
+-1
+2.50
+1.00
+-1
+%s Go Away, I don't sell that!~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s The only credit we give is death!~
+%s thanks!~
+%s I'll give you %d coins for that.~
+0
+0
+406
+5
+414
+-1
+0
+28
+0
+0
+$~

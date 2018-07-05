@@ -1,0 +1,279 @@
+#4300
+Road to The Jelly Bean Palace~
+   You are standing on a long road. You move your feet around but the ground
+seems kinda sticky. You reaches down to touch the road and it is candy! 
+MmmmMMMM you want to take a bite out of it but just as you do it turns to dirt!
+To the north you see a golden gate.  
+~
+43 0 10
+D0
+~
+~
+0 0 4301
+S
+#4301
+Before the Jelly Bean Palace~
+   You are standing before an Enormous golden gate! As you look through the
+bars you see small,colorful objects running around franticly.  
+~
+43 0 10
+D0
+~
+Gate Golden~
+1 0 4302
+D2
+~
+~
+0 0 4300
+S
+#4302
+Entrance to the Jelly Bean palace~
+   You are standing in the entrance to the Jelly Bean Palace. Looking around
+you see walls made of hard candy and poles made of candy canes! On one of the
+walls you see a sign that reads "Welcome to Jelly Bean Palace. Please don't
+eat any part of the palace. Signed King Bean"
+~
+43 0 0
+D0
+~
+~
+0 0 4303
+D2
+~
+Gate Golden~
+1 0 4301
+S
+#4303
+A long hall~
+   You are in a long hallway. To the north you see lights. On the right and
+left of you are sets of stairs leading to the next floor. The floor is covered
+by a long red carpet made of licorice. The tall pillars holding the building
+up seem to be made of candy canes!  
+~
+43 0 0
+D0
+~
+~
+0 0 4306
+D2
+~
+~
+0 0 4302
+D4
+~
+~
+0 0 4304
+S
+#4304
+The Second Floor of the palace~
+   You are on the second floor of the palace. Marble tiles make up the floor
+here. You see many small colorful people running around.  
+~
+43 0 0
+D0
+~
+~
+0 0 4310
+D1
+~
+~
+0 0 4308
+D3
+~
+~
+0 0 4309
+D5
+~
+~
+0 0 4303
+S
+#4305
+In the King's Throne Room~
+   You are in King Bean's Throne room. There are guards on both sides of the
+golden throne and there in the middle sits King Bean himself! He is sitting
+there watching you closely and the guards have there swords at hand.  
+~
+43 0 0
+D2
+~
+~
+0 0 4306
+D4
+~
+~
+0 0 4311
+S
+#4306
+Nearing the end of the hall~
+   You are nearing the end of the long hall and the lights seem to be getting
+brighter. You can hear laughter and other noises coming from the north. You
+feel the strange urge to dance.  
+~
+43 0 0
+D0
+~
+~
+0 0 4305
+D2
+~
+~
+0 0 4303
+S
+#4308
+On the Second Floor of the Palace~
+   You are on the second floor of the palace. Marble tiles make up the
+floorhere. You see many small colorful people running around.  
+~
+43 0 0
+D0
+~
+~
+0 0 4312
+D3
+~
+~
+0 0 4304
+S
+#4309
+On the second floor of the palace~
+   You are on the second floor of the palace. Marble tiles make up the
+floorhere. You see many small colorful people running around.  
+~
+43 0 0
+D0
+~
+~
+0 0 4313
+D1
+~
+~
+0 0 4304
+S
+#4310
+The second floor of the palace~
+You are on the second floor of the palace. Marble tiles make up the floor here. You see many small colorful people running around.  
+~
+43 0 0
+D0
+~
+~
+0 0 4311
+D1
+~
+~
+0 0 4312
+D2
+~
+~
+0 0 4304
+D3
+~
+~
+0 0 4313
+S
+#4311
+Above the King's Throne room~
+   You are in the room directly above King Bean's Throne room. The guards look
+up at you coyly. Mabey you really should stay out of there. You don't want to
+start anything with the King.  
+~
+43 0 0
+D1
+~
+~
+0 0 4314
+D2
+~
+~
+0 0 4310
+D3
+~
+~
+0 0 4315
+D5
+~
+~
+0 0 4305
+S
+#4312
+On the second Floor of the palace~
+   You are on the second floor of the palace. Marble tiles make up the
+floorhere. You see many small colorful people running around.  
+~
+43 0 0
+D2
+~
+~
+0 0 4308
+D3
+~
+~
+0 0 4310
+S
+#4313
+On the second floor of the palace~
+   You are on the second floor of the palace. Marble tiles make up the
+floorhere. You see many small colorful people running around.  
+~
+43 0 0
+D0
+~
+~
+0 0 4315
+D1
+~
+~
+0 0 4310
+D2
+~
+~
+0 0 4309
+S
+#4314
+On the second Floor of the palace~
+   An Unfinished Room You are in the Biggest room in the palace. Table line
+the walls and a great ball hangs in the middle of the room. You see people
+dancing. But are they people?  
+~
+43 0 0
+D2
+~
+~
+0 0 4312
+D3
+~
+~
+0 0 4311
+S
+#4315
+On the second floor of the palace~
+   You are on the second floor of the palace. Marble tiles make up the floor
+here. You see many small colorful people running around.  
+~
+43 0 0
+D1
+~
+~
+0 0 4311
+D2
+~
+~
+0 0 4313
+S
+#4316
+An Unfinished room~
+An Unfinished Room
+~
+43 0 0
+D0
+~
+~
+0 0 4315
+S
+#4317
+An Unfinished room~
+An Unfinished Room
+~
+43 0 0
+S
+$~

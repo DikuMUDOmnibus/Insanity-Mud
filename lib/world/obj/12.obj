@@ -1,0 +1,314 @@
+#1200
+condom~
+a Condom~
+An used condom sits here waiting for a stiffy.~
+~
+11 66055 17
+0 0 0 0
+1 5 0 0 0
+#1201
+tlion colour color chart~
+Tlion's Colour Chart~
+Tlion's Colour Chart is floating here...~
+~
+13 1114240 0
+0 0 0 0
+0 0 0 0 0
+E
+tlion colour color chart~
+Tlion's Colour Chart
+====================
+Format: \ c AB (without spaces!)
+
+    _________B___________
+  _|_0_1_2_3_4_5_6_7_8_9_|
+ |0| \c00X \c01X \c02X \c03X \c04X \c05X \c06X \c07X \c08X \c09X \c00|
+A|1| \c10X \c11X \c12X \c13X \c14X \c15X \c16X \c17X \c18X \c19X \c00|
+
+\c01 ===[ALWAYS FINISH with c00!!!]===\c00
+
+
+~
+#1202
+rose~
+a red Rose~
+A red rose grows here...~
+Quest item 1.
+~
+12 4194337 1
+0 0 0 0
+0 0 1 0 0
+#1203
+rose~
+a white rose~
+A white rose grows here~
+quest item 2
+~
+12 65 1
+0 0 0 0
+0 0 0 0 0
+#1204
+rose~
+a black rose~
+A black rose grows here~
+quest item 3
+~
+5 0 1
+0 0 0 0
+0 0 0 0 0
+#1205
+rose~
+a blue rose~
+A blue rose grows here..~
+~
+12 2162731 1
+0 0 0 0
+0 0 1 0 0
+#1206
+rose~
+a red rose~
+A red rose grows here~
+~
+12 2162799 1
+0 0 0 0
+10 0 0 0 0
+#1207
+rose~
+a white rose~
+A white rose grows here~
+quest item
+~
+12 4135 1
+0 0 0 0
+10 0 0 0 0
+#1208
+rose~
+a black rose~
+A black rose grows here~
+quest item
+~
+12 2162727 1
+0 0 0 0
+10 0 0 0 0
+#1209
+rose~
+a blue rose~
+A blue rose grows here~
+quest item
+~
+12 2162695 1
+0 0 0 0
+10 0 0 0 0
+#1210
+rose~
+a green rose~
+A green rose grows here~
+~
+12 15457291 1
+0 0 0 0
+10 0 0 0 40
+#1211
+rose~
+a green rose~
+A green rose grows here~
+~
+12 0 1
+0 0 0 0
+0 0 1 0 0
+#1212
+rose~
+a yellow rose~
+A yellow rose grows here~
+~
+12 0 1
+0 0 0 0
+0 0 0 0 0
+#1213
+rose~
+a yellow rose~
+A yellow rose grows here~
+~
+12 0 1
+0 0 0 0
+10 0 0 0 0
+#1214
+rose~
+a purple rose~
+A purple rose grows here~
+~
+12 0 1
+0 0 0 0
+10 0 0 0 0
+#1215
+rose~
+a purple rose~
+A purple rose grows here~
+~
+12 0 1
+0 0 0 0
+0 0 0 0 0
+#1216
+rose~
+a lila rose~
+A lila rose grows here~
+~
+12 0 1
+0 0 0 0
+0 0 0 0 0
+#1217
+rose~
+a lila rose~
+A lila rose grows here~
+~
+12 0 1
+0 0 0 0
+10 0 0 0 0
+#1218
+rose~
+a cyan rose~
+A cyan rose grows here~
+~
+12 0 1
+0 0 0 0
+10 0 0 0 0
+#1219
+rose~
+a cyan rose~
+A cyan rose grows here~
+~
+12 0 1
+0 0 0 0
+0 0 0 0 0
+#1220
+maple syrup~
+a pool of Maple Syrup~
+A large pool of maple syrup is lying in a sticky mess on the floor.~
+~
+12 2097152 0
+0 0 0 0
+0 0 0 0 0
+#1221
+couch~
+a huge comfy couch~
+An enormous couch is here, looking eminently comfortable.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 0
+E
+couch~
+The couch looks quite well used, but very comfortable all the same. There is
+what looks like a reclining lever on the side.  
+~
+#1222
+cocktail cabinet~
+the cocktail cabinet~
+An ebony cocktail cabinet stands here.~
+~
+15 0 0
+10000 5 -1 0
+0 0 0 0 0
+#1223
+kahlua~
+a bottle of kahlua~
+A large bottle of coffee liqueur stands elegantly on the ground.~
+~
+17 0 1
+10 10 5 0
+15 0 0 0 0
+#1224
+board~
+reminders board~
+Miri's reminder board is here.~
+~
+12 0 0
+0 0 0 0
+99000000 0 0 0 0
+#1225
+four poster bed~
+a four poster bed~
+A large four poster bed stands here in the centre of the room.~
+~
+12 1 0
+0 0 0 0
+10 0 0 0 0
+E
+bed~
+The bed looks more inviting than any other you have ever laid eyes on. Highly
+polished mahogany posts stand at each corner, and you can see your reflection
+in them. The covers are thrown back, just tempting you to leap in!  
+~
+#1226
+cocktail drink~
+a cocktail~
+A cocktail is sitting here, umbrellas and all!~
+~
+17 0 1
+5 5 2 0
+10 0 0 0 0
+#1227
+spa bath~
+a spa~
+A two person spa is here, bubbling in a relaxing manner.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 0
+E
+spa~
+The water in the spa is the clearest you have ever seen. It must surely be
+taken from a divine source. Bubbles rise unceasingly to the surface, making a
+gentle fizzing sound as they burst. The bath looks so inviting, you are
+tempted to just jump right in, clothes and all.  
+~
+#1228
+hanky silk~
+a white silk hanky~
+A small white hanky of the finest silk lies here.~
+~
+11 0 17
+0 0 0 0
+0 0 0 0 0
+#1229
+star piece~
+a piece of a star~
+A small piece of a star floats in the air, burning with its own fire.~
+~
+1 0 0
+0 0 -1 0
+0 0 0 0 0
+#1230
+champagne bottle~
+a bottle of champagne~
+A large bottle of MOET Chandon is on ice here.~
+~
+17 0 1
+20 20 2 0
+25 0 0 0 0
+#1231
+quest token~
+Miri's quest token~
+A small token lies here in the dust.~
+~
+13 0 1
+0 0 0 0
+0 0 0 0 0
+#1233
+engagement ring~
+an engagement ring~
+An engagement ring with a large diamond on it has been dropped here.~
+~
+11 22020376 3
+0 0 0 0
+0 2500000 0 0 1
+E
+engagement ring~
+This ring is a beauty, with a 30 carat diamond mounted on
+28 carat gold.  The ring is a famous one that was specially
+made for Peaches by her love, Miri.
+~
+A
+3 2
+A
+4 2
+$~

@@ -1,0 +1,155 @@
+#25000
+electron~
+an electron~
+An electron is here, doing electron things.
+~
+This electron is a few hundred thousand times larger than your typical
+electron.  It glows a bright yellow, and it crackles with energy.  
+~
+192648 32808 -200 E
+20 0 -4 10d10+1000 20d20+20
+100 100000
+8 8 0 1
+BareHandAttack: 12
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#25001
+cpu~
+a cpu~
+A massive CPU with the words Pentium II 300 MHZ buzzes here.
+~
+This is a *huge* processor.  It dwarfs everything you've seen so far.  
+The pins are huge, the cooling fan could probably chop a human in two.  
+The heat given off by something of that size is ungodly, you are sweating
+heavily under your armor.
+~
+256074 32768 0 E
+60 -30 -10 300d30+20 16d18+50
+50000 1200000
+8 8 0 2
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#25002
+fpu~
+an fpu~
+There is a massive floating point processor here.
+~
+This is basically a really $#@%! big calculator.
+~
+256074 32768 0 E
+55 -5 -5 750d5+2000 10d13+10
+50000 1000000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#25003
+meg megabyte mb 16 simm ram~
+a 16MB EDO SIMM chip~
+There is a 16MB EDO SIMM chip here, running programs.
+~
+This looks like your typical 16MB SIMM, black chips fused to a silicon
+board, only this one's a lot larger, and oddly enough, looks mean.
+~
+221258 32768 500 E
+50 0 -5 30d3+2000 15d15+15
+0 50000
+8 8 0 3
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#25004
+modem 28.8~
+a 28.8kbps modem~
+There is a 28.8kbps modem here, emitting a hideous noise.
+~
+This is your typical modem, except the fact that it's alive, and a hundred
+times bigger.
+~
+256074 32768 0 E
+45 2 7 250d5+3000 5d8+5
+50000 900000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#25005
+video card~
+a video card~
+There is a massive video card here.
+~
+This video card is massive. The chips are the size of small horses, and the
+metal connectors are the size of your fist.
+~
+256074 32768 0 E
+45 0 5 200d8+1000 9d5+5
+25000 900000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#25006
+sound card~
+a sound card~
+There is a gargantuan sound card here.
+~
+This sound is huge, the ram chips are huge, and the connector for the
+CD-ROM drive is huge.
+~
+256074 32768 0 E
+45 0 5 400d4+1000 5d5+5
+25000 350000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#25007
+scsi controller~
+an SCSI controller~
+There is a huge SCSI controller here.
+~
+This is your typical SCSI controller.  Ports for hard drives, CD-ROM 
+drives and the like.
+~
+256074 32768 0 E
+45 0 5 400d5+1 10d7+6
+50000 1000000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+$

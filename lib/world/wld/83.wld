@@ -1,0 +1,1997 @@
+#8300
+The Throne room~
+The Throne room of Imrryr. The walls are adorned with the heritage of the
+Sorcerer Emperors of Melnibone. The Ruby Throne stands imposingly in front of
+you.  
+~
+83 128 0
+D2
+~
+~
+0 0 8301
+S
+#8301
+Quartz stairs~
+You stand of the quartz stairway between the Throne room and the Great hall
+below. You feel as if there is an Invisible presence watching you here!  
+~
+83 4 0
+D0
+~
+~
+0 0 8300
+D5
+~
+~
+0 0 8302
+S
+#8302
+The Dance floor of The Great Hall~
+You stand  at the northern end of the dancefloor. Before you you can
+see quartz stairs leading to a throne room.
+~
+83 0 0
+D2
+~
+~
+0 0 8303
+D4
+~
+~
+0 0 8301
+S
+#8303
+The Dance floor of The Great Hall~
+You stand on a exquisite mosaic floor which has through the passage of time
+witnessed many expert dancers. You can see the quartz stairs leading to the
+throne room at the northern part of the hall.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8302
+D1
+~
+~
+0 0 8305
+D2
+~
+~
+0 0 8305
+D3
+~
+~
+0 0 8305
+S
+#8304
+The Dance floor of The Great Hall~
+You stand on a exquisite mosaic floor which has through the passage of time
+witnessed many expert dancers. You can see the quartz stairs leading to the
+throne room at the northern part of the hall.  
+
+~
+83 0 0
+D1
+~
+~
+0 0 8305
+D2
+~
+~
+0 0 8306
+D3
+~
+~
+0 0 8305
+S
+#8305
+The Dance floor of The Great Hall~
+You stand on a exquisite mosaic floor which has through the passage of time
+witnessed many expert dancers. You can see the quartz stairs leading to the
+throne room at the northern part of the hall.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8303
+D1
+~
+~
+0 0 8304
+D2
+~
+~
+0 0 8306
+D3
+~
+~
+0 0 8304
+S
+#8306
+The Dance floor of The Great Hall~
+You stand on a exquisite mosaic floor which has through the passage of time
+witnessed many expert dancers. You can see the quartz stairs leading to the
+throne room at the northern part of the hall.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8304
+D1
+~
+~
+0 0 8305
+D2
+~
+~
+0 0 8307
+D3
+~
+~
+0 0 8305
+S
+#8307
+The Doors of the Great Hall~
+You stand at the doors of the great hall. The doors are open as if you are
+expected. Ahead you can see courtiers dancing, pretending to be oblivious to
+your arrival.  
+~
+83 8196 0
+D0
+~
+~
+0 0 8306
+D2
+~
+~
+0 0 8308
+S
+#8308
+The entrance hall~
+The entrance hall to the citidel of the dreaming city stretches northwards
+towards the great doors. The walls are strangly bare of all the trappings
+associated with the great leaders on melnibone. It is as if there is a
+dramatic change of tradition taking place. There are dangerous times ahead. 
+
+
+~
+83 0 0
+D0
+~
+~
+0 0 8307
+D1
+~
+~
+0 0 8317
+D2
+~
+~
+0 0 8309
+D3
+~
+~
+0 0 8315
+S
+#8309
+The entrance to the citadel~
+The entrance to the citadel of the dreaming city where the great sorcerer
+emperors hold court. You cannot help but wonder at the splendour that befalls
+your eyes. If the ornamental jade dragons that parade at the side of the walls
+are anything to go by, great riches are to be discovered here. 
+ 
+
+~
+83 0 0
+D0
+~
+~
+0 0 8308
+D2
+~
+~
+0 0 8310
+S
+#8310
+The main street~
+The main street of imryr. Traders bustle continuously in an east west
+direction carrying their wares to the tower of monshanjik. You find this
+procession strangly hypnotic and you cant help thinking that you are missing
+somthing obvious here.  
+
+~
+83 0 10
+D0
+~
+~
+0 0 8309
+D1
+~
+~
+0 0 8327
+D3
+~
+~
+0 0 8326
+S
+#8311
+The north-west tower~
+You stand at the base of the north-west tower. A tunnel leads north and the
+tower looms above you.  
+
+~
+83 0 0
+D1
+~
+~
+0 0 8323
+D2
+~
+~
+0 0 8325
+D4
+~
+~
+0 0 8312
+S
+#8312
+The top of the north-west tower~
+You stand at the top of the north-west tower. The battlements lead east and
+south. From here you can see that the green turf which surrounds the northern
+part of the city quickly turns to forest. Stairs lead down to the base of the
+tower.  
+
+~
+83 0 0
+D1
+~
+~
+0 0 8320
+D2
+~
+~
+0 0 8319
+D5
+~
+~
+0 0 8311
+S
+#8313
+The north-east tower~
+You stand at the base of the north-east tower. Tunnels leads west and south
+and the tower looms above you.  
+
+~
+83 0 0
+D2
+~
+~
+0 0 8324
+D3
+~
+~
+0 0 8323
+D4
+~
+~
+0 0 8314
+S
+#8314
+The top of the north-east tower~
+You stand at the top of the north-east tower. The battlements lead west and
+south. From here you can see that the green turf which surrounds the northern
+part of the city quickly turns to forest. Stairs lead down to the base of the
+tower.  
+
+~
+83 0 0
+D2
+~
+~
+0 0 8321
+D3
+~
+~
+0 0 8320
+D5
+~
+~
+0 0 8313
+S
+#8315
+The south-west tower~
+You stand at the base of the south-west tower. A tunnel leads north and the
+tower looms above you.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8325
+D1
+~
+~
+0 0 8308
+D4
+~
+~
+0 0 8316
+S
+#8316
+The top of the south-west tower~
+You stand at the top of the south-west tower. The battlements lead east and
+north. From here you can see that the green turf which surrounds the northern
+part of the city quickly turns to forest. Stairs lead down to the base of the
+tower.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8319
+D1
+~
+~
+0 0 8322
+D5
+~
+~
+0 0 8315
+S
+#8317
+The south-east tower~
+You stand at the base of the south-east tower. A tunnel leads north and the
+tower looms above you.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8324
+D3
+~
+~
+0 0 8308
+D4
+~
+~
+0 0 8318
+S
+#8318
+The top of the south-east tower~
+You stand at the top of the south-east tower. The battlements lead west and
+north. From here you can see that the green turf which surrounds the northern
+part of the city quickly turns to forest. Stairs lead down to the base of the
+tower.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8321
+D3
+~
+~
+0 0 8322
+D5
+~
+~
+0 0 8317
+S
+#8319
+The western battlements~
+You stand on the western battlements. The battlements lead between the towers.
+From here you can see that the green turf which surrounds the northern part of
+the city quickly turns to forest.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8312
+D2
+~
+~
+0 0 8316
+S
+#8320
+The northern battlements~
+You stand on the northern battlements. The battlements lead between the
+towers. From here you can see that the green turf which surrounds the northern
+part of the city quickly turns to forest.  
+
+~
+83 0 0
+D1
+~
+~
+0 0 8314
+D3
+~
+~
+0 0 8312
+S
+#8321
+The eastern battlements~
+You stand on the eastern battlements. The battlements lead between the towers.
+From here you can see that the green turf which surrounds the northern part of
+the city quickly turns to forest.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8314
+D2
+~
+~
+0 0 8318
+S
+#8322
+The southern battlements~
+Below is the main street of imrryr. Further south you can see the magnificent
+fleet of melnibone anchoured in the harbour. Your view is obscured by the east
+and west towers.  
+
+~
+83 0 0
+D1
+~
+~
+0 0 8318
+D3
+~
+~
+0 0 8316
+S
+#8323
+A tunnel between two towers~
+The walls are the only thing that guides you in this tunnel. Such is the
+darkness that not even your light can guide you.  
+
+~
+83 257 0
+D1
+~
+~
+0 0 8313
+D3
+~
+~
+0 0 8311
+S
+#8324
+A tunnel between two towers~
+The walls are the only thing that guides you in this tunnel. Such is the
+darkness that not even your light can guide you.  
+
+~
+83 257 0
+D0
+~
+~
+0 0 8313
+D2
+~
+~
+0 0 8317
+S
+#8325
+A tunnel between two towers~
+The walls are the only thing that guides you in this tunnel. Such is the
+darkness that not even your light can guide you.  
+
+~
+83 257 0
+D0
+~
+~
+0 0 8311
+D2
+~
+~
+0 0 8315
+S
+#8326
+The main street~
+The main street of imryr. Traders bustle continuously in an east west
+direction carrying their wares to the tower of monshanjik.  
+
+~
+83 0 10
+D1
+~
+~
+0 0 8310
+D2
+~
+~
+0 0 8372
+D3
+~
+~
+0 0 8333
+S
+#8327
+The main street~
+The main junction between main street and dragon street. Traders bustle
+continuously from the west and south to trade at the tower of monshanjik. You
+can only see yellow cloaked guards using the northern dragon road. Perhaps
+they guard their dragons well.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8329
+D1
+~
+~
+0 0 8328
+D2
+~
+~
+0 0 8330
+D3
+~
+~
+0 0 8310
+S
+#8328
+The main street~
+The main street of imryr. Traders bustle continuously in an east west
+direction carrying their wares to the tower of monshanjik.  
+
+~
+83 0 0
+D1
+~
+~
+0 0 8332
+D3
+~
+~
+0 0 8327
+S
+#8329
+Dragon street~
+This is the other main street of Imrryr, leading from the harbour to the
+northern gates (and the dragon caves beyond).  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8331
+D2
+~
+~
+0 0 8327
+S
+#8330
+Dragon street~
+This is the other main street of Imrryr, leading from the harbour to the
+northern gates (and the dragon caves beyond).  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8327
+D2
+~
+~
+0 0 8383
+S
+#8331
+The northern gates~
+You stand before the northern gates of Imrryr. The dragon street continues south.
+
+~
+83 0 0
+D0
+~
+~
+0 0 8335
+D2
+~
+~
+0 0 8329
+S
+#8332
+The eastern gates~
+You stand before the eastern gates of Imrryr. The main street continues west.
+East and north as far as the eye can see there is green turf untill you reach
+the forest.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8336
+D1
+~
+~
+0 0 8336
+D3
+~
+~
+0 0 8328
+S
+#8333
+The western gates~
+You stand before the western gates of Imrryr. The main street continues east.
+West and north as far as the eye can see there is green turf untill you reach
+the forest.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8334
+D1
+~
+~
+0 0 8326
+D3
+~
+~
+0 0 8334
+S
+#8334
+Green turf~
+This flat landscape is devoid of any features, save that you are between the
+city and the forest.  
+
+~
+83 0 2
+D0
+~
+~
+0 0 8337
+D1
+~
+~
+0 0 8335
+D2
+~
+~
+0 0 8333
+D3
+~
+~
+0 0 8337
+S
+#8335
+Green turf~
+This flat landscape is devoid of any features, save that you are between the
+city and the forest.  
+
+~
+83 0 2
+D0
+~
+~
+0 0 8337
+D1
+~
+~
+0 0 8336
+D2
+~
+~
+0 0 8331
+D3
+~
+~
+0 0 8334
+S
+#8336
+Green turf~
+This flat landscape is devoid of any features, save that you are between the
+city and the forest.  
+
+~
+83 0 2
+D2
+~
+~
+0 0 8332
+D3
+~
+~
+0 0 8335
+S
+#8337
+Green turf~
+This flat landscape is devoid of any features, save that you are between the
+city and the forest.  
+
+~
+83 0 2
+D0
+~
+~
+0 0 8338
+D1
+~
+~
+0 0 8336
+D2
+~
+~
+0 0 8335
+D3
+~
+~
+0 0 8334
+S
+#8338
+Green turf~
+This flat landscape is devoid of any features, save that you are between the
+city and the forest. You have reached the edge of the forest. But be warned
+some paths are cursed and will lead you astray.  
+
+~
+83 0 2
+D0
+~
+~
+0 0 8348
+D1
+~
+~
+0 0 8339
+D2
+~
+~
+0 0 8337
+D3
+~
+~
+0 0 8348
+S
+#8339
+Green turf~
+This flat landscape is devoid of any features, save that you are between the
+city and the forest. You have reached the edge of the forest. But be warned
+some paths are cursed and will lead you astray.  
+
+~
+83 0 2
+D0
+~
+~
+0 0 8340
+D1
+~
+~
+0 0 8348
+D2
+~
+~
+0 0 8348
+D3
+~
+~
+0 0 8338
+S
+#8340
+Pine forest~
+The pine forest is so thick that you can barely make your way through it. It
+is not difficult to imagine how much effort is required to traverse the forest.
+You realise that it is impossible to get your bearings and that one false move
+could find youself completely lost. The dragon caves with their fabled beds of
+gold lie somewhere ahead. But beware, the melbonian sorcerers have guarded the
+cave with secret spells and fanatical guards.
+
+~
+83 1 3
+D0
+~
+~
+0 0 8348
+D1
+~
+~
+0 0 8341
+D2
+~
+~
+0 0 8339
+D3
+~
+~
+0 0 8348
+S
+#8341
+Pine Forest~
+The pine forest is so thick that you can barely make your way through it. You
+fight your way onward in the hope of finding the dragon caves with their fabled
+beds of gold.  There are no discernable features to help you.
+
+~
+83 1 3
+D0
+~
+~
+0 0 8348
+D1
+~
+~
+0 0 8348
+D2
+~
+~
+0 0 8342
+D3
+~
+~
+0 0 8340
+S
+#8342
+Pine Forest~
+The pine forest is so thick that you can barely make your way through it. You
+fight your way onward in the hope of finding the dragon caves with their fabled
+beds of gold.  There are no discernable features to help you.
+
+~
+83 1 3
+D0
+~
+~
+0 0 8341
+D1
+~
+~
+0 0 8343
+D2
+~
+~
+0 0 8348
+D3
+~
+~
+0 0 8348
+S
+#8343
+Pine Forest~
+The pine forest is so thick that you can barely make your way through it. You
+fight your way onward in the hope of finding the dragon caves with their fabled
+beds of gold.  There are no discernable features to help you.
+
+~
+83 1 3
+D0
+~
+~
+0 0 8344
+D1
+~
+~
+0 0 8348
+D2
+~
+~
+0 0 8348
+D3
+~
+~
+0 0 8342
+S
+#8344
+Pine Forest~
+The pine forest is so thick that you can barely make your way through it. You
+fight your way onward in the hope of finding the dragon caves with their fabled
+beds of gold.  There are no discernable features to help you.
+
+~
+83 1 3
+D0
+~
+~
+0 0 8348
+D1
+~
+~
+0 0 8345
+D2
+~
+~
+0 0 8343
+D3
+~
+~
+0 0 8348
+S
+#8345
+Pine Forest~
+The pine forest is so thick that you can barely make your way through it. You
+fight your way onward in the hope of finding the dragon caves with their fabled
+beds of gold.  There are no discernable features to help you.
+
+~
+83 1 3
+D0
+~
+~
+0 0 8348
+D1
+~
+~
+0 0 8348
+D2
+~
+~
+0 0 8346
+D3
+~
+~
+0 0 8344
+S
+#8346
+Pine Forest~
+The pine forest is so thick that you can barely make your way through it. You
+fight your way onward in the hope of finding the dragon caves with their fabled
+beds of gold.  There are no discernable features to help you.
+
+~
+83 1 3
+D0
+~
+~
+0 0 8345
+D1
+~
+~
+0 0 8347
+D2
+~
+~
+0 0 8348
+D3
+~
+~
+0 0 8348
+S
+#8347
+Pine Forest~
+The pine forest is so thick that you can barely make your way through it. You
+fight your way onward in the hope of finding the dragon caves with their fabled
+beds of gold.  There are no discernable features to help you.
+
+~
+83 1 3
+D0
+~
+~
+0 0 8348
+D1
+~
+~
+0 0 8351
+D2
+~
+~
+0 0 8348
+D3
+~
+~
+0 0 8346
+S
+#8348
+Pine Forest~
+Ah..... You have fallen foul of the melnibonian sourcerers. A swirling mist
+spirits you away and when you wake you you realise that the smell of pine has
+been replaced by the smell of the sea.  
+
+~
+83 1 3
+D0
+~
+~
+0 0 8385
+D1
+~
+~
+0 0 8385
+D2
+~
+~
+0 0 8385
+D3
+~
+~
+0 0 8385
+S
+#8351
+The entrance to the dragon caves~
+At the edge of the forest at the start of the mountains you see a cave
+entrance. The floor is pitted and scarred from the claws of its occupants over
+the passing of eons. As you peer down the tunnel you can see a red glow!  
+
+~
+83 389 0
+D0
+~
+~
+0 0 8348
+D1
+~
+~
+0 0 8348
+D2
+~
+~
+0 0 8348
+D3
+~
+~
+0 0 8347
+D5
+~
+~
+0 0 8352
+S
+#8352
+A tunnel in the dragon caves~
+An Unfinished Room
+~
+83 389 0
+D0
+~
+~
+0 0 8353
+D4
+~
+~
+0 0 8351
+S
+#8353
+The dragon caves~
+The caves stretch northwards further that you can see. This is where the
+dragons of melnibone sleep, And sleep they must. They are magical beasts who
+can only be summoned when great dangers exist (or someone is about to steal
+their bed). We all know dragons sleep on gold!
+
+~
+83 389 0
+D0
+~
+~
+0 0 8354
+D2
+~
+~
+0 0 8352
+S
+#8354
+The dragon caves~
+You stand at the northern most end of the dragon caves. As you look back you
+can see the enormity of the task you have undertaken. There is little else but
+to plunder any treasure that you are lucky enough to find.  
+
+~
+83 389 0
+D2
+~
+~
+0 0 8353
+S
+#8355
+The Forward Steering Control~
+The forward steering controls consist of 3 totally independant systems. This
+make it almost impossible to disable the steering of this ship, especially as
+there is an identical system aft.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8363
+D2
+~
+~
+0 0 8365
+D3
+~
+~
+0 0 8364
+S
+#8356
+The hold of the Son of the Pyaray~
+You realise it is so dark in this hold that any treasure that is hidded here is
+invisible to you!  Exits are to the port and starboard bottom banks of oars.
+
+~
+83 1 0
+D0
+~
+~
+0 0 8357
+D2
+~
+~
+0 0 8358
+S
+#8357
+A bottom port bank of oars~
+A bottom port bank of oars. This is one of four levels where oarsmen
+slave to propell the ship. 
+
+~
+83 1 0
+D2
+~
+~
+0 0 8356
+D4
+~
+~
+0 0 8361
+S
+#8358
+A bottom starboard bank of oars~
+The bottom bank of oars. This is one of four levels where oarsmen
+slave to propell the ship. 
+
+~
+83 1 0
+D0
+~
+~
+0 0 8356
+D4
+~
+~
+0 0 8359
+S
+#8359
+A lower starboard bank of oars~
+A lower starboard bank of oars. This is one of four levels where oarsmen
+slave to propell the ship. 
+
+~
+83 1 0
+D4
+~
+~
+0 0 8360
+D5
+~
+~
+0 0 8358
+S
+#8360
+A lower starboard bank of oars~
+A lower starboard bank of oars. This is one of four levels where oarsmen
+slave to propell the ship. 
+
+~
+83 1 0
+D4
+~
+~
+0 0 8365
+D5
+~
+~
+0 0 8359
+S
+#8361
+A lower port bank of oars~
+A lower port bank of oars. This is one of four levels where oarsmen
+slave to propell the ship. 
+
+~
+83 1 0
+D4
+~
+~
+0 0 8362
+D5
+~
+~
+0 0 8357
+S
+#8362
+A lower port bank of oars~
+A lower port bank of oars. This is one of four levels where oarsmen
+slave to propell the ship. 
+
+~
+83 1 0
+D4
+~
+~
+0 0 8363
+D5
+~
+~
+0 0 8361
+S
+#8363
+The upper port bank of oars~
+The upper port bank of oars. This is one of four levels where oarsmen
+slave to propell the ship. 
+
+~
+83 0 0
+D1
+~
+~
+0 0 8355
+D2
+~
+~
+0 0 8364
+D3
+~
+~
+0 0 8370
+D5
+~
+~
+0 0 8362
+S
+#8364
+The Main Deck~
+You are in an unfinished room.
+~
+83 0 0
+D0
+~
+~
+0 0 8363
+D1
+~
+~
+0 0 8355
+D2
+~
+~
+0 0 8365
+D3
+~
+~
+0 0 8369
+S
+#8365
+The upper starboard bank of oars~
+The upper starboard bank of oars. This is one of four levels where oarsmen
+slave to propell the ship. 
+
+~
+83 0 0
+D0
+~
+~
+0 0 8364
+D1
+~
+~
+0 0 8355
+D3
+~
+~
+0 0 8366
+D5
+~
+~
+0 0 8360
+S
+#8366
+The starboard side of 'The Son of the Pyaray'~
+The harbour waters stretch out before you and you may rejoin them
+here. The starboard upper bank of oars is forward and the main deck is port.
+
+~
+83 0 0
+D0
+~
+~
+0 0 8369
+D1
+~
+~
+0 0 8365
+S
+#8367
+The Aft Steering Control~
+The aft steering controls consist of 3 totall independant systems. This
+make it almost impossible to disable the steering of this ship, especially as
+there is an identical system forward.
+
+~
+83 0 0
+D1
+~
+~
+0 0 8368
+D5
+~
+~
+0 0 8384
+S
+#8368
+The High Bridge~
+The high bridge of the' Son of the Pyaray Port'. This is where the captain
+controls his ship and indeed the entire fleet! The aft steering system and the
+main deck are accessible here.  
+
+~
+83 0 0
+D1
+~
+~
+0 0 8369
+D3
+~
+~
+0 0 8367
+S
+#8369
+The Main Deck~
+The main deck of the 'Son of the Pyaray' where many melbonian sailors have
+celebrated their victories. The main deck continues forward. The high bridge
+is aft and the boat continues starboard.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8370
+D1
+~
+~
+0 0 8364
+D2
+~
+~
+0 0 8366
+D3
+~
+~
+0 0 8368
+S
+#8370
+The port side of 'The Son of the Pyaray'~
+As you enter the pride of the melbonian fleet you realise that the ship is
+literally lined with gold. You wonder what treasures are undiscovered here.
+The main deck is starboard and the upper galley of oars is forward.
+ 
+
+~
+83 0 0
+D0
+~
+~
+0 0 8371
+D1
+~
+~
+0 0 8363
+D2
+~
+~
+0 0 8369
+S
+#8371
+A gangplank~
+The gangplank on which you stand links the western quay and the melbonian
+flagship , 'The Son of the Praray'. You may also rejoin the harbour here.
+ 
+
+~
+83 0 10
+D0
+~
+~
+0 0 8372
+D1
+~
+~
+0 0 8384
+D2
+~
+~
+0 0 8370
+D3
+~
+~
+0 0 8384
+S
+#8372
+The Western Quay~
+You stand on the western quay. As you survey the area you can see the
+melbonian flagship, 'The Son of the Praray' due south by way of a
+gangplank. The Tower of Monshanjik is to the east.  
+
+2
+~
+83 0 10
+D0
+~
+~
+0 0 8326
+D1
+~
+~
+0 0 8383
+D2
+~
+~
+0 0 8371
+S
+#8373
+A cell in the bowels of the tower~
+You stand in a dank cell which had only one exit. The walls are adorned with
+the slime of ages that only salt water can bring. You pity anyone unfortunate
+enough to be imprisoned here, because death would be swift in the knee deep icy
+cold salt water.  
+~
+83 1 7
+D2
+~
+~
+0 0 8377
+S
+#8374
+A cell in the bowels of the tower~
+You have entered the bowels of the Tower of Monshanjik. The smell of burnt
+flesh eminates from the braziers that light this room. You quickly see that it
+must have come from the prisoners who are chained to the wall.  
+
+~
+83 0 0
+D3
+~
+~
+0 0 8377
+S
+#8375
+A cell in the bowels of the tower~
+You have entered the bowels of the Tower of Monshanjik. The smell of burnt
+flesh eminates from the braziers that light this room. You quickly see that it
+must have come from the prisoners who are chained to the wall.  
+
+~
+83 0 0
+D0
+~
+~
+0 0 8377
+S
+#8376
+A cell in the bowels of the tower~
+You have entered the bowels of the Tower of Monshanjik. The smell of burnt
+flesh eminates from the braziers that light this room. You quickly see that it
+must have come from the prisoners who are chained to the wall.  
+
+~
+83 0 0
+D1
+~
+~
+0 0 8377
+S
+#8377
+The bowels of the Tower of Monshanjik~
+You have entered the bowels of the Tower of Monshanjik. The smell of burnt
+flesh eminates from the braziers that light this room. You quickly see that it
+must have come from the prisoners who are chained to the wall.  
+
+~
+83 0 0
+D0
+A cell door
+~
+cell door~
+1 0 8373
+D1
+A cell door.
+~
+cell door~
+1 0 8374
+D2
+A cell door.
+~
+cell door~
+1 0 8375
+D3
+A cell door.
+~
+cell door~
+1 0 8376
+D4
+~
+~
+0 0 8378
+S
+#8378
+A Ramp~
+You are on a sloping ramp which leads from the trading hall to the bowels of
+the tower. The outer wall is wet with salt water, which tells you that you are
+now below sea level at the side of the quays. The ramp continues to spiral
+downwards.  
+
+~
+83 1 0
+D4
+~
+~
+0 0 8380
+D5
+~
+~
+0 0 8377
+S
+#8379
+The Top of the Tower of Monshanjik.~
+You stand on the top of the tower of Monshanjik. Below you can see the harbour
+and quays of Imrryr. To the north you can see the cliffs and a road leading to
+the city of Imrryr. To the west there is green turf leading into a forest. 
+
+~
+83 0 0
+D5
+~
+~
+0 0 8381
+S
+#8380
+A Ramp~
+You are on a sloping ramp which leads from the trading hall to the bowels of
+the tower. The outer wall is wet with salt water, which tells you that you are
+now below sea level at the side of the quays.  
+~
+83 1 0
+D4
+~
+~
+0 0 8381
+D5
+~
+~
+0 0 8378
+S
+#8381
+Great Trading Hall~
+You stand in the great trading hall. The babble of a thousand voices causes
+you to lose you concentrtation! There is no other option but to push your way
+through the crowd. You can see a ramp gowing down to the bowles of the tower
+and stairs going up.  
+~
+83 128 0
+D0
+~
+~
+0 0 8382
+D4
+~
+~
+0 0 8379
+D5
+~
+~
+0 0 8380
+S
+#8382
+Entrance to the Tower Of Monshanjik~
+You stand before the entrance of the tower of Monshanjik. You can hear that
+trading is well underway by the incessant noise and you wonder if there really
+is a great fortune to be made there. You remind yourself of the fate that
+enemies of the state suffer in the bowels of this tower.  
+~
+83 8192 0
+D2
+~
+~
+0 0 8381
+D3
+~
+~
+0 0 8383
+S
+#8383
+Approching the Tower Of Monshanjik~
+You stand on the approach road to a sea green tower. You notice that many
+sailors, traders and officials are heading in that direction to barter. 
+Whilst they ignore you now you wonder what would happen if you interupted their
+trading. The quay continues to the west and the entrance to the tower is east.
+
+~
+83 0 10
+D0
+~
+~
+0 0 8330
+D1
+~
+~
+0 0 8382
+D2
+~
+~
+0 0 8399
+D3
+~
+~
+0 0 8372
+S
+#8384
+The harbour of Imrryr~
+Again you fall victim to the sea maze and have taken a wrong turn. The
+clinging mist that is the hallmark of melnebone's sorcerers envelopes you and
+returns you to the start of your journey.  
+~
+83 4 7
+D0
+~
+~
+0 0 8385
+D1
+~
+~
+0 0 8385
+D2
+~
+~
+0 0 8385
+D3
+~
+~
+0 0 8385
+S
+#8385
+The Dragon Sea~
+You have entered the fabled Dragon sea. You remember tales of travellers who
+have escaped the cunningly crafted sea maze that is the approach to the Isle of
+Melnibone. One false turn is all it takes to find yourself where you started.
+
+This, by the way is the start of the maze (again)! 
+
+~
+83 0 7
+D0
+~
+~
+0 0 8388
+S
+#8386
+The Dragon Sea~
+You have entered the fabled Dragon sea. You remember tales of travellers who
+have escaped the cunningly crafted sea maze that is the approach to the Isle of
+Melnibone. One false turn is all it takes to find yourself where you started.
+ 
+~
+83 0 7
+D0
+~
+~
+0 0 8391
+D1
+~
+~
+0 0 8390
+D2
+~
+~
+0 0 8389
+D3
+~
+~
+0 0 8389
+S
+#8387
+The Dragon Sea~
+You have entered the fabled Dragon sea. You remember tales of travellers who
+have escaped the cunningly crafted sea maze that is the approach to the Isle of
+Melnebone. One false turn is all it takes to find yourself where you started.
+ 
+~
+83 0 0
+S
+#8388
+The Dragon Sea~
+You are in the fabled Dragon sea. You remember tales of travellers who have
+escaped the cunningly crafted sea maze that is the approach to the Isle of
+Melnibone. One false turn is all it takes to find yourself where you started.
+ 
+~
+83 0 7
+D0
+~
+~
+0 0 8390
+D1
+~
+~
+0 0 8389
+D2
+~
+~
+0 0 8385
+D3
+~
+~
+0 0 8389
+S
+#8389
+The Dragon Sea~
+You are in the fabled Dragon sea. You remember tales of travellers who have
+escaped the cunningly crafted sea maze that is the approach to the Isle of
+Melnebone. Your blood chills as you realise that you have taken a wrong turn.
+ 
+~
+83 0 7
+D0
+~
+~
+0 0 8385
+D1
+~
+~
+0 0 8385
+D2
+~
+~
+0 0 8385
+D3
+~
+~
+0 0 8385
+S
+#8390
+The Dragon Sea~
+You are in the fabled Dragon sea. You remember tales of travellers who have
+escaped the cunningly crafted sea maze that is the approach to the Isle of
+Melnibone. One false turn is all it takes to find yourself where you started.
+ 
+~
+83 0 7
+D0
+~
+~
+0 0 8389
+D1
+~
+~
+0 0 8389
+D2
+~
+~
+0 0 8388
+D3
+~
+~
+0 0 8386
+S
+#8391
+The Dragon Sea~
+You are in the fabled Dragon sea. You remember tales of travellers who have
+escaped the cunningly crafted sea maze that is the approach to the Isle of
+Melnibone. One false turn is all it takes to find yourself where you started.
+You can see the Isle of Melnibone to your east!
+
+~
+83 0 7
+D0
+~
+~
+0 0 8392
+D1
+~
+~
+0 0 8389
+D2
+~
+~
+0 0 8386
+D3
+~
+~
+0 0 8389
+S
+#8392
+The Dragon Sea~
+You are in the fabled Dragon sea. You remember tales of travellers who have
+escaped the cunningly crafted sea maze that is the approach to the Isle of
+Melnibone. One false turn is all it takes to find yourself where you started.
+You can see the Isle of Melnibone to your east!
+
+~
+83 0 7
+D0
+~
+~
+0 0 8389
+D1
+~
+~
+0 0 8393
+D2
+~
+~
+0 0 8391
+D3
+~
+~
+0 0 8389
+S
+#8393
+The Dragon Sea~
+You are in the fabled Dragon sea. You remember tales of travellers who have
+escaped the cunningly crafted sea maze that is the approach to the Isle of
+Melnibone. One false turn is all it takes to find yourself where you started.
+ 
+~
+83 0 7
+D0
+~
+~
+0 0 8389
+D1
+~
+~
+0 0 8394
+D2
+~
+~
+0 0 8389
+D3
+~
+~
+0 0 8392
+S
+#8394
+The harbour gates of Imrryr~
+You stand before the harbour gates of Imrryr. You see that you must journey
+throug a tunnel because the gates are set at the base of the imposing cliffs.
+ 
+~
+83 260 7
+D0
+~
+~
+0 0 8395
+D3
+~
+~
+0 0 8393
+S
+#8395
+The harbour of Imrryr~
+You are in the harbour of Imrryr. This natural lagoon is totally enclosed by
+cliffs. To the south you can see the harbour gates which you came through. 
+The harbour stretches in all other directions.  
+~
+83 0 7
+D0
+~
+~
+0 0 8396
+D1
+~
+~
+0 0 8384
+D2
+~
+~
+0 0 8394
+D3
+~
+~
+0 0 8384
+S
+#8396
+The harbour of Imrryr~
+You are in the harbour of Imrryr. This natural lagoon is totally enclosed by
+cliffs. To the south you can see the harbour gates which you came through. 
+The harbour stretches in all other directions.  
+~
+83 0 7
+D0
+~
+~
+0 0 8384
+D1
+~
+~
+0 0 8397
+D2
+~
+~
+0 0 8395
+D3
+~
+~
+0 0 8384
+S
+#8397
+The harbour of Imrryr~
+You are in the harbour of Imrryr. This natural lagoon is totally enclosed by
+cliffs. To the south you can see the harbour gates which you came through. 
+Apart from the quays to the north the harbour stretches in all other directions.
+
+~
+83 0 7
+D0
+~
+~
+0 0 8398
+D1
+~
+~
+0 0 8384
+D2
+~
+~
+0 0 8384
+D3
+~
+~
+0 0 8396
+S
+#8398
+Approaching the Quays of Imrryr~
+You are in the harbour of Imrryr. This natural lagoon is totally enclosed by
+cliffs. To the south you can see the harbour gates which you came through. 
+To the east you can see several quays which are the only way of getting from
+the harbour to the shore. You congratulate yourself on completing the sea
+maze! But your joy may be short lived!  
+
+~
+83 0 7
+D0
+~
+~
+0 0 8384
+D1
+~
+~
+0 0 8399
+D2
+~
+~
+0 0 8397
+D3
+~
+~
+0 0 8384
+S
+#8399
+The Quays of Imrryr~
+You stand on one of the quays of Imrryr. You can see a path leading up to the
+Tower of Monshanjik and the city of Imrryr beyond.  
+~
+83 4 10
+D0
+~
+~
+0 0 8383
+D3
+~
+~
+0 0 8398
+S
+$~

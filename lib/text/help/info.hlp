@@ -1,0 +1,541 @@
+PK "PLAYER KILLING" PLAYER KILLING
+
+While this help file is far from complete, the basic out-lines are listed.
+More rules and regulations will be added so continue to check this file.
+Remember, these rules are laid out to help avoid conflict and make pk'ing
+fair to everyone.
+
+If you don't like them, quit and re-start your character without pk.
+
+1) Pk'ing starts at level 30. No pk'ing is allowed below that. If you do
+   you will receive a "Killer" flag and any mob or player is allowed to
+   kill you.
+
+2) Pk levels are 7 levels within your own. That mean 7 up, 7 down. No more
+   with level 30's starting at level 30 - 37.
+
+3) No spam pk'ing. You MUST wait a minimum of 15 - 20 minutes before
+   pk'ing the same player. While we have left this up to your discretion,
+   it can be checked to make sure you're following the rules.
+
+4) Since you are allowed to have at max  2 characters on the mud, and this
+   ties in with clans, all your chars MUST be in the same clan or no clan
+   at all. This goes for strictly pk clans if any are on the mud or any
+   are started. So if you have one pk char and one not but are already in
+   a clan, your other char has the option of joining that clan (depends
+   soully on the clan leader) or not joining any clan.
+
+5) No using "summon", "teleport", "portal" whatever for pk'ing. You have
+   two feet, use them.
+
+6) You are ONLY allowed to kill other pk players that have the flag.
+
+7) Once you choose pk you are stuck with it unless you delete your
+   character and restart over. You will NOT be advanced to your previous
+   level.
+
+8) No jumping in on a pk fight, period. Unless ALL parties agree to it. In
+   other words, no gang pk'ing.
+
+9) No disarming or stealing/taking eq while pk'ing. Using spells is
+   perfectly legal.
+
+10) No going afk or doing anything else to avoid pk'ing. You've decided to
+    pk so if you didn't want to pk you shouldn't have chosen it. No one
+    has to warn you before they kill you and no one has to ask your
+    permission. Once you have that flag you are fair game to other pk'ers
+    around your level. So no hard feelings against other pk players since
+    you didn't have to choose pk. Going afk and saying you were busy is
+    not an excuse, quit if you're going to be busy.
+
+11) No hiding in houses to avoid pk'ing or juicing yourself up with
+    spells. A God or Imp has the right to move you out of your house if
+    they feel you are hiding in there to avoid being killed. Plus if it's
+    continually done an Imp has the right to kill you themselves to teach 
+    you a lesson for hiding. So you are now warned ahead of time.
+
+Thats about it folks!
+
+#
+
+COLOR COLOUR ANSI "COLOR CODES" "COLOUR CODES"
+
+Colour code list
+----------------
+
+Normal Colours
+&\c25 or &&k = Black
+&\c01 or &&r = Red
+&\c02 or &&g = Green
+&\c03 or &&y = Yellow
+&\c04 or &&b = Blue
+&\c05 or &&m = Magenta
+&\c06 or &&c = Cyan
+&\c07 or &&w = White
+
+Bold Colours
+&\c29 or &&K = Bright black (No real use.  Just for completeness)
+&\c08 or &&R = Bright red
+&\c09 or &&G = Bright green
+&\c10 or &&Y = Bright yellow
+&\c11 or &&B = Bright blue
+&\c12 or &&M = Bright magenta
+&\c13 or &&C = Bright cyan
+&\c14 or &&W = Bright white
+
+Background Colours
+&\c24 or &&0 = Black background
+&\c15 or &&1 = Red background
+&\c16 or &&2 = Green background
+&\c17 or &&3 = Yellow background
+&\c18 or &&4 = Blue background
+&\c19 or &&5 = Magenta background
+&\c20 or &&6 = Cyan background
+&\c21 or &&7 = White background
+
+Misc Characters
+&\c22 or &&&& = The && character
+&\c23 or &&&\ = The &\ character
+
+Special Codes
+&\c00 or &&n = Normal
+&\c26 or &&f = Flash (Use normal to turn off flash)
+&\c27 or &&v = Reverse video
+&\c28 or &&u = Underline (Only for mono screens)
+
+Note: We would prefer if you didn't use the special codes except
+for your own prompts. With the exception of &&n which should be used
+at the end of all colour to stop colour bleeds.
+
+#
+HERO PRINCE KNIGHT
+
+Once you reach level 100 here on minos you deserve some kind of reward, so
+the mighty Zeus went and put his thinking hat on and came up with the idea
+of heros.
+
+Therefore when you reach this level you get hero status. Now you may think
+that this is good enough in its own right, you can wander round the world
+of minos going 'Look everybody I'm a Hero!' boosting your ever inflated
+ego.
+
+Well not only can you do that but well you can cast any spell or use any
+skill you like. 
+
+Being the kind god that Zeus is he thought well those hero types might
+not have enough practice sessions to learn all those wounderfull new
+spells and skills.
+
+So he added a nice new commands called HERO which allows you to get more
+practice sessions, well it didn't stop there the commands also lets you
+max all your stats out too...
+
+... Now before you go running round the room with a big grin, while
+shouting some strange Mud babble which well other people in the room might
+not understand and if you think about it they might call a doctor!
+
+Anyway all this maxing of stats and getting practices comes at a small
+cost, your experience points, now depending on what you do each thing
+costs a different amount so for a list just type the command on its own
+and it will tell you what to do.
+
+Depending on your heroicness you can exchange those experience points for
+more things... the higher the level the more you get, thats because as you
+become a better hero you can do more things.
+
+So if your already a hero then well done otherwise keep at it and you'll
+soon become one.
+
+Note on the Hero command:
+
+Hero command changes your stats as they would be with no eq on. It then
+re-applies the eq modifiers. It is best to remove all eq when applying
+this command on stats so that you get a true picture of how your stats
+are being increased. For example if you had a wisdom of 12 and used the
+hero command to increase it then it would go up by one. If however you had
+some eq which did +6 wisdom, then the score command would show your wis as
+18, however your real wisdom is still only 12, and so the hero command can
+be used to increase that stat further. In other words the hero command
+increases REAL stats not modified ones.
+
+#
+ENGRAVE AUTOENGRAVE UNENGRAVE
+
+You can go to the engravers shop in the city of minos to engrave
+any item of eq so that it can only be used by you. You can also
+get items unengraved there if you wish. Some items round
+the game are AutoEngrave which means when you pick them up
+they will engrave themselves to you.
+
+#
+STAMINA ENDURANCE EDU
+
+This affects your fighting strength. If you run out of this you
+will no longer be able to fight and will continue to miss
+your opponent.
+
+Endurace determins your regeneration of stamina and how much
+you gain when you level.
+
+#
+AC
+
+"AC" is your armor class.  It is a number from -10 to 10, roughly
+defined as follows:
+
+
+  AC  Roughly equivalent to
+-----------------------------------------------------------
+  10  Naked person
+   0  Very Heavily armored (Plate mail, and "two shields") 
+ -10  Armored battle tank
+
+The score command displays your armor class as a number such as 78/10;
+this means 78 on a scale from -100 to 100 (i.e., 7.8 on the scale from
+-10 to 10.)
+
+See also: SCORE
+#
+AVATARS AVATAR DIGGIN
+
+Race: Diggin, type avatar. You should practice in the avatars guild.
+
+Avatars command the power of ancient magic. All their magic is of the
+destructive kind however and they do not posses the ability to do any
+other kind of magic such as infravision, however they do gain most
+destructive spells before mages and have a few of their own to play with
+too. 
+
+You can improve your spells by using the practice command.
+
+See 'help spells' for a list of spells available.
+
+See also: PRACTICE, SPELLS
+
+#
+BOARDS
+
+Bulletin boards are the forum of inter-player communication on the MUD.
+There are different bulletin boards for different purposes -- for example,
+a standard mortal board, a board for immortals, a board for fun "social"
+messages, etc.  Naturally, not all players may be allowed to read all
+types of boards.
+
+Type "LOOK BOARD" to see the messages already posted on a board.  Type
+"WRITE <subject>" to post a message to a board; terminate a message with
+a '/s' as the first character on a line.  Type "READ <number>" to read a
+post.  Type "REMOVE <number>" to remove your own messages. There are various
+other commands in the editor, type '/h' for help on them while editing.
+
+Example:
+
+  > look at board
+  > write Am I using these boards correctly?
+  [writes the message; terminates with a '/s']
+  > look at board
+  > read 6
+  > remove 6
+
+See also: MAIL, READ, WRITE
+#
+CLERIC HUMPIN
+
+Race: Humpin. You should practice in the clerics guild.
+
+Clerics have an ancient belief in not carrying sharp weapons.  Hence, they can
+only wield bludgeoning weapons.  This class gives you the wisdom of peace,
+blessing and healing, though it is possible to learn more violent spells.
+
+You can improve your spells by using the practice command.
+
+See 'help spells' for a list of spells available.
+
+See also: PRACTICE, SPELLS
+
+#
+DRUID PURRIN
+
+Race: Purrin, You should practice in the druids guild.
+
+Druids are a ancient civilization which command the power of the gods themselves. 
+They are very similar to clerics in ability but are able to sacrafice corpses
+and offer items to the gods. They also command some very powerful destructive
+spells.
+
+You can improve your spells by using the practice command.
+
+See 'help spells' for a list of spells available.
+
+See also: PRACTICE, SPELLS
+#
+QUEST
+
+On Minos you get quest points for completing a quest. The amount of points
+you get depends on the difficulty of the quest and the immortal running
+that quest.
+
+To use your quest points use the EXCHANGE command.
+
+See Also: EXCHANGE
+
+#
+EXPERIENCE XP
+
+Whenever you kill a monster or a player, you earn experience points.  When
+enough experience points are earned, you raise a level.
+Things you should know about experience points:
+
+  * When damaging a monster, you get experience points.
+
+  * If you kill a monster of higher level than yourself, you get bonus
+    experience points.  If killing a monster of lower level you'll gain
+    less experience points
+
+See also: GROUP, SCORE
+#
+FLAGS
+
+Players sometimes have FLAGS after their names in the WHO list.  These
+flags are always in parentheses, not brackets or braces.
+
+  FLAG        MEANING
+  ----------- ---------------------------------------------------------
+  (KILLER)    Player is trying to kill other players.  That means you
+              can try to kill him/her without being flagged.
+  (THIEF)     Player is trying to steal from other players.  Fire away.
+  (invis)     Player is invisible; you can see him/her because you are
+              sensitive to the presence of invisible things.
+  (writing)   Player is writing on the board; do not disturb.
+  (mailing)   Player is writing mail; do not disturb.
+  (deaf)      Player has chosen not to hear shouts.
+  (notell)    Player has chosen not to accept tells.
+  (quest)     Player is participating in a quest currently being run by
+              the Gods.
+  (AFK)       The player is away from keyboard, which means tyring to talk
+              to them would be pointless as they will not be listening.
+
+See also: NOSHOUT, NOTELL, QUEST, STEAL, VISIBLE
+#
+GUILD
+
+The Guildhouse is the place where mortals may go to escape the troubles and
+perils of a cruel world.  Each guild is heavily guarded, so that only members
+may enter the building.  Guilds are also the places where people come to
+learn and practice the skills of their trade.
+
+Currently your guilds are based on the old class names, but with the new
+hometowns you practice in the guild specified in help <class>
+
+
+See also: PRACTICE
+
+#
+HOUSES
+
+A house entails two things:
+Access control and crash protection.  Only you and your guests will be allowed
+to enter the house.  Your house will be crash-saved every five minutes.  You
+can force your house to save by typing 'save' while standing in your house.
+In the event of a crash, the objects in your house as of the last crash-save
+will be loaded back into your house when the MUD reboots.  Also, if you own
+a house, and quit from the game while standing in your house, you will be
+loaded into your house next time you enter the game.
+
+Guests of your house can be defined using the HOUSE command.  See HOUSE for
+more information.
+
+Houses are an alternative to renting.  You can simply enter your house and
+quit; your objects will drop to the ground and be crash-saved for when you
+return.  There is currently no limit to the number of objects which can be
+stored in your house.  Of course, players must expect to pay a much higher
+premium for the convenience of houses; contact your local Implementor for
+a fee schedule.
+
+See also: HOUSE
+
+#
+IMPLEMENTOR CREATOR ADMIN "SENIOR CODER"
+
+The most powerful being in existence, they run the mud.
+
+If you ever find you have problems then first contact one of the
+other gods on Minos, they will usually be able to help you, as the
+creators are very busy and sometimes don't want to be pestered.
+
+If the god can not solve your problem then they will contact an
+Implementor, who will then try to solve the problem.
+
+Implementors usually log in and go off somewhere else doing
+other things such as coding and updating of the files, so if you
+start to tell them somthing and they don't answer then they
+may be busy, do not pester them if this happens as it is
+impolite, wait for five minutes and try again.
+
+Do NOT annoy an Implementor on purpose, they have to power to
+delete your character, ban your site and contact your systems
+administrator, you have been warned!
+
+#
+INN INNS CRYOGENIC CRYO RECEPTION
+
+Inns are places where the weary traveler may rest while the innkeeper looks
+after his equipment and treasure.
+
+Specifically, the game will save your equipment while you are logged out.
+The cost of each piece of eq is your level in gold coins, so if you are
+level 50 then each item of eq you wish to store will be 50 coins each.
+
+A CRYOGENIC CENTER will store your items for a one-time charge of four
+days rent.
+
+Rent files are deleted if you run out of money to pay the per diem charges
+or after 30 days.  Cryogenic-rent files are deleted after 60 days.
+
+See also: OFFER, RENT
+#
+LINK
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+II. If your link jams (freezes), you have a problem.  The only solution we
+    can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.
+#
+"MAGIC USER" WIZARD MAGE STROKIN
+
+Race: Strokin, you should practice in the Magic User Guild.
+
+This is the class of powerful and violent magic, but the magic user do not
+control the nature, and can therefore not bless and such.
+
+You can improve your spells by using the practice command.
+
+See 'help spells' for a list of spells available.
+
+See also: PRACTICE, SPELLS
+#
+MANA
+
+Mana is used when casting spells.  You must have a certain amount of mana
+in order to cast any particular spell.  If you do not have enough mana to
+cast the spell you must rest until you gain enough points to cast.
+
+See also: SPELLS
+#
+MINOS MAP MAPS 
+
+You can now buy maps from the map maker in the city of Minos.
+
+#
+SHOPS
+
+Shops are places where the adventurer may purchase equipment for his quests,
+and where he may sell his treasure if he should manage to survive the perils
+with his life and sanity intact.  Many shops trade only in a specific type of
+merchandise.  Thus, a baker may well refuse to buy your armor, even if it is
+of high quality!
+
+To some people, the prospect of obtaining the entire inventory of a shop by
+murdering the keeper may appear tempting - but beware: The shopkeepers are 
+often rugged, capable men; roughened by years of trading and, indeed, surviving
+in a world where the only safe prospect is death in the end.
+
+See also: BUY, SELL, LIST, VALUE
+#
+SPELL SPELLS SKILLS SKILL
+
+Shows you the skills and spells available to your class. The Ln represents
+the level at which you will get this skill.
+
+Usage: Skills
+       Spells
+
+
+#
+THIEF THIEVES EFFIN
+
+Race: Effin, you should practice in the Theives guild.
+
+Thieves are known to have very special qualities, that no other class offers.
+Their specialty tends to be in the darker, sneakier art.  Many of these
+qualities can come in handy in many situations, such as picking locks.
+
+You can improve you skills by using the practice command.
+
+See also: PRACTICE SKILLS
+#
+WARRIOR FIGHTER BANGIN
+
+Race: Bangin, You should practice in the Warrior Guild.
+
+Warriors are known to have more strength than the average player.  This makes
+them better at hand-to-hand-combat, as they possess skills of violence and
+fighting unequaled by the members of any other class.  However, they lack the
+ability to use magic of any sort.
+
+You can improve your skills by using the practice command.
+
+See also: PRACTICE SKILLS
+
+#
+WITCHUNTER HUNTER WITCHHUNTER FUMBLIN
+
+Race: Fumblin, you should practice in the witchunter guild.
+
+Witchunters are an ancient organisation that aim to destroy those who command
+dark and evil magic. Witchunter have great tracking experience and come
+with the track skill already well learned. They are also nimble and quick on
+their feet and are able to cover large distances without a rest. They
+have an above average hit points and are quite strong.
+
+You can improve your skills by using the practice command.
+
+See also: PRACTICE SKILLS
+
+#
+CIRCLE CIRCLEMUD CREDITS
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember
+them all, I'd like to extend special thanks to certain people:
+
+  -- Jeff Fink, for submitting a veritable mountain of excellent code.
+  -- Chris Epler and Chris Herringshaw for extensive beta-testing and bug
+     reporting.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions.
+  -- Jean-Jack Riethoven for porting the code to the Amiga, and David Carver
+     for porting it to OS/2.
+  -- Bill Bogstad and Tim Stearns for allowing Circle to exist at JHU.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being 
+     there in the very early days of Circle's development.
+  -- And, of course, Sharon, Ben, Erica, Aly, and Josh, for keeping me sane.
+
+...plus everyone else in the Circle community who has submitted material!
+Thanks everyone!
+
+  Anonymous FTP:  ftp.cs.jhu.edu:pub/CircleMUD
+Author's E-Mail:  jelson@jhu.edu
+            URL:  http://www.cs.jhu.edu/~jelson/circle.html
+   Mailing List:  circle@pvv.unit.no
+#
+$

@@ -1,0 +1,78 @@
+#3600
+henry gardener~
+Henry the Gardener~
+Henry the Gardener is sitting here, looking drunk.
+~
+He is a tall but bulky man in his late fifties.  His features are worn with
+decades of hard work and his somewhat crouched expression is one of deep
+sorrow and depression.  He is haunted by a memory of a lost paradise.
+~
+72 0 350 E
+4 15 8 1d12+48 1d6+1
+50 800
+6 6 1 1
+E
+#3601
+zombie~
+the rotting zombie~
+A rotting zombie is staggering towards you with outstretched hands.
+~
+Maggots crawl all over its decaying body.
+~
+42 1024 -750 E
+4 16 5 2d6+60 1d8+2
+50 800
+8 8 1 1
+E
+#3602
+ghoul~
+the ghastly ghoul~
+A ghastly ghoul is here.
+~
+It is a walking corpse with long fangs and long, sharp nails that most of
+resemble claws.  Its eyes are a dark yellow colour and glare hungrily at you.
+~
+42 1024 -750 E
+6 15 4 2d6+72 1d10+2
+100 1500
+8 8 1 1
+E
+#3603
+skeleton~
+a dusty skeleton~
+A dusty skeleton lies here.
+~
+The dusty bones are almost brown.  It must have been buried for a very long
+time.
+~
+42 1024 -750 E
+3 17 7 1d12+36 1d6+2
+10 600
+8 8 1 1
+E
+#3604
+skeleton~
+a dusty skeleton~
+A dusty skeleton lies here.
+~
+The dusty bones are almost brown.  It must have been buried for a very long
+time.
+~
+40 1024 -750 E
+3 17 7 1d12+36 1d6+2
+10 600
+8 8 1 1
+E
+#3605
+zombie~
+the rotting zombie~
+A rotting zombie is staggering towards you with outstretched hands.
+~
+Maggots crawl all over its decaying body.
+~
+40 1024 -750 E
+4 16 5 2d6+60 1d8+2
+100 800
+8 8 1 1
+E
+$

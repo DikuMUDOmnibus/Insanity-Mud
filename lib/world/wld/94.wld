@@ -1,0 +1,779 @@
+#9400
+The Bridge~
+The bridge is dominated by a large view screen showing a colourful spaceship
+floating in space. The bridge is the hub of all activity for this spaceship.
+From here all major functions are carried out.  
+~
+94 0 0
+D1
+~
+~
+0 0 9402
+D2
+~
+~
+0 0 9403
+D3
+~
+~
+0 0 9401
+S
+#9401
+The Comms Desk~
+You are in an unfinished room.
+~
+94 0 0
+D1
+~
+~
+0 0 9400
+S
+#9402
+Weapons Control~
+You are in an unfinished room.
+~
+94 0 0
+D3
+~
+~
+0 0 9400
+S
+#9403
+Navigational Controls~
+You are in an unfinished room.
+~
+94 0 0
+D0
+~
+~
+0 0 9400
+D2
+~
+~
+0 0 9404
+S
+#9404
+Bridge Entrance~
+You are in an unfinished room.
+~
+94 0 0
+D0
+~
+~
+0 0 9403
+D2
+~
+~
+0 0 9405
+S
+#9405
+Central Corridor~
+You are in an unfinished room.
+~
+94 0 0
+D0
+~
+~
+0 0 9404
+D1
+~
+~
+0 0 9407
+D2
+~
+~
+0 0 9408
+D3
+~
+~
+0 0 9406
+S
+#9406
+Crew Compartment~
+The room is neatly kept, everything is standardised, both berths in this room
+look identical. Only a DNA scan would show they were used by different people,
+and then only just. The colouring of the room leaves a lot to the imagination,
+mainly because it is monochrome, and everything seems to blend into one. Why
+do they insist on having grey as standard on starships?  
+~
+94 0 0
+D1
+~
+~
+0 0 9405
+S
+#9407
+Crew Compartment~
+The room is neatly kept, everything is standardised, both berths in this room
+look identical. Only a DNA scan would show they were used by different people,
+and then only just. The colouring of the room leaves a lot to the imagination,
+mainly because it is monochrome, and everything seems to blend into one. Why
+do they insist on having grey as standard on starships?  
+~
+94 0 0
+D3
+~
+~
+0 0 9405
+S
+#9408
+Central Corridor~
+You are in an unfinished room.
+~
+94 0 0
+D0
+~
+~
+0 0 9405
+D1
+~
+~
+0 0 9410
+D2
+~
+~
+0 0 9411
+D3
+~
+~
+0 0 9409
+S
+#9409
+Crew Compartment~
+The room is neatly kept, everything is standardised, both berths in this room
+look identical. Only a DNA scan would show they were used by different people,
+and then only just. The colouring of the room leaves a lot to the imagination,
+mainly because it is monochrome, and everything seems to blend into one. Does
+no-one do something for themselves in this place?  
+~
+94 0 0
+D1
+~
+~
+0 0 9408
+S
+#9410
+Crew Compartment~
+The room is neatly kept, everything is standardised, both berths in this room
+look identical. Only a DNA scan would show they were used by different people,
+and then only just. The colouring of the room leaves a lot to the imagination,
+mainly because it is monochrome, and everything seems to blend into one. It is
+as if everyone was taken from the same mould, and have no real life so to
+speak.  
+~
+94 0 0
+D3
+~
+~
+0 0 9408
+S
+#9411
+Central Corridor~
+An Unfinished Room
+~
+94 0 0
+D0
+~
+~
+0 0 9408
+D1
+~
+~
+0 0 9413
+D2
+~
+~
+0 0 9414
+D3
+~
+~
+0 0 9412
+S
+#9412
+Crew Compartment~
+The room is neatly kept, everything is standardised, both berths in this room
+look identical. Only a DNA scan would show they were used by different people,
+and then only just. The colouring of the room leaves a lot to the imagination,
+mainly because it is monochrome, and everything seems to blend into one. The
+repetitiveness of this place is certainly beginning to take its toll on your
+poor mind.  
+~
+94 0 0
+D1
+~
+~
+0 0 9411
+S
+#9413
+Crew Compartment~
+The room is neatly kept, everything is standardised, both berths in this room
+look identical. Only a DNA scan would show they were used by different people,
+and then only just. The colouring of the room leaves a lot to the imagination,
+mainly because it is monochrome, and everything seems to blend into one. Why
+do they insist on having grey as standard on starships?  
+~
+94 0 0
+D3
+~
+~
+0 0 9411
+S
+#9414
+Central Corridor~
+An Unfinished Room
+~
+94 0 0
+D0
+~
+~
+0 0 9411
+D1
+~
+~
+0 0 9416
+D2
+~
+~
+0 0 9417
+D3
+~
+~
+0 0 9415
+S
+#9415
+The Galley~
+An Unfinished Room
+~
+94 0 0
+D1
+~
+~
+0 0 9414
+S
+#9416
+Recreation Area~
+An Unfinished Room
+~
+94 0 0
+D3
+~
+~
+0 0 9414
+S
+#9417
+Central Corridor~
+An Unfinished Room
+~
+94 0 0
+D0
+~
+~
+0 0 9414
+D1
+~
+~
+0 0 9419
+D2
+~
+~
+0 0 9420
+D3
+~
+~
+0 0 9418
+S
+#9418
+Passenger Quarters~
+An Unfinished Room
+~
+94 0 0
+D1
+~
+~
+0 0 9417
+S
+#9419
+Troop Barracks~
+An Unfinished Room
+~
+94 0 0
+D3
+~
+~
+0 0 9417
+S
+#9420
+Central Corridor~
+An Unfinished Room
+~
+94 0 0
+D0
+~
+~
+0 0 9417
+D1
+~
+~
+0 0 9422
+D2
+~
+~
+0 0 9423
+D3
+~
+~
+0 0 9421
+S
+#9421
+Passenger Quarters~
+An Unfinished Room
+~
+94 0 0
+D1
+~
+~
+0 0 9420
+S
+#9422
+Troop Barracks~
+An Unfinished Room
+~
+94 0 0
+D3
+~
+~
+0 0 9420
+S
+#9423
+Central Corridor~
+An Unfinished Room
+~
+94 0 0
+D0
+~
+~
+0 0 9420
+D1
+~
+~
+0 0 9425
+D2
+~
+~
+0 0 9426
+D3
+~
+~
+0 0 9424
+S
+#9424
+Cargo Hold~
+Small cases of blinking digital equipment are neatly stacked around the edges
+of the room. The larger crates are even stacked at the bottom, reducing the
+risk of personal injury. There is something almost inhuman about how this crew
+works.  
+~
+94 0 0
+D1
+~
+~
+0 0 9423
+S
+#9425
+Cargo Hold~
+Small cases of blinking digital equipment are neatly stacked around the edges
+of the room. The larger crates are even stacked at the bottom, reducing the
+risk of personal injury. There is something almost inhuman about how this crew
+works.  
+~
+94 0 0
+D3
+~
+~
+0 0 9423
+S
+#9426
+Central Corridor~
+An Unfinished Room
+~
+94 0 0
+D0
+~
+~
+0 0 9423
+D1
+~
+~
+0 0 9428
+D2
+~
+~
+0 0 9429
+D3
+~
+~
+0 0 9427
+S
+#9427
+Cargo Hold~
+Small cases of blinking digital equipment are neatly stacked around the edges
+of the room. The larger crates are even stacked at the bottom, reducing the
+risk of personal injury. There is something almost inhuman about how this crew
+works.  
+~
+94 0 0
+D1
+~
+~
+0 0 9426
+D3
+~
+~
+0 0 9446
+S
+#9428
+Cargo Hold~
+Small cases of blinking digital equipment are neatly stacked around the edges
+of the room. The larger crates are even stacked at the bottom, reducing the
+risk of personal injury. There is something almost inhuman about how this crew
+works.  
+~
+94 0 0
+D1
+~
+~
+0 0 9447
+D3
+~
+~
+0 0 9426
+S
+#9429
+Central Corridor~
+An Unfinished Room
+~
+94 0 0
+D0
+~
+~
+0 0 9426
+D1
+~
+~
+0 0 9431
+D2
+~
+~
+0 0 9432
+D3
+~
+~
+0 0 9430
+S
+#9430
+Cargo Hold~
+Small cases of blinking digital equipment are neatly stacked around the edges
+of the room. The larger crates are even stacked at the bottom, reducing the
+risk of personal injury. There is something almost inhuman about how this crew
+works.  
+~
+94 0 0
+D1
+~
+~
+0 0 9429
+S
+#9431
+Cargo Hold~
+Small cases of blinking digital equipment are neatly stacked around the edges
+of the room. The larger crates are even stacked at the bottom, reducing the
+risk of personal injury. There is something almost inhuman about how this crew
+works.  
+~
+94 0 0
+D3
+~
+~
+0 0 9429
+S
+#9432
+Central Corridor~
+An Unfinished Room
+~
+94 0 0
+D0
+~
+~
+0 0 9429
+D1
+~
+~
+0 0 9448
+D2
+~
+~
+0 0 9433
+D3
+~
+~
+0 0 9449
+S
+#9433
+Central Corridor~
+The corridor here is much warmer than anywhere else. This is probably because
+of the large high energy conduits that run along the walls and ceiling. The
+conduits come from the rooms on either side of the corridor, and lead south
+into what must be the engine room.  
+~
+94 0 0
+D0
+~
+~
+0 0 9432
+D1
+~
+~
+0 0 9435
+D2
+~
+~
+0 0 9436
+D3
+~
+~
+0 0 9434
+S
+#9434
+Reactor Room One~
+The reactor in this room is actually quite small. Occupying just the far left
+corner of the room. And it seems to be quite cool in here aswell. Maybe this
+reactor actually manages cold fusion, unlike its counterpart across the hall.
+ 
+~
+94 0 0
+D1
+~
+~
+0 0 9433
+S
+#9435
+Reactor Room Two~
+This is the second of the two reactors used to power the multiple engines. It
+gives the impression of using cold fusion to achieve the maximum effieciency
+from the fuel. But from the wall of impassable heat emminating from the
+reactor, you suspect that this might not be the case.  
+~
+94 0 0
+D3
+~
+~
+0 0 9433
+S
+#9436
+Engine Room~
+The temperature in this room is almost unbearable, the conduits from the
+reactors have raised the temperature in here to well beyond EC guidelines. 
+The Engines lay to the East and West, and strangely the access panels are open.
+The heat from the panels alone are contributing over half of the problem in
+this room. Entering those panels will result in a rather painful and total
+death, something to do with particle projection and the like.  
+~
+94 0 0
+D0
+~
+~
+0 0 9433
+D1
+~
+~
+0 0 9438
+D2
+~
+~
+0 0 9439
+D3
+~
+~
+0 0 9437
+S
+#9437
+Port Engine~
+Yeah, clever move, walk into a high energy particle acceleration unit... 
+That's an engine for you idiots still wondering. If you are curious, you are
+officially dead, so go get a life.  
+~
+94 6 0
+D1
+~
+~
+0 0 9436
+S
+#9438
+Starboard Engine~
+Yeah, clever move, walk into a high energy particle acceleration unit... 
+That's an engine for you idiots still wondering. If you are curious, you are
+officially dead, so go get a life.  
+~
+94 6 0
+D3
+~
+~
+0 0 9436
+S
+#9439
+Stardrive Room~
+For the most complex piece of equipment to ever be designed, well apart from
+the first drinkable instant coffee. It is surprisingly small. It is in this
+room that all the work for travelling faster than light is done. And the only
+machinery in here is a small globe suspended in mid-air slowly spinning
+anti-clockwise.  
+~
+94 0 0
+D0
+~
+~
+0 0 9436
+S
+#9440
+Crawl Space~
+This room, is definitely small, barely enough room to move around properly. 
+Maybe you should lose some weight then fatso. If you didn't eat all the pies,
+you wouldn't be having such a hard time of it.  
+~
+94 257 0
+D0
+~
+~
+0 0 9441
+D2
+~
+~
+0 0 9448
+S
+#9441
+Crawl Space~
+This room, is definitely small, barely enough room to move around properly. 
+Maybe you should lose some weight then fatso. If you didn't eat all the pies,
+you wouldn't be having such a hard time of it.  
+~
+94 257 0
+D0
+~
+~
+0 0 9442
+D2
+~
+~
+0 0 9440
+S
+#9442
+Starboard Weapons Array~
+This room is full of complicated technology the likes of which you have not
+seen before. From some of the markings on the equipment you are able to tell
+that these are quantum laser arrays, high energy plasma rockets, and depleted
+uranium repeater rifles.  
+~
+94 0 0
+D2
+~
+~
+0 0 9441
+S
+#9443
+Crawl Space~
+This room, is definitely small, barely enough room to move around properly. 
+Maybe you should lose some weight then fatso. If you didn't eat all the pies,
+you wouldn't be having such a hard time of it.  
+~
+94 257 0
+D0
+~
+~
+0 0 9444
+D2
+~
+~
+0 0 9449
+S
+#9444
+Crawl Space~
+This room, is definitely small, barely enough room to move around properly. 
+Maybe you should lose some weight then fatso. If you didn't eat all the pies,
+you wouldn't be having such a hard time of it.  
+~
+94 257 0
+D0
+~
+~
+0 0 9445
+D2
+~
+~
+0 0 9443
+S
+#9445
+Port Weapons Array~
+This room is full of complicated technology the likes of which you have not
+seen before. From some of the markings on the equipment you are able to tell
+that these are quantum laser arrays, high energy plasma rockets, and depleted
+uranium repeater rifles.  
+~
+94 0 0
+D2
+~
+~
+0 0 9444
+S
+#9446
+Weapons Locker~
+An Unfinished Room
+~
+94 0 0
+D1
+~
+~
+0 0 9427
+S
+#9447
+Weapons Locker~
+An Unfinished Room
+~
+94 0 0
+D3
+~
+~
+0 0 9428
+S
+#9448
+Anti-Radiation Bulkhead~
+This bulkhead is in place to prevent radiation from the reactor from
+contaminating the cargo. There is just enough room for one person to squeeze
+through to the crawl space beyond.  
+~
+94 0 0
+D0
+~
+~
+0 0 9440
+D3
+~
+~
+0 0 9432
+S
+#9449
+Anti-Radiation Bulkhead~
+This bulkhead is in place to prevent radiation from the reactor from
+contaminating the cargo. There is just enough room for one person to squeeze
+through to the crawl space beyond.  
+~
+94 0 0
+D0
+~
+~
+0 0 9443
+D1
+~
+~
+0 0 9432
+S
+$~

@@ -1,0 +1,26 @@
+Insanity Mud (Minos) News.
+----------
+
+- Latest News at bottom of this document, dates show when I updates this
+  file not when things added btw. ;-)
+
+15/12/97
+
+* New MSummon command to allow for couple to summon each other.
+* Improved Msay.
+* Music and Commiserate channels.
+
+1/2/98
+
+* Added Engrave for object.
+* Gact command to gossip actions.
+* Changed the Experience system and ripped out exp tables.
+
+-----------
+
+See News board for the latest information.
+
+19/5/98
+
+* Fixed Undef guests on houses, now cleared on bootup.
+

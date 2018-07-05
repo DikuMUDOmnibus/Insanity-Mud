@@ -1,0 +1,28 @@
+#34
+Bowmangani's zone~
+3499 30 1
+30 102 0
+M 0 3409 1 3440 	(Sephiroth)
+E 1 3406 1 16 	(Very long sword)
+E 1 3408 1 11 	(Shinra Shield)
+M 0 3403 1 3409 	(Shinra Waitress)
+G 1 3402 10 -1 	(a sandwich)
+G 1 3403 10 -1 	(a glass)
+G 1 3407 10 -1 	(a portion of chips)
+M 0 3408 1 3433 	(Red XIII)
+E 1 3405 1 3 	(a shinra medal)
+M 0 3404 10 3424 	(Shinra Guard)
+M 0 3404 10 3428 	(Shinra Guard)
+M 0 3406 10 3429 	(Shinra Bodyguard)
+M 0 3404 20 3430 	(Shinra Guard)
+M 0 3407 1 3425 	(Barrett)
+M 0 3405 1 3426 	(President Shinra)
+M 0 3406 5 3426 	(Shinra Bodyguard)
+G 1 3404 10 -1 	(identity badge)
+M 0 3401 5 3403 	(a member of the shinra army)
+E 1 3401 5 16 	(Standard issue peacekeeping weapon)
+M 0 3402 2 3403 	(Cleaning Lady)
+M 0 3401 5 3401 	(a member of the shinra army)
+E 1 3401 5 16 	(Standard issue peacekeeping weapon)
+S
+$

@@ -1,0 +1,29 @@
+#102
+DS9 Part II (Miri)~
+10299 45 2
+60 102 1
+M 0 10322 1 10295 	(Julian Bashir)
+G 1 8155 10000 -1 	(the elixir of life)
+G 1 2557 1000 -1 	(a blue potion)
+O 0 10298 3 10245 	(the BS Board)
+M 0 10298 1 10267 	(antimatter goblin)
+M 0 10306 10 10231 	(Kai Winn)
+G 1 10310 10000 -1 	(some corn chips)
+M 0 10307 10 10283 	(a starfleet marine)
+E 1 10300 1000 5 	(starfleet body armor)
+E 1 10301 1000 16 	(a handphaser)
+E 1 10303 1000 6 	(starfleet marine targeting helmet)
+M 0 10318 5 10217 	(a Jem'hadar guard)
+M 0 10317 25 10285 	(a Jem'Hadar Warrior)
+M 0 10318 4 10274 	(a Jem'hadar guard)
+M 0 10318 4 10274 	(a Jem'hadar guard)
+M 0 10318 4 10274 	(a Jem'hadar guard)
+M 0 10317 30 10275 	(a Jem'Hadar Warrior)
+M 0 10317 25 10275 	(a Jem'Hadar Warrior)
+M 0 10200 1 10293 	(General Mar'tok)
+E 1 10305 1200 16 	(a bat'leth)
+D 0 10265 5 1 	(A Small Room)
+D 0 10261 1 1 	(Power Conduit Access)
+D 0 10266 0 1 	(Reaction Control Room)
+S
+$

@@ -1,0 +1,45 @@
+#300
+rocky cat~
+Rocky~
+Zeus' pet cat 'Rocky' is playing here.
+~
+Rocky is a sleak black cat, with deep brown eyes.  As you look up at him he
+stares back into your eyes, a look that says "I'm hungry, Feed Me!"
+~
+16472 67142656 234 E
+70 0 10 30d500+0 30d120+120
+1000 1000
+8 8 1 1
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#302
+toad~
+the cute toad~
+A big cute Toad is hopping about here.
+~
+He is big, he is cute and he has the biggest smile.
+~
+24586 32768 1000 E
+113 20 0 1d1+2000 1d1+0
+0 0
+8 8 1 1
+E
+#303
+clive alive~
+clive alive~
+Clive stands here looking very alive.
+~
+Clive is alive!
+~
+10 16777248 -1000 E
+10 0 1 10d2+1000 1d1+10
+1 1
+8 8 1 10
+E
+$

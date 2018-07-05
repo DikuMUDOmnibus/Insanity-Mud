@@ -1,0 +1,885 @@
+#8100
+key dark~
+a dark key~
+A key of dark black metal is here.~
+~
+18 4 16385
+0 0 0 0
+1 0 0 0 0
+#8101
+key black~
+a black key~
+A black key of very hard metal lies here.~
+~
+18 4 16385
+0 0 0 0
+1 0 0 0 0
+#8102
+key runed~
+a runed key~
+A key graven with evil runes lies in the dust.~
+~
+18 142 16385
+0 0 0 0
+1 0 0 0 0
+#8103
+key pale green~
+a pale green key~
+A key of pale-green oxidized copper lies here.~
+~
+18 140 16385
+0 0 0 0
+1 0 0 0 0
+#8104
+key iron~
+an iron key~
+A key of dull iron lies in the dirt.~
+~
+18 4 16385
+0 0 0 0
+1 0 0 0 0
+#8105
+key small black~
+a small black key~
+A small, black skeleton key lies in the dirt.~
+~
+18 142 16385
+0 0 0 0
+1 0 0 0 0
+#8106
+key bronze~
+a bronze key~
+A bronze key with intricate wards lies here.~
+~
+18 4 16385
+0 0 0 0
+1 0 0 0 0
+#8107
+key huge iron~
+a huge iron key~
+A huge key, made of black iron, lies here.~
+~
+18 4 16385
+0 0 0 0
+5 0 0 0 0
+#8108
+key blued steel~
+a blued steel key~
+A small key of blued steel lies here.~
+~
+18 5 16385
+0 0 0 0
+1 0 0 0 0
+#8109
+key red~
+a red key~
+A red-colored steel key lies unnoticed in the dust.~
+~
+18 4 16387
+0 0 0 0
+1 0 0 0 0
+#8110
+key golden~
+a golden key~
+A golden key brazed to a fine gold ring lies here.~
+~
+18 5 16385
+0 0 0 0
+1 0 0 0 0
+#8111
+key silver~
+a silver key~
+An ornate silver key lies on the ground, unwanted.~
+~
+18 4 16385
+0 0 0 0
+1 0 0 0 0
+#8112
+key copper~
+a copper key~
+An iron key has been copper plated to keep off rust.~
+~
+18 4 16385
+0 0 0 0
+1 0 0 0 0
+#8113
+cheese~
+some cheese~
+A large wedge of cheddar cheese gathers a lovely mold here.~
+~
+19 0 16385
+8 0 0 0
+2 60 0 0 0
+#8114
+key bright iron~
+a bright iron key~
+This bright iron key can open a lock, somewhere.~
+~
+18 4 16385
+0 0 0 0
+1 0 0 0 0
+#8115
+brew strange bottle~
+a bottle~
+A large lumpy bottle of some strange brew is here.~
+~
+17 0 1
+4 3 9 1
+8 1 0 0 0
+#8116
+chest bronze~
+an ugly bronze chest~
+A bronze chest, made ugly with grotesque bas-reliefs, stands here.~
+~
+15 0 0
+200 15 8105 0
+40 100 0 0 0
+#8117
+potion oily black~
+an oily black potion~
+A bottle of oily black liquid lies on its side.~
+~
+10 64 1
+25 27 27 46
+2 50 0 0 0
+#8118
+crown~
+King Korbor's crown~
+The crown of the Lonoyan king rolls by and falls flat with a clang.~
+~
+9 1297 17
+1 0 0 0
+2 25000 0 0 0
+E
+crown~
+As you turn the crown over in your hands, you feel twice the warrior
+you used to be, ready even to lead an army into battle.  Surely no
+magic can harm such a great one as wears this crown.
+~
+A
+6 1
+A
+18 1
+A
+24 -2
+#8119
+bottle scotch~
+a bottle of Scotch~
+A bottle of Inver House blended whiskey lies here.~
+~
+17 0 16385
+20 14 5 0
+19 5 0 0 0
+E
+bottle~
+It is sealed with a metal cap. You KNOW this stuff is bad,bad,bad.
+It is probably not single-malt. More likely eight malt.
+~
+#8120
+bowl stew bigos~
+the bowl of bigos~
+A steaming bowl of Polish hunters' stew has been left here.~
+~
+19 0 16385
+10 0 0 0
+3 12 0 0 0
+E
+bowl stew bigos~
+It is the famous Polish hunters' stew that was immortalized in Adam
+Mickiewicz' epic poem Pan Tadeusz.  Venison and other meats are 
+boiled with kapusta (sauerkraut) to make a delicious dinner, fit for
+King Korbor of Lonoya.
+~
+#8121
+apple~
+an apple~
+A lovely yellow apple with gold flecks and red cheeks lies here.~
+~
+19 0 16385
+2 0 0 0
+1 3 0 0 0
+#8122
+walnuts nuts~
+some walnuts~
+The squirrels have left a few nuts here.~
+~
+19 0 1
+3 0 0 0
+2 10 0 0 0
+#8123
+shirt~
+a plain shirt~
+A Lonoyan man's shirt lies in a crumpled heap.~
+~
+9 0 9
+1 0 0 0
+1 10 0 0 0
+#8124
+shortgown gown~
+a shortgown~
+A Lonoyan woman's shortgown hangs forgotten on a nearby peg.~
+~
+9 0 9
+1 0 0 0
+1 10 0 0 0
+#8125
+pants breeches~
+a pair of breeches~
+Some Lonoyan left in such a hurry, he forgot his breeches.~
+~
+9 0 33
+1 0 0 0
+1 20 0 0 0
+#8126
+skirt~
+a skirt~
+A skirt lies here.~
+~
+9 0 9
+1 0 0 0
+1 20 0 0 0
+#8127
+boots~
+high boots~
+A pair of clodhoppers lies here.~
+~
+9 0 65
+3 0 0 0
+4 200 0 0 0
+#8128
+kerchief~
+a kerchief~
+A kerchief lies here.~
+~
+9 0 21
+0 0 0 0
+1 3 0 0 0
+#8129
+bandanna neckerchief~
+a bandanna~
+A large red neckerchief is draped over a stone.~
+~
+9 0 21
+0 0 0 0
+1 3 0 0 0
+#8130
+claymore sword~
+a claymore~
+A claymore lies here.~
+~
+5 8192 8193
+0 1 12 3
+10 1000 0 0 0
+#8131
+claymore sword~
+the claymore of MacLeod~
+A beautiful claymore with an engraved hilt lies here.~
+~
+5 30017 8193
+0 2 12 3
+10 100000 0 0 0
+E
+hilt claymore sword engravings~
+The hilt is engraved with one word, a name ;it is the name "MacLeod".
+~
+A
+1 1
+A
+6 1
+A
+18 5
+A
+19 5
+#8132
+spear long~
+a long spear~
+A fifteen-foot spear is hung on the wall here.~
+~
+5 8192 8193
+0 2 6 11
+3 300 0 0 0
+#8133
+hand axe~
+a hand axe~
+A hand axe lies here.~
+~
+5 8192 8193
+0 1 7 3
+3 10 0 0 0
+#8134
+axe~
+a battle axe~
+A battle axe lies here.~
+~
+5 8192 8193
+0 1 9 3
+8 90 0 0 0
+#8135
+dirk knife~
+a dirk~
+A long, single-edged knife lies here.~
+~
+5 8192 8193
+0 1 4 11
+1 15 0 0 0
+#8136
+quarterstaff staff~
+a quarterstaff~
+A quarterstaff lies here.~
+~
+5 0 8193
+0 1 6 5
+4 16 0 0 0
+#8137
+broadsword sword~
+a broadsword~
+A broadsword lies here.~
+~
+5 8192 8193
+0 2 4 3
+4 800 0 0 0
+#8138
+chain mail shirt~
+a mail-shirt~
+A shirt of chain mail lies in a heap.~
+~
+9 4096 9
+6 0 0 0
+20 3000 0 0 0
+#8139
+helm~
+a helm~
+An open-faced helm lies on its side.~
+~
+9 4096 17
+6 0 0 0
+6 1700 0 0 0
+#8140
+green cloth cloak~
+a green Elven cloak~
+A pile of forest green cloth lies in a crumpled heap.~
+~
+9 3392 1025
+1 0 0 0
+2 10000 0 0 60
+A
+25 10
+A
+18 2
+A
+2 -2
+A
+12 20
+#8141
+cloak cloth red~
+a red cloak~
+A pile of red cloth lies on the ground.~
+~
+9 0 1025
+1 0 0 0
+2 1000 0 0 35
+A
+19 3
+A
+18 3
+A
+5 -2
+A
+2 2
+#8142
+cloak cloth blue~
+a blue cloak~
+A pile of blue cloth lies on the ground.~
+~
+9 0 1025
+1 0 0 0
+2 1000 0 0 10
+A
+2 2
+A
+1 2
+A
+3 -2
+A
+19 3
+#8143
+cloak cloth green~
+a green cloak~
+A pile of green cloth lies on the ground.~
+~
+9 0 1025
+1 0 0 0
+2 1000 0 0 55
+A
+13 25
+A
+5 2
+A
+2 2
+A
+17 15
+#8144
+backpack~
+a backpack~
+A backpack lies here.~
+~
+15 0 1025
+100 1 -1 0
+8 400 0 0 0
+#8145
+flask~
+a pint flask~
+A glass flask lies here.~
+~
+17 0 16385
+6 6 0 0
+11 100 0 0 0
+#8146
+skin~
+a water skin~
+A water skin lies here~
+~
+17 0 16385
+24 24 0 0
+29 100 0 0 0
+#8147
+robe~
+a robe of pockets~
+A many-pocketed robe lies here.~
+~
+15 65 1025
+1000 0 -1 0
+2 100000 0 0 0
+A
+17 -5
+#8148
+robe~
+a white robe~
+A white robe lies here.~
+~
+9 0 1025
+2 0 0 0
+9 1000 0 0 0
+#8149
+shield medium wooden~
+a medium shield~
+A medium-sized wooden shield lies in the dust.~
+~
+9 0 513
+6 0 0 0
+10 400 0 0 0
+#8150
+bow short~
+a short bow~
+A short bow lies here unstrung, its string wrapt round its stave.~
+~
+5 0 8193
+0 1 6 11
+5 150 0 0 0
+#8151
+breastplate plate leather~
+a rigid leather breastplate~
+A breastplate made of leather hardened in hot oil lies here.~
+~
+9 0 9
+4 0 0 0
+9 400 0 0 0
+#8152
+jacket studded leather~
+a studded leather jacket~
+A leather jacket studded with metal plates lies in a heap.~
+~
+9 0 9
+5 0 0 0
+12 800 0 0 0
+#8153
+flask healing draught~
+the healing draught~
+A small flask full of an aromatic, and alcoholic, fluid.~
+~
+10 64 16385
+5 16 16 16
+1 450 0 0 0
+E
+flask~
+It is engraved with these arcane runes:
+ 
+                      judicandus dies
+~
+#8154
+flask sight elixir~
+the draught of sight~
+A small flask of clear, glimmering liquid.~
+~
+10 64 16385
+10 14 18 20
+1 150000 0 0 0
+#8155
+flask life elixir~
+the elixir of life~
+A small flask of fragrant golden liquid.~
+~
+10 64 16385
+0 28 28 28
+1 45000 0 0 0
+#8156
+flask evil's bane potion~
+the potion of evil's bane~
+A large vial of bubbling red fluid lies here, firmly capped.~
+~
+10 64 16385
+10 22 35 43
+1 2000 0 0 0
+#8157
+scroll~
+a scroll of enchantment~
+A scroll labelled "To Augment Thy Craftsmanship" lies here.~
+~
+2 64 16385
+30 24 3 201
+1 100000 0 0 0
+#8158
+scroll~
+a scroll of stormbringing~
+A scroll labelled "To Bring the Spring Rains" lies here.~
+~
+2 64 16385
+30 11 -1 -1
+1 500000 0 0 0
+#8159
+scroll~
+a scroll of battle-might~
+A scroll labelled "To Increase Thy Fighting Spirit" lies here.~
+~
+2 64 16385
+30 1 3 39
+1 1500 0 0 0
+#8160
+scroll~
+a scroll of lore~
+A scroll labelled "The Legend of Nambor" lies here.~
+~
+12 0 16385
+0 0 0 0
+1 100 0 0 0
+E
+scroll~
+                       The Legend of Nambor.            
+    In days now forgotten to any but the living God, there lived a
+    valiant Man, Nambor by name, who dared enter the evil tunnels 
+    in the bowels of the mountains.  From Symtoto he came, through
+    paths untrodden, until after great struggle he found a shaft 
+    leading down into deep darkness.  But that was the start of poor
+    Nambor's trials, for he found the entrance was too high to leave
+    through. Now must he roam the tunnels of the evil creatures that
+    gnaw the rocks of the Underdark, till God shows him an escape 
+    from the tunnels, or from this world.
+    And bravely he went forth, ever climbing deeper, sword clutched 
+    in hand.  And 'tis said by the elves that he saw there many a 
+    marvel; rocks that turned into vile beasts when touched, and 
+    unseen creatures that lurked in the shadows.  And some there are
+    that say he escaped at last, but others say he never left, but
+    died in the dark, broken sword still in his hand.
+    And now these tunnels are full of goblins, yet still some of the
+    nameless things Nambor fought remain.  Where now is one willing
+    to enter and discover the ancient hero's fate? Where now is the
+    hero, to save Lonoya from the goblins?
+                                                     Cwell the Bard
+~
+#8161
+ring opal golden~
+an opal ring~
+A fine gold ring set with an opal lies on the ground.~
+~
+9 1360 3
+0 0 0 0
+1 50000 0 0 0
+A
+12 5
+A
+18 2
+#8162
+gold~
+the gold of King Korbor~
+A huge pile of gold is here.~
+~
+20 0 1
+400000 0 0 0
+1 0 0 0 0
+#8163
+knife goblin~
+a goblin knife~
+A jagged black knife with a goblin-head carved on its hilt lies here.~
+~
+5 8192 8193
+0 1 5 14
+1 50 0 0 0
+E
+hilt~
+It is a hideous, leering goblin head carved in bone.
+~
+#8164
+scimitar goblin~
+a goblin scimitar~
+A blackened scimitar engraved with evil runes lies here.~
+~
+5 8896 8193
+0 1 7 3
+4 200 0 0 0
+A
+18 1
+A
+19 1
+#8165
+club goblin~
+a goblin's club~
+A large human bone set with cruel jagged spikes lies here.~
+~
+5 704 8193
+0 2 4 6
+6 400 0 0 0
+A
+19 2
+#8166
+bow goblin~
+a goblin's shortbow~
+A shortbow of ogre horn backed with sinew lies here.~
+~
+5 704 8193
+0 1 6 11
+6 600 0 0 0
+A
+19 1
+#8167
+spear goblin~
+a goblin's spear~
+A short spear with a broad blade lies here.~
+~
+5 8896 8193
+0 1 8 14
+3 100 0 0 0
+A
+18 1
+A
+19 2
+#8168
+poleaxe jagged goblin~
+a poleaxe~
+A jagged, black, rune-carved poleaxe is stuck into the ground.~
+~
+5 8896 8193
+0 2 4 3
+10 12000 0 0 0
+A
+18 1
+A
+19 3
+#8169
+elven chainmail mail~
+the elven chain mail~
+A hauberk of mithril rings lies here.~
+~
+9 3392 9
+7 0 0 0
+6 15000 0 0 0
+A
+13 20
+A
+24 -4
+#8170
+elven bow~
+the elven hunting bow~
+An elvish bow of aurodiea wood lies here.~
+~
+5 3392 8193
+0 1 8 11
+4 2200 0 0 0
+A
+18 2
+A
+19 2
+#8171
+broadsword sword fine krat~
+a fine broadsword named "Krat"~
+A finely crafted broadsword must have been plundered from Lonoya.~
+~
+5 8192 8193
+0 2 5 3
+7 10000 0 0 0
+E
+broadsword sword~
+The mark "D. F." with a stamped-in hammer is on its hilt, and the blade
+bears the name "Krat".  Perhaps it is magic? But its blade, at least,
+is very well-tempered, and its edge razor-sharp.
+~
+A
+19 2
+#8172
+platemail red~
+the red platemail~
+Some sturdy but ugly platemail has been painted over red. Doesn't help.~
+~
+9 6848 9
+10 0 0 0
+230 1000 0 0 0
+A
+17 -10
+#8173
+mace huge black~
+a huge black mace~
+A huge black club with metal bands lies here.~
+~
+5 2688 8193
+0 3 8 6
+20 1000 0 0 0
+#8174
+collar iron toadstool~
+Toadstool's iron collar~
+An iron collar lies in the dirt. It has some writing on it.~
+~
+9 2688 5
+8 0 0 0
+8 1000 0 0 0
+E
+collar writing~
+It is in orcish:
+                     I AM TOADSTOOL THE MIGHTY
+                       NONE SHALL DEFEAT ME
+~
+#8175
+toadstool goblin head~
+Toadstool's head~
+A severed goblin head lies here.  Looks tasty.~
+~
+12 61444 17
+0 0 0 0
+10 20000 0 0 0
+#8176
+goblin hide~
+a goblin hide~
+The hide of a goblin lies on the ground, smelling very bad.~
+~
+12 4 1025
+0 0 0 0
+8 600 0 0 0
+#8177
+apron~
+a pink apron~
+A frilly pink apron, stained with blood, is on the ground.~
+~
+12 0 2049
+0 0 0 0
+1 10 0 0 0
+#8178
+scimitar horrible orcish~
+an orcish scimitar~
+A horrible jagged scimitar of orcish make is stuck into the ground.~
+~
+5 60122 8193
+0 2 4 11
+5 1000 0 0 0
+A
+1 -4
+A
+12 -100
+A
+18 5
+A
+19 5
+#8179
+gold~
+the gold~
+A gigantic mountain of plunder is piled in every corner.~
+~
+20 0 1
+80000 0 0 0
+1 0 0 0 0
+#8180
+chest crude~
+a crude chest~
+A crude wooden chest sits here.~
+~
+15 0 1
+200 13 8103 0
+50 0 0 0 0
+#8181
+chest ebony~
+an ebony chest~
+An ebony chest sits here.~
+~
+15 0 1
+400 13 8111 0
+100 0 0 0 0
+#8182
+chest pine~
+a pinewood chest~
+A light chest of pine sits here.~
+~
+15 0 0
+100 15 8112 0
+1 0 0 0 0
+#8183
+pick~
+a small pick~
+A mining pick lies here, discarded.~
+~
+5 8192 8193
+0 1 6 9
+8 100 0 0 0
+#8184
+pick orcish~
+an orcish pick~
+A mining pick lies here, discarded.~
+~
+5 8832 8193
+0 1 6 12
+8 1000 0 0 0
+A
+19 4
+#8185
+tub~
+a tub of dirty water~
+A tub of dirty water for quenching tools sits here.~
+~
+23 0 0
+999 999 14 1
+999 0 0 0 0
+E
+water tub~
+It doesn't look too good. I wouldn't drink it if I were you!
+~
+#8186
+well jakur~
+the  Well of Jakur~
+You stand by the ancient Well of Jakur, delved thousands of years ago.~
+~
+23 0 0
+9999 9999 15 0
+10004 0 0 0 0
+#8187
+fountain wine~
+the wine fountain~
+A magical fountain of marble spouts the blood-red wine.~
+~
+23 64 0
+999 999 2 0
+999 0 0 0 0
+E
+wine fountain~
+The fountain is filled with cheap, but not sour, wine.
+~
+#8188
+safe picture~
+the large portrait~
+A portrait of King Korbor in robes of state hangs on the wall.~
+~
+15 0 0
+20 15 8114 0
+1 1 0 0 0
+E
+portrait~
+It is an oil-on-wood portrait of the good King. No, you can't steal it,
+my friend.  It is, strange to say, firmly bolted to the wall, not hung
+from the usual nail.  
+~
+$~

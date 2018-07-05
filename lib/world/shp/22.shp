@@ -1,0 +1,149 @@
+#1      Coke Machine At Crossroads~
+2235
+2236
+2240
+0
+0
+3
+.1
+0
+0
+0
+0
+0
+%s I'm sorry but I could not find that particular item.~
+%s Please do not stuff that in my coin slot.~
+%s Please do not stuff that in my coin slot.~
+%s Go away.~
+%s Please insert %d additional coins.~
+%s That comes to about %d coins.  Have a awesome day, Eh?~
+%s That also comes to %d coins.  Have a cool day, Eh?~
+1
+1
+2218
+0
+2204
+1
+24
+0
+0
+#2      Bob At A&Z Store~
+2236
+2240
+2241
+2252
+2253
+1.2
+.8
+0
+0
+0
+0
+0
+%s I can't find that...it must be out of stock.~
+%s I don't buy from people.~
+%s I don't buy from people.~
+%s I don't buy from people.~
+%s You don't have enough money!  Come back later.~
+%s That will run you %d coins.  Here you are.~
+%s I don't buy.~
+0
+1
+2239
+0
+2345
+5
+12
+13
+22
+#3      Mr. Tuck In Tuck Shoppe~
+2240
+2241
+0
+0
+0
+1.2
+1.0
+0
+0
+0
+0
+0
+%s I'm sorry, I can nae help you there.~
+%s Are you sure you have one of those?~
+%s Dream on, dude!~
+%s How about as a gift?~
+%s Perhaps later, when you've got enough money, my friend.~
+%s That's %d coins.~
+%s Here's %d coins.~
+0
+1
+2240
+0
+2269
+0
+24
+0
+0
+#4      Sue In Bookstore~
+2216
+2226
+2211
+0
+0
+6.3
+1.1
+2215
+2233
+0
+0
+0
+%s I've never heard of that...what is it?~
+%s I don't see the goods, neighbour.~
+%s I don't buy that junk.~
+%s I'm a little short on the moolah, know what I mean?~
+%s If you come back with more money, I may consider selling it...to you.~
+%s That's %d coins...can I wrap it up for you?~
+%s Here's %d for that.~
+0
+1
+2241
+0
+2241
+0
+24
+0
+0
+#5      Bartender In Campus Pub~
+2237
+2238
+2239
+0
+0
+1.1
+1.0
+0
+0
+0
+0
+0
+%s How do you mix one of those?~
+%s I don't buy.~
+%s I don't buy.~
+%s I don't buy.~
+%s No bar tabs.  Pay in advance, bub.~
+%s That's %d gold.~
+%s I don't buy.~
+0
+1
+2242
+0
+2266
+0
+24
+0
+0
+$~
+
+
+

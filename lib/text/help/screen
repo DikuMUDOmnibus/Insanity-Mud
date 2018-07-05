@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+Movement:                          | Communication:
+NORTH SOUTH EAST WEST UP DOWN      | SAY GSAY SHOUT HOLLER TELL ASK WHISPER
+LOOK EXITS ENTER LEAVE             | MAIL RECEIVE CHECK GOSSIP GRATS AUCTION
+SLEEP WAKE REST SIT STAND          | NOTELL NOSHOUT NOGOSSIP NOGRATS NOAUCTION
+(LOCK UNLOCK OPEN CLOSE)           | NOARENA GEMOTE MSAY
+-------------------------------------------------------------------------------
+Objects:                           | Information: 
+GET DROP JUNK DONATE PUT GIVE WEAR | SCORE HELP INFO WHO NEWS TIME WEATHER
+GRAB INVENTORY EQUIPMENT REMOVE    | WHERE CONSIDER LEVELS WIZLIST IMMLIST
+EXAMINE EAT DRINK TASTE SIP POUR   | CREDITS TOGGLE FLAGS WIZHELP SPELLS
+-------------------------------------------------------------------------------
+Combat:                            | Utility:
+KILL WIELD FLEE ASSIST TRACK       | ! BUG IDEA TYPO QUIT SAVE BRIEF COMPACT
+(KICK BASH RESCUE BACKSTAB CAST)   | TITLE NOSUMMON COMMANDS SOCIALS DISPLAY
+PUSH KNIFE STRIKE		   | AUTOLOOT AUTOEXIT PROMPT AUTOGOLD
+-------------------------------------------------------------------------------
+Further information available by HELP <keyword>, keyword being a command or 
+(for example) one of the following may be usefull to you at this time:
+
+SOCIAL SHOPS INNS CLERIC WARRIOR THIEF MAGIC SPELLS LINK DRUID AVATAR WITCHUNTER
+SACRIFICE SPELLS SKILLS AREAS RENT HOUSES TOGGLE
+--------------------------------------------------------------------------------

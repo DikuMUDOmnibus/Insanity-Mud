@@ -1,0 +1,98 @@
+**************************************************************************
+	THESE RULES ARE FIRM NAD BREAKING THEM WILL LEAD
+		TO SERIOUS CONSIQUENCES (SEE HANDBOOK)
+**************************************************************************
+
+- Immortals and Builders are shown warnings via their syslog
+  display. You can concider that any eq that generates such a warning
+  should not be allowed into the game.
+
+                               Modifiers
+                               ---------
+
+- No Item should affect any stat by more than 3, ie +WIS.
+  This limit should when apllies to mutilple affections on one piece of 
+  equipment be spread over the affections, in which case the maximum
+  improvemnet then should total no more than 4 if there is matching
+  negative gain.
+
+  EG +2 WIS +2 INT -1 CON would be acceptable.
+
+- Use your common sense with items that you make, for example, why
+  should a container affect armor class and why should a weapon affect WIS
+  try to only have affections that are relevent to the equipment that you
+  make.
+
+                            Class Restrictions
+                            ------------------
+
+- Equipment should follow the class restrictions layed out for each
+  class in the help file. For example Clerics should not be allowed to
+  use sharp weapons.
+
+- Try to restrict powerfull equipment to certain classes, that way not
+  everyone in the game gets to have it!
+
+- Don't set all your equipment in a zone so that only one class can use
+  it, its not fair and most players won't go into your zone.
+
+
+                            Potions/Wands/Staffs
+                            --------------------
+
+- The maximin Charges for these Items should be no more than 5. Do not
+  make any magic available to low level players that they could not have
+  at their present level. This means, for example, a level 10 warrior
+  should not have level 60 cleric spells availble to them by using a wand
+  or staff or potion. Recall and Identify are exceptions to this rule.
+
+- Potions that heal should have a maximun of one heal and perhaps one
+  other affection, in which case they should be very expensive and made to
+  have a weight of at least 6 units.
+
+                                Containers
+                                ----------
+
+- Containers of any description should never have any other affections,
+  they should never have a negative mass and should never be above 3000
+  capasity.
+
+                             Level Restrictions
+                             ------------------
+
+- When setting level restitions, you should think very carfully.
+  Broadly speaking the eq that you make should be banded into
+  10 level groupings, ie level 1 - 10, 10 - 20. Powerfull eq should have
+  high level restrictions.
+
+- When creating a zone you should gear the mobs and eq to one of these
+  bands and set level restitions accordingly you will be asked for witch
+  band your zone is intended and the eq will be expected to conform to
+  sensible limits for the zone.
+
+                                 Houses
+                                 ------
+
+- If you do need more rooms for house. Please get access from a Founder or
+  Creator to use zone 58 for making new rooms and not the assigned zone 
+  you are given.
+
+- Players houses are not free, *do not* create them without taking their
+  money. See the policy for the relevant costs.
+
+                             General Stuff
+                             -------------
+
+- From time to time a Creator or Founder will look over your zone,
+  just to make sure you *do not* break the OLC rules.
+
+- If you want to create a new zone or are ready to have a new zone you
+  have built linked then you must speak to Behemoth or one of the Senior
+  Builders, see the credits, who will get the new zone sorted out for you.
+  If you are desperate to start a new zone then ask any one of the
+  Founders or a creator may be able to assign you a zone which is free.
+
+- If you have any questions relating to these rules please address them to
+  a Creator or Founder.
+
+

@@ -1,0 +1,387 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.  Please 
+report it immediately using the BUG command.~
+~
+13 0 0
+0 0 0 0
+0 0 0 0 0
+#1
+wings~
+a pair of wings~
+A pair of wings is sitting here.~
+~
+9 0 17
+6 0 0 0
+0 0 0 0 0
+#2
+water mineral bottle~
+a bottle of Mineral water~
+A bottle has been left on the floor.~
+~
+17 0 1
+20 20 15 0
+25 25 0 0 0
+#3
+machine drink~
+a drinks machine~
+A Large Drinks machine stands in the corner.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 0
+#4
+quest armour~
+the quest armour~
+Some Quest armour has been left here.~
+A truly spectacular piece of equipment it glows with untold magic.
+~
+9 65947 9
+10 0 0 0
+0 100000 1 0 0
+A
+6 2
+A
+18 5
+A
+19 5
+A
+13 25
+A
+23 -3
+#5
+Quest sword~
+a quest sword~
+A quest sword lies here~
+~
+5 65947 8193
+0 6 10 3
+8 70000 0 0 0
+A
+18 5
+A
+13 15
+A
+5 1
+#6
+quest medal~
+the Quest Medal~
+A Quest Medal has been left here.~
+~
+11 66011 5
+0 0 0 0
+4 80000 0 0 0
+A
+1 2
+A
+2 2
+A
+3 2
+A
+4 2
+A
+5 2
+A
+19 3
+#7
+Quest Boots~
+Quest Boots~
+These boots are made for walking.  The Quest Boots~
+The owner of these boots deserves respect, they have pitted there wits at all
+the gods can throw at them.  They are the master of all they survey they
+beat the best other players could offer.  Overall they are the top dog.
+~
+11 65883 65
+0 0 0 0
+5 80000 0 0 0
+A
+14 25
+A
+2 1
+A
+5 1
+A
+17 -10
+A
+18 5
+#8
+Charm Wand~
+Charm Wand~
+An unfinished object is lying here.~
+~
+3 463 16385
+15 5 5 7
+1 10 0 0 0
+#9
+Ring Of Absolute Power~
+Ring Of Absolute POwer~
+A small glowing humming ring of power lies before you~
+Chrikey this is a bloody good ring
+~
+9 1180123 3
+20 0 0 0
+25 100000 0 0 0
+A
+5 -2
+A
+19 5
+A
+18 3
+A
+2 2
+A
+3 -2
+A
+13 3
+#10
+light~
+a burning twig~
+A twig of ever lasting light is burning brightly here.~
+~
+1 6360216 1
+0 0 -1 0
+10 1000000 0 0 0
+A
+5 2
+A
+3 2
+A
+12 50
+A
+3 50
+A
+6 2
+A
+25 50
+#11
+quest light~
+a Quest Light~
+The quest light burns with infinite brightness here.~
+~
+1 257 16385
+0 0 -1 0
+10 0 0 0 0
+A
+17 -5
+A
+18 3
+A
+19 3
+#20
+sunglasses shades~
+Ray-Ban sunglasses~
+A pair of Ray-Ban sunglasses, with a 100% UV protection label, lie here.~
+~
+11 0 131073
+0 0 0 0
+0 0 0 0 0
+E
+ray ban sunglasses~
+Polished chrome frames the dark lenses, which bear a small "100% UV Protection"
+sticker. Oh and don't forget that "Ray-Ban" logo.  
+~
+A
+18 3
+#21
+suntan lotion~
+a bottle of suntan lotion~
+A bottle of suntan lotion is here.~
+~
+12 0 1
+0 0 0 0
+0 0 0 0 0
+#22
+beach towel~
+a large beach towel~
+A large beach towel is laid out on the ground before you.~
+~
+13 0 1
+0 0 0 0
+0 0 0 0 0
+#23
+parasol~
+a sun parasol~
+Someone has had the forethought to set up a parasol for use.~
+~
+13 0 1
+0 0 0 0
+0 0 0 0 0
+#24
+trenchcoat coat~
+a long black trenchcoat~
+A long black trenchcoat is slung over a chair in the corner.~
+~
+11 1048576 1025
+0 0 0 0
+0 0 0 0 0
+#25
+trousers kevlar~
+Kevlar Trousers~
+A pair of tough looking trousers are lying here.~
+~
+11 0 33
+0 0 0 0
+0 0 0 0 109
+E
+trousers kevlar~
+They show signs of heavy use, but no sign of wear. They are so stiff that you
+doubt that anyone other than a god could actually wear them and maintain any
+degree of freedom of movement.  
+~
+#26
+leather thong~
+a leather thong~
+A leather thong tied into a loop is lying here.~
+~
+11 0 257
+0 0 0 0
+0 0 0 0 0
+E
+leather thong~
+Looks like it might be made of dragon skin actually. It is tied tightly into a
+knot, so as to create a loop you can wear on your arm.  
+~
+#27
+weapons harness~
+a weapons harness~
+A body harness for storing weapons hangs across the chair.~
+~
+15 0 9
+0 0 0 0
+0 0 0 0 0
+#28
+9mm pistol glock~
+a Glock 17~
+A small firearm, sits on the table before you.~
+~
+6 0 24577
+2 0 19 19
+0 0 0 0 0
+#29
+side house~
+the Side of a House~
+Looks like someone left the side of a house here.~
+~
+5 0 8193
+0 1 1 6
+20 0 0 0 113
+#30
+ammo clip~
+a clip of ammo~
+A clip of ammo for a Glock 17 sits on the table.~
+~
+7 0 1
+2 0 0 19
+0 0 0 0 0
+#31
+knife sheath~
+a knife sheath~
+A sheath for a knife hangs from the back of a chair.~
+~
+15 0 526337
+0 0 0 0
+0 0 0 0 0
+#32
+wedding dress~
+a wedding dress of unusual beginnings~
+A very expensive wedding dress is laying here getting crumpled.~
+~
+11 19923224 9
+0 0 0 0
+0 0 0 0 0
+E
+dress wedding~
+As is fitting of the person who is wearing this dress, all traditions have been
+eschewed, for a more elaborate, yet understated effect. The dress is made
+entirely of what you assume to be Spanish silk, spun by hand in the northern
+regions. Around the edges, a simple square cut pattern has been embroidered in
+thin gold thread. The simplicity of it all draws your attention to the wearer
+of the dress, and how breathtakingly beautiful they look.  
+~
+#33
+robe holy~
+a priest's robes~
+A Priest's robes~
+~
+11 7422989 9
+0 0 0 0
+0 0 0 0 0
+#34
+tux~
+a black and white tuxedo~
+An unfinished object is lying here.~
+~
+11 8388864 9
+0 0 0 0
+1 1000 0 0 0
+E
+tuxedo~
+The tux includes a black coat with tails, a white shirt with 
+gold lining, and black trousers.  Black shoes with gold laces
+completes the attire.
+~
+#50
+Quest Container~
+Quest Container~
+A Quest Container Stands Here~
+~
+15 4 1
+1000000 1 -1 0
+0 0 0 0 0
+#94
+Used Chewing Gum~
+Used Chewing Gum~
+Used Chewing Gum~
+~
+13 0 1
+0 0 0 0
+0 0 0 0 0
+#95
+A piece of metal dental floss~
+a piece of metal dental floss~
+A piece of metal dental floss~
+~
+13 0 1
+0 0 0 0
+0 0 0 0 0
+#96
+Ring Pull On A Piece Of String~
+Ring Pull On A Piece Of String~
+Ring Pull On A Piece Of String~
+~
+8 0 1
+0 0 0 0
+0 0 0 0 0
+#97
+Quest Pen~
+Quest Pen~
+Quest Pen~
+Write Stuff with it
+~
+21 0 1
+0 0 0 0
+0 0 0 0 0
+#98
+The Quest Note Paper~
+the Quest Note Paper~
+The Quest Note Paper~
+What is this a clue or an iou
+~
+16 25 1
+0 0 0 0
+0 20000 0 0 0
+#99
+waybread bread~
+a waybread~
+Some waybread has been put here.~
+~
+19 64 1
+24 0 0 0
+1 50 0 0 0
+E
+waybread bread~
+The waybread is the traditional feed of elves when travelling, they
+call it lembas.  It is said to refresh the weary traveler greatly.
+~
+$~

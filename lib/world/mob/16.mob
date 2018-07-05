@@ -1,0 +1,132 @@
+#1600
+nothing undefined~
+Nothing...~
+undefined~
+Nothing.
+~
+253978 29590656 0 E
+113 -100 -20 1d1+30000 30d127+120
+0 0
+8 8 1 10
+BareHandAttack: 6
+E
+#1601
+2~
+belgarion~
+A mob which has no place in zone 16.
+~
+A wimpy looking mob. Looks like it shouldn't exist.
+
+-- Tlion
+~
+196808 33556993 0 E
+1 20 0 1d1+0 1d1+0
+0 1
+6 6 1 1
+E
+#1602
+dusk labrador retriever dog tongue goofy~
+Dusk~
+A Lab named Dusk runs about, tongue lolling out of his mouth in a goofy way.
+~
+This Labrador Retriever is black as night and very large.
+He is really cute and looks at you with his blue eyes.
+His eyes implore you to throw the rubber ball that is in his mouth.
+~
+770072 40 1000 E
+104 -100 -20 1d1+30000 30d127+120
+0 0
+8 8 1 10
+BareHandAttack: 4
+E
+#1603
+labrador retriever merlin tongue goofy dog~
+Merlin~
+A Lab named Merlin runs about, tongue lolling out of his mouth in a goofy way.
+~
+This Labrador Retriever is black as night and very large.
+He is really cute and looks at you with his green eyes.
+His eyes implore you to throw the rubber ball that is in his mouth.
+~
+770072 0 1000 E
+104 -100 -20 1d1+30000 30d127+120
+0 0
+8 8 1 10
+BareHandAttack: 4
+E
+#1604
+mystic dog labrador retriever goofy tongue~
+Mystic~
+A Lab named Mystic runs about, tongue lolling out of his mouth in a goofy way.
+~
+This Labrador Retriever is black as night and very large.
+He is really cute and looks at you with his purple eyes.
+His eyes implore you to throw the rubber ball that is in his mouth.
+~
+770056 0 1000 E
+104 -100 -20 1d1+30000 30d127+120
+0 0
+8 8 1 10
+BareHandAttack: 4
+E
+#1605
+chance labrador retriever dog tongue goofy~
+Chance~
+A Lab named Chance runs about, tongue lolling out of his mouth in a goofy way.
+~
+This Labrador Retriever is black as night and very large.
+He is really cute and looks at you with his grey eyes.
+His eyes implore you to throw the rubber ball that is in his mouth.
+~
+770056 0 1000 E
+104 -100 -20 1d1+30000 30d127+120
+0 0
+8 8 1 10
+BareHandAttack: 4
+E
+#1606
+labrador retriever dog shadow tongue goofy~
+Shadow~
+A Lab named Shadow runs about, tongue lolling out of his mouth in a goofy way.
+~
+This Labrador Retriever is black as night and very large.
+He is really cute and looks at you with his brown eyes.
+His eyes implore you to throw the rubber ball that is in his mouth.
+~
+770056 0 1000 E
+104 -100 -20 1d1+30000 30d127+120
+0 0
+8 8 1 10
+BareHandAttack: 4
+E
+#1607
+glitter duck~
+the glittering duck~
+A glitter covered duck waddles around here.
+~
+The duck quacks happily, despite being covered from bill to tail in a fine,
+glittering pink dust. His eyes twinkle mysteriously, and you wonder whether he
+is in fact a duck at all.  
+~
+57354 8389760 1000 E
+110 0 0 1d1+15000 10d10+20
+0 0
+8 8 1 1
+BareHandAttack: 4
+E
+#1608
+hippy~
+a 'smashed out of his gourd' hippy~
+A 'smashed out of his gourd' hippy is here taking a toke on a big bong
+~
+He looks like he's smashed out of his gourd.
+He is wearing tye-dye clothes and blue John Lennon type
+shades.  His hair is long and straight, but looks a bit dirty.
+~
+10 131112 0 E
+10 -80 -10 1d1+30000 1d1+100
+10 5050
+8 8 1 10
+BareHandAttack: 9
+E
+$

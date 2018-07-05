@@ -1,0 +1,439 @@
+#10300
+starfleet body armor~
+starfleet body armor~
+A suit of techno-armor is here.~
+~
+9 1114112 9
+20 0 0 0
+8 12000 0 0 55
+A
+1 2
+A
+14 -2
+A
+21 -2
+A
+20 -3
+#10301
+handphaser~
+a handphaser~
+A handphaser is here~
+~
+5 4653074 8193
+0 30 20 12
+4 120000 0 0 50
+E
+phaser handphaser~
+The phaser has a grey body and a black encasement at the
+business end of it.  There are small red lights just above the
+trigger.  The lights read: power *****  beam **
+To bad you are unaware of how to change the setting.  It looks
+like it could be a very dangerous weapon if it were set on max power.
+~
+A
+3 -1
+A
+18 20
+A
+19 10
+#10302
+phaser rifle~
+a phaser rifle~
+A starfleet phaser rifle has been abandoned here.~
+~
+5 5320720 8193
+0 55 20 12
+20 450000 1 0 95
+E
+phaser rifle~
+The rifle is a meter long and colored grey, except for it's
+business end which has a black ring on it.  There are small red
+lights on that indicate its power setting is 10 and beam is 3
+If only you knew how to change the settings, you'd be able
+to make it a much more powerful weapon.
+~
+A
+18 20
+A
+19 35
+A
+3 -3
+#10303
+marine targetting helmet targeting~
+starfleet marine targeting helmet~
+A helmet with strange designs on it is here.~
+~
+9 16 17
+11 0 0 0
+5 2300 0 0 60
+E
+designs~
+Upon closer inspection, the designs are targeting sensors
+and a microcamera for the marine team leader to asssit each
+marine in achieving their goals.
+~
+A
+2 -3
+A
+18 15
+A
+6 2
+A
+25 2
+A
+13 5
+#10304
+earring barjoran~
+bajoran earring~
+A small earring is here.~
+~
+11 4194576 65537
+0 0 0 0
+2 125 0 0 1
+E
+earring~
+Nothing.
+The earring is a unique design of a Bajoran family
+that informs those able to interpret them what the
+trade of the family was before the Occupation.  The
+earrings are said to have special powers given by
+the Prophets to the wearer of the earring.
+~
+A
+3 2
+A
+4 1
+A
+25 2
+A
+13 15
+#10305
+batleth bat'leth~
+a bat'leth~
+A Klingon Bat'leth has been left here.~
+~
+5 6369304 8193
+0 20 10 3
+10 5000 1 0 35
+E
+batleth bat'leth~
+The Klingon Bat'leth is a multi-bladed weapon that has two handle grips
+in a curved, double-sided blade.  Two smaller blades are attached inside
+the outer blades.  The bat'leth is best when used less like a weapon, 
+and more like an extension of the body.
+~
+A
+18 4
+A
+19 10
+#10306
+marine combat boots~
+a pair of boots~
+A pair of heavy combat boots is here.~
+~
+11 4202512 65
+0 0 0 0
+3 1875 0 0 35
+E
+combat boots~
+The boots are heavily constructed of a light, yet strong
+material.  They are lined with a duranium alloy that allows
+flexibility, and plenty of extra protection from injury.
+~
+A
+17 -17
+A
+14 3
+A
+13 10
+A
+3 -2
+#10307
+safe~
+a safe~
+Quark's safe is here.~
+~
+15 2 0
+4000 10 -1 0
+100 0 0 0 0
+E
+safe~
+The safe is a very strong one with a new type of
+lock on it that cannot be picked.  It is too heavy to
+carry, so you must get the key to see what's inside
+~
+E
+desk~
+The desk is a heavy wooden one made from CAlifornia Redwoods
+from earth.  There are 3 tools on the desk, but none are
+recognizable.
+~
+E
+tools~
+The tools are not identifiable.  You've got no idea
+what they could be used for.
+~
+#10308
+barrel bloodwine wine~
+a bloodwine barrel~
+A barrel of bloodwine is here~
+~
+17 0 16385
+30 30 2 0
+35 1750 0 0 1
+E
+barrel bloodwine~
+It is of a fine year: 2309, just the best there is.
+~
+#10309
+grubworms handful~
+a handful of grubworms~
+A bunch of swiggly worms are crawling over your feet.~
+~
+19 0 1
+3 0 0 0
+2 500 0 0 0
+#10310
+corn chips~
+some corn chips~
+Some corn chips have been dropped here.~
+~
+19 16 1
+6 0 0 0
+1 150 0 0 0
+#10311
+dirk knife blade assassin's knife cardassian~
+a Cardassian assassin's knife~
+A very decorative knife is here.  It looks expensive.~
+You stab your opponent with a calculated fury.
+~
+5 5121024 8193
+0 30 20 11
+8 90000 2 0 60
+E
+knife assassin's dirk blade~
+Here is a weapon of beauty.  It's handle is inlaid with
+silver and gold and the blade is made to do the most 
+possible damage.  It would rip a person's insides
+right out thru the knife hole.
+~
+A
+18 10
+A
+19 10
+A
+9 2
+A
+2 1
+A
+12 -100
+#10312
+klingon bracer~
+Klingon bracers~
+A pair of well decorated bracers are here.~
+~
+9 1048576 257
+15 0 0 0
+5 5100 0 0 35
+E
+klingon bracers decorations~
+The bracers are well made, even for Klingon bracers.
+There is a family emblem on the bracers; one that is
+no longer considered a family on Kronos.  It is the
+family of the recently deceased Gowron.
+~
+A
+1 2
+#10313
+klingon leggings~
+Klingon leggings~
+A pair of heavy leggings is here.  They have Klingon markings on them.~
+~
+9 5242880 33
+14 0 0 0
+4 6000 0 0 35
+A
+14 -20
+#10314
+klingon warrior's belt~
+a Klingon warrior's belt~
+A heavy belt is here.  It looks like it is made for warriors.~
+~
+15 5664784 2049
+2000 1 -1 0
+4 12000 0 0 40
+E
+belt~
+The belt is heavily armored, but has plenty of space for your
+possessions in the pocket the belt has.
+~
+A
+2 -2
+A
+1 1
+A
+13 15
+A
+5 3
+A
+25 3
+#10315
+gummy bear gummybear~
+a gummy bear~
+Someone has discarded a gummy bear here.  It still looks edible.~
+~
+19 0 1
+2 0 0 0
+1 100 0 0 0
+E
+gummy bear gummybear~
+It is a colorful gummy bear.
+It is candy that stays in your tummy for 2 hrs.
+~
+#10316
+mars candy bar~
+a Mars candy bar~
+A Mars bar has been left here.~
+~
+19 0 1
+4 0 0 0
+1 65 0 0 0
+E
+mars bar~
+It is a candy bar with a chocolate coating over
+a chocolate whip, topped by caramel.
+It'll stay in your stomach for 4 hours.
+~
+#10317
+treasure latinum gold-pressed~
+a pile of gold-pressed latinum~
+A pile of gold-pressed latinum has been lost here.~
+~
+8 2097153 1
+0 0 0 0
+14 80000 0 0 0
+E
+gold-pressed latinum pile treasure~
+The pile of gold-pressed latinum looks to be
+worth about 80000 gold coins, but don't expect
+anyone to give you what it is worth.  Businessmen
+are shrewd and must make a profit.
+~
+#10330
+scroll magical~
+a magical scroll~
+A magical scroll is here.  It has a small embossment on it.  [lvl50scr]~
+~
+2 1048768 1
+50 68 69 52
+2 75000 0 0 50
+#10331
+potion hotpink pink hot-pink~
+a hot-pink potion~
+A hot-pink potion has been left here.~
+~
+10 64 1
+100 19 44 50
+1 0 0 0 30
+#10332
+light beacon emergency~
+an emergency light beacon~
+A small emergency beacon is here.~
+~
+1 129 16385
+0 0 16 0
+2 175 0 0 0
+E
+emergency light beacon~
+The beacon is a Star Fleet issue light that should
+last about 16 hours.
+~
+#10394
+immortal robes~
+immortal robes~
+Godly robes have been left here.~
+~
+9 0 1025
+100 0 0 0
+4 10 0 0 105
+A
+12 100
+A
+12 100
+A
+12 100
+A
+12 100
+A
+12 100
+A
+12 100
+#10395
+dreadnaught battle armor~
+Dreadnaught Battle Armor~
+Miri's Dreadnaught Battle Armor is here.~
+~
+9 12996640 9
+200 0 0 0
+15 10 2 0 112
+A
+13 100
+A
+13 100
+A
+13 100
+A
+13 100
+A
+13 100
+A
+13 100
+#10396
+board praise god~
+Praise Board~
+Praise the Gods board is here.~
+~
+12 12582992 0
+0 0 0 0
+9999900 0 0 0 0
+A
+1 5
+A
+1 10
+#10397
+eminems m+ms~
+eminems~
+Some candy has been left here.~
+~
+19 0 1
+4 0 0 0
+0 10 0 0 0
+#10398
+keychain~
+Miri's key~
+Nothing is here.~
+~
+18 5242913 5
+0 0 0 0
+9 0 0 0 105
+#10399
+pulse cannon~
+Miri's pulse cannon~
+A large energy weapon is laying here.~
+~
+5 13697034 8193
+0 30 20 12
+17 999990 2 0 112
+E
+cannon pulse~
+The device is 1 meter long and 1/2 a meter wide. It has what
+seems to be a shoulder mount and trigger with a guard around it.
+It is an ashen color and feels dangerous.
+~
+A
+18 127
+A
+19 127
+A
+2 2
+$~

@@ -1,0 +1,370 @@
+#9301
+comet's tail~
+a comet's tail~
+A long, slender whip lies here.~
+~
+5 3 8193
+0 2 6 4
+9 1000 0 0 0
+#9302
+arm hercules~
+the Titanic Arm plates of Hercules~
+Arm plates of the Zodiac lie here.~
+~
+9 1089 257
+6 0 0 0
+10 10000 0 0 0
+E
+arm~
+These mighty armors have been worn by this immortal, since the ancient time.
+~
+A
+1 1
+#9304
+belt orion~
+the Titanic Belt of Orion~
+A belt of the Zodiac lies here.~
+~
+9 1089 2049
+3 0 0 0
+7 10000 0 0 0
+E
+belt~
+You can immediately see that it belongs to Orion, from the three stars
+engraved on it.
+~
+A
+18 2
+#9305
+skull draco~
+an ugly skull of Draco~
+A massive skull of a dead Draco lies here.~
+~
+4 194 16385
+15 5 5 5
+20 10000 0 0 0
+#9306
+fleece aries~
+the Titanic Fleece of Aries~
+A fleece of the Zodiac lies here.~
+~
+9 1089 1025
+6 0 0 0
+9 10000 0 0 0
+E
+fleece~
+From a look it resembles the Golden Fleece that exists in the Greek myths.
+~
+A
+19 1
+A
+5 2
+A
+2 -1
+A
+12 10
+#9307
+hoofs taurus~
+the Titanic Hoofs of Taurus~
+A hoof of the Zodiac lies here.~
+~
+9 1089 65
+3 0 0 0
+10 10000 0 0 0
+E
+hoof~
+It is with these hooves that Taurus can stand against Orion's attacks.
+~
+A
+19 1
+#9308
+mask gemini~
+the Titanic Mask of Gemini~
+A mask of the Zodiac lies here.~
+~
+9 1217 17
+2 0 0 0
+7 10000 0 0 0
+E
+mask~
+You notice the mask has got two faces, one smiling and the other crying.
+You don't know which way you should wear it.
+~
+A
+1 1
+#9309
+shell cancer~
+the Titanic Shell of Cancer~
+A shell of the Zodiac lies here.~
+~
+9 1089 17
+5 0 0 0
+10 10000 0 0 0
+E
+shell~
+A shell which is dented in the middle, resulting from the Hercules' mighty
+pound when the Crab was still an enemy of Hercules in ancient times.
+~
+A
+12 10
+#9310
+skin leo~
+the Titanic Skin of Leo~
+A skin of the Zodiac lies here.~
+~
+9 1089 1025
+7 0 0 0
+15 10000 0 0 0
+E
+skin~
+A skin made of metal, which was worn by Hercules during his Ten Labours.
+~
+A
+13 10
+#9311
+bracelet virgo~
+the Titanic Bracelet of Virgo~
+A bracelet of the Zodiac lies here.~
+~
+9 1089 4097
+2 0 0 0
+4 10000 0 0 0
+E
+bracelet~
+A bracelet of purity and youth, only worn by selected virgins.
+~
+A
+1 1
+#9312
+scale libra~
+the Titanic Scale of Libra~
+A shield of the Zodiac lies here.~
+~
+9 1089 513
+8 0 0 0
+15 10000 0 0 0
+E
+scale~
+It is a shield of justice, used in the ancient battle against injustice.
+~
+A
+13 5
+#9313
+scale libra~
+the Titanic Scale of Libra~
+A shield of the Zodiac lies here.~
+~
+9 194 17
+0 0 0 0
+15 10000 0 0 0
+E
+scale~
+It is a shield of injustice, it picks on the innocent.
+~
+A
+17 6
+A
+13 -30
+#9314
+sting scorpio~
+the Sting of Scorpio~
+Sting of the Zodiac lies here.~
+~
+5 1089 8193
+0 4 4 11
+7 10000 0 0 0
+E
+sting~
+This dreadful weapon put a lot of mortals to death before Scorpio was banished.
+~
+A
+18 3
+A
+19 4
+#9315
+arrow sagittarius~
+the Arrow of Sagittarius~
+The Arrow of Sagittarius lies here.~
+~
+3 1089 16385
+10 10 10 69
+7 5000 0 0 0
+E
+arrow~
+It's an arrow of lightning; it will never miss any target.
+~
+#9316
+bow sagittarius~
+the Titanic Bow of Sagittarius~
+The Titanic Bow of Sagittarius lies here.~
+~
+5 1089 8193
+0 2 9 6
+20 10000 0 0 0
+E
+bow~
+The gigantic bow used by the Archer; it is a very powerful weapon.
+~
+A
+18 4
+A
+19 3
+#9317
+horns capricorn~
+the Titanic Horns of Capricorn~
+A pair of horns of the Zodiac lies here.~
+~
+9 1089 17
+3 0 0 0
+6 10000 0 0 0
+E
+horn~
+These strange horns are the work of gods, shaped to fit on hands.
+They look powerful indeed.
+~
+A
+18 3
+A
+19 2
+#9318
+vessel aquarius~
+the Ancient Vessel of Aquarius~
+A vessel of the Zodiac lies here.~
+~
+4 1089 24577
+10 10 10 0
+12 10000 0 0 0
+E
+vessel~
+This vessel has been carried by the Water Bearer ever since she came to the
+Zodiac.
+~
+#9319
+tail pisces~
+the Titanic Tail of Pisces~
+A fish tail of the Zodiac lies here.~
+~
+9 1089 2049
+6 0 0 0
+10 10000 0 0 0
+E
+tail~
+This tail can actually be worn by mortals somehow as leggings ... another
+work of the gods.
+~
+A
+2 1
+#9320
+ring dignity~
+the Ring of Dignity~
+A ring of specialty lies here.~
+~
+9 1123 3
+0 0 0 0
+3 20000 0 0 0
+E
+ring~
+This ring belongs to Cassiopeia, queen of the Universe.
+Mortals, do not touch!
+~
+A
+12 3
+A
+3 -1
+#9321
+sceptre might~
+the Sceptre of Might~
+A sceptre of interest lies here.~
+~
+1 1091 16385
+0 0 608 0
+4 20000 0 0 0
+E
+sceptre~
+You'd better give it back, or the king of the Universe will punish you.
+~
+#9322
+ring universe~
+the ring of the universe~
+Here lies a fortune ... a small ring of power.~
+~
+9 355 3
+4 0 0 0
+3 40000 0 0 0
+E
+ring~
+It conceals the power of the universe.
+~
+A
+12 2
+A
+13 3
+#9323
+great dipper~
+the Great Dipper of the Skies~
+A dazzling white object lies on the ground.~
+~
+5 355 8193
+0 4 6 6
+20 30000 0 0 0
+A
+18 2
+A
+19 2
+#9324
+spring shoot~
+a spring shoot~
+A shoot grows here, covered with dew.~
+~
+18 3 1
+0 0 0 0
+2 0 0 0 0
+#9325
+summer flower~
+a summer flower~
+A flower grows here, waiting to be picked up.~
+~
+18 3 1
+0 0 0 0
+2 0 0 0 0
+#9326
+autumn leaf~
+an autumn leaf~
+A leaf lies here, as if just fallen from a tree.~
+~
+18 3 1
+0 0 0 0
+2 0 0 0 0
+#9327
+winter branch~
+a winter branch~
+A branch lies here, still covered with snow.~
+~
+18 3 1
+0 0 0 0
+2 0 0 0 0
+#9328
+chains andromeda~
+chains of Andromeda~
+Some chains lie on the floor.~
+~
+13 0 1
+0 0 0 0
+50 0 0 0 0
+E
+chains~
+They certainly look important!
+~
+#9329
+sunglasses fire~
+a pair of sunglasses made of fire~
+A small flame burns here.~
+~
+8 5242880 17
+0 0 0 0
+10 0 0 0 0
+E
+glasses sunglasses fire~
+Sunnies made of fire ... yep this is a nikQuest item
+~
+$~

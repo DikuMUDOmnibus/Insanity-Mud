@@ -1,0 +1,117 @@
+#3401
+Shinra Soldier~
+a member of the shinra army~
+Shinra Solider
+~
+The uniform could do with a clean
+~
+24 32768 349 E
+30 10 7 30d100+1000 30d10+10
+10000 1000
+4 8 1 2
+BareHandAttack: 12
+E
+#3402
+Cleaner~
+Cleaning Lady~
+A cleaning lady
+~
+A cleaning lady who is good at her job and always says morning whatever time of day it is.
+~
+4236 0 0 E
+30 10 10 10d10+1000 10d10+10
+100 100000
+8 8 2 3
+BareHandAttack: 4
+E
+#3403
+Shinra Waitress~
+Shinra Waitress~
+A waitress is here ready to serve your needs!
+~
+A well trained and prepared female waitress who has been working for Shinra Inc (or shall we say forced to work for) for the last 10 years. She always tries to smile, but something is missing in her live *grins*
+~
+18442 8388640 349 E
+10 10 10 10d10+1000 10d10+10
+10 1000000
+8 8 2 1
+BareHandAttack: 4
+E
+#3404
+Shinra Guard~
+Shinra Guard~
+A shinra guard is wandering round in a panic
+~
+Nothing.
+~
+40 10 348 E
+50 -10 -8 30d5+30000 30d5+20
+10000 200000
+8 8 1 4
+BareHandAttack: 7
+E
+#3405
+President Shinra~
+President Shinra~
+President Shinra is walking around here pondering his next plan against avalanche
+~
+A plump man with short hair and a goaty beard. Close to retirement and to handover the presidency to Rufus his son.
+~
+81930 37749768 -1000 E
+70 -20 10 30d75+23765 30d75+80
+10000 2000000
+8 8 1 5
+E
+#3406
+Shinra Bodyguard~
+Shinra Bodyguard~
+A shinra bodyguard is keeping a watchful eye on you!
+~
+A loyal bodyguard to the Shinra Executive. Although slightly dim these bodyguards are tough.
+~
+4106 0 -900 E
+65 -10 -5 30d10+20000 30d10+10
+10000 100000
+8 8 1 3
+BareHandAttack: 5
+E
+#3407
+Barrett~
+Barrett~
+A huge man with a gun arm is searching around for people to kill like you!
+~
+Head of the underground resistance movement AVALANCHE. Barrett is fighting the mega conglomerate Shinra Inc which has monopolized Mako energy, building special reactores to suck it out of the planet.
+~
+842 33800 500 E
+100 -60 -10 30d20+30000 30d20+80
+10000 2000000
+8 8 1 5
+BareHandAttack: 12
+E
+#3408
+Red XIII~
+Red XIII~
+A fierce looking beast is wandering around here trying to find something to do.
+~
+Just as the name applies, he is an animal with fire-red fur. But under his fierce exteror is an intelligence surprassing that of any human. He has sharp claws and fangs and has recently been in a battle.
+~
+106 4195368 600 E
+80 0 -10 30d2+30000 30d2+20
+10000 50000
+7 6 0 10
+BareHandAttack: 8
+E
+#3409
+Sephiroth~
+Sephiroth~
+Sephiroth is here wanting to find Jenova
+~
+Even amongst the elite troops of SOLDIER, Sephiroth is known to be the best. His past is locked away in confidential file held by Shinra Inc. Could this be the mysterious man in the black cape?
+~
+536 12583952 -1000 E
+102 -80 -10 30d100+30000 30d100+100
+10000 10000
+8 8 1 7
+BareHandAttack: 3
+E
+$

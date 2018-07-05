@@ -1,0 +1,111 @@
+#10000
+An Open Green Field~
+You are in a beautiful green landscape. In
+the distance you can see a lake shrouded in a cool fog.
+Trees are sprinkled all around you; trees of many shapes
+and sizes.  Some are mere shrubs, but others reach up and
+touch the sky in a majestic way that touches you deeply and
+makes you feel at ease.  A ripple in the scene to the south
+catches your attention.
+~
+100 4 0
+D1
+~
+~
+0 0 10001
+D2
+~
+wheel~
+1 0 10313
+S
+#10001
+Path to a Lake~
+After walking on the grassy field for a while, you come to a path.
+The direction of the path heads straight towards a small lake.
+A small family is having a picnic a ways from the path.  The couple
+look to be in their early 30's and their daughter can't be more than
+seven.  The mother is playing with a new addition to the family, a tiny
+month old baby, while dad plays volleyball with the older sister of the
+infant.  Noone else is in sight, so you pretty much have this place to
+yourself.
+~
+100 32836 2
+D0
+~
+~
+0 0 10002
+D1
+~
+~
+0 0 10004
+D3
+~
+~
+0 0 10000
+S
+#10002
+At the Picnic~
+There is a blanket on the ground with an abundance of food layed out
+neatly waitinging for the feast to begin. The makings of roast beef and
+PnB sandwiches, a chef's salad, tuna fish salad, and an apple pie is
+wait to be devoured.  A mother is here changing the diaper on her
+infant, and dad is on top of a small hill playing volleyball.
+The main path is back to the south.
+~
+100 64 0
+D0
+~
+~
+0 0 10003
+D2
+~
+~
+0 0 10001
+S
+#10003
+At the Volleyball Court~
+The volleyball net is a new addition to the park.  It hasn't attracted much
+attention yet, as not many know about it.  There are two here, a pretty 7
+year old girl and her father.  They are knocking a volleyball back and forth
+over the net, keeping up an amazing volley going.  They haven't dropped
+the ball in almost 25 minutes.
+~
+100 32832 0
+D2
+~
+~
+0 0 10002
+S
+#10004
+Nearing the Lake~
+You can hear the gentle waves on the lake brushing against the shoreline
+just a ways further along the path.  The sound is a relaxing one, and 
+very definitly one you want to listen to for a while.  It is what you've
+come here for, after all.  The path leads you east to the lake and west
+to reality.
+~
+100 32836 0
+D1
+~
+~
+0 0 10005
+D3
+~
+~
+0 0 10001
+S
+#10005
+On the Beach Near the Shore~
+The lake is a small one, but is crystal clear.  As long as there is 
+enough light to see by, you can see the bottom of the lake, and the
+fish swimming around too. A mink is just down the shoreline getting
+a drink of water, and several deer are on one end of the lake doing
+the same thing.
+~
+100 32836 0
+D3
+~
+~
+0 0 10004
+S
+$~

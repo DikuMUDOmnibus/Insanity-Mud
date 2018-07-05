@@ -1,0 +1,575 @@
+#1200
+The Meeting Room of the Gods~
+   The meeting room is plain and very simple.  A circular table sits
+in the middle of the room, lit by some unseen light source.  There
+are many chairs around the table, all empty.  The Immortal Board Room
+is to the north.
+~
+12 88 0
+D0
+The Immortal Board Room can be seen to the north.
+~
+~
+0 -1 1204
+D1
+~
+~
+0 0 1220
+D2
+~
+~
+0 0 1207
+D3
+~
+~
+0 0 1216
+S
+#1201
+The Playground of the Gods~
+   You are standing in a huge space surrounded with gigantic marble pillars. 
+Looking ahead you can see that there is some sort of arena resting on a cloud
+high in the statospher. You feel very privilged to be here, for it is only the
+most powerful in the land who can come this far, anyone who is not you mighty
+peer is refused, the glory of the sights that you now behold
+~
+12 9292 0
+D0
+~
+~
+0 0 1217
+D3
+~
+~
+0 0 1218
+D5
+~
+~
+0 0 1207
+S
+#1202
+The Ice Box Of The Gods~
+   The Ice Box is for little boys and girls that cannot play nice. Be good
+and maybe someone will come and get you.
+~
+12 216 0
+S
+#1203
+The Gods Mortal Board Room~
+   This is the Gods Mortal Board Room.  Here you can leave messages for the
+Mortal Players without getting pestered by them.    
+~
+12 88 0
+D0
+~
+~
+0 0 1212
+D1
+~
+~
+0 0 1214
+D2
+~
+~
+0 0 1213
+D3
+The Immortal Board Room can be seen to the west.
+~
+~
+0 -1 1204
+D4
+~
+~
+0 0 1215
+D5
+~
+~
+0 0 1221
+S
+#1204
+The Immortal Board Room~
+   The main hang out of the Gods, the Immortal Board Room is the place to be.
+Gods exchange messages here almost every day. The mortal board room is to the
+east and the meeting room for the Gods is to the south. To the west is the
+post office of the Gods. There is a large staircase leading down to the main
+temple in the city of Minos. In the northeast corner you spot a small
+staircase leading upwards.  
+
+~
+12 88 0
+D1
+The Mortal Board Room can be seen just to the east.
+~
+~
+0 -1 1203
+D2
+The God's Meeting Room is located to the south.
+~
+~
+0 -1 1200
+D3
+The God's Post Office is just to the west.
+~
+~
+0 -1 1205
+D4
+The staircase leads up to the social gathering room.
+~
+~
+0 0 1206
+D5
+You see the hustle and bustle of the Temple of Insanity at the bottom of
+the stairs.
+~
+~
+0 -1 4579
+S
+#1205
+The Post Office Of The Gods~
+   The Post Office Of The Gods is the same as most Post Offices except that
+it is not as slow.  Even the Postal service knows not to anger the Gods.
+Piles of junk mail line the walls.  I guess even Gods get on mailing lists.
+The Immortal Board Room is to the east.
+~
+12 88 0
+D1
+The Immortal Board Room is just to the east.
+~
+~
+0 -1 1204
+S
+#1206
+The Social Gathering Room~
+   This elegantly decorated room has one simple purpose.  To socialize with
+everyone else around in one central location.
+~
+12 88 0
+D0
+The Immortal Court Room,
+where the Immortals of Minos are 
+tried for their wrong doings
+
+~
+~
+0 0 1209
+D2
+The Fractal Orgy Chamber.
+~
+~
+0 0 1208
+D5
+The Immortal Board Room is just down through the floor.  Funny how you
+didn't notice that exit before isn't it?
+~
+~
+0 -1 1204
+S
+#1207
+The Tunnel to The Senior Gods Zone~
+   This Tunnel leads to the Senior Gods Zone.  If you are not a senior god,
+that is a Supreme god or Creator, then turn back now and proceed no further or
+you may be punished severely.    
+~
+12 88 0
+D0
+~
+~
+0 0 1200
+D4
+~
+~
+0 0 1201
+S
+#1208
+The Fractal Orgy Chamber~
+   This room seems to go on forever, as does the party taking place here.  For
+miles in every direction, lewd acts and general debauchery meets your eye.  
+Each group of orgy-goers seems to be made up of several sub-groups, and each
+sub-group of even more sub-groups, etc.  , as you may have imagined.    
+
+You notice a sign hovering above the floor at regular intervals.
+~
+12 88 0
+D0
+The Social Gathering Room
+~
+~
+0 0 1206
+E
+sign~
+Remember, put all the toys back where you found them when you are
+are done playing with them...
+This room is here for your enjoyment, so don't let the mortals
+in on it.  After all, you'll enjoy it more if the mortals just
+look at your smug grin and wonder, right?  I thought so...
+Now.... Have Fun, Or ELSE ;)
+~
+S
+#1209
+The Immortal Court Of Minos~
+   You stand in a large circular room.  Going back into the walls for several
+floors are seating areas where people come and watch whoever is on trial.  To
+the north is a large podium upon which is three seats, one in the center for
+the God who is to judge the case, while the two either side is for the judges
+assistants.  In the center of the room there is a bright beam of light which
+shines down upon a small platform where the person on trial is made to stand.
+To the east there is the judges chambers and to the west is the Mortal Court
+Room.    
+
+~
+12 88 0
+D1
+~
+~
+0 0 1210
+D2
+The social gathering room
+~
+~
+0 0 1206
+S
+#1210
+The Judges Chambers~
+   You stand in the Chambers of the Judge for the next trial in the Minos
+Immortal Court.  These judges are high powered gods, Supreme Gods or Creators.
+Here they decide on the fate of the Immortal who currently stands in the court
+facing trial for his or her crimes.    
+
+~
+12 88 0
+D3
+~
+~
+0 0 1209
+S
+#1211
+The Jail Cell~
+   You stand in the Jail Cell of the Minos Prison.  The walls are damp and Moss
+of various types grows between the brick works.  Some Small Steel bars allow
+you to look through to the City of Minos which busstles with life.  Hopefully
+you wont be in here for long.    
+~
+12 88 0
+S
+#1212
+The God's newbie board room~
+   This is the God's Newbie Board Room.  Here you can leave messages for the
+Mortal Players without getting pestered by them.    
+~
+12 88 0
+D2
+~
+~
+0 0 1203
+S
+#1213
+The God's quest board room~
+   This is the God's Quest Board Room.  Here you can leave messages for the
+Mortal Players without getting pestered by them.    
+~
+12 88 0
+D0
+~
+~
+0 0 1203
+S
+#1214
+The God's Clan board room~
+   This is the God's Clan Board Room.  Here you can leave messages for the
+Mortal Players without getting pestered by them.    
+~
+12 88 0
+D3
+~
+~
+0 0 1203
+S
+#1215
+The God's News board room~
+   This is the God's News Board Room.  Here you can leave messages for the
+Mortal Players without getting pestered by them.    
+~
+12 88 0
+D5
+~
+~
+0 0 1203
+S
+#1216
+The Grand Church of Minos~
+   This Church is one of the grandest places you will ever go. It is here that
+the mortals and Immortals of this world, join together in Holy Matrimony. 
+There is room to seat at least a thousand people, without any problems of
+knocking elbows. The altar at which the High Priest of the Land, Arnachak,
+delivers his sermons is of the more traditional stone altar devoid of any
+ornaments that may be construed to be false idols. Consider this place your
+place of retreat, for that is what the Gods would wish for thee.  
+~
+12 16 0
+D1
+~
+~
+0 0 1200
+S
+#1217
+On a Cloud~
+   You are standing on a cloud way way above the land below you can see from
+here the whole of the domain of this insane world. You can not help be feel
+the power of your holy position, and too you can feel great pride in the
+knowledge that it is your holy hand that has created this place, a place of
+equality. You see ahead the entrance to the High Arena, the place were you can
+relax away from the pressures that your position somtimes brings, in the
+certain knowledge that you can not be disturbed by the lower beings that share
+the rest of the land.  
+~
+12 1096 0
+D0
+~
+~
+0 0 1219
+D2
+~
+~
+0 0 1201
+S
+#1218
+The Senior Gods Board Room~
+   You stand in the senior Gods board room, the splendor of this place is just
+so magnificant, The walls are made from the oldest oak panels, and the floor of
+the finest marble. Only gods of the highest form can ever hope to tread on
+this floor.  
+A small sign on the wall lists godcommands by level aquired
+as of May 3rd, 1999.
+~
+12 1096 0
+D1
+~
+~
+0 0 1201
+E
+sign~
+Lvl 103: Newbie Helper
+; goto holylight imotd nhandbook nohassle nowiz poofin
+poofout roomflags show syslog wemote wizhelp
+show topics: score skills
+
+Lvl 104: Overseer
+copy date fireball flagcopy handbook marry medit oedit olc olcrules
+rdig redit sedit snowball wiznet zedit zreset
+
+Lvl 105: Guardian
+newquest qecho qpoints switch/return 
+show topics: zones heros 
+
+Lvl 106: 
+invis last uptime stat seevnums
+show topics: arena
+
+Lvl 107:
+immgoss olist rlist vitem zstat
+newshow topics: rent death
+
+Lvl 108:
+fas load oload vnum
+new shop topics: shops
+
+Lvl 109:
+aload astat at auctioneer file echo page purge set stopauc
+transfer users
+newshow topics: player pk olc
+set topics: invstart title color
+file topics: rip rentgone dts
+
+Lvl 110:
+cbuild force godengr healall jail mute nopage notitle roomlink
+stat zload
+newshow topics: connections linkless muted
+new set topics: nosummon nohassle quest
+new file topics: levels players loads help badpws denied
+
+Lvl 111:
+chown freeze thaw takehome office send
+newshow topics: frozen houses stats
+new set topics: frozen thirst hunger noexp private
+new file topics: typos ideas godcmds errors olc
+
+Lvl 112: Sub-Implementor
+advance ban chskill peace reroll restore snoop system unaffect unban
+new show topics: immortals
+New set topics: maxhit maxmana maxmove hit mana move align str stradd
+                wis dex con sex ax gold bank exp hitroll damroll
+                siteok nodelete end olca olcb olcc maxstam stamina
+new file topics: equip maint
+
+Lvl 113: Implementor
+Lvl 114: Zeus
+
+NOTE: I can only accurately list commands to my current level (112)
+      New commands are available at higher levels, including the
+      dreaded "NUKE" command, shutdown, and others.
+
+<sign researched and created by Miri>
+~
+S
+#1219
+The High Arena~
+   You stand in the high Arena, this is the ultimate in exclusive clubs. The
+highest in the land come here to do what they like away from any prying eyes,
+other may wonder what goes on in here, but to enter you must have taken a solom
+oath of secrecy, so they will never find out. But now you have earned the
+right feel free to endulge your every desire as only you the mighty can.  
+~
+12 1096 0
+D2
+~
+~
+0 0 1217
+S
+#1220
+The Dossing about room.~
+   This room has loads of big cosy arm chairs, ashtrays, tables, newspaper, and
+everything else you need to Doss about all day.  
+~
+12 156 0
+D3
+~
+~
+0 0 1200
+S
+#1221
+God's BS Board Room.~
+A small room has been set up here for you to write on.
+Poems, songs, jokes, and just plain bs can go here.
+Enjoy the board, but don't abuse it or it will be removed.
+Abuses may include, but are not limited to:
+:posting private information about a fellow player.
+:posts that are meant to hurt others feelings.
+:posts that give hacking info for any internet/telnet site.
+:anything else deemed to be abuse of this board by a sub-impl or higher.
+
+(note: anyone lower than sub-impl that has a problem with this board,
+ let me or an impl know about the post you have a problem with.  That
+ infraction will be added to the no-no list. Miri.)
+~
+12 0 0
+D1
+~
+~
+0 0 1222
+D4
+~
+~
+0 0 1203
+S
+#1222
+God's Praise Board~
+This is a peaceful board room where you can read praises 
+to your favorite God.
+
+
+I'm waiting.....
+~
+12 0 0
+D3
+~
+~
+0 0 1221
+S
+#1260
+An unfinished room~
+Nothing.
+~
+12 0 0
+S
+#1267
+Miri's Office~
+The room you have entered has a floor, but where walls might be are thick,
+opaque clouds in a turmultous storm. The clouds have engulfed the entrance you
+may have come thru, o there is absolutely NO WAY OUT! In terror, you search
+the nearly bare room for a hidden exit and only find a beautiful desk of
+redwood and banana wood. A tall cushioned chair sits behind the desk and a
+small plaque on the desk informs you that you have been summoned 'to Miris Office. 
+
+~
+12 1164 0
+E
+desk~
+          ----------------------------------------------
+          |                                            |
+          |                                            |
+          |                                            |
+          |                                            |
+          |                                            |
+          |                                            |
+          ------------------------------ |             |
+                                         |             |
+                                         |             |
+                                         |             |
+                                         |             |
+                                         |             |
+                                         |             |
+                                           ---------------
+~
+S
+#1294
+A Dark Room.~
+   As you materialise in this room, you become aware of the feeling of despair
+which permeates it. Those before you who were brought here did not leave
+whole; to be in this room is to loose a part of yourself, a part of your soul.
+In time, you too will realise that whatever brought you here was a mistake. 
+Whatever anyone else will tell you, the punishment will NOT fit the crime. 
+Mercy is a concept not entertained by this room's owner. Expect judgment to be
+swift but just. Just don't expect it to be fair.  
+
+~
+12 1740 0
+S
+#1295
+A Tiny Cave Near The Peak Of A Huge Mountain~
+   A dim light and a chill wind drift in through the cave entrance nearby, and
+you can feel the cold weight of the stone around you. A thin layer of straw
+covers the hard floor. The stone ceiling rises in a dome no more than eight
+feet above you, and the whole cavern can't be more than twenty feet in
+diameter. The only sound to break the eerie stillness of this faraway place is
+the howling of the wind outside.  
+~
+12 72 0
+D3
+Down a long, narrow tunnel carved into the rock, you can see the mountainside.
+~
+~
+0 0 -1
+S
+#1296
+Arn's Office~
+It's Empty. Nothing special in here.  
+~
+12 4195008 0
+S
+#1297
+Zizzily's Office.~
+It's empty.
+~
+12 1240 0
+S
+#1298
+Hope's Office~
+This is where Hope comes to work and think.
+~
+12 1097 0
+S
+#1299
+Zeus' Office~
+   You stand in Zeus's Office. The splendor of the place is something you only
+dream about. Huge columns of marble span up high above your head, all
+converging around a huge circular dome of the clearest material, through it you
+can see the stars and the various moons which orbit Minos. At the far end of
+the room is a huge oak desk, only fitting for a founder to have. The room is
+lavishly furnished with chairs and sofa's of only the finest quality. Plants
+of all kinds decorate the room making its huge size almost look cosy. However
+you soon realise that this is not a room to relax in and being summoned here is
+not something to be taken lightly. I'm sure Zeus will be along soon to tell
+you why you are here!  
+~
+12 1244 0
+S
+$~

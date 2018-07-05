@@ -1,0 +1,183 @@
+#400
+man~
+an insane old man pops out of nowhere and~
+.
+~
+Nothing.
+~
+753674 67502120 0 E
+30 -67 -8 0d0+1000 30d30+30
+0 0
+8 8 1 2
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#401
+angel sweet~
+an Angel~
+An angel of sweet decorum and gentle grace floats upon the breeze.
+~
+Moving benignly, clothed in humility, untouched by all the praise along her
+way, she seems to be a creature come from Heaven to earth to manifest a
+miracle. Miraculously gracious to behold, her sweetness reaches, through the
+eyes, the heart, and from her lips it seems there moves a gracious spirit, so
+deeply loving that it glides into the souls of men, and whispers: "Sigh! "
+~
+753674 67239936 0 E
+100 -67 -20 1d1+30000 30d127+87
+0 0
+8 8 2 5
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#402
+Gorbash~
+Gorbash the Green Dragon~
+The largest green Dragon you ever saw, stands before you.
+~
+He is young for a dragon, but this does not in any way convey that he would be easy prey.  He has the look of a very noble being.  But he lacks the wisdom that his older brethren have attained.
+Yet in time he is sure to qualify as one of the true Dragon Lords.
+~
+753674 67239976 0 E
+30 -67 -20 30d127+0 30d127+87
+0 0
+8 8 1 4
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#403
+Basher~
+Basher the Dragon~
+A beast of great proportions stands before you, he seems to be looking for his master.
+~
+As you look this magnificent beast up and down, he notices your movements, and turns his head to look at you.  He soon realises that you are not worth worrying about, and sinks back into his own thoughts.
+He is at least fifteen feet tall, and the darkest blue you have ever seen.  He is definitely from a species of Dragon you have never seen before.
+~
+753674 67239976 0 E
+40 -67 -20 30d127+0 30d127+87
+0 0
+8 8 1 4
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#404
+Felix Feline~
+Felix the Feline Dragon~
+Felix the Feline Dragon Stands here.
+~
+Felix is more fur than scales, in fact he is more like a cat than a dragon.  
+But, that doesn't detract from the truly awesome might of this beast.  His fur
+is dark, so dark in fact it seems to absorb light.  This phenomenon is rarely
+seen outside of The Realms of the Dead.  His claws look as if they would easily
+cut through granite, so you dread to think what they would do to you!!!    
+~
+753674 67239976 0 E
+50 13 -20 30d50+1000 5d10+5
+0 0
+8 8 1 4
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#405
+Todoroki~
+Todoroki the Dragon~
+The largest of all dragons ever stands before you, it would be wise if you were to run now!!
+~
+Todoroki, is the queen of all Dragons.  She towers above even the Dragon King
+himself.  As you examine her she taps her claws impatiently on the ground, she
+must be waiting for someone or something.  As with all females, it would not be
+a good idea to piss her off.  Even when she is in a good mood has been known to
+kill whole armies!!!    
+~
+753674 71467048 0 E
+40 -67 -20 30d127+0 30d127+87
+0 0
+8 8 2 5
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#406
+jedi barman~
+the Jedi Barman~
+The Jedi Barman stands here waiting for your order.
+~
+   He is a big bloke, dressed in a black gown. You can hardly see his face
+inside the hood he wears.  
+~
+245786 16777216 -800 E
+35 -30 10 1d1+2500 10d20+50
+2000 100000
+8 8 1 1
+E
+#407
+Sacred Barman~
+the Sacred Barman of the Goat~
+The barman stands here waiting for your order.
+~
+The barman has the look of a man who has seen many a day where he wishes he was
+not present. Arguing with him might not be a smart move!!  
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0 1
+E
+#408
+Goat~
+the Sacred Goat of the Sacred Goat clan~
+Flossy the Sacred Goat sits here eating....
+~
+The Mighty goat of the Sacred goat clan....big bad and mad....
+~
+2138 160 999 E
+105 -100 -10 30d100+30000 30d100+120
+0 0
+6 6 2 10
+BareHandAttack: 4
+E
+#422
+undead bartender~
+the Undead Bartender~
+The undead Bartender hangs by his feet above the bar
+~
+   It's obvious that the only blood running through the body of this bartender
+is that of his last 'meal'. He hangs from a beam on the ceiling behind the
+bar, waiting to take your order.  
+~
+516110 0 -100 E
+32 -30 10 1d1+20000 1d50+50
+10000 100000
+5 5 0 1
+BareHandAttack: 4
+E
+$

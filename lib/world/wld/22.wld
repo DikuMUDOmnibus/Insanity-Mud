@@ -1,0 +1,5686 @@
+#2200
+The Western Campus Entrance~
+This gateway is made of limestone, and covered in ivy.  Beyond the
+entrance, the university stretches as far as the eye can see.  A sign
+is neatly posted on the left pillar of the gateway.  It is made of
+nicely polished brass.  Because of this, it looks rather important
+(as all signs go).  The road continues east and west from your
+present location.
+~
+22 4 1
+D1
+Campus Crescent continues to the east.
+~
+~
+0 -1 2201
+D2
+~
+~
+0 0 4518
+E
+sign plaque~
+The nicely polished brass plaque reads:
+
+
+                           University of Insanity
+
+                           ENTER AT YOUR OWN RISK
+
+~
+S
+#2201
+Campus Crescent~
+This cobblestone road is not littered in any way, thus displaying the
+conscientious behaviour of the politically correct students (as they
+all seem to be).  The road continues east and west.
+~
+22 0 1
+D1
+Campus Crescent continues to the east.
+~
+~
+0 -1 2202
+D3
+The gateway can be seen to the west.
+~
+~
+0 -1 2200
+E
+cobblestone stone cobble~
+The cobblestones are clean.
+~
+S
+#2202
+Campus Crescent~
+This cobblestone road is not littered in any way, thus displaying the
+conscientious behaviour of the politically correct students (as they
+all seem to be).  The road continues east and west.  To the north and
+south, you can see dormitories.
+~
+22 0 1
+D0
+To the north you see Victoria Hall.
+~
+door~
+2 2245 2225
+D1
+Campus Crescent continues to the east.
+~
+~
+0 -1 2203
+D2
+To the south you see Leonard Hall.
+~
+~
+0 -1 2226
+D3
+Campus Crescent continues to the west.
+~
+~
+0 -1 2201
+E
+dorm dormitory dormitories~
+Well, they're dormitories.  What else can be said?
+~
+E
+cobblestone stone cobble~
+The cobblestones are clean.
+~
+S
+#2203
+Campus Crescent~
+This cobblestone road is not littered in any way, thus displaying the
+conscientious behaviour of the politically correct students (as they
+all seem to be).  The road continues east and west.  A noxious smell
+permeates from the south.
+~
+22 0 1
+D1
+Campus Crescent crosses University Avenue to the east.
+~
+~
+0 -1 2204
+D2
+To the south you barely see the Mary Rotte Cafeteria.
+~
+~
+0 -1 2227
+D3
+Campus Crescent continues to the west.
+~
+~
+0 -1 2202
+E
+cobblestone stone cobble~
+The cobblestones are clean.
+~
+E
+caf cafeteria~
+You barely see, through the thick putrid fumes, the Mary Rotte Cafeteria.
+~
+S
+#2204
+The Crossroads~
+Campus Crescent meets University Avenue at this very point... Right
+here. (Thus the name Crossroads.)  University runs north-south whilst
+Campus runs east-west.
+~
+22 0 1
+D0
+University Avenue heads off to the north.
+~
+~
+0 -1 2210
+D1
+Campus Crescent runs to the east.
+~
+~
+0 -1 2205
+D2
+To the south, you see University Avenue.
+~
+~
+0 -1 2208
+D3
+To the west, Campus Crescent continues merrily.
+~
+~
+0 -1 2203
+E
+cobblestone stone cobble~
+There are no cobblestones here!  You feel very silly looking at something
+that is not here.
+~
+S
+#2205
+Campus Crescent~
+This cobblestone road is not littered in any way, thus displaying the
+conscientious behaviour of the politically correct students (as they
+all seem to be).  The road continues east and west.  A large building
+lies south, off the road.  You can see another building to the north.
+~
+22 0 1
+D0
+To the north, lies the Arts faculty building, Corry-Mack.
+~
+~
+0 -1 2234
+D1
+Campus Crescent continues to the east.
+~
+~
+0 -1 2206
+D2
+The Student Health Services building lies off the road to the south.
+~
+~
+0 -1 2231
+D3
+The Crossroads lie to the west.
+~
+~
+0 -1 2204
+E
+cobblestone stone cobble~
+The cobblestones are clean.
+~
+E
+building~
+The buildings seem warm and inviting.  You almost feel like hugging one.
+~
+S
+#2206
+Campus Crescent~
+This cobblestone road is not littered in any way, thus displaying the
+conscientious behaviour of the politically correct students (as they
+all seem to be).  The road continues east and west.  The bookstore is
+to the north.  An odd, round-shaped building lies to the south.
+~
+22 0 1
+D0
+Well, as I said earlier, the bookstore is to the north!  Try looking at it.
+~
+~
+0 -1 2265
+D1
+Campus Crescent ends to the east.
+~
+~
+0 -1 2207
+D2
+The Physics building, Sterling Hall is to the south.
+~
+~
+0 -1 2230
+D3
+Campus Crescent continues to the west.
+~
+~
+0 -1 2205
+E
+cobblestone stone cobble~
+The cobblestones are still clean.
+~
+E
+bookstore~
+The bookstore is a 2-story cubical building, loud noises emanate from the top
+floor.
+~
+E
+round building~
+Yes... It's a round building.  Go figure.
+~
+S
+#2207
+Division Road~
+Asphalt pavement lies heinously beneath your feet.  The road continues
+north and south.  A nice cobblestone road leads off to the west.
+~
+22 0 1
+D0
+Division Road continues north.
+~
+~
+0 -1 2218
+D2
+Division Road continues south.
+~
+~
+0 -1 2219
+D3
+Campus Crescent and its cobblestones are to the west.
+~
+~
+0 -1 2206
+E
+cobblestone stone cobble~
+It's asphalt, you idiot!  If you want to look at cobblestones, go west.
+~
+E
+asphalt pavement~
+It's asphalt.
+~
+S
+#2208
+University Avenue~
+This nicely crafted dirt road runs north-south.  It is normally filled
+with students.  An awful fog drifts in from the west.
+~
+22 0 1
+D0
+University Avenue crosses a cobblestone road to the north.
+~
+~
+0 -1 2204
+D2
+University Avenue continues south.
+~
+~
+0 -1 2209
+D3
+The cafeteria lies to the west.
+~
+~
+0 -1 2228
+E
+cobblestone stone cobble~
+It's a dirt road.  There are NO cobblestones here, although to the north...
+~
+E
+dirt~
+It's unclean matter, such as mud, trash, earth, or soil.
+(Webster's New World Dictionary)
+~
+E
+cafeteria fog~
+The fog seems to be coming from the Mary Rotte Cafeteria.
+~
+S
+#2209
+University Avenue~
+This nicely crafted dirt road runs north-south.  But it ends here.  It is
+normally filled with students.  There is a dormitory to west.
+~
+22 0 2
+D0
+University Avenue continues to the north.
+~
+~
+0 -1 2208
+D3
+Morris House lies to the west.
+~
+~
+0 -1 2229
+E
+dirt~
+It's unclean matter, such as mud, trash, earth, or soil.
+(Webster's New World Dictionary)
+~
+E
+dormitory dorm~
+They are student living establishments.
+~
+S
+#2210
+University Avenue~
+This nicely crafted dirt road runs north-south.  It is normally filled
+with students.  Buildings lie on either side of the street.
+~
+22 0 1
+D0
+University Avenue continues to the north.
+~
+~
+0 -1 2211
+D1
+The Arts building, Corry-Mack, lies to the east.
+~
+~
+0 -1 2233
+D2
+University Avenue crosses Campus Crescent to the south.
+~
+~
+0 -1 2204
+D3
+The Engineering building, Ellis Hall, lies to the west.
+~
+~
+0 -1 2232
+E
+cobblestone stone cobble~
+It's a dirt road.  There are NO cobblestones here, although to the south...
+~
+E
+dirt~
+It's unclean matter, such as mud, trash, earth, or soil.
+(Webster's New World Dictionary)
+~
+E
+building buildings~
+There are two buildings here.  Which one?
+~
+S
+#2211
+University Avenue~
+This nicely crafted dirt road runs north-south.  It is normally filled
+with students.  Buildings lie on either side of the street.
+~
+22 0 1
+D0
+University Avenue continues to the north.
+~
+~
+0 -1 2212
+D1
+The Science building, Frosty Annex, lies to the east.
+~
+~
+0 -1 2236
+D2
+University Avenue continues to the south.
+~
+~
+0 -1 2210
+D3
+The Commerce building, Dunning Hall, lies to the west.
+~
+~
+0 -1 2235
+E
+dirt~
+It's unclean matter, such as mud, trash, earth, or soil.
+(Webster's New World Dictionary)
+~
+E
+building buildings~
+There are two buildings here.  Which one?
+~
+S
+#2212
+University Avenue~
+This nicely crafted dirt road runs north-south.  It is normally filled
+with students.  A road branches off to the east.
+~
+22 0 1
+D0
+University Avenue continues to the north.
+~
+~
+0 -1 2213
+D1
+Union Street branches off to the east.
+~
+~
+0 -1 2214
+D2
+University Avenue continues to the south.
+~
+~
+0 -1 2211
+E
+dirt~
+It's unclean matter, such as mud, trash, earth, or soil.
+(Webster's New World Dictionary)
+~
+S
+#2213
+University Avenue~
+This nicely crafted dirt road runs north-south.  It is normally filled
+with students.  To the north you can see several menacing figures.  There
+is a sign here.  Reading it would be beneficial to your health and general
+well-being.
+~
+22 0 1
+D0
+Low-income student housing lies to the north.  BEWARE!
+~
+~
+0 -1 2224
+D1
+The student centre, known as the "J" Dock, stands to the east.
+~
+~
+0 -1 2238
+D2
+University Avenue continues to the south.
+~
+~
+0 -1 2212
+E
+dirt~
+It's unclean matter, such as mud, trash, earth, or soil.
+(Webster's New World Dictionary)
+~
+E
+sign warning~
+The sign says:
+Welcome to the Student Ghetto!
+
+Fine $103.50 for carrying open alcohol in the streets.
+Fine $ 53.75 for excessively loud noises.
+
+ENTER AT YOUR OWN RISK!
+
+~
+E
+building~
+The student centre lies to the east.
+~
+S
+#2214
+Union Street~
+This non-descript road segment runs east-west between University Avenue
+and Division Road.  To the north is the student centre.
+~
+22 0 1
+D0
+The student centre, known as the "J" Dock, stands to the north.
+~
+~
+0 -1 2237
+D1
+Union Street continues to the east.
+~
+~
+0 -1 2215
+D3
+University Avenue lies to the west.
+~
+~
+0 -1 2212
+E
+non-descript non descript~
+(No description)
+~
+E
+building~
+The student centre lies to the north.
+~
+S
+#2215
+Union Street~
+This non-descript road segment runs east-west between University Avenue
+and Division Road.  There are buildings on either side of the street.
+~
+22 0 1
+D0
+The main entrance to the Jock Hardy Gym lies to the north.
+~
+~
+0 -1 2239
+D1
+Division Road lies to the east.
+~
+~
+0 -1 2216
+D2
+The Grant Hall assembly hall is south of here.
+~
+~
+0 -1 2240
+D3
+Union Street continues to the west.
+~
+~
+0 -1 2214
+E
+non-descript non descript~
+(No description)
+~
+E
+building buildings~
+There are two buildings here.  Which one?
+~
+S
+#2216
+Division Road~
+Asphalt pavement lies heinously beneath your feet.  The road continues
+south. A non-descript road leads off to the west.  A building lies to
+the north.
+~
+22 0 1
+D0
+The Jock Hardy Arena is to the north.
+~
+~
+0 -1 2261
+D2
+Division Road continues south.
+~
+~
+0 -1 2217
+D3
+Union Street is to the west.
+~
+~
+0 -1 2215
+E
+building gym arena~
+The Jock Hardy Arena lies to the north.
+~
+E
+asphalt pavement~
+It's asphalt.
+~
+S
+#2217
+Division Road~
+Asphalt pavement lies heinously beneath your feet.  The road continues
+north and south.
+~
+22 0 1
+D0
+Division Road continues north.
+~
+~
+0 -1 2216
+D2
+Division Road continues south.
+~
+~
+0 -1 2218
+E
+asphalt pavement~
+It's asphalt.
+~
+E
+zork~
+What would possess you to look at that?  What is a zork anyways?
+~
+S
+#2218
+Division Road~
+Asphalt pavement lies heinously beneath your feet.  The road continues
+north and south.  A building is off to the west.
+~
+22 0 1
+D0
+Division Road continues north.
+~
+~
+0 -1 2217
+D2
+Division Road continues south.
+~
+~
+0 -1 2207
+D3
+The Campus bookstore lies to the west.
+~
+~
+0 -1 2241
+E
+bookstore building~
+The bookstore is a 2-story cubical building, loud noises emanate from
+the top floor.
+~
+E
+asphalt pavement~
+It's asphalt.
+~
+S
+#2219
+Division Road~
+Asphalt pavement lies heinously beneath your feet.  The road continues
+north and south.
+~
+22 0 3
+D0
+Division Road continues north.
+~
+~
+0 -1 2207
+D2
+Division Road continues south.
+~
+~
+0 -1 2220
+E
+asphalt pavement~
+It's asphalt.
+~
+E
+zork~
+What would possess you to look at that?  What is a zork anyways?
+~
+S
+#2220
+Division Road~
+Asphalt pavement lies heinously beneath your feet.  The road continues
+north and south.
+A tree has been planted here.
+~
+22 0 5
+D0
+Division Road continues north.
+~
+~
+0 -1 2219
+D2
+Division Road continues south.
+~
+~
+0 -1 2221
+E
+asphalt pavement~
+It's asphalt.
+~
+E
+tree~
+It has been placed here just to relieve the monotony.  It serves no other
+purpose whatsoever.
+~
+S
+#2221
+Division Road~
+Asphalt pavement lies heinously beneath your feet.  The road continues
+north. A dormitory sits to the east.  Strange that it's so far from
+everything else...
+~
+22 0 3
+D0
+Division Road continues north.
+~
+~
+0 -1 2220
+D1
+Wally World sits to the east.
+~
+~
+0 -1 2242
+E
+asphalt pavement~
+It's asphalt.
+~
+E
+dorm dormitory~
+This is a rather tall dormitory.  You'd guess that in real life, it's
+probably 11-stories high,  but since that would take an absurd amount
+of time to program, you don't think that there are that many floors in
+this replica of the building.
+~
+S
+#2222
+The Northern Campus Entrance~
+This gateway is made of limestone, and covered in ivy.  Beyond the
+entrance, the university stretches as far as the eye can see.  A sign
+is neatly posted on the left pillar of the gateway.  It is made of
+nicely polished brass.  Because of this, it looks rather important
+(as all signs go).  The road continues north and south from your
+present location.
+~
+22 4 1
+D0
+~
+~
+0 0 15002
+D2
+The Student GHETTO...  Beware!
+~
+~
+0 -1 2223
+E
+sign plaque~
+The nicely polished brass plaque reads:
+
+
+                            University of Insanity
+
+                           ENTER AT YOUR OWN RISK
+
+~
+E
+gate gateway pillar~
+The gateway is made of limestone and covered in ivy.  As you already
+knew that you feel rather silly wasting your time looking at it.  There
+is a sign on the left pillar.
+~
+S
+#2223
+The Ghetto~
+The area you see ahead of you is low cost student housing, which is
+quite run down, almost into the ground in fact.  You can see many
+furtive shapes moving through the darkness.
+~
+22 4 4
+D0
+The gateway lies to the north.
+~
+~
+0 -1 2222
+D2
+This is the ghetto, do you really need to know what is south of you?
+~
+~
+0 -1 2336
+S
+#2224
+The Ghetto~
+The area you see ahead of you is low cost student housing, which is
+quite run down, almost into the ground in fact.  You can see many
+furtive shapes moving through the darkness.
+~
+22 4 4
+D0
+This is the ghetto, do you really need to know what is north of you?
+~
+~
+0 -1 2350
+D2
+The nice part of University Avenue begins to the south.
+~
+~
+0 -1 2213
+S
+#2225
+Victoria Hall~
+This is a locked room with no method of entry... yet... The main
+reason for this is the high number of already existing dormitories
+and it was thought that this one wouldn't add anything.
+~
+22 12 0
+D2
+Campus Crescent lies to the south.
+~
+door~
+2 2245 2202
+S
+#2226
+Leonard Hall Lobby~
+This is the lobby of the all-males residence.  To the north you can see
+Campus Crescent.  To both the east and west you can see locked doors.
+The floor is decorated with rather ugly, puce tiles.  Beside the east
+door you can see an enormous amount of mailboxes.
+~
+22 8 1
+D0
+The cobblestoned Campus Crescent lies to the north.
+~
+~
+0 -1 2202
+D1
+There is a locked door leading to a stairwell.
+~
+door~
+1 2206 2394
+D3
+There is a locked door leading to a stairwell.
+~
+door~
+1 2205 2395
+E
+mailbox mailboxes~
+All of the mailboxes are all empty ... just like normal you think.
+~
+E
+tiles floor~
+The floor is covered with tiles that are so ugly, you have a difficult time
+keeping your lunch down
+~
+S
+#2227
+Mary Rotte Cafeteria Entrance~
+As you walk through the entrance of the cafeteria, your appetite
+suddenly disappears.  In this entrance, you'll normally find long
+line-ups to get into the cafeteria, but it's incomprehensible why.
+The only safe exit is to the north, but if you feel courageous
+enough, you can venture south.  There is a door to the west.
+~
+22 136 0
+D0
+You long to go north.
+~
+~
+0 -1 2203
+D2
+The dining hall lies to the south... Beware!
+~
+~
+0 -1 2245
+D3
+There is a doorway leading to the kitchen.
+~
+door doorway~
+1 -1 2243
+E
+cafeteria caf~
+Yes, this is the cafeteria.
+~
+E
+door doorway~
+You believe that the doorway leads to the kitchen.  Let's give our
+compliments to the chef... *grin*
+~
+S
+#2228
+Mary Rotte Cafeteria Entrance~
+As you walk through the entrance of the cafeteria, your appetite
+suddenly disappears.  In this entrance, you'll normally find long
+line-ups to get into the cafeteria, but it's incomprehensible why.
+The only safe exit is to the east, but if you feel courageous
+enough, you can venture west.  There is a door to the south.
+~
+22 136 0
+D1
+You long to go east.
+~
+~
+0 -1 2208
+D2
+There is a doorway leading to the kitchen.
+~
+door doorway~
+1 -1 2251
+D3
+The dining hall lies to the west... Beware!
+~
+~
+0 -1 2248
+E
+cafeteria caf~
+Yes, this is the cafeteria.
+~
+E
+door doorway~
+You believe that the doorway leads to the kitchen.  Let's give our
+compliments to the chef... *grin*
+~
+S
+#2229
+Morris House~
+This large building seems to be another dormitory...of sorts.  It is
+built is a style combining Neo-Georgian features with all the advantages
+of modern design.  A hallway shrouded in darkness leads off to the west,
+and the road is to the east.
+~
+22 12 0
+D1
+University Avenue lies to the east.
+~
+~
+0 -1 2209
+D3
+This hallway leads into the depths of Morris.
+~
+~
+0 -1 2430
+S
+#2230
+The Entrance To Sterling Hall~
+This is the entrance to the famed circular building, Sterling Hall.
+Supposedly, if you walk in one direction long enough, you will get to
+where you want to be.  Exits lead in all cardinal directions.
+A footnote has been attached to this description.
+~
+22 8 1
+D0
+Campus Crescent can be seen through the glass doors.
+~
+~
+0 -1 2206
+D1
+The hallway continues east.
+~
+~
+0 -1 2420
+D2
+An opening to the south brings you to the centre of the building.
+~
+~
+0 -1 2425
+D3
+The hallway continues west.
+~
+~
+0 -1 2424
+E
+round circle circular~
+Yes, it's round.
+~
+E
+footnote~
+Yes, believe it or not, this is a reasonably accurate representation of
+the Physics building, Stirling Hall at our university.  The lecture halls
+are numbered in the same manner as represented and it is in fact round,
+so that you can walk in one direction all the way around the building.
+~
+S
+#2231
+The Student Health Services Entrance~
+This nice and inviting building does not seem quite so nice and inviting
+anymore now that you can smell the Formeldehyde.  But life has brightened
+substantially, there is a Birth Control Centre to the east and a De-Tox
+unit to the south.  To the north lies a tempting exit to a cobblestone
+covered street.
+~
+22 12 0
+D0
+Back to cobblestones, eh?
+~
+~
+0 -1 2205
+D1
+The Birth Control Centre looks mighty inviting doesn't it?
+~
+~
+0 -1 2272
+D2
+The De-Tox unit to the south looks like a good place to rest.
+~
+~
+0 -1 2273
+S
+#2232
+Entrance To Ellis Hall~
+This entrance is covered in finely wrought carvings depicting great
+engineering events (like the construction of this area) that have taken
+place in Insanity's history.  There are two exits, east to the street and
+west further inside the building.
+~
+22 8 1
+D1
+University Avenue lies to the east.
+~
+~
+0 -1 2210
+D3
+It is too dark to tell what the next room is.
+~
+~
+0 -1 2274
+E
+carvings~
+These carvings depict the heroic deeds of Matrix and the Wandering Bard.
+Here they have just defeated the creature known as the Zon File.
+~
+S
+#2233
+Corry-Mack Building~
+The Arts faculty building was obviously the brain child of a maze
+enthusiast.  Its twisting halls have absolutely boggled the greatest
+minds of Insanity... as well as the not so great minds.  The halls
+beckon you to the east.  University Avenue lies to the west.
+~
+22 8 0
+D1
+The twisting halls of Corry-Mack call from the east.
+~
+~
+0 -1 2374
+D3
+University Avenue lies to the west.
+~
+~
+0 -1 2210
+E
+halls hallways hall hallway~
+They are twisting alright.
+~
+E
+minds mind great greatest~
+All of whom were probably smarter than you.
+~
+S
+#2234
+Corry-Mack Hall~
+The Arts faculty building was obviously the brain child of a maze
+enthusiast.  Its twisting halls have absolutely boggled the greatest
+minds of Insanity... as well as the not so great minds.  The halls
+beckon you to the north.  Campus Crescent is south of here.
+~
+22 8 0
+D0
+The twisting halls of Corry-Mack lie ahead.
+~
+~
+0 -1 2376
+D2
+Campus Crescent lies to the south.
+~
+~
+0 -1 2205
+E
+halls hallways hall hallway~
+They are twisting alright.
+~
+E
+minds mind great greatest~
+All of whom were probably smarter than you.
+~
+S
+#2235
+Dunning Hall Lobby~
+This is the nerve center of the Commerce Department at UNX (University
+of North Insanity).  There are two exits.  One to the north which seems
+to lead to a hall of some sort, and on to the west which leads into a
+large room.
+~
+22 8 0
+D0
+A hall leads off to the north.
+~
+~
+0 -1 2392
+D1
+University Avenue lies to the east.
+~
+~
+0 -1 2211
+D3
+A large room stands to the east.  What else would it do, sit?
+~
+~
+0 -1 2391
+S
+#2236
+Frosty Annex Entrance Hall~
+As you walk off the street, you begin to notice how old and decrepit
+this building is.  If perchance you are passing through this room on
+your way out of the building you noticed how old this building seemed
+quite a long time ago.  There are two exits.  One to the road, which
+happens to lie to the west and the exit to the east leads to a long
+hallway.
+~
+22 8 2
+D1
+A long hallway leads off in this direction.
+~
+~
+0 -1 2366
+D3
+University Avenue lies immediately to your west.
+~
+~
+0 -1 2211
+S
+#2237
+The Central Annex~
+This nicely decorated, cavernous room resembles a large meeting hall.
+To the east you can see the Infobank, and to the west, you can see
+the Tuck Shoppe.  North of you is the back hall with its bank machines,
+and south is the exit to Union Street.  This area is usually rather
+busy with students as this is the University Student Centre.
+~
+22 8 1
+D0
+To the north you can see the back hall, complete with numerous bank
+machines, but of course you already knew that, didn't you?
+~
+~
+0 -1 2238
+D1
+To the east you can see the Infobank of the University.
+~
+~
+0 -1 2267
+D2
+To the south is the exit onto the street.
+~
+~
+0 -1 2214
+D3
+The Tuck Shoppe is located to your west.
+~
+~
+0 -1 2269
+E
+prawn~
+You see nothing even remotely resembling that here.
+~
+S
+#2238
+The Back Hall~
+This is the back hall of the Student Centre.  You can see a Post Office
+to the north, and a games room to the east.  The Central Annex is located
+to the south whilst the street is located directly to your west.
+~
+22 8 0
+D0
+You can distinctly see a post office here, it might have a message in it, but
+you are not quite sure.
+~
+~
+0 -1 2270
+D1
+There are electronic sounds coming from the east.
+~
+~
+0 -1 2268
+D2
+The large central annex lies to the south.
+~
+~
+0 -1 2237
+D3
+University Avenue is located just to the west.
+~
+~
+0 -1 2213
+S
+#2239
+Jock Hardy Lobby~
+Several plaques line the walls, commemorating the great athletic
+achievements of the students and alumni.  Exits branch off in many
+directions.
+There is a sign here.
+~
+22 8 1
+D0
+There is a stairway to the north.
+~
+~
+0 -1 2252
+D1
+A long hallway lies to the east.
+~
+~
+0 -1 2260
+D2
+Union Street lies to the south.
+~
+~
+0 -1 2215
+D3
+A long hallway lies to the west.
+~
+~
+0 -1 2253
+E
+plaque plaques~
+They are rather boring.  A bunch of people you don't know.
+~
+E
+sign~
+The sign says:
+
+    Gym           -> North
+    Arena         -> East
+    Locker Rooms  -> West
+    Exit          -> South
+
+~
+S
+#2240
+The Grant Hall Building~
+This is the entry hall of the Grant Hall Building.  This building
+is lavishly furnished (with only chairs) and is used for important
+assemblies.  The auditorium lies to the south.
+~
+22 8 0
+D0
+Union Street lies to the north.
+~
+~
+0 -1 2215
+D2
+The auditorium lies to the south.
+~
+~
+0 -1 2360
+S
+#2241
+Campus Bookstore~
+This shop is filled with over-priced items that every university
+student would want for his, her, or its own home.  Such items as
+sweatshirts, pants, T-shirts, and, of course, over-priced books
+that can do for presents to the rest of the family.  There are
+two exits, one to the south and one to the east.  Both exits are
+well guarded by security to prevent stolen goods from leaving the
+store before being (over-) priced.
+~
+22 140 0
+D1
+Outside you can see Division Road.
+~
+~
+0 -1 2218
+D2
+To the south you can see the entrance to the Campus Pub.
+~
+door~
+1 -1 2265
+E
+sweatshirt sweatshirts pants t-shirt t-shirts books~
+There is absolutely no point in looking at anything because the prices
+are almost like paying two or three arms and legs to buy something to
+cover them...
+~
+S
+#2242
+Wally World Reception Area~
+This is the entrance to the fabulous Wally World, located soulfully on
+East Campus, miles away from everything else.  There are three exits from
+here, west to the street and main campus, east to explore the depths of
+Wally World, and north to visit the front office and reception desk.
+~
+22 8 3
+D0
+This way leads to the reception desk.
+~
+~
+0 -1 2301
+D1
+This leads to the lounge.
+~
+~
+0 -1 2303
+D3
+This leads back to Division Road and the main campus.
+~
+~
+0 -1 2221
+S
+#2243
+The Kitchen~
+The kitchen is filled with a light mist of smoke rising from the stoves.
+The food here is mass-produced and cheaply made.  After watching how they
+cook this food you are glad you do not normally eat at the cafeteria.
+There is a door to the east.
+~
+22 8 1
+D1
+The doorway leads back out of the kitchen.
+~
+door doorway~
+1 -1 2227
+D2
+The kitchen continues south.
+~
+~
+0 -1 2244
+E
+door doorway~
+You stare intently at the door.  Its wooden frame enthrals you.
+~
+E
+food~
+Believe me, you don't want to look at that!
+~
+S
+#2244
+The Kitchen~
+The kitchen is filled with a light mist of smoke rising from the stoves.
+The food here is mass-produced and cheaply made.  After watching how they
+cook this food you are glad you do not normally eat at the cafeteria.
+~
+22 8 1
+D0
+The kitchen continues north.
+~
+~
+0 -1 2243
+E
+food~
+Believe me, you don't want to look at that!
+~
+S
+#2245
+Dining Hall~
+The cafeteria dining hall is filled with poor students that are forced
+to eat this food to subsist.  You feel pity upon them as you watch them
+fill their stomachs with this sorry excuse for food.  The dining hall
+continues east and south.  The exit is to the north.
+~
+22 8 4
+D0
+An unknown force draws you north.
+~
+~
+0 -1 2227
+D1
+The dining hall continues east.
+~
+~
+0 -1 2246
+D2
+The dining hall continues south.
+~
+~
+0 -1 2247
+E
+food~
+Believe me, you don't want to look at that!
+~
+E
+students poor~
+You feel sorry for them.
+~
+S
+#2246
+Dining Hall~
+The cafeteria dining hall is filled with poor students that are forced
+to eat this food to subsist.  You feel pity upon them as you watch them
+fill their stomachs with this sorry excuse for food.  The dining hall
+continues west and south.
+~
+22 8 4
+D2
+The dining hall continues south.
+~
+~
+0 -1 2248
+D3
+The dining hall continues west.
+~
+~
+0 -1 2245
+E
+food~
+Believe me, you don't want to look at that!
+~
+E
+students poor~
+You feel sorry for them.
+~
+S
+#2247
+Dining Hall~
+The cafeteria dining hall is filled with poor students that are forced
+to eat this food to subsist.  You feel pity upon them as you watch them
+fill their stomachs with this sorry excuse for food.  The dining hall
+continues north and east.
+~
+22 8 4
+D0
+The dining hall continues north.
+~
+~
+0 -1 2245
+D1
+The dining hall continues east.
+~
+~
+0 -1 2248
+E
+food~
+Believe me, you don't want to look at that!
+~
+E
+students poor~
+You feel sorry for them.
+~
+S
+#2248
+Dining Hall~
+The cafeteria dining hall is filled with poor students that are forced
+to eat this food to subsist.  You feel pity upon them as you watch them
+fill their stomachs with this sorry excuse for food.  The dining hall
+continues north and west.  The exit is to the east.
+~
+22 8 4
+D0
+The dining hall continues north.
+~
+~
+0 -1 2246
+D1
+An unknown force draws you east.
+~
+~
+0 -1 2228
+D3
+The dining hall continues west.
+~
+~
+0 -1 2247
+E
+food~
+Believe me, you don't want to look at that!
+~
+E
+students poor~
+You feel sorry for them.
+~
+S
+#2249
+Kitchen~
+The kitchen is filled with a light mist of smoke rising from the stoves.
+The food here is mass-produced and cheaply made.  After watching how they
+cook this food you are glad you do not normally eat at the cafeteria.
+There is a door here.
+~
+22 8 1
+D1
+The kitchen continues east.
+~
+~
+0 -1 2251
+D2
+There is a storeroom beyond the door to the south.
+~
+door doorway~
+1 -1 2250
+E
+food~
+Believe me, you don't want to look at that!
+~
+E
+door doorway~
+It's a door.  It has a nice steel frame surrounding a metallic door.
+~
+S
+#2250
+A Storeroom~
+Stowed away here are different ingredients and packages containing
+pre-made spam and other uninteresting stuff.  But wait!  They keep
+edible food here too!  So that's what the staff eats!
+~
+22 8 1
+D0
+These stairs lead back to the door to the kitchen.
+~
+door doorway~
+1 -1 2249
+E
+food~
+Well, it's food.
+~
+E
+spam pre-made packages ingredients uninteresting stuff~
+It's rather uninteresting.
+~
+E
+door doorway~
+It's a door.  It has a nice steel frame surrounding a metallic door.
+~
+S
+#2251
+Kitchen~
+The kitchen is filled with a light mist of smoke rising from the stoves.
+The food here is mass-produced and cheaply made.  After watching how they
+cook this food you are glad you do not normally eat at the cafeteria.
+There is a door to the north.
+~
+22 8 1
+D0
+The doorway leads back out of the kitchen.
+~
+door doorway~
+1 -1 2228
+D3
+The kitchen continues west.
+~
+~
+0 -1 2249
+E
+door doorway~
+You stare intently at the door.  Its wooden frame enthrals you.
+~
+E
+food~
+Believe me, you don't want to look at that!
+~
+S
+#2252
+Stairway~
+As the title implies, there is a set of stairs here which lead up.
+~
+22 8 2
+D2
+The main lobby is to the south.
+~
+~
+0 -1 2239
+D4
+The stairs lead up.
+~
+~
+0 -1 2254
+S
+#2253
+Hallway~
+The hallway leads off west into the locker room, and east into the lobby.
+~
+22 9 5
+D1
+The main lobby is east.
+~
+~
+0 -1 2239
+D3
+The smell wafting from the room behind the door identifies it as a locker
+room.
+~
+door~
+1 -1 2255
+S
+#2254
+Equipment Room~
+The equipment room houses various items used to work out and for sports.
+There is a set of stairs here which lead down.
+~
+22 8 2
+D3
+The Gym is to the west.
+~
+~
+0 -1 2256
+D5
+The stairs lead down.
+~
+~
+0 -1 2252
+S
+#2255
+Locker Room~
+The fresh smell of sweat lingers in the locker rooms.  There is a set of
+stairs nearby.
+~
+22 8 3
+D1
+A hallway branches off to the east.
+~
+door~
+1 -1 2253
+D4
+The stairs lead up.
+~
+~
+0 -1 2256
+S
+#2256
+The Gym~
+Think big.  Think very big.  Think bigger still.  Well, this gym isn't
+that big, but it's pretty big.  The locker rooms are down the stairs.
+The equipment room lies to the east.
+~
+22 8 5
+D0
+The gym continues to the north.
+~
+~
+0 -1 2257
+D1
+The equipment room is to the east.
+~
+~
+0 -1 2254
+D3
+The gym continues to the west.
+~
+~
+0 -1 2259
+D5
+The stairs lead down.
+~
+~
+0 -1 2255
+S
+#2257
+The Gym~
+Think big.  Think very big.  Think bigger still.  Well, this gym isn't
+that big, but it's pretty big.
+~
+22 8 5
+D2
+The gym continues to the south.
+~
+~
+0 -1 2256
+D3
+The gym continues to the west.
+~
+~
+0 -1 2258
+S
+#2258
+The Gym~
+Think big.  Think very big.  Think bigger still.  Well, this gym isn't
+that big, but it's pretty big.
+~
+22 8 5
+D1
+The gym continues to the east.
+~
+~
+0 -1 2257
+D2
+The gym continues to the south.
+~
+~
+0 -1 2259
+S
+#2259
+The Gym~
+Think big.  Think very big.  Think bigger still.  Well, this gym isn't
+that big, but it's pretty big.
+~
+22 8 5
+D0
+The gym continues to the north.
+~
+~
+0 -1 2258
+D1
+The gym continues to the east.
+~
+~
+0 -1 2256
+S
+#2260
+The Hall To The Arena~
+This hall leads to the arena (that is if you are coming from the lobby).
+Otherwise, this hall leads to the lobby (from the arena, that is).
+~
+22 9 5
+D1
+That is the direction to the arena.
+~
+~
+0 -1 2261
+D3
+This is the direction to the lobby.
+~
+~
+0 -1 2239
+S
+#2261
+Jock Hardy Arena~
+The arena is about as big as the gym, but it is covered in ICE!  Wheeeee!
+There is an entrance to the south and a hallway to the west.
+~
+22 8 0
+D0
+The arena continues to the north.
+~
+~
+0 -1 2262
+D1
+The arena continues to the east.
+~
+~
+0 -1 2264
+D2
+Division Road lies to the south.
+~
+~
+0 -1 2216
+D3
+The hall which leads to the lobby (from here) is west.
+~
+~
+0 -1 2260
+E
+ice covered~
+Never seen ice before?  Try Canada.
+~
+S
+#2262
+Jock Hardy Arena~
+The arena is about as big as the gym, but it is covered in ICE!  Wheeeee!
+~
+22 8 0
+D1
+The arena continues to the east.
+~
+~
+0 -1 2263
+D2
+The arena continues to the south.
+~
+~
+0 -1 2261
+E
+ice covered~
+Never seen ice before?  Try Canada.
+~
+S
+#2263
+Jock Hardy Arena~
+The arena is about as big as the gym, but it is covered in ICE!  Wheeeee!
+~
+22 8 0
+D2
+The arena continues to the south.
+~
+~
+0 -1 2264
+D3
+The arena continues to the west.
+~
+~
+0 -1 2262
+E
+ice covered~
+Never seen ice before?  Try Canada.
+~
+S
+#2264
+Jock Hardy Arena~
+The arena is about as big as the gym, but it is covered in ICE!  Wheeeee!
+~
+22 8 0
+D0
+The arena continues to the north.
+~
+~
+0 -1 2263
+D3
+The arena continues to the west.
+~
+~
+0 -1 2261
+E
+ice covered~
+Never seen ice before?  Try Canada.
+~
+S
+#2265
+Campus Pub Stairwell~
+This stairwell leads up to the ever popular (and ever-loud) Campus
+Pub.  There are also exits to the north and south leading to the
+Campus Bookstore and University Crescent respectively.  The stairwell
+is quite worn in from all the boots trampling up and down it all day
+(and night).  The exit to the north is much less worn but the path
+to the south has been worn right down.
+There is a small sign partway up the stairwell.
+~
+22 8 1
+D0
+The Campus Bookstore is located to the north.
+~
+door~
+1 -1 2241
+D2
+Campus Crescent, and its cobblestones, is just to the south.
+~
+~
+0 -1 2206
+D4
+The Campus Pub is just above your head...just go up the stairs...if you
+can stand the noise that is.
+~
+~
+0 -1 2266
+E
+small sign~
+The sign reads:
+
+NO minors allowed.
+
+~
+S
+#2266
+Campus Pub~
+This is your everyday campus pub with loud music, lots of underagers,
+lots of beer, and the perennial favourite, Moshing.  You find it very
+difficult to move around, so decide to limit yourself to the bar.
+There is only one exit... the one you entered by (down if you can't
+remember).
+~
+22 8 5
+D5
+The only way out is down.
+~
+~
+0 -1 2265
+E
+zorpa~
+You see nothing special.
+Now what is a zorpa anyways?
+~
+E
+moshing mosh~
+All you can see is a mass of bodies moving up and down, up and down...
+~
+S
+#2267
+The Infobank~
+This is the Infobank of the university.  From previous experience you
+realize that any information will be grossly inaccurate, if truthful
+at all.  You can see a map of the university on the wall as well as a
+list of the student government.  The only exit is the way you came in,
+but with student governments you never know...
+~
+22 8 0
+D3
+Back to the Central annex.
+~
+~
+0 -1 2237
+D5
+~
+plank~
+1 -1 2271
+E
+map~
+This map shows absolutely nothing, further proving the value of student
+governments to you.
+~
+E
+list~
+The list reads:
+
+        <name scratched out>    President
+        <name scratched out>    Vice-President
+
+Seems as though everyone is claiming ignorance today.
+~
+S
+#2268
+The Games Room~
+In this room you see many arcade style games, none of which are plugged
+in.  In one corner you can see a girl playing the Addams Family Pinball
+Game.  There is only one exit.  (Guess where it is).
+~
+22 8 0
+D3
+You can still see the central annex from here, there seems to be no getting
+away from it.
+~
+~
+0 -1 2238
+E
+girl pinball addams family~
+You can see a girl playing the Addams Family Pinball Game in one corner.
+~
+S
+#2269
+The Tuck Shoppe~
+This is the place to buy whatever kind of food you are looking for,
+according to the sign all types of food are sold here, all you need
+to do is ask...
+~
+22 140 0
+D1
+You can see the central annex to the east.
+~
+~
+0 -1 2237
+S
+#2270
+The Post Office~
+This seems to be the standard post office given to any university by
+the wonderful Insanity government.  You can tell that it is a university
+post office because of the surplus amount of obscene graffiti upon the
+walls.  The back hall is south of here.
+~
+22 8 0
+D2
+You can see the back hall from here complete with humming bank machines.
+~
+~
+0 -1 2238
+E
+graffiti~
+You really don't want to read this! (if you want to continue reading type
+"look wirt")
+~
+E
+wirt~
+You really are a sucker for punishment now aren't you?
+If you still want to read it type "look prawn"
+~
+E
+prawn~
+You see nothing special.
+The Prawn is in excellent condition.
+~
+S
+#2271
+The Special Hidden Room~
+This room is completely empty except for the things you can see in it.
+The only thing of real importance you can see is the plank in the
+ceiling.
+~
+22 8 5
+D4
+Back to the Infobank we go.
+~
+plank~
+1 -1 2267
+S
+#2272
+Birth Control Centre~
+This room is literally plastered with photographs, leaflets, and other
+birth control paraphernalia.  On the table for instance is a stack of
+pamphlets to be handed out to any students who wish to read them.
+~
+22 12 0
+D3
+To the west you can see the entrance to the building.
+~
+~
+0 -1 2231
+E
+pamphlet leaflet photograph photo~
+This portrays various bodily functions and things vaguely related that turn
+even your stomach...  Blech!
+~
+S
+#2273
+De-Tox Unit~
+This room seems to be the place where people get "detoxified".  Although
+it smells pretty bad, it wouldn't be a bad idea to remember where this is
+so that you can rest here later.  You find it rather difficult to manoeuvre
+in here because of the large number of drunks on the floor.  The only exit
+is north.
+~
+22 12 4
+D0
+Back to the entrance...  out of the bad smells here...
+~
+~
+0 -1 2231
+S
+#2274
+Ellis Hall Lobby~
+This large room seems to serve as a display area for neat engineering
+devices and awards.  There are four exits.  The east exit will take you
+out towards the street whilst the north and west exits are too dark to
+see the ends of.  The stairs on the south side of the room lead up to
+the second floor and whatever might be up there...
+~
+22 9 1
+D0
+You can't tell, it's too dark.
+~
+~
+0 -1 2275
+D1
+The street entrance to the building.
+~
+~
+0 -1 2232
+D3
+You can't tell, it's too dark.
+~
+~
+0 -1 2277
+D4
+You aren't quite sure what could be at the top of the stairs, but it could
+be interesting.
+~
+~
+0 -1 2280
+E
+neat engineering devices~
+You see lots of neat engineering devices which were used in the real world
+at some point or another.  At least you think they were.
+~
+E
+award awards~
+These are awards for various Engineering competitions which the university
+entered at one time or another.
+~
+S
+#2275
+Hallway~
+This hallway is non-descript and has two exits.  The eastern exit seems to
+lead into a large room while the southern exit leads, well, south.
+~
+22 9 1
+D1
+There seems to be a large room to the east.
+~
+~
+0 -1 2276
+D2
+What did you expect? This exit leads south.
+~
+~
+0 -1 2274
+E
+hallway~
+The hallway is non-descript, ie it has NO description, so why are you
+looking at it?
+~
+S
+#2276
+Auditorium~
+This is the large room you probably saw from the hallway attached to its
+only exit (west).  There are numerous seats arranged like a theatre would
+be.  There is a large stage at the east end of the room.
+~
+22 9 3
+D3
+The hallway you probably entered from is handily located to the west.
+~
+~
+0 -1 2275
+E
+stage~
+The stage is located at the west end of the room.  In one corner of the
+stage, there is a hockey stick lying on the ground.
+~
+E
+hockey stick~
+This is a hockey stick with illegible writing on it.  On one side there
+is a crest prominently displayed.
+~
+E
+crest~
+The crest seems to be the crest belonging to the class of `97.
+~
+E
+goalie~
+How did you know it was a goalie stick? Have you been reading the keywords?
+~
+S
+#2277
+Hallway~
+This non-descript hallway has an exit to the east and one to the west.
+Unfortunately, you can't see what the exits lead to.  Just before you
+finish looking, you notice a door to the north.
+~
+22 9 1
+D0
+This seems to lead to a library.
+~
+door~
+1 -1 2279
+D1
+You still can't see where this leads.
+~
+~
+0 -1 2274
+D3
+You can't see where this exit leads so stop trying to get a sneak preview.
+~
+~
+0 -1 2278
+E
+door~
+It looks just like every other door you've seen.
+~
+S
+#2278
+The Back Exit~
+This corridor comes to a sudden halt here as a door seems to be blocking
+the way to the west.  If you were to go east, though, you would not have
+a problem as the corridor seems to continue that way.
+~
+22 9 1
+D1
+The hallway looks to continue in this direction.
+~
+~
+0 -1 2277
+D3
+This leads to a back pathway.
+~
+door~
+2 2201 2287
+S
+#2279
+Library~
+This library is full of incomprehensible engineering texts.  Included
+in the selection here are textbooks dealing with Geology, Calculus,
+and Mechanics.  What fun it would be to spend an entire day just
+reading these books!  Fortunately you won't be disturbed because there
+is one exit.  To the south there is a door.
+~
+22 8 0
+D2
+A hallway lies to the south.
+~
+door~
+1 -1 2277
+E
+calculus geology mechanics text textbook texts textbooks~
+These exciting books are sure to fill one of your days with joy!
+~
+S
+#2280
+Upper Lobby~
+This lobby has four exits, East and West, North and the stairwell to the
+south which leads down.  You can't see where the stairwell leads.  For
+that matter you can't see where any of the exits lead.
+~
+22 9 1
+D0
+It's too dark to see.
+~
+~
+0 -1 2283
+D1
+It's too dark to see.
+~
+~
+0 -1 2281
+D3
+It's also too dark to see.
+~
+~
+0 -1 2282
+D5
+This, like all the other exits, is to dark to tell what it is.
+~
+~
+0 -1 2274
+S
+#2281
+A Classroom~
+This classroom is completely deserted.  There are no desks, no chairs,
+no tables, no nothing... wait, that would mean something is here, wouldn't
+it?  Alright, there is something, there is an exit to the west.
+~
+22 13 1
+D3
+This leads back to the upper lobby.
+~
+~
+0 -1 2280
+S
+#2282
+A Classroom~
+This classroom is completely deserted.  There are no desks, no chairs,
+no tables, no nothing... Ok, you caught me again, there is an exit to
+the east.
+~
+22 13 1
+D1
+This leads back to the upper lobby.
+~
+~
+0 -1 2280
+S
+#2283
+Hallway~
+This hallway has three conventional exits and a door.  East, south and
+west are conventional whilst the north wall holds a door.
+~
+22 9 1
+D0
+This seems to be an office.
+~
+door~
+1 2200 2286
+D1
+It's too dark to see.
+~
+~
+0 -1 2284
+D2
+It's too dark to see.
+~
+~
+0 -1 2280
+D3
+It's too dark to see.
+~
+~
+0 -1 2285
+S
+#2284
+A Classroom~
+This classroom is completely deserted.  There are no desks, no chairs,
+no tables, no nothing... except the typical exit to the west of course.
+~
+22 13 1
+D3
+This leads back to the hallway.
+~
+~
+0 -1 2283
+S
+#2285
+A Classroom~
+This classroom is completely deserted.  There are no desks, no chairs,
+no tables, no nothing... not even an exit to the north, good thing since
+the actual exit is to the east.
+~
+22 13 1
+D1
+This leads back to the hallway.
+~
+~
+0 -1 2283
+S
+#2286
+Faculty Office~
+This room seems to be in shambles, as security has recently apprehended
+a student trying to break in.  A huge desk has been toppled over and now
+rests against a wall.
+~
+22 9 1
+D2
+This door leads to the hall.
+~
+door~
+1 2200 2283
+E
+desk huge~
+It rests against the wall.
+~
+S
+#2287
+Back Path~
+This pathway leads off into the distance.  You find yourself wondering
+what could be at the end of it.  To the north the path continues, to
+the east, a door graces the building next to you.
+~
+22 4 4
+D0
+The pathway continues.
+~
+~
+0 -1 2288
+D1
+This leads into the building.
+~
+door~
+2 2201 2278
+E
+pathway~
+The path is well worn, but there are no discernible footsteps upon it.
+~
+E
+building~
+This is the back side of Ellis Hall, the Engineering building.
+~
+S
+#2288
+A Pathway~
+The path continues north-south.
+~
+22 4 4
+D0
+The path continues.
+~
+~
+0 -1 2289
+D2
+The path approaches a building.
+~
+~
+0 -1 2287
+E
+building~
+Wait until you can see it better.
+~
+S
+#2289
+A Pathway~
+The pathway continues north-south.  To the north you can see a tall, thin
+structure sticking up from the ground.
+~
+22 4 4
+D0
+The pathway continues.
+~
+~
+0 -1 2290
+D2
+The pathway continues.
+~
+~
+0 -1 2288
+S
+#2290
+Approach To The Greasepole~
+The path seems to be taking a direct route to the needle-like structure
+just to the north.  To the south the path continues.
+~
+22 4 4
+D0
+The path begins to lead to a large pit.
+~
+~
+0 -1 2291
+D2
+The path continues.
+~
+~
+0 -1 2289
+S
+#2291
+The Greasepit~
+The tall, needle-like structure stands right in front of you.  There
+are two ways you can go: to the south on the path, or up the greasepole.
+~
+22 4 4
+D2
+The path leads off to the south.
+~
+~
+0 -1 2290
+D4
+The pole looms tall in front of you.  The only way up it is obvious...
+Up.
+~
+~
+0 -1 2293
+E
+pole grease greasepole~
+This pole is covered with grease and looks horrendously hard to climb.
+~
+S
+#2292
+The Greasepole~
+SPLASH!!!  Down the pole you slide...
+You arrive at the bottom again...
+As usual the exits are to the south and up.
+~
+22 4 5
+D2
+The path leads off to the south.  It looks like a good place to go.
+~
+~
+0 -1 2290
+D4
+The pole looms tall in front of you.
+~
+~
+0 -1 2293
+E
+pole grease greasepole~
+This pole is covered with grease and looks even worse than it did before.
+~
+S
+#2293
+The Greasepole~
+The only exits are up and down.
+~
+22 4 5
+D4
+The pole looms ever high above you.
+~
+~
+0 -1 2294
+D5
+It's a long slide down.
+~
+~
+0 -1 2292
+E
+pole greasepole grease~
+The pole still looks pretty bad, and things don't seem to be getting
+better.
+~
+S
+#2294
+The Greasepole~
+The only exits are up and down.
+~
+22 4 5
+D4
+The pole looms ever high above you.
+~
+~
+0 -1 2295
+D5
+It's a long slide down.
+~
+~
+0 -1 2292
+E
+pole greasepole grease~
+The pole still looks pretty bad, and things don't seem to be getting
+better.
+~
+S
+#2295
+The Greasepole~
+The only exits are up and down.
+~
+22 4 5
+D4
+The pole looms ever high above you.
+~
+~
+0 -1 2292
+D5
+It's a long slide down.
+~
+~
+0 -1 2296
+E
+pole greasepole grease~
+The pole still looks pretty bad, and things don't seem to be getting
+better.
+~
+S
+#2296
+The Greasepole~
+The only exits are up and down.
+~
+22 4 5
+D4
+The pole looms ever high above you.
+~
+~
+0 -1 2297
+D5
+It's a long slide down.
+~
+~
+0 -1 2292
+E
+pole greasepole grease~
+The pole still looks pretty bad, and things don't seem to be getting
+better.
+~
+S
+#2297
+The Greasepole~
+The only exits are up and down.
+~
+22 4 5
+D4
+The pole looms ever high above you.
+~
+~
+0 -1 2298
+D5
+It's a long slide down.
+~
+~
+0 -1 2292
+E
+pole greasepole grease~
+The pole still looks pretty bad, and things don't seem to be getting
+better.
+~
+S
+#2298
+The Greasepole~
+The only exits are up and down.
+~
+22 4 5
+D4
+The pole looms ever high above you.
+~
+~
+0 -1 2292
+D5
+It's a long slide down.
+~
+~
+0 -1 2299
+E
+pole greasepole grease~
+The pole still looks pretty bad, and things don't seem to be getting
+better.
+~
+S
+#2299
+The Greasepole~
+The only exits are up and down.
+~
+22 4 5
+D4
+The pole doesn't loom quite so high above you any more.
+~
+~
+0 -1 2300
+D5
+It's a long slide down.
+~
+~
+0 -1 2292
+E
+pole greasepole grease~
+The pole still looks pretty bad, and things don't seem to be getting
+better.
+~
+S
+#2300
+The Top Of The Greasepole~
+You've made it to the top!  All you have to do now is get down...
+~
+22 4 5
+D5
+It's a long slide down.
+~
+~
+0 -1 2292
+E
+pole greasepole grease~
+The pole still looks pretty bad, but it doesn't look quite as bad as
+before.
+~
+S
+#2301
+Reception Desk~
+This is the main reception desk for the Wally World residence.  You are
+able to see the incoming mail behind the desk as well as hooks for keys
+to hang upon.  To the east there is a door and just south of you is the
+lobby.
+~
+22 136 1
+D1
+~
+door~
+1 2203 2302
+D2
+~
+~
+0 -1 2242
+E
+mail~
+Why are you trying to look at the mail, it's private!
+~
+E
+hooks hook key keys~
+Unfortunately you don't see any keys hanging off of any of the hooks.
+~
+S
+#2302
+Main Office~
+This is the main office associated with the Wally World residence.  There
+is a desk, chair and filing cabinet in the room.  There is only one exit
+from the room, west.
+~
+22 8 1
+D3
+This way leads back to the reception desk.
+~
+door~
+1 2203 2301
+E
+chair~
+The chair is not unusual in any way whatsoever.
+The chair is in excellent condition.
+~
+E
+desk~
+The desk, like the chair, is completely normal.
+The desk is also in excellent condition.
+~
+E
+filing cabinet files~
+Looking through the files you see that Wally World was originally slated
+to have at least eleven levels but the designers got sick and tired of it
+and gave up after just a few levels.
+~
+S
+#2303
+Lobby~
+This lobby is the perfect area to make a meeting place, assuming of course
+that you can find it again.  Just to make it easy to rediscover, exits have
+been handily located to both the east and west.
+~
+22 8 4
+D1
+This leads to a handy stairwell.
+~
+~
+0 -1 2304
+D3
+This leads towards the exit.
+~
+~
+0 -1 2242
+S
+#2304
+Stairwell~
+This is, as it says, a stairwell.  The exits are west and up.
+~
+22 9 4
+D3
+This leads to the lobby.
+~
+~
+0 -1 2303
+D4
+This leads up into the unknown.
+~
+~
+0 -1 2305
+S
+#2305
+Stairwell~
+This is another stairwell.  The exits are west, up, and down.
+~
+22 9 4
+D3
+You can't tell where this leads.
+~
+~
+0 -1 2306
+D4
+This leads up into the unknown.
+~
+~
+0 -1 2322
+D5
+This leads down into the known.
+~
+~
+0 -1 2304
+S
+#2306
+Landing~
+This is a landing with halls heading off in all the cardinal directions.
+The only problem is that, the hall to the west is blocked by a door.
+~
+22 9 1
+D0
+You can't tell where this leads.
+~
+~
+0 -1 2308
+D1
+You can't tell where this leads.
+~
+~
+0 -1 2305
+D2
+You can't tell where this leads.
+~
+~
+0 -1 2315
+D3
+You can't tell where this leads.
+~
+door~
+1 -1 2307
+S
+#2307
+Broom Closet~
+What a waste of effort it was to come in here... there is absolutely
+nothing, not even brooms.  And there is no other exit to boot, just
+the one you came in!
+~
+22 9 1
+D1
+You can't tell where this leads.
+~
+door~
+1 -1 2306
+S
+#2308
+Hallway~
+The hall continues north-south and there is a doorway on either side of
+the hall.
+~
+22 9 1
+D0
+You can't tell where this leads.
+~
+~
+0 -1 2311
+D1
+You can't tell where this leads.
+~
+door~
+1 -1 2309
+D2
+You can't tell where this leads.
+~
+~
+0 -1 2306
+D3
+You can't tell where this leads.
+~
+door~
+1 -1 2310
+E
+door~
+The door on the west has the number 206 and the door on the east, 205.
+~
+E
+floor carpet~
+This is a nice, groovy, red patterned carpet which extends all the way
+down the hall.
+~
+S
+#2309
+Private Room 205~
+This room is sparsely furnished but you notice one thing upon entering...
+the floor is tiled, while the hallways are carpeted.  I wonder why?
+There is only one exit...the one you came in...
+~
+22 9 1
+D3
+This leads back to the hall.
+~
+door~
+1 -1 2308
+E
+tile floor~
+It is a nice friendly ceramic tile floor.
+~
+S
+#2310
+Private Room 206~
+This room is sparsely furnished but you notice one thing upon entering...
+the floor is tiled, while the hallways are carpeted.  I wonder why?
+There is only one exit...the one you came in...
+~
+22 9 1
+D1
+This leads back to the hall.
+~
+door~
+1 -1 2308
+E
+tile floor~
+It is a nice friendly ceramic tile floor.
+~
+S
+#2311
+Hallway~
+The hall leads to the south and there is a doorway on either side of the
+hall as well as one to the north.
+~
+22 9 1
+D0
+You can't tell where this leads.
+~
+door~
+1 -1 2314
+D1
+You can't tell where this leads.
+~
+door~
+1 -1 2312
+D2
+You can't tell where this leads.
+~
+~
+0 -1 2308
+D3
+You can't tell where this leads.
+~
+door~
+1 -1 2313
+E
+door~
+The door on the west has the number 204 and the door on the east, 203
+while the door to the north has the number 201.
+~
+E
+floor carpet~
+This is a nice, groovy, red patterned carpet which extends all the way
+down the hall.
+~
+S
+#2312
+Private Room 203~
+This room is sparsely furnished but you notice one thing upon entering...
+the floor is tiled, while the hallways are carpeted.  I wonder why?
+There is only one exit...the one you came in...
+~
+22 9 1
+D3
+This leads back to the hall.
+~
+door~
+1 -1 2311
+E
+tile floor~
+It is a nice friendly ceramic tile floor.
+~
+S
+#2313
+Private Room 204~
+This room is sparsely furnished but you notice one thing upon entering...
+the floor is tiled, while the hallways are carpeted.  I wonder why?
+There is only one exit...the one you came in...
+~
+22 9 1
+D1
+This leads back to the hall.
+~
+door~
+1 -1 2311
+E
+tile floor~
+It is a nice friendly ceramic tile floor.
+~
+S
+#2314
+Private Room 201~
+This room is sparsely furnished but you notice one thing upon entering...
+the floor is tiled, while the hallways are carpeted.  I wonder why?
+There is only one exit...the one you came in...
+~
+22 9 1
+D2
+This leads back to the hall.
+~
+door~
+1 -1 2311
+E
+tile floor~
+It is a nice friendly ceramic tile floor.
+~
+S
+#2315
+Hallway~
+The hall continues north-south and there is a doorway on either side of
+the hall.
+~
+22 9 1
+D0
+You can't tell where this leads.
+~
+~
+0 -1 2306
+D1
+You can't tell where this leads.
+~
+door~
+1 -1 2316
+D2
+You can't tell where this leads.
+~
+~
+0 -1 2318
+D3
+You can't tell where this leads.
+~
+door~
+1 -1 2317
+E
+door~
+The door on the west has the number 208 and the door on the east, 207.
+~
+E
+floor carpet~
+This is a nice, groovy, red patterned carpet which extends all the way
+down the hall.
+~
+S
+#2316
+Private Room 207~
+This room is sparsely furnished but you notice one thing upon entering...
+the floor is tiled, while the hallways are carpeted.  I wonder why?
+There is only one exit...the one you came in...
+~
+22 9 1
+D3
+This leads back to the hall.
+~
+door~
+1 -1 2315
+E
+tile floor~
+It is a nice friendly ceramic tile floor.
+~
+S
+#2317
+Private Room 208~
+This room is sparsely furnished but you notice one thing upon entering...
+the floor is tiled, while the hallways are carpeted.  I wonder why?
+There is only one exit...the one you came in...
+~
+22 9 1
+D1
+This leads back to the hall.
+~
+door~
+1 -1 2315
+E
+tile floor~
+It is a nice friendly ceramic tile floor.
+~
+S
+#2318
+Hallway~
+The hall leads to the north and there is a doorway on either side of the
+hall as well as one to the south.
+~
+22 9 1
+D0
+You can't tell where this leads.
+~
+~
+0 -1 2315
+D1
+You can't tell where this leads.
+~
+door~
+1 -1 2319
+D2
+You can't tell where this leads.
+~
+door~
+1 -1 2321
+D3
+You can't tell where this leads.
+~
+door~
+1 -1 2320
+E
+door~
+The door on the west has the number 210 and the door on the east, 209
+and the door to the south has the number 202.
+~
+E
+floor carpet~
+This is a nice, groovy, red patterned carpet which extends all the way
+down the hall.
+~
+S
+#2319
+Private Room 209~
+This room is sparsely furnished but you notice one thing upon entering...
+the floor is tiled, while the hallways are carpeted.  I wonder why?
+There is only one exit...the one you came in...
+~
+22 9 1
+D3
+This leads back to the hall.
+~
+door~
+1 -1 2318
+E
+tile floor~
+It is a nice friendly ceramic tile floor.
+~
+S
+#2320
+Private Room 210~
+This room is sparsely furnished but you notice one thing upon entering...
+the floor is tiled, while the hallways are carpeted.  I wonder why?
+There is only one exit...the one you came in...
+~
+22 9 1
+D1
+This leads back to the hall.
+~
+door~
+1 -1 2318
+E
+tile floor~
+It is a nice friendly ceramic tile floor.
+~
+S
+#2321
+Private Room 202~
+This room is sparsely furnished but you notice one thing upon entering...
+the floor is tiled, while the hallways are carpeted.  I wonder why?
+There is only one exit...the one you came in...
+~
+22 9 1
+D0
+This leads back to the hall.
+~
+door~
+1 -1 2318
+E
+tile floor~
+It is a nice friendly ceramic tile floor.
+~
+S
+#2322
+Stairwell~
+This is another stairwell.  The exits are west, up, and down.
+~
+22 9 4
+D3
+You can't tell where this leads.
+~
+~
+0 -1 2323
+D4
+This leads up into the unknown.
+~
+~
+0 -1 2305
+D5
+This leads down into the known.
+~
+~
+0 -1 2305
+S
+#2323
+Landing~
+This is a landing with halls heading off in all the cardinal directions.
+The only problem is that, the hall to the west is blocked by a door.
+~
+22 9 1
+D0
+You can't tell where this leads.
+~
+~
+0 -1 2325
+D1
+You can't tell where this leads.
+~
+~
+0 -1 2322
+D2
+You can't tell where this leads.
+~
+~
+0 -1 2329
+D3
+You can't tell where this leads.
+~
+door~
+1 -1 2324
+S
+#2324
+Broom Closet~
+What a waste of effort it was to come in here... there is absolutely
+nothing, not even brooms.  And to boot there is no other exit, just
+the one you came in!
+~
+22 9 1
+D1
+You can't tell where this leads.
+~
+door~
+1 -1 2323
+S
+#2325
+Hallway~
+This hallway comes to an abrupt halt as there is a door in its way
+directly to the north.  Coincidentally, there are also doors to the
+east and west.  The only exit without a door in fact is to the south!
+~
+22 9 1
+D0
+The door is locked, so therefore you cannot see through it.
+~
+door~
+2 2204 2328
+D1
+The door is the door of room 301.
+~
+door~
+1 -1 2326
+D2
+The hallway continues to the south.
+~
+~
+0 -1 2323
+D3
+The door is the door of room 302.
+~
+door~
+1 -1 2327
+E
+door~
+The doors all lead to rooms.
+~
+S
+#2326
+Private Room 301~
+This room is quite well furnished and could probably comfortably house
+two people.  It is much larger than the rooms downstairs.
+~
+22 9 1
+D3
+The door leads back into the hallway.
+~
+door~
+1 -1 2325
+S
+#2327
+Private Room 302~
+This room is quite well furnished and could probably comfortably house
+two people.  It is much larger than the rooms downstairs.
+~
+22 9 1
+D1
+The door leads back into the hallway.
+~
+door~
+1 -1 2325
+S
+#2328
+Main Residence Office~
+This office is the main office for all the residences of the University
+of North Insanity.  There is a large desk here as well as two plush chairs.
+In the north-west corner of the room there is a trapdoor in the ceiling.
+~
+22 13 2
+D2
+The door leads to the hallway.
+~
+door~
+2 2204 2325
+D4
+The trapdoor leads up... beyond that, you aren't sure where it goes.
+~
+trapdoor door~
+1 -1 2333
+E
+desk chair plush~
+The desk and chairs are neatly arranged as if in preparation for an
+upcoming meeting or something of the sort.
+~
+E
+trapdoor~
+The trapdoor is neatly fastened with a small hook.
+~
+S
+#2329
+Hallway~
+This hallway comes to an abrupt halt as there is a door in its way
+directly to the south.  Coincidentally, there are also doors to the
+east and west.  The only exit without a door in fact is to the north!
+~
+22 9 1
+D0
+The hallway continues to the north.
+~
+~
+0 -1 2323
+D1
+The door is the door of room 303.
+~
+door~
+1 -1 2331
+D2
+The door is for room 305.
+~
+door~
+1 -1 2332
+D3
+The door is the door of room 304.
+~
+door~
+1 -1 2330
+E
+door~
+The doors all lead to rooms.
+~
+S
+#2330
+Private Room 304~
+This room is quite well furnished and could probably comfortably house
+two people.  It is much larger than the rooms downstairs.
+~
+22 9 1
+D1
+The door leads back into the hallway.
+~
+door~
+1 -1 2329
+S
+#2331
+Private Room 303~
+This room is quite well furnished and could probably comfortably house
+two people.  It is much larger than the rooms downstairs.
+~
+22 9 1
+D3
+The door leads back into the hallway.
+~
+door~
+1 -1 2329
+S
+#2332
+Private Room 300~
+This room is quite well furnished and could probably comfortably house
+two people.  It is much larger than the rooms downstairs.
+~
+22 9 1
+D0
+The door leads back into the hallway.
+~
+door~
+1 -1 2329
+S
+#2333
+Attic~
+This attic is carefully hidden away from sight as it is used as a secret
+storeroom.  The only exit is down.
+~
+22 13 4
+D2
+You see nothing special.
+~
+grate~
+1 -1 2334
+D5
+You see the office below.
+~
+trapdoor~
+1 -1 2328
+E
+grate~
+Beyond the grate you can see another small storage room.
+~
+S
+#2334
+Small Storage Room~
+This is the really secret storage room attached to the attic.  There are
+two exits from it.  The main exit is through the grate to the north but
+there is a chute down to the first floor located in the floor.
+~
+22 8 3
+D0
+The attic is just north of here.
+~
+grate~
+1 -1 2333
+D5
+A chute leads down from this room.
+~
+~
+0 -1 2335
+E
+chute~
+The chute is rather smooth and looks to be a fun ride.
+~
+E
+grate~
+Beyond the grate you can see the attic.
+~
+S
+#2335
+The Chute~
+WHEEEEEEEEEEEE!
+What a fun ride!!!!
+Fortunately the only exit is down.
+~
+22 8 0
+D5
+The chute continues down.
+~
+~
+0 -1 2303
+E
+chute~
+The chute is rather smooth and is quite a fun ride.
+~
+S
+#2336
+The Ghetto~
+The road would normally run north-south, but the way south is blocked
+by a small obstacle... An overturned policemobile.  There are houses
+on either side of the road.
+~
+22 1 4
+D0
+To escape the ghetto, you can head this way.
+~
+~
+0 -1 2223
+D1
+A shack-like ghetto house stands (barely) there.
+~
+~
+0 -1 2337
+D3
+A shack-like ghetto house stands (barely) there.
+~
+door~
+1 -1 2338
+E
+overturned police policemobile mobile~
+It is blocking the road quite nicely.  Maybe it is meant to impede
+passage.
+~
+S
+#2337
+Ghetto House~
+It's a mess.
+~
+22 9 5
+D3
+An exit from this hellhole.
+~
+~
+0 -1 2336
+E
+mess~
+Need you ask?
+~
+S
+#2338
+Frec House~
+You feel a little apprehensive as you enter this house...
+It's a mess.
+~
+22 9 5
+D1
+An exit from this hellhole.
+~
+door~
+1 -1 2336
+D2
+An exit from this hellhole.  Looks like another hellhole though.
+~
+door~
+1 -1 2339
+E
+mess~
+Need you ask?
+~
+S
+#2339
+Ghetto House~
+It looks like a hellhole...
+It's a mess.
+~
+22 9 5
+D0
+An exit from this hellhole to yet another hellhole.
+~
+door~
+1 -1 2338
+D1
+An exit from this hellhole.
+~
+~
+0 -1 2340
+E
+mess~
+Need you ask?
+~
+E
+hell hole hellhole~
+Never seen one before?
+~
+S
+#2340
+The Ghetto~
+The road would normally run north-south, but the way north is blocked
+by a small obstacle... An overturned policemobile.  There is a house
+to the west.
+~
+22 1 4
+D2
+The ghetto continues south.
+~
+~
+0 -1 2341
+D3
+A run-down house lies to the west.
+~
+~
+0 -1 2339
+E
+house run-down~
+It's in bad shape.
+~
+E
+overturned police policemobile mobile~
+It is blocking the road quite nicely.  Maybe it is meant to impede
+passage.
+~
+S
+#2341
+The Ghetto Intersection~
+This intersection is the joining point of what's left of University
+Avenue and Earl Road which heads off to the east.
+~
+22 1 4
+D0
+The ghetto continues north.
+~
+~
+0 -1 2340
+D1
+It seems to be less run-down in this direction.
+~
+~
+0 -1 2342
+D2
+The ghetto continues south.
+~
+~
+0 -1 2347
+D3
+A fairly well-kept house lies to the west.
+~
+~
+0 -1 2355
+E
+house run-down~
+It's not run-down.
+~
+S
+#2342
+The Ghetto~
+This part of the ghetto has survived in a better condition than the
+rest of the ghetto.  A house lies to the north.
+~
+22 1 3
+D0
+A fairly well-kept house is north.
+~
+~
+0 -1 2346
+D1
+The ghetto continues east.
+~
+~
+0 -1 2343
+D3
+The ghetto continues west.
+~
+~
+0 -1 2341
+E
+house run-down~
+It's not run-down.
+~
+S
+#2343
+The Ghetto~
+Earl Road ends abruptly as there is a house built immediately to the
+east.  Another stands to the south.
+~
+22 1 3
+D1
+A very well-kept house is east.
+~
+~
+0 -1 2344
+D2
+A very well-kept house is south.
+~
+~
+0 -1 2345
+D3
+The ghetto continues west.
+~
+~
+0 -1 2342
+E
+house run-down~
+It's not run-down at all.
+~
+S
+#2344
+Gael House~
+This house reminds you of home, your parent's home.  It's mind-boggling.
+~
+22 8 3
+D3
+You may exit to the west.
+~
+~
+0 -1 2343
+S
+#2345
+Gael House~
+This house reminds you of home, your aunt's home.  Now, that's absurd.
+~
+22 8 3
+D0
+You may exit to the north.
+~
+~
+0 -1 2343
+S
+#2346
+Boss House~
+Papers and calculators litter the room, making an otherwise neat house,
+messy.
+~
+22 8 4
+D2
+You may exit to the south.
+~
+~
+0 -1 2342
+E
+calculators papers~
+Illegible notes are scribbled on the papers.  Large numbers are punched
+in on the calculators, making them seem important.
+~
+S
+#2347
+The Ghetto~
+This part of the ghetto seems to have survived.  To the west, you can see,
+behind the rubble, the vague outlines of a house.
+~
+22 1 3
+D0
+The ghetto continues north.
+~
+~
+0 -1 2341
+D2
+The ghetto continues south.
+~
+~
+0 -1 2348
+E
+house run-down~
+It's run-down.
+~
+S
+#2348
+The Ghetto~
+This part of the ghetto seems to have survived.  To the east, you can see
+the A & Z Supermarket.
+~
+22 1 3
+D0
+The ghetto continues north.
+~
+~
+0 -1 2347
+D1
+The A & Z Supermarket looms to the east.
+~
+door~
+1 -1 2351
+D2
+The ghetto continues south.
+~
+~
+0 -1 2349
+E
+supermarket market~
+Seems to be the only supermarket around.
+~
+S
+#2349
+The Ghetto~
+This part of the ghetto seems to have survived.  There are houses on either
+side of the road.
+~
+22 1 3
+D0
+The ghetto continues north.
+~
+~
+0 -1 2348
+D1
+There is a run-down house to the east.
+~
+~
+0 -1 2352
+D2
+The ghetto continues south.
+~
+~
+0 -1 2350
+D3
+There is a fairly well-kept house to the west.
+~
+~
+0 -1 2353
+E
+houses house~
+The houses are in relatively ok condition.
+~
+S
+#2350
+The Ghetto~
+This part of the ghetto seems to have survived.  There is a house to the
+east.  South of you, you can see the end of the ghetto.
+~
+22 1 4
+D0
+The ghetto continues north.
+~
+~
+0 -1 2349
+D1
+There is a very well-kept house to the east.
+~
+~
+0 -1 2354
+D2
+The ghetto continues south.
+~
+~
+0 -1 2224
+E
+houses house~
+The houses are in relatively ok condition.
+~
+S
+#2351
+The A & Z Supermarket~
+Aisles and aisles of foodstuffs are waiting to be bought by unknowing
+customers.
+~
+22 140 2
+D3
+The automatic doors hide the ghetto.
+~
+door doors~
+1 -1 2348
+E
+aisle aisles food foodstuffs~
+It's a supermarket, what did you expect?
+~
+S
+#2352
+Frec House~
+This house reminds you of your room, only worse.  It seems to be a
+post-holocaust version of it.
+~
+22 9 5
+D3
+You will exit to the west.
+~
+~
+0 -1 2349
+S
+#2353
+Boss House~
+Papers and calculators litter the room, making an otherwise neat house,
+messy.
+~
+22 8 4
+D1
+You may exit to the east.
+~
+~
+0 -1 2349
+E
+calculators papers~
+Illegible notes are scribbled on the papers.  Large numbers are punched
+in on the calculators, making them seem important.
+~
+S
+#2354
+Gael House~
+This house reminds you of home, your grandma's home.  It's insane.
+~
+22 8 3
+D3
+You may exit to the west.
+~
+~
+0 -1 2350
+S
+#2355
+Boss House~
+Papers and calculators litter the room, making an otherwise neat house,
+messy.
+~
+22 8 4
+D1
+You may exit to the east.
+~
+~
+0 -1 2341
+D2
+You may exit to the south, but it would probably not be a wise idea.
+~
+~
+0 -1 2356
+E
+calculators papers~
+Illegible notes are scribbled on the papers.  Large numbers are punched
+in on the calculators, making them seem important.
+~
+S
+#2356
+Frec House~
+This house reminds you of your room, only worse.  It seems to be a
+post-holocaust version of it.
+~
+22 9 5
+D0
+You will exit to the north.  Even if it is to another ghetto house.
+~
+~
+0 -1 2355
+S
+#2357
+Stairwell~
+A spiralling stairwell leads both up and down.  To the east, there is
+an exit to the auditorium.
+~
+22 8 2
+D1
+As I said, there is an exit to the auditorium.
+~
+~
+0 -1 2358
+D4
+Upstairs is the balcony, you believe.
+~
+~
+0 -1 2362
+D5
+It is too dark to tell.
+~
+~
+0 -1 2364
+S
+#2358
+The West Aisle Of The Auditorium~
+Many rows of seats line the floor of the auditorium.  This is where are
+the important get-togethers are held.  It is quite impressive.  But there
+seems to be some splotches on the seats.  To the west is a stairwell, and
+the auditorium continues east.  A balcony looms overhead.
+~
+22 8 0
+D1
+The auditorium continues.
+~
+~
+0 -1 2359
+D3
+To the west, is a stairwell.
+~
+~
+0 -1 2357
+E
+seats splotches seat splotch~
+The splotches on the seats seem to be some sort of purple dye which rained
+down upon them.  (Strange!)
+~
+S
+#2359
+The Centre Aisle Of The Auditorium~
+Many rows of seats line the floor of the auditorium.  This is where are the
+important get-togethers are held.  It is quite impressive.  But there seems
+to be some splotches on the seats.  The auditorium continues east and west.
+A balcony looms overhead.  To the south is the stage.
+~
+22 8 0
+D1
+The auditorium continues.
+~
+~
+0 -1 2360
+D2
+The stage is to the south.
+~
+~
+0 -1 2361
+D3
+The auditorium continues.
+~
+~
+0 -1 2358
+E
+seats splotches seat splotch~
+The splotches on the seats seem to be some sort of purple dye which rained
+down upon them.  (Strange!)
+~
+S
+#2360
+The East Aisle Of The Auditorium~
+Many rows of seats line the floor of the auditorium.  This is where are the
+important get-togethers are held.  It is quite impressive.  But there seems
+to be some splotches on the seats.  To the north is the entry hall, and the
+auditorium continues west.  A balcony looms overhead.
+~
+22 8 0
+D0
+The entry hall lies to the north.
+~
+~
+0 -1 2240
+D3
+The auditorium continues.
+~
+~
+0 -1 2359
+E
+seats splotches seat splotch~
+The splotches on the seats seem to be some sort of purple dye which rained
+down upon them.  (Strange!)
+~
+S
+#2361
+The Stage~
+This is the stage which overlooks the entire auditorium.  The stage is
+about three to four feet off the main floor.  Drab brown curtains frame
+the outside of the stage, giving it a stage-like appearance.  Huge cords
+and pulleys swing overhead, obviously used for special effects for the non
+magically active.  The floor is made of sturdy wooden planks.  Backstage,
+you can see several props and huge objects to fill in the background of
+the stage.  Looking out into the auditorium, you can see rows and rows of
+seats and a milk dispenser in the back.  The walls are... Why am I doing
+this?  Most people don't even read the descriptions of the rooms unless
+looking for a door of some sort!  Well there is no door here.  I bet you
+have brief mode on, don't you?  So you are probably missing several of
+our witty jokes!  Why must we go through all this painstaking writing of
+descriptions, if they aren't going to be read?  You probably aren't even
+reading this!  [Editorial :)]  Well, anyways, the only exit is to the
+north.
+~
+22 8 1
+D0
+The auditorium is to the north.
+~
+~
+0 -1 2359
+E
+drab brown curtains curtain~
+They are just your average, everyday, drab brown curtains.
+~
+E
+cords cord pulley pulleys~
+Hey!  It can make you look like you are flying!
+~
+E
+sturdy wooden plank planks~
+They are sturdy.  They are wooden.  They are planks.
+~
+S
+#2362
+Upper Stairwell~
+The stairwell spirals upwards and downwards.  The balcony lies to the east.
+~
+22 8 2
+D1
+As I said, the balcony lies to the east.
+~
+~
+0 -1 2363
+D4
+This leads to the clock tower.
+~
+~
+0 -1 2365
+D5
+You came from downstairs, don't you remember?
+~
+~
+0 -1 2357
+S
+#2363
+The Balcony~
+Wow!  Finally in the balcony!  Now what?
+~
+22 8 0
+D3
+It's the stairwell again!  Imagine that!
+~
+~
+0 -1 2362
+S
+#2364
+Entrance To The Catacombs~
+The spiralling stairs lead down into a cold, dark, damp room.  The
+walls are stone, with a few unsightly cracks caused by the sands of
+time.  Cobwebs cling to the walls, undisturbed for a long time.  Dust
+lines the floor.  A huge stone door lies to the east.
+A stairwell sits quietly in the corner.
+~
+22 13 0
+D1
+The stone door is extraneously large.
+~
+door huge stone~
+1 -1 -1
+D4
+It's the same stairwell.
+~
+~
+0 -1 2357
+E
+cobweb cobwebs web webs~
+Don't disturb them now!
+~
+E
+huge stone door~
+The huge stone door looks very inviting.
+~
+S
+#2365
+The Grant Hall Clock~
+This room seems to be the inside of the large clock which covers all sides
+of the Grant Hall clock tower.  You can see lots of little gears connected
+to lots of big gears.  There is absolutely no view seeing that the clock
+faces are opaque.  But, there is an exit that you can use by going down.
+~
+22 8 3
+D5
+This leads back into the stairwell.
+~
+~
+0 -1 2362
+S
+#2366
+Hallway~
+This hallway leads through the older building called Frosty Annex.
+Unfortunately, the building seems to be living up to its name.  The
+hallway leads east-west with a room to the north and a door to the
+south.
+~
+22 8 1
+D0
+There is a fairly large room to the north.
+~
+~
+0 -1 2373
+D1
+The hall continues to the east.
+~
+~
+0 -1 2367
+D2
+There is a door blocking the way to the south.
+~
+door~
+1 -1 2369
+D3
+The hall continues towards the entrance.
+~
+~
+0 -1 2236
+E
+door~
+This is a standard solid metal door with no window in it whatsoever.
+~
+S
+#2367
+Hallway~
+The hallway continues along here.   In fact it continues both east and
+west.  There is however a door to the south.
+~
+22 8 1
+D1
+The hallway continues.
+~
+~
+0 -1 2368
+D2
+There is another of those large metal doors to the south without a
+window.
+~
+door~
+1 -1 2370
+D3
+The hallway continues in this direction as well.
+~
+~
+0 -1 2366
+E
+door~
+This door is the main reason for having this room where it is...anyways,
+the is a large metal affair with no window.
+~
+S
+#2368
+Hallway~
+The hallway continues here, but only in one direction.  West.  There is a
+door to the north and stairs leading down, but otherwise this section of
+the hall is no different than the rest.
+~
+22 8 1
+D0
+A door with the word "OFFICE" emblazoned on it stands to your north.
+~
+door~
+1 -1 2371
+D1
+The hallway does not continue in this direction.
+~
+~
+0 -1 -1
+D3
+The hallway continues in this direction.
+~
+~
+0 -1 2367
+D5
+A stairwell leads down into the darkness.
+~
+~
+0 -1 2372
+S
+#2369
+Mike-Lab~
+This room is actually quite a large laboratory.  It contains all of those
+neat things that you would expect to find in a laboratory, like, well, lab
+equipment.  You can see all of the equipment that you see in your 8:30 am
+Monday Chemistry Lab.  But hey, don't think I'm bitter about this, no, it's
+not that I have to actually get up early after a nice relaxing weekend, but
+you are probably in situation like this, and if you aren't, boy do I ever
+envy you.  Anyways, there is a door to the north.
+~
+22 8 2
+D0
+A large, steel door stands to the north.
+~
+door~
+1 -1 2366
+E
+equipment~
+This is just ordinary lab equipment that you would find in any normal
+laboratory.
+~
+S
+#2370
+John-Lab~
+This lab is well decked out with all sorts of modern devices, of
+course, your definition of modern is probably extremely different
+from the scientists' definition as all of the devices would make
+Stone-Age devices look like technological marvels.  This lab is
+devoid of personnel but all of the machines are making scary
+humming noises.  You should probably make a beeline out the door
+to the north.
+~
+22 8 2
+D0
+A door stands to the north.  This door is made of steel and is fairly
+large.
+~
+door~
+1 -1 2367
+E
+machines devices machine device~
+These Stone-Age marvels sound like they are going to explode any minute,
+better take cover soon!
+~
+S
+#2371
+Office~
+This office looks extremely comfortable, that is if you don't mind an
+awful row coming from below and if you don't mind breezes coming through
+the large gaps in the wall.  Other than that, it does look alright.  There
+is one exit, the one to the south, which just happens to be blocked by a
+door.
+~
+22 8 1
+D2
+The door blocking your way is well made.  It seems to be made of Oak with a
+well designed brass doorknob.
+~
+door~
+1 -1 2368
+E
+wall gaps~
+There are some horrendously large holes in the wall which are letting all
+the warm air out, and all the colder outside air in.
+~
+S
+#2372
+Jeff-Lab~
+This lab is unlike any of the other labs you have seen in this building.
+If perchance you haven't seen any, then the reason is quite obvious.  If,
+however, you have passed through one or two labs on the way, the reason
+is even more obvious, as this room contains all sorts of nice computer
+equipment.  There is a staircase leading up is one corner of the room.
+~
+22 8 1
+D4
+The staircase in the north-east corner leads up towards the main floor
+of the building.
+~
+~
+0 -1 2368
+S
+#2373
+A Classroom~
+This is another of the seemingly neverending series of classrooms
+on Campus.  Of course, you don't expect anything less, this being
+a university, but I presume that you agree with me that enough is
+enough.  There is a hallway to the south.
+~
+22 8 1
+D2
+The hallway lies to the south.
+~
+~
+0 -1 2366
+S
+#2374
+A Hallway~
+This hallway leads through the building in all cardinal directions.
+~
+22 9 2
+D0
+It is too dark to tell.
+~
+~
+0 -1 2375
+D1
+It is too dark to tell.
+~
+~
+0 -1 2379
+D2
+It is too dark to tell.
+~
+~
+0 -1 2378
+D3
+It is too dark to tell.
+~
+~
+0 -1 2375
+D4
+It is too dark to tell.
+~
+~
+0 -1 2381
+S
+#2375
+A Hallway~
+This hallway leads through the building in most directions.
+~
+22 9 2
+D0
+It is too dark to tell.
+~
+~
+0 -1 2380
+D2
+It is too dark to tell.
+~
+~
+0 -1 2376
+D3
+It is too dark to tell.
+~
+~
+0 -1 2377
+S
+#2376
+A Hallway~
+This hallway leads through the building in most directions.
+~
+22 9 2
+D0
+It is too dark to tell.
+~
+~
+0 -1 2374
+D1
+It is too dark to tell.
+~
+~
+0 -1 2379
+D2
+It is too dark to tell.
+~
+~
+0 -1 2375
+D3
+It is too dark to tell.
+~
+~
+0 -1 2381
+S
+#2377
+A Hallway~
+This hallway leads through the building in most directions.
+~
+22 9 2
+D0
+It is too dark to tell.
+~
+~
+0 -1 2380
+D1
+It is too dark to tell.
+~
+~
+0 -1 2376
+D2
+It is too dark to tell.
+~
+~
+0 -1 2382
+D3
+It is far too dark to tell.
+~
+~
+0 -1 2375
+S
+#2378
+A Hallway~
+This hallway leads through the building in most directions.
+~
+22 9 2
+D0
+It is too dark to tell.
+~
+~
+0 -1 2380
+D1
+It is too dark to tell.
+~
+~
+0 -1 2381
+D2
+It is too dark to tell.
+~
+~
+0 -1 2375
+D3
+It is too dark to tell.
+~
+~
+0 -1 2376
+S
+#2379
+A Hallway~
+This hallway leads through the building in most directions.
+~
+22 9 2
+D0
+It is too dark to tell.
+~
+~
+0 -1 2374
+D1
+It is really to the east, too dark to tell.
+~
+~
+0 -1 2381
+D2
+It is too dark to tell.
+~
+~
+0 -1 2380
+D3
+It is too dark to tell.
+~
+~
+0 -1 2375
+S
+#2380
+A Classroom~
+This room suddenly dispels the monotony of the halls you were just
+passing through.
+A small door sits quietly in the corner.
+~
+22 9 1
+D0
+It is too dark to tell.
+~
+~
+0 -1 2378
+D1
+It is too difficult to see through a solid door.
+~
+door~
+2 -1 2384
+D2
+It is too dark to tell.
+~
+~
+0 -1 2374
+D5
+It is too dark to tell.
+~
+~
+0 -1 2376
+E
+door~
+This door is covered with all types of non-magical sigils.
+~
+E
+sigils~
+The sigils seem to form some strange shapes:
+
+                       SSSSS
+                      SSS  SS
+                      SSS
+                      SSS
+                      SSS
+                      SSS
+                      SSS
+                      SSS
+                      SSS
+                      SSS
+                  SS  SSS
+                   SSSSS
+
+I wonder what it could be?
+~
+S
+#2381
+A Classroom~
+This room suddenly dispels the monotony of the halls you were just passing
+through.
+~
+22 9 1
+D1
+It is too dark to tell.
+~
+~
+0 -1 2375
+D2
+~
+~
+0 -1 2378
+D3
+It is too dark to tell.
+~
+~
+0 -1 2380
+D4
+It is too dark to tell.
+~
+~
+0 -1 2382
+S
+#2382
+A Hallway~
+This hallway is radically different from all the others in that it only
+has two exits.  One exits to the east towards light, while the other
+heads west back into the darkness.
+~
+22 9 2
+D1
+This way draws you towards it...probably because you are suffering from
+light withdrawl.
+~
+~
+0 -1 2383
+D3
+You are repulsed by this exit since the exit to the east is well lit.
+~
+~
+0 -1 2374
+E
+light~
+It's nice, warm, and inviting.
+~
+E
+dark~
+Are you mad?
+~
+S
+#2383
+The Exit~
+This long corridor leads out onto the street.
+~
+22 8 5
+D1
+The light beckons you.
+~
+~
+0 -1 2234
+D3
+Back into darkness, I don't think so!
+~
+~
+0 -1 2382
+E
+light~
+It's nice, warm, and inviting.
+~
+E
+dark~
+Are you mad?
+~
+S
+#2384
+Mob Chute A~
+Oops, you are not supposed to be here.  This is a programmer's tool to
+disperse mobs all over campus.  Exits go in all directions.  There is a
+small door to the west.  This goes all over Campus.
+~
+22 136 0
+D0
+This is just an exit.
+~
+~
+0 -1 2209
+D1
+This is just an exit.
+~
+~
+0 -1 2215
+D2
+This is just an exit.
+~
+~
+0 -1 2204
+D3
+This is just a door.
+~
+door~
+2 -1 2380
+D4
+This is just an exit.
+~
+~
+0 -1 2220
+D5
+This is just an exit.
+~
+~
+0 -1 2206
+E
+door~
+This door is covered with all types of non-magical sigils.
+~
+E
+sigils~
+The sigils seem to form some strange shapes:
+
+        MMM     MMM    OOO      OOO    !!
+        MMMM   MMMM   OO OO    OO OO   !!
+        MM MM MM MM  OO   OO  OO   OO  !!
+        MM  MMM  MM  OO   OO  OO   OO  !!
+        MM   M   MM   OO OO    OO OO
+        MM       MM    OOO      OOO    !!
+
+~
+S
+#2385
+Mob Chute B~
+Oops, you are not supposed to be here.  This is a programmer's tool to
+disperse mobs all over campus.  Exits go in all directions.  This is
+for It Mobs.
+~
+22 136 0
+D0
+This is just an exit.
+~
+~
+0 -1 2238
+D1
+This is just an exit.
+~
+~
+0 -1 2306
+D2
+This is just an exit.
+~
+~
+0 -1 2329
+D3
+This is just an exit.
+~
+~
+0 -1 2232
+D4
+This is just an exit.
+~
+~
+0 -1 2239
+D5
+This is just an exit.
+~
+~
+0 -1 2269
+S
+#2386
+Mob Chute C~
+Oops, you are not supposed to be here.  This is a programmer's tool to
+disperse mobs all over campus.  Exits go in all directions.  This is
+for Male Mobs.
+~
+22 136 0
+D0
+This is just an exit.
+~
+~
+0 -1 2268
+D1
+This is just an exit.
+~
+~
+0 -1 2397
+D2
+This is just an exit.
+~
+~
+0 -1 2402
+D3
+This is just an exit.
+~
+~
+0 -1 2412
+D4
+This is just an exit.
+~
+~
+0 -1 2415
+D5
+This is just an exit.
+~
+~
+0 -1 2275
+S
+#2387
+Mob Chute D~
+Oops, you are not supposed to be here.  This is a programmer's tool to
+disperse mobs all over campus.  Exits go in all directions.  This is
+for Female Mobs.
+~
+22 136 0
+D0
+This is just an exit.
+~
+~
+0 -1 2270
+D1
+This is just an exit.
+~
+~
+0 -1 2303
+D2
+This is just an exit.
+~
+~
+0 -1 2318
+D3
+This is just an exit.
+~
+~
+0 -1 2358
+D4
+This is just an exit.
+~
+~
+0 -1 2367
+D5
+This is just an exit.
+~
+~
+0 -1 2379
+S
+#2388
+Mob Chute E~
+Oops, you are not supposed to be here.  This is a programmer's tool to
+disperse mobs all over campus.  Exits go in all directions.  This leads
+to the Ghetto.
+~
+22 136 0
+D0
+This is just an exit.
+~
+~
+0 -1 2337
+D1
+This is just an exit.
+~
+~
+0 -1 2347
+D2
+This is just an exit.
+~
+~
+0 -1 2343
+D3
+This is just an exit.
+~
+~
+0 -1 2348
+D4
+This is just an exit.
+~
+~
+0 -1 2341
+D5
+This is just an exit.
+~
+~
+0 -1 2350
+S
+#2389
+Mob Chute F~
+Oops, you are not supposed to be here.  This is a programmer's tool to
+disperse mobs all over campus.  Exits go in all directions.  This is
+for Profs but leads to various classrooms around Campus.
+~
+22 136 0
+D0
+This is just an exit.
+~
+~
+0 -1 2380
+D1
+This is just an exit.
+~
+~
+0 -1 2376
+D2
+This is just an exit.
+~
+~
+0 -1 2373
+D3
+This is just an exit.
+~
+~
+0 -1 2373
+D4
+This is just an exit.
+~
+~
+0 -1 2359
+D5
+This is just an exit.
+~
+~
+0 -1 2391
+S
+#2390
+Central Mob Chute~
+This is the central chute for mob dispersal.  The exits lead to the other
+mob chutes.  You are not supposed to be here.  This is essentially for
+every other Mob so that they can be spread out at complete random.
+~
+22 136 0
+D0
+This is leads to Mob Chute A.
+~
+~
+0 -1 2384
+D1
+This is leads to Mob Chute B.
+~
+~
+0 -1 2385
+D2
+This is leads to Mob Chute C.
+~
+~
+0 -1 2386
+D3
+This is leads to Mob Chute D.
+~
+~
+0 -1 2387
+D4
+This is leads to Mob Chute E.
+~
+~
+0 -1 2388
+D5
+This is leads to Mob Chute F.
+~
+~
+0 -1 2389
+S
+#2391
+Dunning Auditorium~
+This large spacious lecture theatre would probably seat close to 300 and
+reminds you of movie theatres of old (like when they sat more than 10).
+Its main purpose seems to exist and collect dust.  Maybe someone is doing
+some kind of study here.
+There is a sign on the east wall near the front of the room.
+~
+22 9 3
+D1
+This leads towards the street.
+~
+~
+0 -1 2235
+E
+sign~
+The sign on the wall seems to have something to do with fire regulations,
+but it is so old and faded, you cannot read it.
+~
+S
+#2392
+A Completely Empty Hallway~
+This hallway is not completely empty but looks like it is.  Must be
+something related to the Infinite Improbability Principle.
+~
+22 9 3
+D0
+There is a classroom to the north.
+~
+~
+0 -1 2393
+D1
+The lobby is back towards the east through some strange freak of nature.
+~
+~
+0 -1 2235
+E
+infinite improbability principle~
+See the Douglas Adams Hitchhiker's Guide to the Galaxy series.
+~
+S
+#2393
+Classroom~
+This seems to be the only classroom in Dunning Hall.  Strange, the building
+looked larger on the outside.  Obviously some sort of principle related to
+the TARDIS principle on Doctor Who....
+~
+22 9 2
+D2
+A hallway leads off to the south.
+~
+~
+0 -1 2392
+E
+tardis doctor who~
+The TARDIS is the ship that Doctor Who travelled the universe and the
+timestreams with.
+~
+S
+#2394
+East Stairwell~
+This stairwell leads up into the heights of Leonard Hall.
+~
+22 9 3
+D3
+This leads back to the lobby.
+~
+door~
+1 2206 2226
+D4
+This leads up.  Nuff said.
+~
+~
+0 -1 2396
+S
+#2395
+West Stairwell~
+This leads up into the heights of Leonard Hall.
+~
+22 9 3
+D1
+This leads back to the lobby.
+~
+door~
+1 2205 2226
+D4
+This stairwell goes up into the darkness.
+~
+~
+0 -1 2412
+S
+#2396
+Junction~
+This hallway leads north and south and there is a stairwell leading
+down in the place where the western wall should be found.
+~
+22 9 2
+D0
+The hallway continues north.
+~
+~
+0 -1 2397
+D2
+The hallway also continues south.
+~
+~
+0 -1 2402
+D5
+The stairwell leads down towards the lobby.
+~
+~
+0 -1 2394
+S
+#2397
+Hallway~
+The hallway turns east-south here and there is an opening to the north.
+~
+22 9 2
+D0
+There is a room of sorts to the north.
+~
+~
+0 -1 2398
+D1
+The hallway continues east.
+~
+~
+0 -1 2399
+D2
+The hallway continues south.
+~
+~
+0 -1 2396
+S
+#2398
+Dorm Room~
+This an ordinary dorm room that is unoccupied at the moment.  The furniture
+consists of a bed, and a desk.  Nothing else.  Just a bed and a desk.  But
+there is an exit to the south.
+~
+22 9 1
+D2
+The hallway is south of here.
+~
+~
+0 -1 2397
+E
+bed desk~
+The bed and the desk seem to be the only furnishings of this room.
+~
+S
+#2399
+Hallway~
+This hallway comes to an abrupt end here.  However, there are exits in
+all cardinal directions except up and down.
+~
+22 9 2
+D0
+There seems to be a room to the north.
+~
+~
+0 -1 2400
+D1
+There seems to be a room to the east.
+~
+~
+0 -1 2401
+D2
+Regardless of what the description says, there is no
+exit in this direction.  Please try again.
+~
+~
+0 -1 -1
+D3
+The hallway continues west.
+~
+~
+0 -1 2397
+D4
+This is not an exit.  Read the description again.
+~
+~
+0 -1 -1
+D5
+This is not an exit.  Read the description again.
+~
+~
+0 -1 -1
+S
+#2400
+Dorm Room~
+This dorm room seems to be unoccupied at the moment.  The same furniture
+is in this room as any other dorm room, a desk, bed, and exit... this time
+to the south.
+~
+22 9 2
+D2
+The hallway lies to the south.
+~
+~
+0 -1 2399
+S
+#2401
+The Animal Cage~
+This room certainly does not resemble a regular dorm room, as it has
+been completely renovated and then altered and then renovated again.
+It now contains bars hanging from the ceiling and where the desk should
+be, according to the layout of every other room you have seen here at
+least, stands a large water bottle structure similar to the ones used
+in modern day hamster and gerbil cages.  The only exit is to the west.
+Just as you finish looking around, your eye spots a SEP.
+~
+22 9 4
+D3
+Thank Bob, the hallway is still to the west of here.
+~
+~
+0 -1 2399
+E
+bars bar ceiling~
+The bars hanging from the ceiling look quite sturdy and it looks like you
+could swing on them rather easily...If you were coordinated that is.
+~
+E
+sep~
+This is Someone Else's Problem.  The only way that you are able to spot it
+is by jumping around and looking like an idiot as you try and avert your
+eyes so that it can be seen.  Unfortunately, seeing it doesn't help.  It
+looks like some sort of Italian Bistro...rather strange actually.
+~
+S
+#2402
+Hallway~
+This hallway grinds to a halt here.  The main reason it halts is because
+there is a room to the south and a door to the east.  The hallway grinds
+to a start when you move northwards though.
+~
+22 9 2
+D0
+The hallway starts here and runs northwards.  You'd better catch it before
+it gets away.  *Groan*
+~
+~
+0 -1 2396
+D1
+There is a door blocking you view of the stairs behind it.
+~
+door~
+2 2242 2406
+D2
+There is a small dorm room to your south.  The martian standing on your
+shoulder looks to his south and sees a very nice blank wall in front of
+it.
+~
+~
+0 -1 2403
+E
+martian~
+It's just a joke, you are supposed to smile at the obscure gag hidden in it.
+It's almost like saying the Elephants Ride Porcupines!
+~
+E
+erp! erp~
+Get it...Elephants Ride Porcupines! ... ERP!
+~
+S
+#2403
+Smithville~
+This room is a replica of Smithville.
+
+In a really, really small form that is.
+
+You didn't think we could get the entire town in one room do you?
+
+Think about it...you'd try to buy something from one shopkeeper and the
+other four would say that they don't have that item.  The logistics just
+don't work on these magnitudes, with more rooms maybe, but definitely not
+one room.
+
+There is an exit to the north.
+~
+22 9 2
+D0
+This leads back to the hallway out of this stupidity.
+~
+~
+0 -1 2402
+E
+smithville town~
+The town is rather accurately portrayed here...wait are those really people
+moving down there?
+~
+S
+#2404
+Ledge~
+This ledge looks rather precarious.  You do get a nice view of the roof
+below you though...about 60 feet below you that is.  If you go north, you
+can escape back to the real world (the balcony at least, just type exit to
+see where you end up if you go down).
+~
+22 0 4
+D0
+The salvation of the balcony is directly to the north.  All it needs is for
+you to press N and then RETURN.
+~
+~
+0 -1 2411
+D5
+You have to type EXIT to see what is this way, no cheating allowed.
+~
+~
+0 -1 2405
+E
+roof~
+It sure is a long way down...look at the neat things on it though, you can
+almost reach one...wait...EEEEK!!!  You almost let go and fell down to ....
+type EXIT to see what you almost fell to.
+~
+S
+#2405
+A Really Bad, Evil, And Nasty Deathtrap~
+
+
+
+The name says it all, doesn't it?
+
+~
+22 10 0
+D4
+Back to whence you came.
+~
+~
+0 -1 2404
+E
+deathtrap~
+It's designed to kill, so if you are reading this, either you have avoided
+it somehow or you are an immortal or something.
+~
+S
+#2406
+Really Narrow Stairwell, Part I~
+This stairwell is just wide enough for one person at a time.  If I knew
+how to make it so that characters could only attack a creature one at a
+time, I just might do so... but I didn't so feel lucky.  It is quite a
+tight fit trying to navigate the stairs though.  The fact that there is
+an exit to the west blocked by a door doesn't help.  The fact that the
+only other way out is to go up.  Not coincidentally, that doesn't help
+either.
+~
+22 13 5
+D3
+This is blocked by a door.  Unless you opened it already, which is pretty
+likely.
+~
+door~
+2 2242 2402
+D4
+The really narrow stairs lead up.  They are so narrow, that you have no
+idea what you are headed into.
+~
+~
+0 -1 2407
+S
+#2407
+Really Narrow Stairwell, Part II~
+The Stairwell's Revenge.
+Now there is an exit to the west and one down.
+~
+22 13 5
+D3
+This leads to a nice entrance hall.
+~
+~
+0 -1 2408
+D5
+This leads down.
+~
+~
+0 -1 2406
+E
+stairwell~
+The Stairwells' Revenge... Montezuma's Revenge.
+~
+S
+#2408
+Entry Hall~
+This hall is so muddy, you can instantly tell that it is the equivalent
+of a mudroom.  That is, you remove the mud from your footwear here.
+The hall continues to the west into a nice, clean room and to the east
+to a stairwell.
+~
+22 9 3
+D1
+The dreaded stairwell is here.
+~
+~
+0 -1 2407
+D3
+The room to the west seems to be a living room.
+~
+~
+0 -1 2409
+E
+mudroom~
+Bad pun, Eh?
+~
+S
+#2409
+Living Room~
+This room seems to be the hub of this apartment which must below to whoever
+is roaming the apartment... have you seen it yet?  There is opulent furniture
+furnishing the room, such as a rocking chair, a coffee table, and a couch.
+All of the furnishings are decorated in a somewhat flowery style.
+You can leave this room by going east to the entrance hall or south to the
+bedroom.
+~
+22 8 2
+D1
+The entrance hall is directly to the east.
+~
+~
+0 -1 2408
+D2
+The bedroom is to the south.
+~
+~
+0 -1 2410
+E
+coffee table~
+As you look at the coffee table, you notice a copy of the really rude
+Madonna book... No wait, that was just censored by the Builders.  We are
+allowing none of that smut here.  You are disgusted by the flowery pattern
+on the table.
+~
+E
+couch rocking chair~
+The flowery pattern makes you recoil in disgust, but other than that it
+seems to be a normal piece of furniture.
+~
+S
+#2410
+Bedroom~
+This is the place you've been waiting for.  The bedroom.  There are standard
+bedroom furnishings here, a bed (obviously), a night-table, and a dresser.
+There are exits to the north and to the balcony to the east.
+~
+22 8 2
+D0
+The living room is to the north.
+~
+~
+0 -1 2409
+D1
+The balcony is to the east.
+~
+~
+0 -1 2411
+E
+bed~
+You feel sleepy as you look towards this, maybe ... nope, none of those
+thoughts here!
+~
+E
+night-table~
+The night-table is like any ordinary night-table, one drawer and a big open
+space underneath.  The thing that makes it different is that the drawer is
+empty and the top and empty space are just that.  Empty.
+~
+E
+dresser~
+Too bad none of the clothes in here fit you at all.
+~
+S
+#2411
+Balcony~
+From this balcony you can see a marvellous countryside.  Cows, horses,
+cats, dogs, frgos, and pigs fill the countryside.  Unfortunately, the
+countryside does not resemble the real countryside, so you aren't sure
+what you are seeing exactly.  Must be an illusion.  Anyways, there is an
+exit back to the bedroom in the west wall.
+~
+22 4 2
+D2
+This leads to a thin ledge.
+~
+~
+0 -1 2404
+D3
+This leads back to a bedroom.
+~
+~
+0 -1 2410
+E
+cows horses pigs pig cow horse~
+These are normal farm animals.  You aren't quite sure what farm they are on
+though.
+~
+E
+dogs cats cat dog~
+These seem to be ordinary domesticated animals.  Again, you aren't sure why
+they are where they are.
+~
+E
+frgos~
+No, this isn't a spelling mistake!
+It's just a neat little creature that you have never seen before and will
+probably never see again after this.  After all, this is an illusion, or
+something, isn't it?
+~
+S
+#2412
+Hallway Junction~
+This hallway leads north and south and there is a stairwell in the east
+wall.
+There is a sign on the wall.
+~
+22 9 2
+D0
+The hallway continues north.
+~
+~
+0 -1 2413
+D2
+There is a room to the south.
+~
+~
+0 -1 2419
+D5
+The stairwell leads down to the lobby.
+~
+~
+0 -1 2395
+E
+sign~
+The sign states:
+
+
+
+                The Campus Party is Here!!
+
+                Vote for the Campus Party,
+
+                Supporting our Beliefs!!!
+
+~
+S
+#2413
+Hallway~
+The hallway turns west-south here and there is an opening to the north.
+~
+22 9 2
+D0
+There is a room to the north.
+~
+~
+0 -1 2414
+D2
+The hallway continues south.
+~
+~
+0 -1 2412
+D3
+The hallway continues west.
+~
+~
+0 -1 2415
+S
+#2414
+The V.P.'s Room~
+This is the room of the Vice President of Leonard Hall.  The walls are
+liberally plastered with pictures of boats and snow.  On the north side of
+the room, you can see a large collection of CDs and Cassettes...Exam time
+must be coming up soon.  On the east wall sits a large computer with lots
+of neat accessories.  The only exit is to the south.
+~
+22 9 2
+D2
+The hallway leads away from here to the south.
+~
+~
+0 -1 2413
+E
+computer accessories~
+This is so large and incomprehensible that you simply do not understand it.
+~
+E
+cds cd cassettes cassette~
+There is a large variety of music represented here...everything from african
+tribal music to the latest from Neil Young.
+~
+E
+pictures snow boats walls~
+The pictures cover the walls completely and you find it difficult to see
+any of the wall whatsoever between the pictures of snowscapes that you
+don't recognize and boats that you would love to own.
+~
+S
+#2415
+Hallway~
+This hallway leads east and has an opening to the north and one to the west
+and one to the south.
+~
+22 9 2
+D0
+Bubbles seem to be coming from the northern entrance.
+~
+~
+0 -1 2416
+D1
+The hallway continues east.
+~
+~
+0 -1 2413
+D2
+There is a room to the south.
+~
+~
+0 -1 2418
+D3
+There is also a room to the west.
+~
+~
+0 -1 2417
+S
+#2416
+Bubble Land~
+This room (if it can be called that) is filled with large, pink bubbles.
+There is only one exit...to the south (you think).  With all the bubbles
+you can't see anything else in the room.
+~
+22 9 5
+D2
+You think the hallway lies to the south.
+~
+~
+0 -1 2415
+E
+bubbles bubble~
+All you can see in this room are large, pink bubbles.  As you reach out to
+touch one *pop* ... well maybe not.
+~
+S
+#2417
+C.S.E.~
+This is the headquarters of the Campus Stock Exchange.  You can tell just by
+looking around since the room is lavishly decorated with stock certificates
+and the fact that other than that the room is completely empty of furniture,
+but wait, that pizza box in the corner seems to be acting as a table of sorts
+with all the newspapers supporting it.  There is an exit to the east.
+~
+22 9 2
+D1
+The hallway extends to the east.
+~
+~
+0 -1 2415
+E
+stock certificates~
+They all seem to be immensely valuable but with your awful luck, you can't
+seem to pry any of them from the walls.
+~
+E
+furniture~
+There isn't any furniture, unless you plan on marketing that mouldy pizza
+box as the table of the future.
+~
+E
+pizza box~
+It's about 3 weeks old and seems to be growing mould....yech.
+~
+E
+news newspapers~
+It's only the business sections, and they are old.  Type NEWS for a more
+updated edition.
+~
+S
+#2418
+Lennon's Shrine~
+This room is a shrine to the immortalized John Lennon (well, immortalized
+in this room at least).  There are posters of John all over the walls as
+well as a few of the other Beatles...wait you don't see any of Paul...
+strange.  There is only one exit, the one to the north.
+~
+22 9 2
+D0
+The hallway is directly to your north.
+~
+~
+0 -1 2415
+E
+posters john lennon beatles~
+The majority of the posters in this room deal with John Lennon but there
+are a few of Ringo and George also.
+~
+E
+paul~
+Wait... there's one of Paul... see it?  The one with all the darts stuck
+in it.
+~
+S
+#2419
+Common Room~
+This is the common room of the floor.  It is decorated the way every common
+room in a residence is decorated, with a fridge, stove and of course a TV.
+Unfortunately, there does not seem to be any couches or chairs in the room.
+There is an exit to the north and a door on the east wall with no doorknob.
+~
+22 9 2
+D0
+The hallway leads to the north.
+~
+~
+0 -1 2412
+D1
+The door seems to be permanently closed and there does not seem to be a
+way through.
+~
+door~
+2 0 -1
+E
+door~
+The door seems to be permanently closed and there does not seem to be a
+way through.
+~
+E
+fridge stove tv~
+These are all the regular appliances you would expect to find in a room
+of this magnitude.
+~
+E
+chair chairs couch couches~
+You don't see any such thing.  Read the description.
+~
+S
+#2420
+Hallway~
+The hallway curves around slightly so that you can't quite see what is
+to the west and east.  The sound of snoring denotes a lecture hall to
+the south.
+~
+22 8 2
+D1
+The hallway continues east.
+~
+~
+0 -1 2421
+D2
+An opening to the south brings you to Lecture hall "B".
+~
+~
+0 -1 2426
+D3
+The hallway continues west.
+~
+~
+0 -1 2230
+E
+round circle circular curves curve~
+Yes, it's round.
+~
+S
+#2421
+Hallway~
+The hallway curves around slightly so that you can't quite see what is
+to the west and east.  The sound of snoring denotes a lecture hall to
+the south.
+~
+22 8 2
+D1
+The hallway continues east.
+~
+~
+0 -1 2422
+D2
+An opening to the south brings you to Lecture hall "A".
+~
+~
+0 -1 2427
+D3
+The hallway continues west.
+~
+~
+0 -1 2420
+E
+round circle circular curves curve~
+Yes, it's round.
+~
+S
+#2422
+Hallway~
+The hallway curves around slightly so that you can't quite see what is
+to the west and east.  There is an extraneous exit to the north.
+~
+22 8 2
+D0
+To the north you see... the centre of the building?
+~
+~
+0 -1 2425
+D1
+The hallway continues east.
+~
+~
+0 -1 2423
+D3
+The hallway continues west.
+~
+~
+0 -1 2421
+E
+round circle circular curves curve~
+Yes, it's round.
+~
+S
+#2423
+Hallway~
+The hallway curves around slightly so that you can't quite see what is
+to the est and east.  The sound of snoring denotes a lecture hall to
+the south.
+~
+22 8 2
+D1
+The hallway continues east.
+~
+~
+0 -1 2424
+D2
+An opening to the south brings you to Lecture hall "D".
+~
+~
+0 -1 2428
+D3
+The hallway continues west.
+~
+~
+0 -1 2422
+E
+round circle circular curves curve~
+Yes, it's round.
+~
+S
+#2424
+Hallway~
+The hallway curves around slightly so that you can't quite see what is
+to the west and east.  The sound of snoring denotes a lecture hall to
+the south.
+~
+22 8 2
+D1
+The hallway continues east.
+~
+~
+0 -1 2230
+D2
+An opening to the south brings you to Lecture hall "C".
+~
+~
+0 -1 2429
+D3
+The hallway continues west.
+~
+~
+0 -1 2423
+E
+round circle circular curves curve~
+Yes, it's round.
+~
+S
+#2425
+An Odd Circular Room~
+A small circular room sits in the centre of the building.  There are
+exits to the north and south.
+~
+22 8 1
+D0
+The entrance can been seen to the north.
+~
+~
+0 -1 2230
+D2
+Another hallway can be seen to the south.
+~
+~
+0 -1 2422
+E
+round circle circular curves curve~
+Yes, it's round.
+~
+S
+#2426
+Lecture Hall "B"~
+The lecture hall is comprised of almost two dozen rows of uncomfortable
+seats with small tables bolted to them.  As soon as you enter the room,
+you get a very sleepy feeling...
+~
+22 8 0
+D0
+Well, it's the hallway you entered from... Or is it?
+~
+~
+0 -1 2420
+E
+round circle circular curves curve~
+Yes, it's round.
+~
+E
+letter number lettering numbering order~
+You aren't too sure that there is an order to the lettering scheme.
+~
+S
+#2427
+Lecture Hall "A"~
+The lecture hall is comprised of almost two dozen rows of uncomfortable
+seats with small tables bolted to them.  As soon as you enter the room,
+you get a very sleepy feeling...
+~
+22 8 0
+D0
+Well, it's the hallway you entered from... Or is it?
+~
+~
+0 -1 2421
+E
+round circle circular curves curve~
+Yes, it's round.
+~
+E
+letter number lettering numbering order~
+You aren't too sure that there is an order to the lettering scheme.
+~
+S
+#2428
+Lecture Hall "D"~
+The lecture hall is comprised of almost two dozen rows of uncomfortable
+seats with small tables bolted to them.  As soon as you enter the room,
+you get a very sleepy feeling...
+~
+22 8 0
+D0
+Well, it's the hallway you entered from... Or is it?
+~
+~
+0 -1 2423
+E
+round circle circular curves curve~
+Yes, it's round.
+~
+E
+letter number lettering numbering order~
+You aren't too sure that there is an order to the lettering scheme.
+~
+S
+#2429
+Lecture Hall "C"~
+The lecture hall is comprised of almost two dozen rows of uncomfortable
+seats with small tables bolted to them.  As soon as you enter the room,
+you get a very sleepy feeling...
+~
+22 8 0
+D0
+Well, it's the hallway you entered from... Or is it?
+~
+~
+0 -1 2424
+E
+round circle circular curves curve~
+Yes, it's round.
+~
+E
+letter number lettering numbering order~
+You aren't too sure that there is an order to the lettering scheme.
+~
+S
+#2430
+Hallway~
+This hallway leads through the darkness...there seems to be some sort
+of conveyer belt under your feet, and you can see glinting objects ahead,
+and the way back east seems to have disappeared.  The pictures on the
+walls make you feel extremely comfortable.
+~
+22 13 1
+D1
+There isn't an exit in this direction, so don't even bother trying to
+go this way.
+~
+~
+0 -1 -1
+D3
+The hallway continues to the west.
+~
+~
+0 -1 2431
+E
+wall walls pictures picture~
+The pictures on the wall make up a large mural depicting Mediterranean
+scenery and make you feel extraordinarily comfortable.
+~
+S
+#2431
+Abattoir~
+The walls of this room are covered with rotating knives and seem to be
+heavily soundproofed.  There are chutes evenly spaced along the floor
+where it meets the wall, and there are several suction devices designed
+to suck your mangled flesh away.... Wait a minute.... this must be a
+Death Trap... And so it is!  But, the system seems to work well, as the
+rotating knives cut you up into tiny little pieces of flesh and your
+blood drains down the chutes, and the suction devices casually suck
+what's left of your mangled flesh away....
+~
+22 10 0
+D1
+Why even look...it won't halt the mangling?
+~
+~
+0 -1 2430
+S
+$~

@@ -1,0 +1,88 @@
+#10600
+Open Fields~
+You have been transported to a field close to a town which is east from here along a stone path. The stone path looks well travelled and the cool air reminds you of happier days.
+The only exit is along the stone path to the east.
+~
+106 4 2
+D1
+~
+~
+0 0 10601
+S
+#10601
+On the path~
+You travel along the road whistling to yourself, you notice out of the corner of your eye dark shadows moving along the tree line.
+The only exits are west to the fields or further east as the trees block you in on both sides.
+~
+106 0 10
+D1
+~
+~
+0 0 10602
+D3
+~
+~
+0 0 10600
+S
+#10602
+Ambushed~
+The shadows jump out and you are faced by three assaliants, the bear towers over you and you realise it has a club bigger than your head in its hand, the wolf and otter are carrying swords.
+As you peer at the wolf you notice it has a key on a chain round its neck.  They want to fight are you going to give them one.
+The exits are west to the stony path or south towards the entrance of the city.
+~
+106 0 0
+D2
+~
+~
+0 0 10603
+D3
+~
+~
+0 0 10601
+S
+#10603
+Lazy Guards~
+You stand before a city which has seen better days.  The gates are hanging off their hinges and the guards are standing sloppily to attention. The air is a mixture of smells and the noise is deafing. 
+Exits are north and a market is to the south.
+~
+106 0 1
+D0
+~
+~
+0 0 10602
+D2
+~
+~
+0 0 10604
+S
+#10604
+Market Street~
+This area is sheer bedlam, with traders wandering around peddling goods. Better keep your hand on your purse as pickpockets are helping themselves and the police are just looking the other way.
+Exits are further along market street to east and west
+~
+106 0 0
+D0
+~
+~
+0 0 10603
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 10605
+S
+#10605
+Market Street~
+This street is quiter here, but you keep your purse closer to yourself as the people here make you feel uneasy.  The buildings look abandoned but you can see people wondering around inside
+The road continues to the west or you can go back east.
+~
+106 0 0
+D1
+~
+~
+0 0 10604
+S
+$~

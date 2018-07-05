@@ -1,0 +1,68 @@
+#!/bin/ksh
+# CircleMUD 3.0 autorun script
+# Contributions by Fred Merkel, Stuart Lamble, and Jeremy Elson
+# Copyright (c) 1996 The Trustees of The Johns Hopkins University
+# All Rights Reserved
+# See license.doc for more information
+#
+#############################################################################
+# The port on which to run the MUD
+PORT=6666
+
+# Default flags to pass to the MUD server (see running.doc for a description
+# of all flags).
+FLAGS=' '
+
+#############################################################################
+
+while ( : ) do
+
+  DATE=`date`
+  echo "autorun starting game $DATE" >> syslog
+  echo "running bin/circle $FLAGS $PORT" >> syslog
+
+  nice -n 15 bin/circle $FLAGS $PORT >> syslog 2>&1
+
+  tail -30 syslog > syslog.CRASH
+
+  fgrep "self-delete" syslog >> log/delete
+  fgrep "death trap" syslog >> log/dts
+  fgrep "killed" syslog >> log/rip
+  fgrep "advanced" syslog >> log/levels
+  fgrep "equipment lost" syslog >> log/rentgone
+  fgrep "new player" syslog >> log/newplayers
+  fgrep "SYSERR" syslog >> log/errors
+  fgrep "(GC)" syslog >> log/godcmds
+  fgrep "Bad PW" syslog >> log/badpws
+  fgrep "(Load)" syslog >> log/loads
+  fgrep "HELP" syslog >> log/help
+  fgrep "OLC" syslog >> log/olc
+  fgrep "EQUIP" syslog >> log/equip
+  fgrep "connected." syslog >> log/connections
+  fgrep "denied" syslog >> log/denied
+  fgrep "PK" syslog >> log/pk
+
+  mv syslog log/syslog.last
+  touch syslog
+
+  if [ ! -r .fastboot ]; then
+    sleep 60
+#    rm lib/core >> /dev/null
+  else
+    rm .fastboot  
+    sleep 5
+  fi
+
+  if [ -r .killscript ]; then
+    DATE=`date`;
+    echo "autoscript killed $DATE"  >> syslog
+    rm .killscript  
+#    rm lib/core >> /dev/null
+    exit
+  fi
+
+  while [ -r pause ]; do
+    sleep 60
+  done
+
+done

@@ -1,0 +1,36 @@
+#25500
+rock~
+a rock~
+A large rock is here blocking your way.~
+~
+5 4539680 24577
+0 30 20 6
+21 75 2 0 80
+E
+rock~
+It is a rock.
+It is 2 feet in length, 3 feet in width, and
+1 foot tall.  It has an emblem on it depicting
+Miri holding the large rock.
+~
+A
+14 -50
+A
+2 -3
+A
+19 20
+A
+18 6
+A
+1 1
+A
+13 10
+#25599
+mobs list~
+mobs list for training holosuite~
+Miri's zone list for zone 255 has accidently been dropped here.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 0
+$~

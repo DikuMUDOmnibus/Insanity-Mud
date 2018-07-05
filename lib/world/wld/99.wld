@@ -1,0 +1,2097 @@
+#9900
+Jedi Tower Lounge~
+You are standing in the lounge of the Jedi Tower.
+Here you see portraits of the past Jedi Master and Counsel members.
+The walls are also adorned with great tapestries depecting the
+very essence of life.  It is quite beautiful actually.  From here you
+can wonder about the rest of the lobby to the east and south or you can
+proceed up into the tower.
+~
+99 0 0
+D1
+You see the lobby.
+~
+~
+0 0 9901
+D2
+You see the lobby.
+~
+~
+0 0 9903
+D4
+You see the second floor of the tower.
+~
+~
+0 0 9919
+S
+#9901
+Jedi Tower Lobby~
+You are standing in the lobby of the Jedi Counsel Tower.  Here you
+can continue into the lounge area or go back out into the courtyard
+to the east.  The lobby is one of biggest rooms in the tower.  It
+has high ceilings with skylights that light up the enitre room.
+There is a feeling of peace and tranquility here.
+~
+99 24 0
+D1
+You see the courtyard.
+~
+~
+0 0 9906
+D2
+You see the lobby.
+~
+~
+0 0 9902
+D3
+You see the lounge.
+~
+~
+0 0 9900
+S
+#9902
+Jedi Tower Lobby~
+You are standing in the lobby of the Jedi Counsel Tower.  Here you
+can continue into the lounge area or go back out into the courtyard
+to the east.  The lobby is one of biggest rooms in the tower.  It
+has high ceilings with skylights that light up the enitre room.
+There is a feeling of peace and tranquility here.
+~
+99 24 0
+D0
+You see the lobby.
+~
+~
+0 0 9901
+D1
+You see the courtyard.
+~
+~
+0 0 9907
+D3
+You see the lounge.
+~
+~
+0 0 9903
+S
+#9903
+Jedi Tower Lounge~
+You are standing in the lounge of the jedi tower.
+Here you see portraits of the past Jedi Master and Counsel members.
+The walls are also adorned with great tapastries depecting the
+very essence of life.  It is quite beautiful actually.  From here you
+can wonder about the rest of the lobby to the east and south.
+~
+99 0 0
+D0
+You see the lounge.
+~
+~
+0 0 9900
+D1
+You see the lobby.
+~
+~
+0 0 9902
+S
+#9904
+Northwest corner of the courtyard.~
+You are standing in the northwest corner of the courtyard.
+Here you can see yet another statue of a great Jedi Knight.
+From here you can see a spire pointing into the heavens, it
+seems to have an entrance to the west.  You can go back into the
+courtyard to the south and east.
+~
+99 262144 2
+D1
+You see the gazeebo.
+~
+~
+0 0 9915
+D2
+You see the courtyard.
+~
+~
+0 0 9905
+D3
+You see the base of the northwest spire.
+~
+~
+0 0 9993
+S
+#9905
+The courtyard.~
+You see again more courtyard.  In this section of the courtyard
+you see a statue of an ancient Jedi Knight.  From here you can look
+up and see the great Jedi Consel Tower.  To the north and east is more
+courtyard.  To the south there is a fountain and the entrance to the tower.
+~
+99 262144 2
+D0
+You see the courtyard.
+~
+~
+0 0 9904
+D1
+You see the courtyard.
+~
+~
+0 0 9914
+D2
+You see the courtyard fountains.
+~
+~
+0 0 9906
+E
+statue statu stat sta st~
+You are standing before the statue of the second most powerful
+Jedi Knight in the history of the Jedi.  He served on the Jedi
+Counsel, was a Jedi Master, and formed one of the schools in the
+Jedi Arts.  A master with the lightsaber, he fought like no other
+Jedi in the wars before the Empire.  A master in the Jedi Arts, he
+was an excellent teacher and was the master of dozens of Jedi.  His
+power was only overshadowed by Yoda, his master.  At the base of the
+statue you see a bronze plate, it reads "Neptune the Jedi Master."
+~
+S
+#9906
+The Jedi Tower entrance.~
+Before you is the grand entrance to the Jedi Tower.  You can see
+inside the lobby through the huge glass windows before you.  Also here
+is one of the many fountains in the courtyard.  The row of fountains
+continues from this point to the gate of the courtyard.  The courtyard is
+to the north.  The lobby is to the west.  The fountains are to the east and 
+south.
+~
+99 262144 10
+D0
+You see the courtyard.
+~
+~
+0 0 9905
+D1
+You see more fountains.
+~
+~
+0 0 9913
+D2
+You see more fountains.
+~
+~
+0 0 9907
+D3
+You see the lobby of the Jedi Tower.
+~
+~
+0 0 9901
+S
+#9907
+The Jedi Tower entrance.~
+Before you is the grand entrance to the Jedi Tower.  You can see
+inside the lobby through the huge glass windows before you.  Also here
+is one of the many fountains in the courtyard.  The row of fountains
+continues from this point to the gate of the courtyard.  The courtyard is
+to the south.  The lobby is to the west.  The fountains are to the north and
+east.
+~
+99 262144 10
+D0
+You see more of the fountains.
+~
+~
+0 0 9906
+D1
+You see more of the fountians.
+~
+~
+0 0 9912
+D2
+You see the courtyard.
+~
+~
+0 0 9908
+D3
+You see the lobby of the Jedi Tower.
+~
+~
+0 0 9902
+S
+#9908
+The courtyard.~
+You are standing in another portion of the courtyard.  All around
+you are strange and exotic plants from around the galaxy.  You can
+see beautiful flowers and gangly vines.  But, there is a strange
+feeling throughout the courtyard.  There is also a statue here of
+an ancient Jedi Knight.
+~
+99 262144 2
+D0
+You see the fountains of the courtyard.
+~
+~
+0 0 9907
+D1
+You see more of the courtyard.
+~
+~
+0 0 9911
+D2
+You see more of the courtyard.
+~
+~
+0 0 9909
+E
+statue~
+Before you stands the statue of the master of all Jedi, Yoda.  This
+acient being is well over 900 years old and has been training Jedi for
+800 of those years.  A master in all of the Jedi Arts, he can feel the
+power of the Force like no other.  Below the statue you see a bronze 
+plate it reads, "Size matters not.  Judge me by my size do you?"
+and also, "No.  Try not.  Do.  Or do not.  There is no try."
+~
+S
+#9909
+Southwest corner of the courtyard.~
+You are standing in the southwest corner of the courtyard.
+Here you can see yet another statue of a great Jedi Knight.
+From here you can see a spire pointing into the heavens, it
+seems to have an entrance to the west.  You can go back into the
+courtyard to the north and east.
+~
+99 262144 2
+D0
+You can see more courtyard.
+~
+~
+0 0 9908
+D1
+You see the reflecting pool.
+~
+~
+0 0 9910
+D3
+You see the base of the spire.
+~
+~
+0 0 9992
+S
+#9910
+The Jedi reflecting pool.~
+You are standing in more of the courtyard.  Here you can see
+more plants from around the galaxy.  Here it seems to be a
+reflecting pool.  There is a pool of water with several benches
+around it to sit and and reflect about whatever comes to mind.
+Life, death, and anything inbetween.
+~
+99 262676 2
+D0
+You see the courtyard.
+~
+~
+0 0 9911
+D1
+You see the base of the southeast spire.
+~
+~
+0 0 9988
+D3
+You see the courtyard.
+~
+~
+0 0 9909
+S
+#9911
+The courtyard.~
+You stand amongst huge trees. Here are a collection of trees from around
+the galaxy.  Hidden amongst them you can barely see a statue of another
+Jedi Knight.  From here you can go north to the fountains or you can go
+east, south or west to more of the courtyard.
+~
+99 262144 2
+D0
+You see the fountains.
+~
+~
+0 0 9912
+D1
+You see the courtyard.
+~
+~
+0 0 9931
+D2
+You see the reflecting pool.
+~
+~
+0 0 9910
+D3
+You see more courtyard.
+~
+~
+0 0 9908
+S
+#9912
+By the Jedi Fountains.~
+You are standing by the continuation of the most beautiful
+display of water wizardy you have ever seen.  Fountains upon
+fountains you can see, all spraying water every which way.  You
+wonder who could have created such a magnificant display of water.
+To the east, west and north the fountains continue.  To the south
+you head into the courtyard.
+~
+99 262144 2
+D0
+You see more fountains.
+~
+~
+0 0 9913
+D1
+You see more fountians.
+~
+~
+0 0 9930
+D2
+You see the courtyard.
+~
+~
+0 0 9911
+D3
+You see more fountains.
+~
+~
+0 0 9907
+S
+#9913
+By the Jedi Fountains.~
+You are standing by the continuation of the most beautiful
+display of water wizardy you have ever seen.  Fountains upon
+fountains you can see, all spraying water every which way.  You
+wonder who could have created such a magnificant display of water.
+To the east, west, and south the fountains continue.  To the north
+you head into the courtyard.
+~
+99 262144 2
+D0
+You see the courtyard.
+~
+~
+0 0 9914
+D1
+You see more fountains.
+~
+~
+0 0 9929
+D2
+You see more fountains.
+~
+~
+0 0 9912
+D3
+You see more fountains.
+~
+~
+0 0 9906
+S
+#9914
+The courtyard.~
+You stand amongst massive shrubery. Here are a collection of shrubs from  
+around the galaxy.  Barely peeking above the shrubs, you can see a statue
+of another Jedi Knight.  From here you can go south to the fountains or
+you can go east, north, or west to more of the courtyard.
+who
+~
+99 262144 2
+D0
+You see the gazeebo.
+~
+~
+0 0 9915
+D1
+You can see more courtyard.
+~
+~
+0 0 9928
+D2
+You can see the fountains. 
+~
+~
+0 0 9913
+D3
+You see more courtyard.
+~
+~
+0 0 9905
+E
+statue~
+You gaze at the statue of this Ancient Jedi Knight and realize
+that you have some acquataince to him.  The statue depicts a
+rather young Jedi but wise still the same.  You can see that he
+had a lot of experince as a Jedi and that he fought well.  Trained
+by the Master Jedi, this Jedi served as a Knight up until
+recently.  As you peer down the statue you notice a bronze plate
+at the base.  It reads, "Nahaz, Jedi Knight."
+~
+S
+#9915
+The Jedi Gazeebo.~
+You are standing in a gazeebo that is covered in different vines
+and such.  It is rather cool here out of the sun and very plesant to
+sit and relax awhile.  You can see a circle of benches going around
+the entire structure.  To the west and south you can see more courtyard.
+To the east you can see the base of the northeast spire.
+~
+99 262684 0
+D1
+You see the base of the spire.
+~
+~
+0 0 9984
+D2
+You see more courtyard.
+~
+~
+0 0 9914
+D3
+You see more courtyard.
+~
+~
+0 0 9904
+S
+#9916
+Second Floor Jedi Tower~
+You are standing in the second floor lobby of the Jedi Tower.
+You cannot say that this looks any different than the ground
+floor lobby.  However, this is the floor of the various living
+quarters of the Jedi Counsel.  You can see doors leading to some
+of the quarters.  However, there is a strange and mystical power that
+bars you from going into them.
+~
+99 0 0
+D2
+You see more of the lobby.
+~
+~
+0 0 9917
+D3
+You see more of the lobby.
+~
+~
+0 0 9919
+S
+#9917
+Second Floor Jedi Tower~
+You are standing in the second floor lobby of the Jedi Tower.
+You cannot say that this looks any different than the ground
+floor lobby.  However, this is the floor of the various living
+quarters of the Jedi Counsel.  You can see doors leading to some
+of the quarters.  However, there is a strange and mystical power that
+bars you from going into them.
+~
+99 0 0
+D0
+You see more of the lobby.
+~
+~
+0 0 9916
+D3
+You see more of the lobby.
+~
+~
+0 0 9918
+S
+#9918
+Second Floor Jedi Tower~
+You are standing in the second floor lobby of the Jedi Tower.
+You cannot say that this looks any different than the ground
+floor lobby.  However, this is the floor of the various living
+quarters of the Jedi Counsel.  You can see doors leading to some
+of the quarters.  However, there is a strange and mystical power that
+bars you from going into them.
+~
+99 0 0
+D0
+You see more of the lobby.
+~
+~
+0 0 9919
+D1
+You see more of the lobby.
+~
+~
+0 0 9917
+S
+#9919
+Second Floor Jedi Tower~
+You are standing in the second floor lobby of the Jedi Tower.
+You cannot say that this looks any different than the ground
+floor lobby.  However, this is the floor of the various living
+quarters of the Jedi Counsel.  You can see doors leading to some
+of the quarters.  However, there is a strange and mystical power that
+bars you from going into them.
+~
+99 0 0
+D0
+~
+~
+3 0 9970
+D1
+You see more of the lobby.
+~
+~
+0 0 9916
+D2
+You see more of the lobby.
+~
+~
+0 0 9918
+D4
+You see the third floor.
+~
+~
+0 0 9923
+D5
+You see the first floor lobby.
+~
+~
+0 0 9900
+S
+#9920
+School of Lightsaber Control.~
+You enter a huge room.  Much bigger than the other Jedi Arts 
+schools on this floor.  There are various apparati which teach
+Jedi apprentices the use of their lightsabers.  Along with
+these apparati, there are several remote control probes that can
+be used.  These probes send out blasts of static electricity that
+can sting if not properly block with the use of a lightsaber.
+~
+99 0 0
+D2
+You see one of the Jedi Schools.
+~
+~
+0 0 9921
+D3
+You see the third floor lobby.
+~
+~
+0 0 9923
+S
+#9921
+School of Meditation.~
+You are standing in a room that is dead silent.  Since meditation
+is key in being a Jedi Knight the Jedi Master's teach it to their
+apprentices early.  In this room there are a couple Jedi apprentices
+practicing their art of meditiation.  Perhaps you could try and
+meditate yourself, it looks quite relaxing.
+~
+99 262192 0
+D0
+You see one of the Jedi schools.
+~
+~
+0 0 9920
+D3
+You see one of the Jedi schools.
+~
+~
+0 0 9922
+S
+#9922
+School of Force Control.~
+Here you can see several Jedi Master teaching their students to
+feel the force.  Some are lifting various objects while others 
+are balancing on one of their hands.  To the north is the
+third floor lobby, while to the east is the School of Meditation.
+~
+99 0 0
+D0
+You see the third floor lobby.
+~
+~
+0 0 9923
+D1
+You see one of the Jedi schools.
+~
+~
+0 0 9921
+S
+#9923
+Third Floor Jedi Tower~
+You are standing in the third floor of the Jedi Tower.  All around
+on the walls are paintings of Jedi Knights in action.  On this level
+is where the apprentice Jedi's train and conduct drills.  There are
+various training rooms on this floor.  To the south you can see the
+School of Force Control.  To the east you can see the School of
+Lightsaber control.  Also, in the other corner of the tower is the
+School of Meditation.
+~
+99 0 0
+D1
+You see one of the schools of Jedi Training.
+~
+~
+0 0 9920
+D2
+You see one of the schools of Jedi training.
+~
+~
+0 0 9922
+D4
+You see the forth floor of the Jedi Tower.
+~
+~
+0 0 9927
+D5
+You see the second floor of the Jedi Tower.
+~
+~
+0 0 9919
+S
+#9924
+School of Advanced Force Control.~
+You are standing in the Advanced Force Control School.
+Here the Jedi apprentices learn to use the various Jedi Powers.
+You can see some apprentices practicing their arts here.  Some
+are using the power of levitate, others the power of speed, and
+others the power of heal.  To the south is the School of Lightsaber
+Construction.  To the west, the lobby.
+~
+99 0 0
+D2
+You see a school of the Jedi.
+~
+~
+0 0 9925
+D3
+You see the lobby.
+~
+~
+0 0 9927
+S
+#9925
+School of Lightsaber Construction.~
+You are standing in a room where the Jedi apprentices construct their
+very own lightsabers.  This is the final step in the Jedi training.  
+The construction of their very own lightsaber is to culmonation of years
+of the training and learning of the Jedi Arts.
+
+You see various parts laying about.  Presently, there is noone about in this
+room.
+~
+99 4 0
+D0
+You see one of the Jedi Schools.
+~
+~
+0 0 9924
+D3
+You see one of the Jedi schools.
+~
+~
+0 0 9926
+S
+#9926
+School of Hand to Hand Combat.~
+You are standing in the room where the Jedi learn to battle
+their enemies in hand to hand combat.  All around you are apprentices
+practicing their various fighting styles with and without their weapons.
+Some are fighting with other apprentices and others are fighting with
+sparing dumbies.
+To the east is the School of Lightsaber Construction.  To the north, the
+forth floor lobby.
+~
+99 0 0
+D0
+You see the lobby.
+~
+~
+0 0 9927
+D1
+You a school of the Jedi Arts.
+~
+~
+0 0 9925
+S
+#9927
+Forth Floor Jedi Tower.~
+You are standing in the forth floor of the Jedi Tower.  All around
+on the walls are paintings of Jedi Knights in action.  On this level
+is where the advanced Jedi's train and conduct drills.  There are
+various training rooms on this floor.  To the south you can see the
+School of Hand to Hand Combat.  To the east you can see the School of
+Advanced Force Control.  Also, in the other corner of the tower is the
+School of Lightsaber Construction.
+~
+99 0 0
+D1
+You see one of the Jedi Arts schools.
+~
+~
+0 0 9924
+D2
+You see one of the Jedi Art's Schools.
+~
+~
+0 0 9926
+D4
+You see the Jedi Counsel.
+~
+~
+0 0 9933
+D5
+You see the Third Floor lobby.
+~
+~
+0 0 9923
+S
+#9928
+Northeast corner of the courtyard.~
+You are standing in the northeast corner of the courtyard.  Here you
+can see a great statue of one of the ancient Jedi Knights.  Around you
+grow some of the splendors of the glaxay.  You can feel the power of
+the force all around you here.  You wonder just how many Jedi have strolled
+these paths seeking inner peace with themselves.  To the south is the
+gate to the courtyard.  To the east is the more of the courtyard.  And to
+the north is the entrance to one of the spires.
+~
+99 262144 2
+D0
+You see the northwest spire.
+~
+~
+0 0 9984
+D2
+You see the gate of the Jedi Tower.
+~
+~
+0 0 9929
+D3
+You see the courtyard.
+~
+~
+0 0 9914
+S
+#9929
+Gate of the Jedi Tower Courtyard.~
+You are standing before the great gate of the Jedi Courtyard.
+Beyond this gate is the city of Coruscant.  From here you can
+see the city and all its glory.  Here you can see beautiful
+fountains lining the road to the tower.  All around you is a 
+huge courtyard, filled with plants from around the galaxy.  You
+can feel the power of the force flowing through you.  All this life
+is like having a concentration of the force here within this mechanical
+city.
+To the east is the jetway to Coruscant.  To the west and south are
+more of the fountains.  To the north is more of the courtyard.
+~
+99 262144 2
+D0
+You see the courtyard.
+~
+~
+0 0 9928
+D1
+You see the gate towards Coruscant.
+~
+gate gat ga~
+1 0 10131
+D2
+You see more fountians.
+~
+~
+0 0 9930
+D3
+You see more of the fountain.
+~
+~
+0 0 9913
+S
+#9930
+The Jedi Fountains.~
+You are standing by one of the biggest fountains in all of the
+galaxy.  Water is bubbling over and over here and it is actually
+quite beautiful.  Spraying into the air, rolling down stones and rocks,
+flowing around pillars of marble, you havent seen such a sight in a long
+while.  The fountains are on either side of the road to the tower and they
+go from the gate to the tower entrance.
+South of here is more of the courtyard, to the north and west are more of
+the fountians.
+~
+99 262144 2
+D0
+You see the entrance to the Jedi Courtyard.
+~
+~
+0 0 9929
+D2
+You see the courtyard.
+~
+~
+0 0 9931
+D3
+You see more fountains.
+~
+~
+0 0 9912
+S
+#9931
+Southeast corner of the courtyard.~
+You are standing in the southeast corner of the courtyard.  Here you
+can see a great statue of one of the ancient Jedi Knights.  Around you
+grow some of the splendors of the glaxay.  You can feel the power of
+the force all around you here.  You wonder just how many Jedi have strolled
+these paths seeking inner peace with themselves.  To the north and west 
+the courtyard continues.  To the south is the entrance to one of
+the spires.
+~
+99 262144 2
+D0
+You see the fountains.
+~
+~
+0 0 9930
+D2
+You see the base of the spire.
+~
+~
+0 0 9988
+D3
+You see more courtyard.
+~
+~
+0 0 9911
+S
+#9932
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D2
+You see more balcony.
+~
+~
+0 0 9933
+D3
+You see more balcony.
+~
+~
+0 0 9943
+S
+#9933
+Jedi Tower - Fifth Floor.~
+You are standing in the fifth floor of the Jedi Tower.  This top
+floor is the largest of all the levels in the tower and contains
+the two most important rooms.  These are the chambers of the Jedi
+Counsel and the Jedi Trials room.  The Jedi Counsel are made up of
+members of the Jedi Knight Elite and make decisions on what and where
+Jedi Knights will fight or defend.  The Jedi Trials are what a Jedi
+Apprentice must pass to become a full Jedi Knight.
+~
+99 0 10
+D0
+You see the balcony.
+~
+~
+0 0 9932
+D2
+You see the balcony.
+~
+~
+0 0 9934
+D3
+You see the Jedi Counsel Chamber.
+~
+~
+0 0 9944
+D5
+You see the forth floor lobby.
+~
+~
+0 0 9927
+S
+#9934
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D0
+You see more balcony.
+~
+~
+0 0 9933
+D2
+You see more balcony.
+~
+~
+0 0 9935
+D3
+You see the Jedi Trials.
+~
+~
+0 0 9945
+S
+#9935
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D0
+You see more balcony.
+~
+~
+0 0 9934
+D3
+You see more balcony.
+~
+~
+0 0 9936
+S
+#9936
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D1
+You see more balcony.
+~
+~
+0 0 9935
+D3
+You see more balcony.
+~
+~
+0 0 9937
+S
+#9937
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D1
+You see more balcony.
+~
+~
+0 0 9936
+D3
+You see more balcony.
+~
+~
+0 0 9938
+S
+#9938
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D0
+You see more balcony.
+~
+~
+0 0 9939
+D1
+You see more balcony.
+~
+~
+0 0 9937
+S
+#9939
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D0
+You see more balcony.
+~
+~
+0 0 9940
+D2
+You see more balcony.
+~
+~
+0 0 9938
+S
+#9940
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D0
+You see more balcony.
+~
+~
+0 0 9941
+D2
+You see more balcony.
+~
+~
+0 0 9939
+S
+#9941
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D1
+You see more balcony.
+~
+~
+0 0 9942
+D2
+You see more balcony.
+~
+~
+0 0 9940
+S
+#9942
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D1
+You see more balcony.
+~
+~
+0 0 9943
+D3
+You see more balcony.
+~
+~
+0 0 9941
+S
+#9943
+The balcony.~
+You are standing in a huge wrap around balcony that surrounds the
+entire top of the Jedi Tower.  You can see the splendors of the city
+of Coruscant from here.  The winds are quite strong, you had better
+mind your step.
+~
+99 0 10
+D1
+You see more balcony.
+~
+~
+0 0 9932
+D3
+You see more balcony.
+~
+~
+0 0 9942
+S
+#9944
+The Jedi Counsel.~
+You are standing before the Jedi Counsel.  Here the great Jedi Masters meet
+to decide the ways of the Force.  All Jedi Knights come before this counsel
+to take the Trails test before they became Jedi Knights.  This counsel is made
+up of the Jedi Elite and has the say over all of the Jedi.  Made up of seven
+members with Master Yoda as its head, all Jedi protect their ways.
+~
+99 0 0
+D1
+You see the balcony.
+~
+~
+0 0 9933
+D2
+You see the trials room.
+~
+~
+0 0 9945
+D3
+You see the Jedi counsel.
+~
+~
+0 0 9947
+S
+#9945
+The Jedi Trials.~
+You are standing in one of the most sacred of all Jedi places.  It is here
+where the Jedi Apprentices take their trial tests to become a Jedi Knight.
+The masters watch the apprentices very closely as they demonstrate their
+ability to use and control the force.  The Jedi Masters also monitor the
+ability to use the force to predict future events.  Also, they watch and
+make sure that the Jedi have full mastery of all of the Jedi Arts.
+~
+99 0 0
+D0
+You see the Jedi Counsel.
+~
+~
+0 0 9944
+D1
+You see more balcony.
+~
+~
+0 0 9934
+D3
+You see more of the trials room.
+~
+~
+0 0 9946
+S
+#9946
+The Jedi Trials.~
+You are standing in one of the most sacred of all Jedi places.  It is here
+where the Jedi Apprentices take their trial tests to become a Jedi Knight.
+The masters watch the apprentices very closely as they demonstrate their
+ability to use and control the force.  The Jedi Masters also monitor the
+ability to use the force to predict future events.  Also, they watch and
+make sure that the Jedi have full mastery of all of the Jedi Arts.
+~
+99 0 0
+D0
+You see the Jedi Counsel.
+~
+~
+0 0 9947
+D1
+You see more of the Trials room.
+~
+~
+0 0 9945
+S
+#9947
+The Jedi Counsel.~
+You are standing before the Jedi Counsel.  Here the great Jedi Masters meet
+to decide the ways of the Force.  All Jedi Knights come before this counsel
+to take the Trails test before they became Jedi Knights.  This counsel is made
+up of the Jedi Elite and has the say over all of the Jedi.  Made up of seven
+members with Master Yoda as its head, all Jedi protect their ways.
+~
+99 0 0
+D1
+You see the Jedi Counsel.
+~
+~
+0 0 9944
+D2
+You see the Trials Room.
+~
+~
+0 0 9946
+S
+#9948
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D3
+You see more of the hallway.
+You see more of the hallway.
+~
+~
+0 0 9949
+D4
+You see more of the hallway.
+~
+~
+0 0 9960
+S
+#9949
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 0 0
+D1
+You see more of the hallway.
+~
+~
+0 0 9948
+D3
+~
+~
+0 0 9950
+S
+#9950
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D1
+You see more of the hallway.
+~
+~
+0 0 9949
+D2
+You see more of the hallway.
+~
+~
+0 0 9951
+S
+#9951
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D0
+You see more of the hallway.
+~
+~
+0 0 9950
+D2
+You see more of the hallway.
+~
+~
+0 0 9953
+S
+#9952
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D0
+You see more of the hallway.
+~
+~
+0 0 9953
+D2
+You see more of the hallway.
+~
+~
+0 0 9954
+S
+#9953
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 0 0
+D0
+You see more of the hallway.
+~
+~
+0 0 9951
+D2
+You see more of the hallway.
+~
+~
+0 0 9952
+D3
+You see the entrance way to the residence building.
+~
+~
+0 0 9982
+S
+#9954
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D0
+You see more of the hallway.
+~
+~
+0 0 9952
+D1
+You see more of the hallway.
+~
+~
+0 0 9955
+S
+#9955
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D1
+You see more of the hallway.
+~
+~
+0 0 9956
+D3
+You see more of the hallway.
+~
+~
+0 0 9954
+S
+#9956
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D3
+You see more of the hallway.
+~
+~
+0 0 9955
+D4
+You see more of the hallway.
+~
+~
+0 0 9967
+S
+#9957
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D1
+You see more of the hallway.
+~
+~
+0 0 9958
+D3
+You see more of the hallway.
+~
+~
+0 0 9961
+S
+#9958
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D1
+You see more of the hallway.
+~
+~
+0 0 9959
+D2
+You see more of the hallway.
+~
+~
+0 0 9962
+D3
+You see more of the hallway.
+~
+~
+0 0 9957
+S
+#9959
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D1
+You see more of the hallway.
+~
+~
+0 0 9960
+D3
+You see more of the hallway.
+~
+~
+0 0 9958
+S
+#9960
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D3
+You see more of the hallway.
+~
+~
+0 0 9959
+D5
+You see more of the hallway.
+~
+~
+0 0 9948
+S
+#9961
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D1
+You see more of the hallway.
+~
+~
+0 0 9957
+S
+#9962
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D0
+You see more of the hallway.
+~
+~
+0 0 9958
+D2
+You see more of the hallway.
+~
+~
+0 0 9963
+S
+#9963
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D0
+You see more of the hallway.
+~
+~
+0 0 9962
+D2
+You see more of the hallway.
+~
+~
+0 0 9964
+D4
+You see the landlord's office.
+~
+~
+0 0 9975
+S
+#9964
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D0
+You see more of the hallway.
+~
+~
+0 0 9963
+D2
+You see more of the hallway.
+~
+~
+0 0 9965
+S
+#9965
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D0
+You see more of the hallway.
+~
+~
+0 0 9964
+D1
+You see more of the hallway.
+~
+~
+0 0 9966
+D3
+You see more of the hallway.
+~
+~
+0 0 9968
+S
+#9966
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D1
+You see more of the hallway.
+~
+~
+0 0 9967
+D3
+You see more of the hallway.
+~
+~
+0 0 9965
+S
+#9967
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D3
+You see more of the hallway.
+~
+~
+0 0 9966
+D5
+You see more of the hallway.
+~
+~
+0 0 9956
+S
+#9968
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D1
+You see more of the hallway.
+~
+~
+0 0 9965
+D3
+You see more of the hallway.
+~
+~
+0 0 9969
+S
+#9969
+Dormitory Hallway.~
+You are standing in what seems to be a regular dormitory hallway.
+It looks like all the other dormitory hallways you have ever seen, 
+except for one thing.  The landlord here has his minions running about
+collecting rent, which is outrageous.
+~
+99 8 0
+D1
+You see more of the hallway.
+~
+~
+0 0 9968
+S
+#9970
+Neptune's Chambers~
+Nothing.
+~
+99 8 0
+D1
+~
+~
+0 0 9971
+D2
+~
+~
+0 0 9919
+S
+#9971
+Neptune's Bed Chamber.~
+Nothing.
+~
+99 8 0
+D3
+~
+~
+0 0 9970
+S
+#9972
+Coruscant Suggestion Board~
+Nothing.
+~
+99 8 1
+D3
+~
+~
+0 0 9973
+S
+#9973
+Coruscant Board Room~
+Nothing.
+~
+99 8 0
+D1
+~
+~
+0 0 9972
+D3
+~
+~
+0 0 9979
+D5
+~
+~
+0 0 10100
+S
+#9974
+Shuttle Craft.~
+Nothing.
+~
+99 8 0
+D5
+You see the spaceport.
+~
+~
+2 0 10126
+S
+#9975
+Landlord's Office.~
+You are standing in the landlord's office.  What a mess!
+You see paper work out the wazoo!  You wonder how he even
+knows if you have paid your rent.  Personally, you dont
+think he cares, just as long as he has money!
+~
+99 8 0
+D5
+You see the hallway.
+~
+~
+0 0 9963
+S
+#9976
+Shuttle Craft.~
+Nothing.
+~
+99 8 0
+D0
+You see the spacesport.
+~
+~
+2 0 10126
+S
+#9977
+Shuttle Craft.~
+Nothing.
+~
+99 8 0
+D3
+~
+~
+0 0 10126
+S
+#9978
+Shuttle Craft.~
+Nothing.
+~
+99 8 0
+D2
+You see the Spaceport.
+~
+~
+2 0 10126
+S
+#9979
+Coruscant Donation Room~
+Nothing.
+~
+99 8 0
+D1
+~
+~
+0 0 9973
+S
+#9980
+Coruscant Postoffice.~
+Nothing.
+~
+99 8 0
+D2
+~
+~
+0 0 9981
+S
+#9981
+Coruscant Postoffice Waiting Room~
+Nothing.
+~
+99 8 0
+D0
+~
+~
+0 0 9980
+D2
+~
+~
+0 0 10107
+S
+#9982
+Entrance to the Residence Tower~
+You are standing at the enterance to the residence tower.  You can see
+the doorway right infront of you and perhaps you should continue forth.
+There is a sign here if you want to read it.
+~
+99 4 0
+D1
+You see the enterance to the residence hall.
+~
+~
+0 0 9953
+D3
+You see the jetway to the residence hall.
+~
+~
+0 0 9983
+E
+sign sig si~
+If you wish to rent here, please contact the landlord (GOD) incharge of this
+dwelling.  Rent here is 10 million gold coins.  If you cannot pay this, do not
+bother to ask for a room.  If you keep bothering the landlord for a room
+and you do not have the proper credits, you will be killed.  Remember, the
+Empire shoots first and asks questions later.
+
+"You are guilty, period."
+~
+S
+#9983
+The path to the Residence Tower.~
+You are standing on the jetway to the residence tower.  The tower is
+off in the distance and you can see that it is rather large and oddly
+shaped.  Many residents of the Empire are housed in complexes like these
+all over the city.  You have heard both good and bad things about the
+landlords.  You wonder if you should take up residence here.
+~
+99 0 1
+D1
+You see more of the path to the residence tower.
+~
+~
+0 0 9982
+D3
+You see the path back to the cross roads.
+~
+~
+0 0 10130
+S
+#9984
+Base of the northeast spire.~
+You are standing at the base of one of the four spires of
+this great building.  You can go up into the spire or go
+to the south or west back into the courtyard.
+~
+99 8 0
+D2
+You see the courtyard.
+~
+~
+0 0 9928
+D3
+You see the gazeebo.
+~
+~
+0 0 9915
+D4
+You see up into the spire.
+~
+~
+0 0 9985
+S
+#9985
+In the spire.~
+You are standing in the spire and can see parts of the city all around
+you out the windows.  You look up and almost see the top, you look down
+and can see the base of the stairway.
+~
+99 8 0
+D4
+You see stairs leading up to the top of the spire.
+~
+~
+0 0 9986
+D5
+You see the base of the spire.
+~
+~
+0 0 9984
+S
+#9986
+Almost to the top.~
+You can now see more of the city than from the landing below.
+You can wonder further up the tower or you can go back down to the
+base where the enterance is.
+~
+99 8 0
+D4
+You see the top of the spire.
+~
+~
+0 0 9987
+D5
+You see the stairs to the base of the tower.
+~
+~
+0 0 9985
+S
+#9987
+Top of the northeast spire.~
+You are standing at the top of the spire.  You can see the city
+all around you.  It is quite beautiful acutally.  You wonder what
+these spires were once used for.  Currently there is nothing here.
+~
+99 262152 0
+D5
+~
+~
+0 0 9986
+S
+#9988
+Base of the southeast spire.~
+You are standing at the base of one of the four spires of
+this great building.  You can go up into the spire or go
+to the north or west back into the courtyard.
+~
+99 8 0
+D0
+You see the courtyard.
+~
+~
+0 0 9931
+D3
+You see the reflecting pool.
+~
+~
+0 0 9910
+D4
+You see more of the spire.
+~
+~
+0 0 9989
+S
+#9989
+In the spire.~
+You are standing in the spire and can see parts of the city all around
+you out the windows.  You look up and almost see the top, you look down
+and can see the base of the stairway.
+~
+99 8 0
+D4
+You see stairs leading up the spire.
+~
+~
+0 0 9990
+D5
+You see the base of the spire.
+~
+~
+0 0 9988
+S
+#9990
+Almost at the top.~
+You can now see more of the city than from the landing below.
+You can wonder further up the tower or you can go back down to the
+base where the enterance is.
+~
+99 8 0
+D4
+You see the top of the spire.
+~
+~
+0 0 9991
+D5
+You see the stairs leading back down the spire.
+~
+~
+0 0 9989
+S
+#9991
+Top of the southeast spire.~
+You are standing at the top of the spire.  You can see the city
+all around you.  It is quite beautiful acutally.  You wonder what
+these spires were once used for.  Currently there is nothing here.
+~
+99 262152 0
+D5
+You see the stairs that lead down.
+~
+~
+0 0 9990
+S
+#9992
+Base of the southwest tower.~
+You are standing at the base of one of the four spires of
+this great building.  You can go up into the spire or go
+to the east back into the courtyard.
+~
+99 8 0
+D1
+You see the courtyard.
+~
+~
+0 0 9909
+D4
+You see the stairs that go up the spire.
+~
+~
+0 0 9994
+S
+#9993
+Base of the northwest spire.~
+You are standing at the base of one of the four spires of
+this great building.  You can go up into the spire or go
+to the east back into the courtyard.
+~
+99 8 0
+D1
+You see the courtyard.
+~
+~
+0 0 9904
+D4
+You see the stairs going up.
+~
+~
+0 0 9995
+S
+#9994
+In the spire.~
+You are standing in the spire and can see parts of the city all around
+you out the windows.  You look up and almost see the top, you look down
+and can see the base of the stairway.
+~
+99 8 0
+D4
+You see up into the spire.
+~
+~
+0 0 9996
+D5
+You see the base of the spire.
+~
+~
+0 0 9992
+S
+#9995
+In the spire.~
+You are standing in the spire and can see parts of the city all around
+you out the windows.  You look up and almost see the top, you look down
+and can see the base of the stairway.
+~
+99 8 0
+D4
+You see more stairs leading up.
+~
+~
+0 0 9997
+D5
+You see the base of the spire.
+~
+~
+0 0 9993
+S
+#9996
+Almost at the top.~
+You can now see more of the city than from the landing below.
+You can wonder further up the tower or you can go back down to the
+base where the enterance is.
+~
+99 8 0
+D4
+You see the top of the spire.
+~
+~
+0 0 9998
+D5
+You see the stairs that lead back to the base of the tower.
+~
+~
+0 0 9994
+S
+#9997
+Almost at the top.~
+You can now see more of the city than from the landing below.
+You can wonder further up the tower or you can go back down to the
+base where the enterance is.
+~
+99 8 0
+D4
+You see the top of the spire.
+~
+~
+0 0 9999
+D5
+You see the stairs leading to the base of the spire.
+~
+~
+0 0 9995
+S
+#9998
+Top of the southwest spire.~
+You are standing at the top of the spire.  You can see the city
+all around you.  It is quite beautiful acutally.  You wonder what
+these spires were once used for.  Currently there is nothing here.
+~
+99 262152 0
+D5
+You see stairs that go down.
+~
+~
+0 0 9996
+S
+#9999
+Top of the northwest spire.~
+You are standing at the top of the spire.  You can see the city
+all around you.  It is quite beautiful acutally.  You wonder what
+these spires were once used for.  Currently there is nothing here.
+~
+99 262152 0
+D5
+You see the stairs that lead down.
+~
+~
+0 0 9997
+S
+$~

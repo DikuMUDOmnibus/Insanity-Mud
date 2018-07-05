@@ -1,0 +1,148 @@
+#7400
+Entrance to an Undersea Kingdom~
+   You feel the water grow warm here, heated by the thousands of
+magical torches lighting the underwater kingdom.  To the south are
+the great gates, which too are magical.  To the east and the west
+extend the kingdom's walls; they stretch farther than you can see.
+~
+74 4 0
+E
+window~
+   A girl is dangling from the window!  
+~
+S
+#7401
+Entrance to the Tower~
+   As you step inside in the hole the inside isn't nearly as nice as the
+outside. You wonder if the girl hasn't... *BANG* fallen out. Oh my godness
+you think, I must kill the thing that did this. A dark hallway lies ahead. 
+
+~
+74 65 0
+D0
+A dark hallway
+~
+~
+0 0 7402
+D2
+The outside of the Tower of Insanity
+~
+~
+0 0 7400
+S
+#7402
+A Dark Hallway~
+   As you crawl through the tunnel you notice many blood stains on the walls.
+What's after this tunnel, you can only hope for the best.  
+~
+74 265 0
+D2
+~
+~
+0 0 -1
+D4
+a Stairwell
+~
+~
+0 0 7403
+S
+#7403
+Stairwell~
+   Now you know why blood is splattered everywhere, you're lucky to be alive
+after that. You can go up the Stairwell or you can go down below. The
+murderer of the girl's death must be upstairs, but who knows what you'll find
+downstairs.  
+~
+74 73 0
+D5
+A dark pit
+~
+door~
+1 0 7404
+S
+#7404
+A deep dark pit~
+   As you enter the pit its hard to see anything. Its walls made of black
+coal. There's an opening to the left, right, north, and south. You can hear
+strange noises coming from below.. But how do you get there?  
+~
+74 197 0
+D0
+A dark room
+~
+~
+0 0 7407
+D1
+A dark room
+~
+~
+0 0 7406
+D2
+You can't see a thing!
+~
+~
+0 0 7405
+D3
+A dark room
+~
+~
+0 0 7408
+D4
+To the Stairwell
+~
+~
+0 0 7403
+S
+#7405
+A dark room~
+Too bad eh?
+~
+74 2 0
+S
+#7406
+A dark room~
+ARGHH!! Are you getting tired of this?
+~
+74 2 0
+D3
+~
+~
+0 0 -1
+S
+#7407
+A dark room~
+Bingo! Maybe you should see what's below.
+~
+74 93 0
+D2
+Back to the pit
+~
+~
+0 0 7404
+D5
+Down to Steve's Room
+~
+~
+0 0 7409
+S
+#7408
+A dark room~
+Rest In Peace :)
+~
+74 2 0
+S
+#7409
+Steve's Demented Room of Fun~
+   Wow! Steve the Purple Camel! You must feel special... You think "rofl,
+what an idiot.. " Then you take a look around and you can see many pictures of
+Steve and his master Caveren. There is also a large chest that might have
+something good inside because someone in the tower has the key.  
+~
+74 64 0
+D4
+Back up to the dark room
+~
+~
+0 0 7407
+S
+$~

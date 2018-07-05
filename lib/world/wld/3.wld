@@ -1,0 +1,1257 @@
+#300
+Pathway to Zeus' Cottage.~
+Set far back off the main road, you approach a small pathway that leads up to
+the most beautiful cottage in all of Insanity. It sits nestled amongst the cool
+shade of the trees and a small bubbling brook flows gently beside it.  
+~
+3 1024 2
+D2
+~
+~
+0 0 301
+S
+#301
+Pathway to the Cottage.~
+Wildflowers and berry bushes line either side of the pathways and a faint
+breeze rustles the leaves on the trees. As you approach the cottage you notice
+the perfectly shaped logs with the dove-tailed ends jutting out from the
+corners. A huge chimney rises from the center and a wisp of smoke spirals
+gently from it.  
+~
+3 1024 0
+D0
+~
+~
+0 0 300
+D2
+~
+~
+0 0 302
+S
+#302
+Pathway to the Cottage~
+Wildflowers and berry bushes line either side of the pathways and a faint
+breeze rustles the leaves on the trees. As you approach the cottage you notice
+the perfectly shaped logs with the dove-tailed ends jutting out from the
+corners. A huge chimney rises from the center and a wisp of smoke spirals
+gently from it.  
+~
+3 8192 2
+D0
+~
+~
+0 0 301
+D2
+~
+~
+0 0 303
+S
+#303
+Entrance to the Cottage.~
+The first thing you notice when entering the cottage is how neat it is.  A
+large rug with "Welcome to our Home!  " covers part of the oak floor.    
+~
+3 4196940 0
+D0
+~
+~
+0 0 302
+D2
+~
+~
+0 0 305
+D3
+~
+~
+0 0 304
+S
+#304
+A Coat Closet~
+Here you'll find all the coats, boots and shoes neatly hung and lined up.
+~
+3 4194380 0
+D1
+~
+~
+0 0 303
+S
+#305
+The Main Hallway~
+This is the main hallway which will take you to the various rooms around this
+cozy cottage.    
+~
+3 4194376 0
+D0
+~
+~
+0 0 303
+D1
+~
+~
+0 0 308
+D2
+~
+~
+0 0 306
+D3
+~
+~
+0 0 309
+S
+#306
+The Main Hallway~
+   This is the main hallway which will take you to the various rooms around
+this cozy cottage.    
+~
+3 4194376 0
+D0
+~
+~
+0 0 305
+D1
+~
+~
+0 0 310
+D2
+~
+~
+0 0 307
+D3
+~
+~
+0 0 314
+S
+#307
+Hallway to the Master Suite~
+This Hallway leads to the Mastersuite, the wing of the house where Zeus
+spends most of his time. Two large oak door, with big brass
+handles lead into it, you can only hope to imagine what is on the other
+side, you suspect no expense has been spared.
+~
+3 4202568 0
+D0
+~
+~
+0 0 306
+D1
+~
+doors~
+1 0 313
+S
+#308
+The Dining Room~
+A huge maple table sits in the middle of the room with several chairs place
+around it. The light colour of the maple contrasts beautifully with the dark
+oak floors. An antique table cloth covers the table, it flows gently down to
+the floor. Many family holidays and gatherings have been held here in the past
+and no doubt many more will be held in the future.  
+~
+3 4194376 0
+D1
+~
+~
+0 0 311
+D3
+~
+~
+0 0 305
+S
+#309
+The Living Room~
+Upon entering the room you notice how the green, burgundy and golds compliment
+each other.  It almost has a formal look but the overstuffed couches and chairs
+lend a casual look to the room.  A huge fieldstone fireplace sits in the center
+of the opposite wall making it the focal point of the room and the cheery fire
+burning in it creates a warm, cozy feeling and one of total relaxation.  
+Several bookcases line the walls filled with books from collectors items,
+classics and even new books, all appear well read.  Placed close to the
+fireplace is a rug made out of the finest sheeps wool where one can lay on and
+watch the stars from the glass ceiling.  No expense has been spared on this
+room, making it the most comfortable in the entire cottage.    
+~
+3 4194376 0
+D1
+~
+~
+0 0 305
+D5
+~
+~
+0 0 334
+S
+#310
+The Bathroom~
+This bathroom is decorated in peach, golds and white.  It's rather large so
+that it can accomodate two shower stalls and a large bath.  There are also two
+toilets so that there's no waiting to use the bathroom, it's actually two
+bathrooms that have cleverly been joined together as one.    
+~
+3 4194376 0
+D3
+~
+~
+0 0 306
+S
+#311
+The Kitchen~
+Bright, warm sunlight streams in through the many windows and the smell of
+freshly baked bread, cookies and other goodies drift around the room, tempting
+you to sample them. Small ledges have been built into the windows so that pots
+of herbs can be grown here. The combined aromas of the herbs and food delight
+your senses.  
+~
+3 4194376 0
+D0
+~
+~
+0 0 328
+D1
+~
+~
+0 0 329
+D2
+~
+~
+0 0 312
+D3
+~
+~
+0 0 308
+D5
+~
+~
+0 0 333
+S
+#312
+The Greenhouse~
+This is where Zeus spends his time when he has time away from the affairs of
+the mud. The walls are all made out of glass and the sun shines brightly down
+on the many different plants that she grows here. You can see many beautiful
+flowers which she uses to decorate the rooms but there's also a few fruit and
+vegetable plants that he grows so that he can have some fresh food
+during anytime of the year. A small corner of the greenhouse contains all the
+tools and things that he needs to keep the plants in beautiful condition. 
+~
+3 4194376 0
+D0
+~
+~
+0 0 311
+D2
+~
+backdoor~
+1 0 339
+S
+#313
+The Master Bedroom~
+The room is lit by four small oil lanterns mounted on each of the walls, it
+gives the place a snug and comforting feel. The deep walnut carpet matches the
+browns of the oak panels which make up the walls. In the center of the room
+stands a large four poster bed, made from the finest Ash. Either side of it
+two small bedside cabinates, contaning various bedside items of the occupiers
+of this house, an old book, a silver brush, a small hand mirror, to name but a
+few. Opposite the bed on the far wall sits a wooden table, finely crafted by
+the finest craftsmen of the land. Upon it sits a blooming pot plant, its
+leaves and branches reaching far out into the open space, providing contrast to
+the many browns of the room.  
+~
+3 4196936 0
+D0
+~
+~
+0 0 317
+D1
+~
+~
+0 0 316
+D2
+~
+door~
+1 0 318
+D3
+~
+doors~
+1 0 307
+D4
+~
+~
+0 0 330
+S
+#314
+Hallway to the Guest Quarters~
+This is the main hallway which will take you to the various rooms around this
+cozy cottage.    
+~
+3 4202568 0
+D0
+~
+~
+0 0 327
+D1
+~
+~
+0 0 306
+D2
+~
+~
+0 0 322
+D3
+~
+~
+0 0 315
+S
+#315
+A Guest Bedroom~
+Painted in soft green, this room is bright and sunny.  A queen-sized bed has
+been placed against the wall and an oak dresser and night table sit beside it.
+Many guests and family have watched the magnificent sunsets from the windows.
+  
+~
+3 4196936 0
+D1
+~
+~
+0 0 314
+S
+#316
+The Sitting Room~
+   Two small oil lamps light this room, hung in two opposite corners.  A log
+fire gives a warming glow, burning brightly in the brick fireplace on the east
+wall.  A Small soft rug lies in front of the fire, it looks like just the place
+to lie down to get the most from the fire.  Two small but comfortable arm
+chairs sit in the room, one where Zeus sits to read a book, or just to rest and
+contemplate life, the other for any guests he may have round so thay can take
+a well deserved rest.
+~
+3 4194376 0
+D3
+~
+~
+0 0 313
+S
+#317
+Dressing Room~
+   The walnut carpet continues into this room, a place of tidyness compared to
+the clutter of the two adjoining closets, one belonging to Zeus, the other for
+anything which can't be fit into the other one.
+~
+3 4202568 0
+D0
+~
+epoh~
+3 0 326
+D1
+~
+~
+0 0 324
+D2
+~
+~
+0 0 313
+D3
+~
+~
+0 0 325
+S
+#318
+The Bathroom~
+   The bathroom is a complete contrast the the other rooms you have found in
+this area of the house.  A Bright light shines down on to a blue and white
+marble floor.  A large quarter circle bath can be found in the south west
+corner, deep blue in colour with shining golden taps.  On the opposite wall a
+similarly coloured toilet can be found, a small blue toilet mat has been placed
+around its base.  A sink stands next to the bath, above it a wooden shaving
+cabinet with two sliding glass mirrors.  A pale blue mat has been placed in
+front of the bath so that your feet don't feel cold as you get out on the bare
+marble floor.    
+~
+3 4202568 0
+D0
+~
+door~
+1 0 313
+D3
+~
+door~
+1 0 319
+S
+#319
+The Secret Hallway.~
+   This hallways is sparse and bare, only a few small candles burn allowing you
+to just about see where you are going.  It seems to be some sort of secret
+passage, which only Zeus' would know about.  It leads between his private
+bathroom and the Linen closet, where the sauna and hot tub can be found.  
+Perhaps it exists so that he can sneak off for a dip or a sauna late at night
+without having to go through the main corridors of the house.    
+~
+3 4194376 0
+D1
+~
+door~
+1 0 318
+D3
+~
+pannel~
+1 0 320
+S
+#320
+Walk Through Linen Closet~
+Many fine linens of every colour imaginable lay neatly folded on the shelves.
+On another shelf is where the towels are kept, but they aren't just ordinary
+towels. The house keeper has made sure that only the softest towels will touch 
+Zeus' skin and those of his family and guests. She also made sure that they where
+oversized so that you can easily wrap them around yourself.  
+~
+3 4194376 0
+D0
+~
+door~
+1 0 322
+D1
+~
+pannel~
+1 0 319
+D2
+~
+~
+0 0 321
+D3
+~
+~
+0 0 323
+S
+#321
+The Sauna~
+Warm drafts of steam circle the room, created by glowing coals and fresh
+water which is poured over them. The walls, floor, ceiling and the two
+benches which sit either side of the room are made from wooden pine
+planks, giving the room as smell of the forest. You should grab yourself
+a towel and come in and relax, or maybe you should do it the natural
+way, with no towel, maybe your partner might like to join you!?
+~
+3 4194376 0
+D0
+~
+~
+0 0 320
+S
+#322
+The Hallway to the Sauna and Hot Tub~
+This hallway leads you to the Sauna and Hot Tub that Zeus has so
+graciously allowed family and guests to use.  Just remember to shut the door
+behind you and always knock first as Zeus may be using it.    
+~
+3 4194376 0
+D0
+~
+~
+0 0 314
+D2
+~
+door~
+1 0 320
+S
+#323
+The Hot Tub~
+   Hot steam drifts around the room as you enter.  The floors are made out of
+white marble and the walls have been covered in mirrors, so that Zeus
+can always admire himself where ever he looks.  The huge black and gold hot
+tub is centered in the middle of the room so that you can enjoy the view from
+every direction.  A few windows have been placed between the mirrors so that
+you can enjoy the cool night breezes and watch the stunning sunsets.  It is
+truly a stunning room!    
+~
+3 4194376 0
+D1
+~
+~
+0 0 320
+S
+#324
+Zeus' Closet~
+   The walk in closet is only small, you find you have to walk sideways to move
+about it.  All the clothes are neatly stacked or hung on the shelves and rails.
+You can't help but notice that the garments are of the finest quality, and
+indeed must be expensive to buy.    
+~
+3 4196936 0
+D3
+~
+~
+0 0 317
+S
+#325
+The Spare Closet~
+This closet doesn't seem to have much in it except for a few
+items of old clothing which you can tell have not been worn in some
+time.
+~
+3 4196936 0
+D1
+~
+~
+0 0 317
+S
+#326
+Secret Closet~
+This little closet is very hush hush. Here Zeus keeps all sorts
+of dangerous and powerful weaponry. Here for when he decides
+the time is right to take over the world and rule over it
+with his evil rule. But then again, Maybe not!
+~
+3 4196936 0
+D2
+~
+epoh~
+3 0 317
+S
+#327
+Guest Bedroom~
+Two single beds are placed side by side and a large dresser and two small night
+tables each with a small oil lamp sit beside the beds.  The bottom of the walls
+are panelled in birtch and the rest of the walls are painted in the softest
+lilac.  Two beautiful hand made quilts lay on the beds along with many pillows.
+A full length mirror has been placed behind the door and the view of the forest
+from beyond the windows fills one with a sense of peace.    
+~
+3 4196936 0
+D2
+~
+~
+0 0 314
+S
+#328
+The Pantry~
+Many cans and jars line the shelves. The Housekeeper has spent many days canning the various fruits and vegetables that Zeus grows in the garden.
+There's definately enough food here to feed all the family and friends that may drop by.
+~
+3 4194376 0
+D2
+~
+~
+0 0 311
+S
+#329
+Breakfast Nook~
+Here the Zeus comes to eat his breakfast and lunch. There's a comfortable bench with cushions to sit on and a beautiful view out the windows.
+~
+3 4194376 0
+D3
+~
+~
+0 0 311
+S
+#330
+Stairwell to the Sunroom~
+This winding stairwell takes you to the one place in the whole cottage that only Zeus goes to. No others are allowed up here as this is where they go to watch over the great land of Insanity.
+~
+3 4194376 0
+D4
+~
+~
+0 0 331
+D5
+~
+~
+0 0 313
+S
+#331
+The Top of the Stairs.~
+This winding stairwell takes you to the one place in the whole cottage that only Zeus goes to. No others are allowed up here as this is where they go to watch over the great land of Insanity.
+~
+3 4194376 0
+D2
+~
+~
+0 0 332
+D5
+~
+~
+0 0 330
+S
+#332
+The Sunroom.~
+The sunroom is decorated with light pastel shades. Making the room feel fresh
+and clear. Huge sliding doors and walls of glass allow the sun to shine into
+every part of the room, no matter what time of day it happens to be. A small
+fountain gently trickles away in the corner sorrounded by lush green plants. 
+Scattered about the room are various items of furniture, a table, some sun
+loungers, and some cushioned chairs. In the center of the table stands a large
+parasol, to keep the sun from spoiling the food on a particularly hot day. 
+You could spend hours in here just relaxing or soaking up the suns rays, and as
+night gives into dawn, and dusk gives into night, you can watch the beautifull
+sun rises and sun sets, filling the sky with colour and tranquility. At night
+you can lie back and watch the stars shine bright in the black velvety sky. 
+
+~
+3 4194376 0
+D0
+~
+~
+0 0 331
+S
+#333
+The Root Cellar~
+It's rather dark and cool down here but it's perfect for storing all sorts of
+fruits and vegetables anytime of the year.  
+~
+3 4194376 0
+D4
+~
+~
+0 0 311
+S
+#334
+Down to the Bar, Games Room and Movie Room~
+Down here you'll find the Bar, Games room, Movie Room and Laundry Room.
+~
+3 4194376 0
+D1
+~
+~
+0 0 337
+D2
+~
+~
+0 0 335
+D3
+~
+~
+0 0 336
+D4
+~
+~
+0 0 309
+S
+#335
+Games Room~
+   Well, men must play, so this is where Zeus and his mates come to spend some
+time chatting and with the bar close at hand to have a few pints as well. A
+large pool table made out of oak sits in the middle of the room and an official
+dart board has been set up on one of the walls for tournaments.  
+~
+3 4194376 0
+D0
+~
+~
+0 0 334
+D2
+~
+~
+0 0 336
+D3
+~
+~
+0 0 338
+S
+#336
+The Movie Room~
+   Furnished with black leather couches and chairs and glass tables this room
+is very comfortable. Many pillows lay about on the red carpet and a brick
+fireplace with a glass front has been built into the room. A huge screen is
+hidden but can be pulled down to watch movies, other then that this room is
+very bare.  
+~
+3 4194376 0
+D0
+~
+~
+0 0 335
+D1
+~
+~
+0 0 334
+S
+#337
+The Laundry Room~
+   Zeus tries not to spend too much time here. But even he must do laundry and
+sometimes. A washing machine and tumble trier stand against the far wall.  
+~
+3 4194376 0
+D3
+~
+~
+0 0 334
+S
+#338
+The Bar~
+   A long cherry wood bar takes up most of the room and stools have been placed
+around it. Zeus and his mates spend alot of time in here and visitors are
+always welcome to sample the finest beers and wines. The wall in back of the
+bar is covered with glass shelves that hold all the different liquers that Zeus
+has collected and several shelves hang from the ceiling to hold the various
+glasses used. The glow from the cherry wood helps to provide a cheeriness to
+the room even when there's no one drinking in here.  
+~
+3 4194376 0
+D1
+~
+~
+0 0 335
+S
+#339
+The Sunporch~
+An Unfinished Room
+~
+3 4194376 0
+D0
+~
+backdoor~
+2 0 312
+D2
+~
+~
+0 0 340
+S
+#340
+Path to the Garden~
+You stand on the path which leads into the garden to the north is the house and
+to the south the garden continues.  
+~
+3 68 2
+D0
+~
+~
+0 0 339
+D2
+~
+~
+0 0 341
+D3
+~
+~
+0 0 370
+S
+#341
+Path to the Garden~
+You stand on the path into the garden from here you can see the lush greens and
+reds of the various trees and shrubs. The path leads up to the house in a
+northern direction.  
+~
+3 262224 2
+D0
+~
+~
+0 0 340
+D1
+~
+~
+0 0 344
+D2
+~
+~
+0 0 342
+D3
+~
+~
+0 0 343
+S
+#342
+Garden~
+You stand in the centre of the garden. The grass feels soft under your feet.
+Various flower beds surround you in a circular manor, full of bright colourful
+flowers. In the center a large maple tree stands, it must have been there for
+many years perhaps before the cottage was built. Its leaves a deep red,
+complementing the rest of the garden.  
+~
+3 262224 2
+D0
+~
+~
+0 0 341
+D2
+~
+~
+0 0 343
+E
+message caving~
+The message carved into the bark read simply:
+
+I Love you, Kelly.
+
+~
+E
+tree~
+The tree stands tall, its leaves deep red, its trunk thick and wide. It must
+have stood here for centuries. Looking closely you see a message carved into
+the bark.  
+~
+S
+#343
+Garden~
+The garden here is particularly beautiful. A lush green lawn surrounds a large
+stone fountain, surrounding it a small bed of flowers, the colours vibrant and
+varied. The garden continues in all directions.  
+~
+3 262224 2
+D0
+~
+~
+0 0 342
+D1
+~
+~
+0 0 341
+D2
+~
+~
+0 0 342
+D3
+~
+~
+0 0 344
+S
+#344
+Garden~
+You stand in the corner of the garden. A large hedge stands around the border,
+an archway in the hedge, to the south, leads to some kind of overhang. The
+hedge and the lawn have been nicely trimmed, by someone who loves to work on
+the garden, perhaps Zeus has got a gardener in then!  
+~
+3 262224 2
+D0
+~
+~
+0 0 358
+D1
+~
+~
+0 0 343
+D2
+~
+~
+0 0 345
+D3
+~
+~
+0 0 341
+S
+#345
+Under the Archway.~
+Here the Hedge has been cut out in the middle, and goes across the top of you
+to create an archway through it. To the south is a small path and an overhang
+to the hill below.  
+~
+3 4194384 2
+D0
+~
+~
+0 0 344
+D2
+~
+~
+0 0 346
+S
+#346
+The Garden Overhang~
+You stand on a small overhang at the top of the hill, a small white table and
+three white chairs have been placed here to sit on and enjoy morning coffee or
+tea in the afternoon. The View accross the valley here is quite stunning, the
+greens, contrasted by the many colours of the flowers and plants. Surrounding
+the overhang is a small wooden fence, from which a gate leads to a path which
+looks like it leads down the hill into the valley.  
+~
+3 4194384 2
+D0
+~
+~
+0 0 345
+D5
+~
+~
+0 0 347
+S
+#347
+The Path down to the Valley ~
+The steps lead down the hill towards the base of the valley, various shrubs and
+plants grow either side of the path, giving off a sweet aroma. The house is
+back in an upwards direction. The steps lead down the hill towards the base of
+the valley, various shrubs and plants grow either side of the path, giving off
+a sweet aroma. The house is back in a upwards direction.  
+~
+3 4194384 2
+D4
+~
+~
+0 0 346
+D5
+~
+~
+0 0 348
+S
+#348
+The Path Down to the Valley~
+You continue down the steps, you can see a large old tree a little further down
+the hill, and in the distance you can just make out the shores of a large lake.
+~
+3 4194384 2
+D4
+~
+~
+0 0 347
+D5
+~
+~
+0 0 349
+S
+#349
+A Path Down to the Valley~
+You are now half way down the steps, a large rock sits next to the path where
+you can sit down and have a rest for a while. On the other side of the path is
+a large oak tree, it looks like it has been here for hundreds of years.  
+~
+3 4194384 2
+D4
+~
+~
+0 0 348
+D5
+~
+~
+0 0 350
+S
+#350
+A Path down to the Valley~
+You are getting close to the bottom of the hill and the slope is getting
+shallower here making it easier on the legs. You can now make out the shore of
+the lake, it has a small pebble beach. Looking down the hill you can see the
+many animals playing amoungst the grass and trees.  
+~
+3 4194384 2
+D4
+~
+~
+0 0 349
+D5
+~
+~
+0 0 351
+S
+#351
+The Base of the Valley~
+You stand in the base of the valley. Here it reaches its lowest point. The
+Lush green trees and the vibrant colours of the plants and flowers are quite
+stunning here. Off to the east you see the shore of a glistening lake which
+spans the eastern side of the valley. The steps lead back up the the cottage
+above you.  
+~
+3 4194384 2
+D1
+~
+~
+0 0 352
+D4
+~
+~
+0 0 350
+S
+#352
+The Shore of the Lake~
+You have found a small sandy beach on the shore of the lake, an ideal place to
+lie back and lap up the sunshine. Looking across the lake you see the
+shimering water as the sun shines down on it and the gentle breeze causes it to
+ripple slightly. Amoungst the noise of the birds and animals of the valley you
+can here the calming sound of the water drifting back and to up the beach,
+gently shifting the sand back and forth as it does.  
+~
+3 4194384 2
+D1
+~
+~
+0 0 353
+D2
+~
+~
+0 0 359
+D3
+~
+~
+0 0 351
+S
+#353
+In the waters of the lake~
+You stand in the clear blue waters of the lake, it is not to cold, neither is
+it too hot, it seems just right for a spot of bathing. To the south you see a
+small waterfall as the streams which run down the hillside converge into one at
+the top of a small ledge.  
+~
+3 4194384 6
+D2
+~
+~
+0 0 354
+D3
+~
+~
+0 0 352
+S
+#354
+Below the Waterfall~
+You stand below the water fall, the clear cold water flows down your body,
+making you feel refreshed and clean. The sound of the falling water drowns out
+any other sound from your surroundings.  
+~
+3 4194384 6
+D0
+~
+~
+0 0 353
+D2
+~
+~
+0 0 355
+S
+#355
+Behind the Waterfall~
+You stand behind the waterfall, the noise here is quite loud as it echo's
+around you. The view of the surroudings in front of the waterfall are blured
+by the rushing water. Behind you you see a small cave.  
+~
+3 4194384 6
+D0
+~
+~
+0 0 354
+D2
+~
+~
+0 0 356
+S
+#356
+The Cave Behind the Water Fall~
+The cave is fairly small, the walls smooth and rounded which is quite strange
+perhaps some kind of magical force is behind it. The floor is covered in a
+deep red sand, which feels soft under your feet. This would be an ideal place
+to come and relax, but remember to bring a lantern as it is a little dark.  
+~
+3 4194533 0
+D0
+~
+~
+0 0 355
+S
+#358
+The Pond~
+   You stand on the edge of a frog pond. Various frogs and toads swim about in
+the shallows and hop about amoungst the different plants and reeds which grow
+and thrive in and around the pond. All sorts of various insects and animals
+inhabbit the pond, getting on with their simple lives as if they don't have a
+care in the world.  
+~
+3 4194512 2
+D2
+~
+~
+0 0 344
+S
+#359
+The Glass Porch leading into the Cabin~
+Spacious and filled with sunlight from all the many windows, alot of time is
+spent here looking out over the lake or watching the sun rise or sun sets. A
+large comfortable couch sits against the wall of the cabin covered in big
+fluffy pillows while soft rugs partly cover the hard wood floors. A couple of
+oversized chairs with faded cushions sit in another corner of the porch with a
+small table between them and beautiful candles sit in a holder waiting to be
+lit when night falls. The peace and calm of the porch along with the beautiful
+view often lull you to sleep.  
+~
+3 4194840 0
+D0
+~
+~
+0 0 352
+D2
+~
+~
+0 0 360
+S
+#360
+Inside the Cabin~
+   You stand in the main room of the cabin. Large windows on the far wall let
+in the beautiful sunlight which makes the room shine brightly and seem alive.
+The windows are positioned either side of a large stone fireplace, which is
+made up of a stone harth and a thick black iron grate which holds the logs
+which are burnt in the fire. The carpet is a deep red colour and is the
+thickest and softest carpet that you have ever felt beneith your feet. You
+feel you could lie down on it in front of the fire and fall fast asleep. 
+Various funishing adorn the room, all look slightly worn and lived in. A deep
+oak desk stands against the east wall with some wooden shelves above it, upon
+them various plants and pictures. Another oak coffee table sits in the middle
+of the room for people to sit around and place thier drinks on after a hard day
+out in the valley.  
+~
+3 4194376 0
+D0
+~
+~
+0 0 359
+D1
+~
+~
+0 0 361
+D2
+~
+~
+0 0 363
+D3
+~
+~
+0 0 362
+S
+#361
+A Small Kitchen~
+Small but still roomy, this kitchen has a small table for meals, a fridge and
+wood stove and plenty of counter and cupboard space. Many mornings are spent
+in here watching the sunsets start off a new day filled with happiness and
+quiet times. A little pantry sits off to the side filled with canned and dried
+foods in case Zeus plans to spend the weekend here. Plants sit neatly
+on the window sill providing colour and beautiful scents from their flowers. 
+
+~
+3 1560 0
+D3
+~
+~
+0 0 360
+S
+#362
+The Bedroom~
+The bedroom in the Cabin is quite small but is cosy. On the west well a long
+drawn out window made up of smaller glass pannels. The bed sits against the
+east wall facing the window, allowing you to lay there to watch the stunning
+sunets that make everything in the valley shine with reds and oranges. The
+floor is made up of polished oak blocks with various rugs scattered about to
+stop your feet getting cold as you get out bed. Several pictures have been
+hung on the wall, showing various animals, and sceans throughout the valley. 
+The room is lit by a small chandeleer type light which hangs just above the
+bottom of the bed.  
+~
+3 4194520 0
+D1
+~
+~
+0 0 360
+D2
+~
+~
+0 0 365
+S
+#363
+A Hallway~
+Sun filled and abound with plants the hallway leads you to the bathroom which is elegant but still cozy enough for this little cabin.
+~
+3 1560 0
+D0
+~
+~
+0 0 360
+D2
+~
+~
+0 0 364
+S
+#364
+The Bathroom~
+In the corner of the bathroom stands a quarter circle bath, just enough for two
+people to lie in and relax it the hot, steamy and soapy water. A small frosted
+window on the far wall lets in the sunlight which brightens the room up during
+the day. A small sink stands on the opposite side of the wall made from the
+finest white marble with polised gold taps.
+~
+3 4194380 0
+D0
+~
+~
+0 0 363
+D3
+~
+~
+0 0 365
+S
+#365
+The Closet~
+This closet is quite small and is only meant to hold a few clothes just enough
+for a week or two weeks break away from home. A small door leads into the
+bathroom to the East, and to the south is the bedroom.  
+~
+3 4194376 0
+D0
+~
+~
+0 0 362
+D1
+~
+~
+0 0 340
+D3
+~
+~
+0 0 366
+S
+#366
+An Unfinished room~
+An Unfinished Room
+~
+3 0 0
+D1
+~
+~
+0 0 370
+D3
+~
+~
+0 0 367
+S
+#367
+An Unfinished room~
+An Unfinished Room
+~
+3 0 0
+D1
+~
+~
+0 0 366
+D2
+~
+~
+0 0 368
+S
+#368
+An Unfinished room~
+An Unfinished Room
+~
+3 0 0
+D0
+~
+~
+0 0 367
+D2
+~
+~
+0 0 369
+S
+#369
+An Unfinished room~
+An Unfinished Room
+~
+3 0 0
+D0
+~
+~
+0 0 368
+S
+#370
+An Unfinished room~
+An Unfinished Room
+~
+3 0 0
+D1
+~
+~
+0 0 340
+D3
+~
+~
+0 0 366
+S
+$~

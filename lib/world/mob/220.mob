@@ -1,0 +1,88 @@
+#22000
+balrog small~
+a small balrog~
+A small winged balrog is here gazing at you with demonic red eyes
+~
+The Balrog is a winged creature with eyes which seem to pervade your being
+and tear your soul apart.
+~
+1608 0 -100 E
+40 -10 -2 2d700+200 2d70+40
+20000 275000
+8 8 1 1
+E
+#22001
+balrog winged elder~
+the Elder Balrog~
+The Elder Balrog is here...gnawing happily on your body.
+~
+Well hes trying to consume you, bones and all. Yuck.
+~
+2152 8 -150 E
+44 -20 -2 3d400+150 3d50+50
+50000 400000
+8 8 1 1
+E
+#22002
+balrog winged grand~
+the Grand Balrog~
+The Grand High Balrog is here, kicking your ass
+~
+Hes umm, killing you
+~
+2152 136 -200 E
+52 -30 -20 3d1000+300 5d40+50
+100000 900000
+8 8 2 1
+E
+#22004
+slave human chained~
+a human slave~
+A human slave is chained to the wall here.
+~
+He looks pretty pathetic, maybe you should end his misery
+~
+14 0 50 E
+20 5 0 2d300+100 2d30+20
+4000 100000
+8 8 1 1
+E
+#22005
+kerjim lord evil~
+Kerjim~
+Kerjim, lord of the balrogs sits here on his throne.
+~
+His wings spread throughout the room blocking some exits, his demonic red
+eyes glow as red as blood. He looks very angry.
+~
+2090 136 -50 E
+75 -30 -20 10d1000+2000 2d100+50
+10000 500000
+8 8 0 1
+E
+#22006
+lilith~
+Lilith~
+Lilith stands here in all her magnificence.
+~
+She is extremely beutiful, with glowing gold hair cascading down her
+shoulders, adorned with precious jewlery from all over the cosmos.
+~
+18474 136 30 E
+75 -30 -4 3d300+300 3d50+50
+10000 350000
+8 8 2 1
+E
+#22007
+corpse undead zombie~
+the corpse~
+The Undead Corpse is here, attempting to persuade you to join the living dead
+~
+Hes just a rotted corpse, with gangly ripped arms and a detachable head
+~
+42 8192 -500 E
+50 -30 -3 3d700+200 30d70+50
+40000 400000
+8 8 0 1
+E
+$

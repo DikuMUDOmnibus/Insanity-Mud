@@ -1,0 +1,30 @@
+#4900
+imajew warrior~
+Imajew~
+The First Warrior, Imajew, stands here.
+~
+Imajew is about 2 feet tall and hovers in the air at about chest height. He
+looks like some sort of insect, and is surrounded by a dull blue glow.  
+~
+57386 8519680 100 E
+30 -80 5 1d2+1000 10d5+10
+700 70000
+8 8 1 5
+BareHandAttack: 9
+E
+#4901
+Patton~
+Patton~
+The Second Warrior, Patton, awaits battle.
+~
+Patton is a large, lumbering creature with a greenish-tinted skin. He has
+shreds of leather hanging from his skin, and looks prepared to take on the
+world.  
+~
+122890 0 -20 E
+35 10 7 10d7+700 10d5+20
+10 70000
+8 8 1 2
+BareHandAttack: 6
+E
+$

@@ -1,0 +1,322 @@
+#500
+black cube~
+a black cube~
+A harmless looking small black cube~
+devastation
+~
+5 65551 8193
+0 2 10 5
+10 1500000 0 0 0
+A
+18 5
+A
+19 5
+#501
+pass golden~
+a golden lift pass~
+A golden lift pass with a picture of the sun on it~
+you insert the lift pass into a small crevice in the wall
+~
+18 0 1
+0 0 0 0
+1 0 0 0 0
+#502
+Sacrificial knife~
+a knife~
+A carefully guilded intricately carved knife lies here.~
+~
+5 13056 24577
+2 2 3 14
+9 10000 0 0 0
+A
+2 3
+A
+6 2
+A
+1 -5
+A
+4 -2
+#503
+golden helmet~
+a bright golden helmet~
+A helmet with a picture of the sun carved on it is here~
+It shines extremely brightly
+~
+11 137 17
+0 0 0 0
+10 1000 0 0 90
+A
+5 2
+A
+12 25
+A
+17 -10
+A
+18 10
+A
+13 -25
+#504
+canoe~
+a barkskin canoe~
+A barkskin canoe floats gently in the water.~
+Nothing.
+~
+22 2162696 1
+0 0 0 0
+15 100 0 0 0
+#505
+Goblin lamp~
+a lamp~
+A Rough goblins lamp with blue flame is here~
+~
+15 68102 16385
+0 0 -1 0
+100 0 0 0 0
+A
+2 -2
+A
+18 -2
+A
+19 3
+A
+13 -15
+A
+12 15
+#506
+key~
+a large old key~
+A large oaken key lies here~
+~
+18 0 1
+0 0 0 0
+4 0 0 0 0
+#507
+Goblin sword~
+a short barbed blade~
+A short barbed goblin sword is stuck in the ground here.~
+The blade looks like it will do LOTS of ripping.
+~
+5 71705088 24577
+-2 6 5 3
+9 15000 0 0 0
+#508
+one ring silver~
+the One ring~
+The magical 7th ring of Mordor~
+~
+11 97 3
+0 0 0 0
+1 50000 0 0 0
+A
+12 10
+A
+4 1
+A
+9 -1
+#509
+Important sign~
+an old important looking sign~
+There is a bouy floating here with a large important looking sign on it~
+It bobs about on the water looking important
+~
+16 0 0
+0 0 0 0
+100 0 0 0 0
+E
+sign buoy~
+Welcome to the Realm of MORDOR traveller!
+I doubt if you will be lucky enough to escape my caverns with your life.
+If you can find your way then you are indeed blessed by the gods, for they
+as it is will not be able to hear your cries of pain in these deep caverns!
+If you came by one of my boats, I suggest you hurry for they will not last.
+One last warning - Don't forget the exit key, or you'll never leave!
+
+The Goblin King.
+Ruler of all Mordor
+~
+#510
+Goblin whip~
+a lacerating goblin whip~
+A dark goblin whip with razor sharp edges and small hooks is here.~
+~
+5 0 26625
+1 4 4 10
+6 12000 0 0 0
+A
+4 -2
+A
+4 -2
+A
+2 3
+#511
+Razor claws~
+Razor claws with razor blade edges~
+Some long razor like claws glint evilly at you.~
+~
+9 8704 129
+-4 0 0 0
+3 7000 0 0 0
+A
+7 -25
+#512
+The treasure trove~
+More treasure than you could imagine~
+There is treasure of every description in this mountain.~
+~
+20 32 1
+10000 0 0 0
+0 0 0 0 0
+#513
+strip~
+a strip of tiger skin~
+A strip of tiger skin lays here.~
+~
+11 2951176 262145
+0 0 0 0
+1 1000 0 0 80
+A
+13 25
+A
+3 2
+A
+5 2
+A
+1 2
+A
+19 2
+A
+25 -25
+#514
+sacred~
+a sacred ankle bracelet~
+A Sacred Ankle Bracelet made out of the finest gold lays here glittering in the dust.~
+~
+11 6399016 524289
+0 0 0 0
+5 20000 0 0 50
+A
+2 2
+A
+6 2
+A
+25 25
+A
+5 2
+A
+13 -25
+A
+1 2
+#515
+tentacle~
+a Kraken tentacle~
+A long and winding Kraken tentalce has been left here~
+~
+5 512 8193
+0 20 20 2
+0 0 0 0 40
+A
+19 5
+A
+25 20
+#516
+beads inca~
+some inca hair beads~
+Some hair beads have been discarded and left in the dirt on the floor here.~
+~
+11 192 262145
+0 0 0 0
+2 4000 2 0 40
+A
+4 2
+A
+17 -4
+A
+18 1
+A
+5 -1
+#517
+earings inca~
+some inca earings~
+Some earings from what looks like a strange land have been left here.~
+~
+11 32832 65537
+0 0 0 0
+1 0 0 0 0
+A
+6 1
+A
+24 -3
+A
+20 -1
+#518
+mask~
+an Inca Witchdoctor Mask~
+A wooden mask with strange markings has been left in the dirt.~
+~
+9 16928 32769
+25 0 0 0
+4 10000 0 0 35
+A
+6 1
+A
+18 5
+A
+5 1
+#519
+staff inca~
+the Witchdoctor's staff~
+An odd looking staff with the head of a skull on one end lies here.~
+~
+4 0 16385
+60 20 20 52
+5 40000 0 0 80
+#520
+blow pipe blowpipe~
+an inca blowpipe~
+A small and strangly decorated wooden pipe looks like it has been left here.~
+~
+6 0 24577
+0 0 3 3
+1 1000 0 0 10
+#521
+arrows~
+some inca blowpipe arrows~
+Some arrows which look like they would go in a blowpipe have been left here.~
+~
+7 0 1
+0 0 0 3
+1 40 0 0 0
+#597
+lamp~
+a Lamp~
+A small lamp sits here.~
+~
+1 67 1
+0 0 500 0
+5 500 0 0 0
+#598
+gun test~
+Test weapon~
+This is a test weapon - You'd better leave it alone if you are Mortal!~
+~
+5 12 8193
+0 1 1 1
+0 0 0 0 0
+A
+17 -100
+#599
+Test object~
+Test armor~
+Test armor~
+If you are a mortal player you'd better get rid of this quick!
+~
+11 12 9
+0 0 0 0
+1 0 0 0 0
+A
+9 4
+A
+18 20
+A
+19 15
+$~

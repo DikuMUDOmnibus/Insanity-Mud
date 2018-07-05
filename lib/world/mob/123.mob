@@ -1,0 +1,483 @@
+#12300
+Goddess Eris~
+Eris, the Goddess of Discord~
+Eris, the Goddess of Discord stands here, smiling in a friendly sort of way.
+~
+Eris is so beautiful that merely looking at her takes your breath away. She
+looks at you in a way that is both terrifying and friendly at the same time.
+~
+253978 622754 0 E
+60 -30 -13 30d10+12000 10d10+50
+5000 1000000
+8 8 2 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12301
+Hagbard Celine~
+Hagbard Celine~
+Hagbard Celine, the famous explorer, sits here in the Lotus Position.
+~
+Hagbard is about 30 years old, but he looks a little younger than that. He has
+rakish good looks; you can see why he is well known as a lady-killer. 
+~
+10522 0 0 E
+40 -50 -10 12d80+5000 6d10+85
+10000 500000
+6 8 1 2
+BareHandAttack: 12
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12302
+First Class Illuminatus~
+the First-Class Illuminatus~
+A First-Class Illuminatus Stands here, trying to decide whether to kill you now, or later.
+~
+THis particular Illuminatus is low-level. his eyes gleam as only a fanatic's
+eyes can. 
+~
+7752 0 -100 E
+10 15 5 1d1+1400 4d20+5
+0 50000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12303
+Simon Moon~
+Simon Moon~
+Simon Moon, the world-renowned anarchist stands here, trying to escape.
+~
+Simon is about 25 years old, and has an incredible amount of facial hair. His
+beard must be at least two feet long! He shows signs of having been beaten up.
+~
+190730 32896 0 E
+40 -80 2 1d99+6800 12d60+10
+10000 400000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12304
+Malaclypse Younger Greg Hill~
+Malaclypse the Younger~
+Malaclypse the Younger is here, trying to help Simon Moon escape.
+~
+Malaclypse the Younger looks like a regular guy, but don't let his looks fool
+you. He's one of the greatest champions of Discordia.
+~
+256266 36992 0 E
+45 -15 -5 16d1+12000 16d80+50
+200000 750000
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12305
+harry coin~
+Harry Coin~
+Harry Coin, the infamous assassin stands here, ready to kill you for looking at him funny.
+~
+Harry is about 40 years old, and has seen the very worst of human nature.
+He has a reputation as a cold-hearted killer, and looking at him, you can
+believe it...
+~
+26744 1310914 0 E
+40 -30 -5 1d1+10000 30d70+15
+50000 500000
+8 8 1 1
+BareHandAttack: 12
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12306
+Illuminated Seer Bavaria~
+the Illuminated Seer~
+An Illuminated Seer of Bavaria stands here, looking for souls to steal.
+~
+This man has spent years learning the dark arts, in order to gain power for
+his own selfish ends, and for the Bavarian Illuminati. He will stop at nothing
+to gather the precious life-energy of others.
+~
+260154 41088 -800 E
+30 -5 -2 1d1+10000 10d80+25
+20000 400000
+7 7 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12307
+reflection me myself~
+You~
+A reflection of you is here, doing whatever you do.
+~
+It looks just like you.
+~
+256026 0 -300 E
+10 10 2 1d1+2000 8d100+25
+0 100000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12308
+reflection me myself~
+You~
+A reflection of you is here, doing whatever you do.
+~
+It looks just like you.
+~
+260122 65536 -1000 E
+60 -55 -10 1d1+30000 30d100+100
+10000 2000000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12309
+bubble monster~
+the Bubble Monster~
+A cloud of bubbles is floating here.
+~
+The Bubble Monster is a loose group of bubbles that is virtually invisible, 
+due to the transparency of the bubbles. 
+~
+239674 1618082 0 E
+40 10 10 1d1+8000 12d80+30
+10000 400000
+8 8 0 1
+BareHandAttack: 12
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12310
+Cthulhu~
+Cthulhu~
+Cthulhu, one of the greatest of the Elder Gods sits here, feeding off of the ambient energy that the vortex gives off.
+~
+What little you can see of Cthulhu before you turn away and vomit is hideous.
+He looks like the offspring of an octopus and a bicycle.
+~
+256026 21071036 -1000 E
+60 -30 -10 1d1+30000 30d100+50
+0 10000000
+6 8 0 4
+BareHandAttack: 9
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12312
+fire demon~
+the tiny little fire demon~
+A tiny little fire demon scurries around here, cackling evilly.
+~
+The fire demon looks like a litte red man, with horns.
+He's a horny littler devil!
+~
+6684 0 -500 E
+20 20 -10 1d1+4000 8d80+10
+1000 100000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12313
+huge fire demon~
+the huge fire demon~
+A HUGE fire demon towers over your head, overseeing the tiny fire demons.
+~
+You don't want to look at the huge fire demon. It's too frightening.
+~
+260122 12416 -1000 E
+40 -5 0 30d30+6666 16d64+25
+10000 300000
+8 8 0 2
+BareHandAttack: 12
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12314
+grayface old man~
+Grayface~
+A little old man cowers here.
+~
+Grayface doesn't LOOK very menacing, but he is one of the most powerful evil
+beings in the entire world! Approach him at your peril!
+~
+256058 21037184 0 E
+60 -30 -20 1d1+20000 16d100+50
+50000 1000000
+6 8 1 3
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12315
+eye~
+tHE EYE~
+THE EYE of chaos opens and closes disconcertingly...
+~
+To look into THE EYE is to go utterly mad. 
+Don't do it.
+~
+129082 32896 -1000 E
+50 20 0 16d20+16000 2d10+0
+0 1000000
+8 8 0 1
+BareHandAttack: 12
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12316
+bolt living lightning~
+the living lightning~
+A bolt of living lightning streaks past you.
+~
+It's too fast to look at properly.
+~
+241722 131072 0 E
+10 -40 -5 1d1+1 24d100+10
+0 100000
+8 8 0 1
+BareHandAttack: 11
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12317
+disciple eris~
+a disciple who is stoned out of his gourd~
+A disciple sits here, stoned out of his gourd.
+~
+Pupils dilated...  No coordination...  Strange muscle spasms...  Mumbling "oh,
+like *yeah*, man" and "groovey" under his breath....  Yep...  He's been hitting
+the bong a little hard...    
+~
+10 0 0 E
+1 20 10 1d1+0 1d1+0
+0 0
+6 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12318
+disciple eris~
+a disciple tired out from a day of exhausting sexual activity~
+The disciple of Eris
+~
+Pupils dilated...no coordination...strange muscle spasms...mumbling "oh, like
+*yeah*, man" and "groovey" under his breath....yep...she's been having a little
+*too* much kinky sex...
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+5 8 2 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12327
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0 1
+E
+#12340
+Jerry Garcia~
+Jerry Garcia~
+Jerry Garcia stands here looking a little stoned.
+~
+He looks like a big happy fuzzy guy.
+~
+253962 65664 1000 E
+66 -100 -20 1d1+30000 30d127+120
+0 0
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12353
+zen master gentleman~
+a Zen Master~
+You see a very stable gentleman in loose-fitting clothes before you.
+~
+This is an awesome looking dude that seems to be perfectly balanced.
+It is highly recommended that you don't mess with him.  He has an excellent
+memory and he reacts strongly to things being out of balance.
+~
+170014 1945678 0 E
+50 -30 -15 30d100+9999 30d100+50
+100000 900000
+8 8 1 10
+BareHandAttack: 7
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12354
+puma cat eyes~
+a jet-black puma~
+From the shadows, pair of yellow eyes are fixed on you!
+~
+It's long, sleak, sharp, hungry, and angry!  Are those fangs?!?!
+~
+24684 787498 0 E
+5 18 -2 6d6+20 2d6+3
+0 30000
+8 8 1 1
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12396
+eric~
+Eric~
+Eric stands here straight from the shower. He's buck naked!
+~
+Shame on you for looking, you pervert! 
+It *is* a rather nice sight though.
+
+
+
+
+
+
+
+....a sight you shouldn't be looking at! Avert your eyes!
+~
+8 0 0 E
+66 20 10 1d1+100 1d1+0
+0 0
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12397
+gorrilla~
+the small hairy monkey~
+A small hairy monkey stands here laughing at you.
+~
+Well...it's more intelligent AND it's better looking than you.
+~
+8 0 0 E
+65 20 -10 1d1+100 1d1+0
+0 0
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#12399
+Evil Man~
+EVIL MAN!~
+EVIL MAN!!!!!!
+~
+EVIL MAN!!!!!!
+~
+8 0 0 E
+40 20 10 1d1+1 1d1+0
+0 0
+8 8 1 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+$

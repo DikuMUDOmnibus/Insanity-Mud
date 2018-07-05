@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "Purging $1"
+cd $1
+../../../bin/delobjs ../../etc/players *.alias >> /dev/null
+cd ..

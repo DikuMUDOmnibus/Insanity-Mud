@@ -1,0 +1,441 @@
+#1400
+The Entrance to the Temple of Insanity~
+   In front of you is one of the largest and strangest complexes you have ever
+seen. There are odd towers and minarettes punching the skyscape and you get
+the distinct feeling that there is a subsantial subterranian complex below as
+well. Some parts of building are eternally stuck in darkness and others are
+bathed eternally in golden light (from where you are standing the golden light
+could be honey for all you know). The temple gives you the impression that
+most of it has been built as needed and each bit radiates the personality of
+each God.  
+
+All of this would be most impressive if there wasn't a tacky blinking neon
+sign proclaiming "\c09The Temple of the Gods of Insanity\c00" and a slightly
+smaller one below it stating "\c11Worship Us\c00". The majestic doors are open and
+you can here faint strains of music coming from inside.
+
+~
+14 131264 0
+D0
+To the Main Foyer ... the Fun and InSAniTy begins there ...
+~
+door gates~
+1 0 1401
+S
+#1401
+The Main Foyer of the Temple of Insanity.~
+   Finally, you have managed to get inside the "place to be". You are in with
+the Gods, Immortals and other awe-inspiring beings. This main foyer is
+everything you were hoping for ... There is obscene decadence showing through
+everywhere. The entire foyer seems to be carved out of a single block of
+marble. There are lounges that look exquisitely comfortable even from a
+distance. Then it hits you, the entire foyer is empty. Shouldn't someone be
+greeting you and offering to show you around.  
+
+Just then you notice that there is a sign on one of the lounges, it must be
+important considering where you are.
+
+~
+14 131072 0
+D0
+Remember ... look at all the exits =) ... amusing and helpful info 
+is all there. Oh and try and look out of extra room descriptions .. enjoy!
+~
+~
+0 0 1402
+D2
+why do you want to leave??? it is fun here.
+~
+door gates~
+1 0 1400
+S
+#1402
+The Main Hallway of the Temple of Insanity~
+   This Hall seems to stretch endlessly off into the distance, at some points
+it looks like gravity has been skewed to make loops and strange twists. You
+presume it was some sort of Godly battle or just some strange whim for
+something completely different. There are many mementos lining the walls of
+strange conquests and battles. The most bizarre of these close to hand is a
+man who is nail to the wall, upside- down, by his testicles, with rusty nails.
+As you are considering the strange (and painful) nature of this torture, the
+man turns his head and says, "Oi, new here aren't you?! I'd be careful on the
+stairs if I were you. They are a bit ... Umm ... Well, active at this time
+of year! " You wander off slightly dazed and confused, marvelling at his
+ability to hang there unworried ... And still give out advice.  
+
+~
+14 131072 0
+D0
+   This way leads too .... Hey!! Yeah you!! That's a really ugly shirt
+you're wearing!! ... *sniff* when was the last time you showered, go clean up
+before you play this Mud! *mutters something about dirty Mortals*
+~
+~
+0 0 1405
+D1
+You smell COFFEE ... and  *sniff* *sniff* FOOOOOOD
+~
+~
+0 0 1403
+D2
+Oi ... the fun is the **OTHER** way ... go check it out!!!
+~
+~
+0 0 1401
+S
+#1403
+The Kitchen of the Gods~
+   Expecting feast of God-like proportions and exotic food everywhere, you are
+disappointed when the kitchen is rather bare. The only remains of what must
+have been a glorious sight is a fridge, a table, a crusty sandwich and a coffee
+machine. There seems to be a faint glow coming off the coffee machine as well.
+You would imagine that in better times that this kitchen would be a sight to
+behold, now you think that it could do with a good coat of paint. Obviously
+the renovations have yet to begin here.  
+~
+14 131072 0
+D1
+   Into the cold, dark depths of the fridge ... You never know ... There
+could be some sort of treasure in there ... Maybe there is only lettuce too.
+ 
+~
+fridge door~
+1 0 1404
+D3
+Back to the bizarre main hallway ... it is still safe to walk there ... sort of
+~
+~
+0 0 1402
+E
+coffee coffee~
+   This machine is a wonder of technology and magic combined. It blends the
+coffee perfectly, it reads your state of mind and makes the coffee to suit you
+immediate needs and it even makes a truly awesome drink of tea. Witness
+perfection at its best.  
+
+    This also means that there are God-like beings around here still .. 
+would you leave this machine lying about?? =)
+~
+S
+#1404
+In the Fridge of the Gods~
+   The first thing you notice in here is that it is bloody cold. The other
+thing you notice (besides the left-over vegetables and other unrecognizable
+stuff) is that you are not alone in here. Right at the back of the fridge on
+some meat hooks are some players that you thought had left the Mud a long time
+ago. It looks like they got frozen by a pissed off God and no-one has bothered
+to unfreeze them. Maybe if you have a closer look you could recognize them. 
+
+~
+14 131296 0
+D1
+A dark step into a temporal anomaly ... do you really want to go?
+~
+door secret fenfen~
+3 0 1411
+D3
+COFFEEEEEE ... you can smell glorious caffine snaking thru the air to you.
+~
+fridge door~
+1 0 1403
+S
+#1405
+The Main Hallway of the Temple~
+   Colourful banners depicting everything imaginable line the walls here. 
+There are fanciful scenes of strange landscapes, there are many images of
+battles, conquest, raunchy sex scenes and wild parties. Obviously the Gods and
+Immortals around here have a lot of fun. In one truly peculiar image you can
+see countless millions worshiping a pair of pink bunny slippers that seem to
+glow with immense power. You are sure that this must be some sort of abstract
+thought ... There is no way people would worship bunny slippers ... Is
+there??  
+~
+14 131072 0
+D1
+\c05Grapes\c00 ... there are everywhere ... the colour \c12purple\c00 is splashed elegantly everywhere
+~
+~
+0 0 1406
+D2
+Are you a WIMP?? ... Why do you go this way?? ... Onward Ho! Stupi ... erm ... 
+Brave Adventurer!!!
+~
+~
+0 0 1402
+S
+#1406
+The Main Hall of the Temple~
+   Here the hall seems somehow exposed to the outside world. You're not sure
+how, but then again it has to be some sort of magic, considering where you are.
+The walls here are just grape vines. They line the wall letting in streams of
+light making this place seem even more magical. Ripe grapes hang in wards
+creating a beautiful purple mosaic of an everchanging picture. Here the world
+seems to have taken on a purple tint and you are forever changed into the
+belief that \c12PURPLE\c00 is the best of colours and that the world is a much better
+place for it. You notice hundreds of widdle imps tending this grape grove, you
+wonder why they do this for a while then move on with an amused smile.
+~
+14 131072 0
+D0
+Little, tiny, musical voices streams through the air .. could there be fairies in their?
+~
+~
+0 0 1407
+D3
+Is there pink bunny slippers that way???
+~
+~
+0 0 1405
+S
+#1407
+The Main Hall of the Temple~
+   The hall here at first seems to be perfectly simple, plain, undressed stone.
+As you walk in the air comes alive with hundreds of small glitter fairies. 
+The circle around you touching, pinching, laughing, glittering in the magic
+streams of light. Each little fairy has an unearthly beauty about it that both
+repels and attracts you. Kissing you, touching you and causing general
+mischief, the hundreds of tiny fairies crowd around you trying to do some
+esoteric fairy thing, you are not sure what it is and you hope it is not
+harmful.  
+~
+14 131072 0
+D2
+\c05Grapes\c00 ... there are everywhere ... the colour \c12purple\c00 is splashed elegantly everywhere
+~
+~
+0 0 1406
+D3
+Art galore, looks like fun ahead.
+~
+~
+0 0 1408
+S
+#1408
+The end of the Hallway~
+   This room is artfully decorated with beautiful pieces of art. Okay,
+actually the entire area is littered with skeletons with the words "\c01Stupid
+Mortal\c00" carved into each bleached skull. Still, it looks very artful ...
+To immortals. On closer inspection it looks as though each skeleton has been
+visited by violence personified. In fact, you are sure you have seen similar
+destruction before ... Surely they couldn't have unleashed something like
+Sabretooth here ... Just for fun. They wouldn't do that to mortals would
+they?.  
+~
+14 131072 0
+D0
+This is NOT ... I repeat NOT the correct path ... you WILL die going this way. (take a hint)
+~
+~
+0 0 1409
+D1
+Ooooh safety this way, O scared and puny One.
+~
+~
+0 0 1407
+S
+#1409
+The STAIRS!!!!!~
+   The stairs in front look \c07dark \c00and \c07gloomy\c00 and very, very
+menacing. With worn out and dangerous \c08red carpet\c00 that looks like a
+death trap waiting to happen. You wonder if this is the right way to
+go to get to the next level of this building. When the tatty \c08red
+carpet\c00 starts to move on its own accord, and the dangerous looking steps
+grow salivating \c15fangs\c00, your are pretty sure you are in trouble. You
+are not meant to go this way, and you wonder if you can make it out of here in
+one piece.  
+~
+14 131072 0
+D2
+Run now ... or you WILL die ... trust me ...
+~
+~
+0 0 1408
+D4
+ooooh ... look at the tatty carpet, and those big holes. Those steps look a little uneven ... nasty.
+~
+~
+0 0 1410
+S
+#1410
+On the Stairs.~
+So! You killed the mean and nasty stairs. Funnily enough, the stairs have 
+the last laugh. The tatty and treachous carpet, combined with the uneven 
+steps (And let us not forget ... the dirty great big, nasty holes put it in
+by some adventurer who just recently killed it ... I wonder who that could've
+been???) have made this route deadly. As you make it about 3/4 of the way
+one step collapses under your weight and sends you falling down a very, 
+very, very long way.
+
+
+
+Down,
+
+
+
+down, down,
+
+
+
+down, down, down,
+
+
+
+
+down, down, down, down, down
+
+
+
+.... into a huge pit of its incredible powerful stomach acid. As
+you are being digested, you think you should have noticed all
+the warnings .... oh well, better luck in the next life. *grins*
+~
+14 131074 0
+S
+#1411
+The Sneaky Passage~
+   Hidden behind the rancid lettuce and the sentient yoghurt is a small passage
+way. Obviously some Immortal needed a short cut to the desserts and hid this
+here. You ponder how safe this short cut is.  
+
+~
+14 131072 0
+D3
+Back to a reality ... you hope.
+~
+door wormhole galaxyclassstarship secret~
+3 0 1404
+D5
+*\c12WeeeeeEEEEEEE\c00*
+~
+~
+0 0 1412
+S
+#1412
+A Slow Spiral Down into nothing~
+   Three steps into this place you hear an ominous *\c09CLICK\c00* and the
+stairs all collapse to form some sort of slide. Promptly you lose your footing
+and start hurtling down to your next destination with alarming speed. You are
+hoping in doesn't end up in a brickwall. On your way down you enjoy the
+swirling hyperspace patterns and the wierd designs of various alien spacecraft.
+You wonder where they are off to.  
+
+~
+14 131072 0
+S
+#1413
+A Huge Bowl of Grapes and Vanilla Beans~
+\c01*\c02-------------------------\c01S\c02--\c01P\c02--\c01L\c02--\c01A\c02--\c01T\c02-------------------------\c01*\c00
+You land in a HUUUUUGEEE bowl of grapes and Vanilla Beans, crushing
+about half the fruits that lets of a suprisingly beautiful aroma. In fact, you
+are sure that it smells sooo delicious that you must eat some of the fruit
+around you. As you are chomping happily you realize that you are not alone in
+this fruit bowl. In fact, you are certain that you can feel at least a dozen
+sets of eyes upon you. You look around you and you can see a bunch of mean
+looking grapes and some vampiric vanilla beans. You look down at the fruit you
+have squashed and eaten and then look back up at menacing fruit before you. 
+You are certain that they are not going to be friendly as you have consumed
+some of their relatives and squashed the rest of them.  
+~
+14 131072 0
+S
+#1414
+An Ugly Scene~
+You stand in the wreckage of the bowl. About you lies fruity bits
+and juice is dribbling down the walls. The foul denizens of this
+evil fruit bowl have been squashed ... and shredded .. sliced and diced.
+What a great blender you would make.
+~
+14 131072 0
+D4
+Up into the fruit salad of death
+~
+~
+0 0 1413
+S
+#1415
+The Super Extra Secret Back Door~
+Well done! You are verily a paragon of sneakosity!!! You have found the nigh
+mythical \c02Back Door\c00 to the glorious High Temple of the Gods of Insanity.
+This part of the Temple is the \c01exclusive\c00 residence of the the Higher
+Immortals and Implementors. Here foul and strange experiments are performed
+... And also copious amounts goofing off.  
+
+Be warned ... this area is ... \c01w\c02i\c03e\c04r\c05d\c00!
+~
+14 131072 0
+S
+#1416
+A Hall of Wierd Perception~
+Space is warped here ... The 3 dimensional world you are used to has been
+blasted into strangeness. There are doors in cielings and walls without any
+support. You can see a set of stairs that just meanders into a strange little
+black dot but you can't see where it starts or finishes. It seems that the
+universe decided that it had enough here and just randomly created things
+everywhere.  
+
+Now ... you would be happy if you could just figure out how to get off this wall.
+~
+14 131072 0
+S
+#1417
+A Wall of Wierd Perception~
+After much vertigo and totally mind altering perception shifts, you finally
+accept the inevitable, the wall really is the floor here. For some nigh
+unknown reason gravity has decided on being arbitary. You dropped a cold coin
+and watched with a shiver as it fell at a great speed to the "floor" and yet
+your feet are stuck firmly to the wall. Wishing you had some alcohol, so you
+could plaster your mind into *\c02not\c00* spinning out everytime you take a
+step, you carefully stroll across this mighty wall.  
+
+Now, if only you could convince your backpack that the wall
+is the direction of gravity and not the floor ...
+~
+14 131072 0
+S
+#1418
+Along the Wall of Wierd Perceptions~
+As you are casually strolling along the wall, with every part of your mind
+rebelling at the fact the gravity is now arbitary and when will it arbitarily
+decide to move somewhere else. You come across a wide circular hole in your
+direct line of movement. It seems to be so sort of entrance to a room, almost
+like an airlock of some sort. Then finally it dawns on you, each of the Gods
+and Imms must have had a seperate personal home to live in. You also realize
+that some of them could be quite dangerous to mere mortals.  
+
+At the last moment you wonder which direction gravity is pulling
+and wonder if it is at all wise to leap in.
+~
+14 131072 0
+S
+#1419
+Down the Wall of Wierd Perception~
+You decide that since gravity is slightly in your favour at the moment, any
+direction is as good as another and you walk in a vaguely "down" direction. 
+"Down" being a relative term from where you are looking at, and for you the
+term down is confusing your poor mind. Your mind shies away from such worrying
+philosophical tangents, and you begin to look around to occupy your mind. It
+is then you notice that the seems to be strange objects on every surface. 
+Books of normal size, up to forks of truly awe-inspiring dimensions. You
+shiver at the warping of space that has happened here.  
+
+As you resolve to walk onwards and ignore the strangeness you
+notice a small door at your feet, obvoiusly leading to another
+strange place.
+~
+14 131072 0
+S
+#1420
+Up the Wall of Wierd Perceptions~
+Confidently, you walk up the wall in this place of freaky space warping. With
+barely a care that gravity will come down off its LSD trip and reassert its
+dominence of this area of space, you stride up towards a super huge fork that
+is "leaning" against the "ceiling". As this image sinks into your mind, you
+start to doubt your sanity, and your eyes. Never-the-less, your devil-may-care
+attitude, leads yout step onto the prongs of this enormous piece of cutlery. 
+As soon as you do, gravity does a flip-flop ... And so does your stomach. So
+as you start sliding down the fork your stomach decides that this will be the
+perfect time to vomit. This can't be good.  
+~
+14 131072 0
+S
+$~

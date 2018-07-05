@@ -1,0 +1,7 @@
+mv *.obj obj/
+mv *.mob mob/
+mv *.zon zon/
+mv *.wld wld/
+mv *.shp shp/
+
+echo done...

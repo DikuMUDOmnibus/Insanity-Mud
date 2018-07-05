@@ -1,0 +1,315 @@
+#2000
+Wolverine Logan~
+Wolverine~
+Wolverine is standing here.
+~
+He is a very powerful man who, would make a great friend but would also make a
+very bad enemy. You don't want to get on the wrong side of him.  
+~
+244056 37848200 0 E
+95 -80 -20 0d0+30000 30d110+100
+50000 2000000
+8 8 1 10
+BareHandAttack: 3
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#2001
+Apocalypse~
+the Ancient Apocalypse~
+The mighty Apocalypse towers before you, he eyes you with a cold calculating stare.
+~
+The mighty apocalypse is one of the hardest people around, he is also the
+epitome of evil. I advise you to tread carefully around him, as he might just
+kill you if you annoy him.  
+~
+239738 62988448 -1000 E
+105 -80 -20 30d100+30000 30d127+100
+50000 3000000
+8 8 0 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#2002
+Beast Hank McCoy~
+Beast~
+A big blue hairy monster stands before you.
+~
+Beast looks much like a gonk, in many respects.  He has bright blue fur, and
+extremely large feet.  This however, does not mean that he is stupid.  In fact
+far from it, he is probably the cleverest of the X-Men.    
+~
+69960 2129952 200 E
+90 -60 -15 1d1+15000 20d80+90
+0 400000
+8 8 1 6
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#2003
+Sentinel metallic humanoid~
+Sentinel~
+A large metallic, humanoid towers above you, searching for the mutant scum.
+~
+It imposes a rather dominant figure, which would scare even the hardiest of
+adventurers half to death!!  
+~
+241736 65592 -300 E
+70 -50 -10 30d50+9000 15d35+80
+0 200000
+8 8 0 3
+BareHandAttack: 12
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#2004
+Cyclops Scott Summers~
+Cyclops, Leader of the X-Men~
+Cyclops stands before you ever vigilant for the tyrannic Apocalypse.
+~
+As the Leader of the X-Men Cyclops has many responsibilities, which show in his
+face. He keeps his eyes covered with a ruby quartz to prevent the energy
+blasts from hurting innocent people.  
+~
+225352 33574944 500 E
+97 -75 -10 30d200+14000 20d95+80
+50000 400000
+8 8 1 5
+BareHandAttack: 12
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#2005
+Ororo storm ~
+Storm, Leader of the Gold Team~
+Ororo Munroe, beloved leader of Gold Team
+~
+She is a tall woman, with a very athletic body.  Strangely her hair is
+completely white, despite the fact that she is only in her mid-twenties.  Her
+eyes are completely white, drawing you in.  Be careful, she is a powerful Lady,
+and not to be messed with.    
+~
+69640 131104 1000 E
+93 -30 0 30d90+20000 30d90+70
+0 300000
+8 8 2 6
+BareHandAttack: 12
+E
+#2006
+Jubilee Jubilation ~
+Jubilation Lee~
+Jubilation stands here looking for something to do.
+~
+Jubilee is a young girl of fifteen, and she shows it in her warped dress sense, and her look of total contempt towards anyone who looks like they will tell her what to do.
+~
+133256 8 300 E
+80 -30 -10 20d90+10000 15d60+60
+30000 500000
+8 8 2 4
+BareHandAttack: 12
+E
+#2007
+Reme Gambit~
+Gambit Member of the X-Men~
+Reme Le Beau stands before you smoking a cigar.
+~
+Gambit is a muscular man, who wears a constant pensive look. He has the look
+of a rogue about him, you could never be sure what he is going to do next. He
+is dressed in his customary long over coat and carrying is pack of cards.  
+~
+8 0 0 E
+90 -60 -18 30d110+25000 25d120+90
+50000 2000000
+8 8 1 5
+E
+#2008
+Banshee sean cassidy~
+Banshee~
+Banshee, member of the X-Men
+~
+Sean is a tall man, with a distinct look of the Emerald Isle about him. He is
+dressed in a green all-in-one suit. Despite the terrible colours, he actually
+looks rather dashing. Maybe it is his smile that pulls it all off.  
+~
+76040 131108 500 E
+85 -60 0 30d127+12000 20d80+50
+20000 750000
+8 8 1 7
+E
+#2009
+Jean Gray Pheonix~
+Jean Gray~
+Jean Gray stands quietly in the shadows of your mind.
+~
+Wife of Cyclops, she shares a special bond, which allows them to share each
+others thoughts and fears. Through this she has seen more than she might have
+wanted to. But she still manages to maintain her beauty despite such hardship.
+ 
+~
+194840 52990142 700 E
+95 -60 -10 1d1+15000 15d70+90
+10000 300000
+8 8 2 3
+BareHandAttack: 12
+E
+#2010
+Professor Xavier~
+Professor X~
+The Professor floats before you in his wheel-chair.
+~
+For a crippled man he is pretty mobile. His Wheelchair seems to be able to
+react to his very thoughts. What is even more strange is the lack of wheels
+with which to move around!  
+~
+260104 164004 1000 E
+105 -20 -10 1d1+28500 30d75+80
+10000 450000
+8 8 1 7
+BareHandAttack: 12
+E
+#2011
+Rogue~
+Rogue~
+Rogue of the X-Men stands here.
+~
+One of the more mysterious members of the X-Men, Rogue has stolen many a heart.
+But she unfortunately is unable to return the favour. And has kept them at a
+distance.  
+~
+43272 16908416 300 E
+98 -100 -20 1d1+30000 30d127+120
+10000 800000
+8 8 2 10
+E
+#2012
+American Guard Soldier~
+American Soldier~
+An American Soldier stands guard here.
+~
+Being a member of the United States Army, they are not the brightest of people.
+But what they lack in intelligence they make up for in physical presence.  
+~
+6232 0 0 E
+75 -30 -10 1d1+13000 30d100+90
+0 250000
+8 8 1 3
+BareHandAttack: 12
+E
+#2013
+American Rifleman Soldier~
+American Rifleman~
+An American Soldier wanders around with his rifle ready.
+~
+What sets this man apart from the rest of the Army is that he can hold a gun
+correctly and still manage to walk aswell. It goes to show that even the
+Americans can evolve!  
+~
+6232 0 0 E
+75 -50 -12 1d1+16000 30d110+100
+0 300000
+8 8 1 4
+BareHandAttack: 12
+E
+#2014
+American Captain Soldier~
+American Captain~
+The Captain of the Guards stands here.
+~
+What makes this gentleman different from the ordinary soldier, is that he was
+able to guess the right answers on the entrance exam. He is some ways less
+intelligent than the average grunt, but that is a global constant.  
+~
+6264 0 -200 E
+83 -80 -15 1d1+18000 30d120+120
+0 400000
+8 8 1 5
+BareHandAttack: 12
+E
+#2015
+Magneto ~
+Magneto, Master of Magnetism~
+Magneto the Master of Magnetism, stands here.
+~
+The Master of Magnetism is what they call a powerful man. His ideals may not
+be to everyone's taste, but his convictions are at least unwavering. Even
+without a display of his power he imports on you his ability to tear you in two
+with just a thought.  
+~
+224792 33554464 -200 E
+100 -80 -20 1d1+25000 30d100+95
+10000 600000
+8 8 1 8
+BareHandAttack: 12
+E
+#2016
+Captain America~
+Captain America~
+Captain America stands here practicing with his shield.
+~
+He looks to be working hard, at achieving perfection. He seems to work
+tirelessly practising with his shield.  
+~
+121112 39850172 1000 E
+105 -95 -8 1d1+24500 30d127+90
+0 1000000
+8 8 1 10
+E
+#2098
+Sabretooth~
+Sabretooth~
+Sabretooth, the most vicious being alive crouches ready to pounce!
+~
+A very powerful being indeed.  Don't mess with it!!!
+~
+239672 38056092 -1000 E
+110 -100 -20 0d0+30000 30d127+120
+10000 2000000
+8 8 1 10
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#2099
+unused~
+nothing~
+The Most powerful of all beings towers before you.
+~
+It looks unfinished.
+~
+524298 4358460 0 E
+1 20 20 0d0+0 0d0+0
+0 0
+8 8 0 1
+BareHandAttack: 8
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+$

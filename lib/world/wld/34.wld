@@ -1,0 +1,575 @@
+#3400
+Entrance to Midgar City~
+
+Welcome to Midgar City.
+
+Only the brave will leave unscathed.
+
+~
+34 16 1
+D0
+~
+Slums~
+1 0 3401
+S
+#3401
+Slums sector 1~
+This is were the poor people of the city live.
+
+~
+34 68 0
+D2
+Entrance to Midgar City
+
+~
+~
+0 0 3400
+D3
+~
+~
+0 0 3402
+S
+#3402
+Slums Sector 2~
+Another area of the slums. Nothing much going on here
+~
+34 16 1
+D0
+~
+~
+0 0 3403
+D1
+~
+~
+0 0 3401
+S
+#3403
+Slums Sector 3~
+There was a recent robbery here of a Shinra Security Guard, it was discovered that he lost his precious shinra medal and he is not too pleased.
+~
+34 128 1
+D0
+~
+~
+0 0 3404
+D2
+~
+~
+0 0 3402
+S
+#3404
+The Train Graveyard~
+Nothing.
+You see trains scattered in ruins all over the place. debris from the pillars above the lower parts of the city are lying around.
+~
+34 4 10
+D1
+~
+~
+0 0 3405
+D2
+~
+~
+0 0 3403
+S
+#3405
+Entrance to Shinra Head Quarters~
+This area of the zone contains many different mobs of different levels. You are advised to you consider before attacking any of them. Apart from that it should be easy...
+~
+34 16 0
+D1
+~
+~
+0 0 3406
+D3
+~
+~
+0 0 3404
+S
+#3406
+Shinra Headquarters reception~
+The reception area is rather a dull and uninspiring place to be.
+~
+34 4 0
+D1
+~
+~
+0 0 3407
+D3
+~
+~
+0 0 3405
+S
+#3407
+Ground Floor~
+This is the ground floor of the headquarters. Nothing much is happening here.
+~
+34 8 0
+D3
+~
+~
+0 0 3406
+D4
+~
+~
+0 0 3408
+S
+#3408
+First Floor~
+This is the first floor of the Shinra Headquarters building. There are a further 70 floors to get to the top where President Shinra is.
+~
+34 24 0
+D3
+~
+~
+0 0 3409
+D4
+~
+~
+0 0 3410
+D5
+~
+~
+0 0 3407
+S
+#3409
+Shinra Cafeteria~
+A place to wine and dine but not at Shinras' expense
+~
+34 8 0
+D1
+~
+~
+0 0 3408
+S
+#3410
+Second Floor~
+2nd Floor of the Shinra Building
+~
+34 40 0
+D4
+~
+~
+0 0 3411
+D5
+~
+~
+0 0 3408
+S
+#3411
+60th Floor~
+This is the 60th Floor of Shinra headquarters
+~
+34 8 0
+D3
+~
+~
+0 0 3412
+D4
+~
+~
+0 0 3413
+D5
+~
+~
+0 0 3410
+S
+#3412
+Corridor~
+You are in the corridor of the Shinra Headquarters. To the east you can see a lift leading to other floors within the building. To the north you can see a small office.
+~
+34 8 0
+D1
+~
+~
+0 0 3411
+S
+#3413
+61st Floor~
+61st floor of the Shinra building.
+~
+34 8 0
+D4
+~
+~
+0 0 3414
+D5
+~
+~
+0 0 3411
+S
+#3414
+62nd Floor~
+62nd floor of the Shinra Building
+~
+34 16 0
+D0
+~
+~
+0 0 3416
+D4
+~
+~
+0 0 3415
+D5
+~
+~
+0 0 3413
+S
+#3415
+63rd Floor~
+63rd Floor of the Shinra Headquarters
+~
+34 40 0
+D0
+~
+~
+0 0 3418
+D5
+~
+~
+0 0 3414
+S
+#3416
+Passage of Doom~
+YOU ARE DEAD! ENJOY THE AFTERLIFE.
+~
+34 2 7
+S
+#3417
+Gateway to your Destiny~
+A path to your final resting place
+~
+34 35 7
+D0
+~
+~
+0 0 3415
+S
+#3418
+64th Floor~
+64th floor of the Shinra Headquarters
+~
+34 72 0
+D2
+~
+~
+0 0 3415
+D4
+~
+~
+0 0 3420
+S
+#3419
+Shinra Donation Room~
+   This is the Shinra Donation Room where various items donated by travellers
+are left to provide help for those in need. The Shinra Board do not want any
+unwelcome and illegal items left here, penalty for this is overtime without
+pay.  
+~
+34 148 0
+D3
+~
+~
+0 0 3418
+S
+#3420
+65th floor~
+65th Floor of Shinra headquarters
+~
+34 40 0
+D4
+~
+~
+0 0 3421
+D5
+~
+~
+0 0 3418
+S
+#3421
+66th Floor~
+66th Floor of the Shinra Headquarters
+~
+34 161 0
+D4
+~
+~
+0 0 3422
+D5
+~
+~
+0 0 3420
+S
+#3422
+67th Floor~
+67th Floor of the Shinra Headquarters
+~
+34 65 0
+D4
+~
+~
+0 0 3423
+D5
+~
+~
+0 0 3421
+S
+#3423
+68th Floor~
+68th Floor of the Shinra Headquarters
+~
+34 65 0
+D0
+~
+~
+0 0 3424
+D5
+~
+~
+0 0 3422
+S
+#3424
+69th Floor~
+69th Floor of the Shinra Headquarters.
+
+You are close to the location of President Shinra and the other high people within the Shinra organisation.
+
+There have been rumours recently of a mysterious man in a black cape who has been causing havoc in this area. He is wielding a very powerful sword and kills all his victims with one strike.
+~
+34 0 0
+D0
+~
+~
+0 0 3425
+D2
+~
+~
+0 0 3423
+S
+#3425
+70th Floor~
+70th Floor of the Shinra Headquaters. Security has been tightened up here as it was discovered that members of the avalanche terrorist group have been located within the building. Lots of guards have been ordered to protect the Shinra Executive. 
+
+The Presidential suite is up the stairs.
+~
+34 32 0
+D1
+~
+~
+0 0 3431
+D2
+~
+~
+0 0 3424
+D3
+~
+~
+0 0 3428
+D4
+~
+~
+0 0 3426
+S
+#3426
+Presidential Suite~
+This is the home of President Shinra.  Although he is a busy man from time to time he likes listening to the latest cricket scores and is a fan of the Austrailian cricket team.
+There are lots of pictures of the previous presidents of the Shinra Organisation sparingly placed around the walls.
+~
+34 40 0
+D5
+~
+~
+0 0 3425
+S
+#3428
+A corridor~
+A corridor leading to a number of offices
+~
+34 8 0
+D0
+~
+~
+0 0 3429
+D1
+~
+~
+0 0 3425
+D2
+~
+~
+0 0 3430
+S
+#3429
+Office of the Head Bodyguard~
+This is the office of the Head Bodyguard. There are shift and oncall rotas spread in a messy heap across the desk and floor, he obviously doesn't make an effort to tidy his office.
+~
+34 40 0
+D2
+~
+~
+0 0 3428
+S
+#3430
+Office of the Head Guard~
+This is the office of the Boss of the Shinra Guards. Its much tidier than that of the Head Bodyguards'. You can see a desk tidy containing various writing implements.
+~
+34 200 0
+D0
+~
+~
+0 0 3428
+S
+#3431
+A corridor~
+Another corridor to some offices
+~
+34 0 0
+D0
+~
+~
+0 0 3432
+D1
+~
+~
+0 0 3434
+D3
+~
+~
+0 0 3425
+S
+#3432
+Shinra Laboratory~
+This is the Shinra Laboratory where all kinds of experiments are taking place. At the moment, Shinra Inc. are investigating into the past of the Ancients to discover the secrets and the location of the 'Promised Land'
+~
+34 12 0
+D0
+~
+~
+0 0 3435
+D1
+~
+~
+0 0 3433
+D2
+~
+~
+0 0 3431
+D3
+~
+~
+0 0 3436
+S
+#3433
+The chamber~
+This is a room where all creatures from different parts of the world are brought here and tested against other creatures.
+~
+34 8 0
+D3
+~
+~
+0 0 3432
+S
+#3434
+Scarlet's Office~
+   This is the office of the leader of the Shinra Weapons department. 
+Scarlett a woman in here 50s keeps this office very clean indeed. Trained in
+the art of combat she has many pictures of her victorious battles.  
+~
+34 8 0
+D3
+~
+~
+0 0 3431
+S
+#3435
+Hojo's office~
+Hojo is the head of the Shinra scientific unit and is well versed on the anatomy of the ancients. . There is a picture of a man with a black cloak on the desk. Other than that this office is rather a dull place.
+~
+34 160 0
+D2
+~
+~
+0 0 3432
+S
+#3436
+A dark passage~
+A dark passage leading to the secure laboratory used for storing information about the Ancients. The passage continues north.
+~
+34 5 0
+D0
+~
+~
+0 0 3437
+D1
+~
+~
+0 0 3432
+S
+#3437
+A dark passage~
+   You can hear the faint sound of chemicals bubbling as if some weird
+experiment was taking place. The dark passage continues north and south.  
+~
+34 5 0
+D0
+~
+~
+0 0 3438
+D2
+~
+~
+0 0 3436
+S
+#3438
+A dark passage~
+   The sound of bubbling chemicals is getting closer. You can also here some
+distant sound which cannot fathom out who is producing such a sound. The dark
+passage continues to the south and to the east.  
+~
+34 5 0
+D1
+~
+~
+0 0 3439
+D2
+~
+~
+0 0 3437
+S
+#3439
+A dark passage~
+   The various noises are getting louder and louder. There is a door to the
+east here with a sign that reads. Shinra Inc. Top Secret Laboratory. Jenova
+Project.  
+~
+34 5 0
+D1
+A door to the special projects lab
+~
+Door to the special projects lab~
+1 0 3440
+D3
+~
+~
+0 0 3438
+S
+#3440
+The Special Projects Lab~
+You can see a huge enclosed dome with a small window.
+A closer examination reveals that there is a monster inside that appears
+to be human with the feature of a naked woman.
+Tubes rise from parts of its body out of the dome into a
+massive super computer.
+
+A sign on the dome reads 'Jenova'.
+
+~
+34 9 0
+D3
+A thick steel door
+~
+Door to the special projects lab~
+1 0 3439
+S
+$~

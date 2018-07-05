@@ -1,0 +1,643 @@
+#1900
+Another Portal~
+   Looking to the north you can see a brightly glowing portal, more or less
+like all the others which you have seen around here.  You can either go through
+it or return from the room you came from to the east.    
+~
+19 456 0
+D0
+   The Portal seems to lead to the Start of the Gnome Village
+~
+~
+0 0 1501
+D1
+~
+~
+0 -1 1901
+S
+#1901
+A Portal Room~
+   Looking to the north you see some kind of shimmering portal which probably
+leads off to some strange lands.  More rooms lie to the East and West.    
+~
+19 456 0
+D0
+   Looking more closely you can just make out the town of Sundhaven.  You have
+heard of this place and know of its wacky nature.    
+~
+~
+0 0 6600
+D1
+~
+~
+0 -1 1902
+D2
+~
+~
+0 -1 1907
+D3
+~
+~
+0 -1 1900
+S
+#1902
+A Brightly lit portal room~
+   To the east there is another of those shimmering lights.  While to the west
+you can return to the room from which you just came.    
+~
+19 456 0
+D1
+   Looking at the portal you can see a bustling city.  It looks like and
+interesting place to look around.    
+~
+~
+0 0 21001
+D3
+   The Sundhaven Portal.    
+~
+~
+0 -1 1901
+S
+#1903
+The Glowing Cyan Portal Room~
+   This room glows with a cyan colour, thats a sort of bluey Green Colour.  To
+the North there is the usual portal which glows with well obviously a cyan
+colour.  And well the only other exit is back from where you came.    
+~
+19 456 0
+D0
+   Looking more closely at the portal you decide that you don't know what the
+hell is on the other side!    
+~
+~
+0 0 1600
+D1
+~
+~
+0 -1 1904
+S
+#1904
+The End of the Corridor~
+   You have reached the end of the corridor.  To the east and west are some
+more portal rooms.
+~
+19 456 0
+D1
+~
+~
+0 -1 1905
+D2
+~
+~
+0 -1 1912
+D3
+~
+~
+0 -1 1903
+S
+#1905
+A Glowing White Portal Room~
+   Wow!  This room is so bright it hurts your eyes so much.  A Portal lies on
+the North Wall.  While the only other exit is back the way you came.    
+~
+19 456 0
+D0
+   Looking through the portal you can see a well developed city.  It looks like
+quite a usefull place to go.    
+~
+~
+0 0 5400
+D3
+~
+~
+0 -1 1904
+S
+#1906
+The Shimmering Room~
+   You stand in a shimmering room.  Looking back to the south you can see a
+distorted picture of the field from which you came.  To the east there seems to
+be a more stable room, perhaps you should move into it.  There is a small sign
+which seems to float in the air above you.    
+~
+19 456 0
+D1
+~
+~
+0 -1 1907
+D2
+~
+~
+0 -1 1914
+E
+sign~
+   You stand in the entrance to the first set of portals.  These lead to zones
+for players of levels 1-30.  Other players may find them usefull but won't find
+them a challenge.    
+~
+S
+#1907
+A Glowing room~
+   You stand in a more stable room to the one to the west.  However to the
+south there is a blinding light, but looking hard you can see some sort of
+forest with some strange pointy eared creatures in it.  There is another room
+to the North.    
+~
+19 456 0
+D0
+~
+~
+0 -1 1901
+D1
+~
+~
+0 -1 1908
+D2
+   Looking more closely at the portal you can see it leads to some kind of
+forest, which seems to be occupied with a tribe of Elves.    
+~
+~
+0 0 19001
+D3
+~
+~
+0 -1 1906
+S
+#1908
+A Portal Room~
+   To the South you can see a strange shimmering portal like you have seen
+before in the room to the west from which you just came.  Other than that this
+room is well a bit boring!    
+~
+19 456 0
+D2
+   Looking closely at the portal you can see a large valley in a vast mountain
+range.    
+~
+~
+0 0 7800
+D3
+~
+~
+0 -1 1907
+S
+#1909
+The Glowing Green Portal Room~
+   This room glows with a bright green light, perhaps it is coming from the
+portal to the east.  The only other way out is to the south.    
+~
+19 456 0
+D1
+   Looking at the portal you can just make out what is behind it.  It looks
+like some sort of deep blue ocean.    
+~
+~
+0 0 1801
+D2
+~
+~
+0 -1 1917
+S
+#1910
+The Glowing Yellow Portal Room~
+   This rooms glows with a Yellow light, it hurts you eyes a little.  Again
+this room has a portal in it.  This time on the west wall.  Looking through it
+might give you a clue to where it leads.    
+~
+19 456 0
+D2
+~
+~
+0 -1 1918
+D3
+   Looking more closely at the portal you can see some strange kind of house.
+It looks kinda scary!    
+~
+~
+0 0 17002
+S
+#1911
+The Glowing Blue Portal Room~
+   You stand in a portal room.  To the North is a portal which I'm sure you
+have guessed will lead off into some unknown land.  The way out lies back to
+the south.    
+~
+19 456 0
+D0
+   Looking at the portal you see that its leads to some kind of strange land,
+which you can only describe as looking like its has been made up of Giant
+Electronic Circuitry.    
+~
+~
+0 0 25001
+D2
+~
+~
+0 -1 1919
+S
+#1912
+The Castle Corridor~
+   The Corridor continues to the north and south from here.  You can see some
+more of those portal rooms to the North.    
+~
+19 456 0
+D0
+~
+~
+0 -1 1904
+D2
+~
+~
+0 -1 1921
+S
+#1913
+A Path to a strange Shimmering castle~
+   You stand on a narrow path running through some fields.  In the distance you
+can see a strange looking castle which seems to shimmer as if it were not
+really there.  Every now and then you can see big flashes of light coming from
+inside it, you wounder what is going on in there.    
+~
+19 192 2
+D1
+~
+~
+0 -1 1914
+D2
+~
+~
+0 0 6092
+S
+#1914
+A Path to a shimmering Castle~
+   You continue on the path to the east which leads up to a castle.  To the
+north there is some sort of strange shimmering light.  It looks quite scary and
+you wonder if you should go in there.    
+~
+19 192 2
+D0
+~
+~
+0 -1 1906
+D1
+~
+~
+0 -1 1915
+D3
+~
+~
+0 -1 1913
+S
+#1915
+A Path to a shimmering castle~
+   You are further along the path to the shimmering castle.  As you get closer
+you notice that its seems to fade in and out of existance every now and again.
+To the south is a small building which seems to glow with a bright Blue light.
+  
+~
+19 192 2
+D1
+~
+~
+0 -1 1916
+D2
+~
+~
+0 -1 1927
+D3
+~
+~
+0 -1 1914
+S
+#1916
+The End of the Path~
+   You have reached the end of the path and can now see the entrance to the
+shimmering castle.  You are unsure what could be in there, however some kind of
+force makes you want to go inside.  There is a small sign standing by the
+path's edge.    
+~
+19 192 2
+D1
+~
+~
+0 -1 1917
+D3
+~
+~
+0 -1 1915
+E
+entrance~
+   The entrance looks like some sort of portal.  However you have the feeling
+that its one way and once you go in there is no return from the way you came.
+  
+~
+E
+sign~
+The Portal Castle of Minos.
+--------------------------
+
+Those who enter here must be levels 25 - 60. It's not advisable
+to enter if you're bellow these levels.
+~
+S
+#1917
+The Entrance to the Castle~
+   The Entrance must have been some kind of portal, as there is no way back
+from where you came.  The Room seems to glow each time with a different colour.
+To the North and south there are glowing rooms.  The Corridor leads on to the
+east.    
+~
+19 456 0
+D0
+~
+~
+0 -1 1909
+D1
+~
+~
+0 -1 1918
+D2
+~
+~
+0 -1 1922
+S
+#1918
+The Castle Corridor~
+   You stand further along the castle Corridor.  More rooms lie to the north,
+and south.  The Castle entrance is to the West, while the corridor leads
+further into the castle to the East.    
+~
+19 456 0
+D0
+~
+~
+0 -1 1910
+D1
+~
+~
+0 -1 1919
+D2
+~
+~
+0 -1 1923
+D3
+~
+~
+0 -1 1917
+S
+#1919
+The Castle Corridor~
+   You stand further along the castle Corridor.  More rooms lie to the north,
+and south.  The corridor leads further into the castle to the East and back to
+the West.    
+~
+19 456 0
+D0
+~
+~
+0 -1 1911
+D1
+~
+~
+0 -1 1920
+D2
+~
+~
+0 -1 1924
+D3
+~
+~
+0 -1 1918
+S
+#1920
+The Castle Corridor~
+   You stand further along the castle Corridor.  More rooms lie to the north,
+and south.  The corridor leads further into the castle to the East and back to
+the West.    
+~
+19 456 0
+D1
+~
+~
+0 -1 1921
+D3
+~
+~
+0 -1 1919
+S
+#1921
+The Castle Corridor~
+   You have come to a junction in the castle Corridor.  It now leads north and
+south from here, or you can go back to the west.    
+~
+19 456 0
+D0
+~
+~
+0 -1 1912
+D2
+~
+~
+0 -1 1925
+D3
+~
+~
+0 -1 1920
+S
+#1922
+The Glowing Red Portal Room~
+   This rooms seems to glow with a bright red light.  To the South you can see
+a glowing portal.  The only other way out is back north from where you came.  
+
+~
+19 456 0
+D0
+~
+~
+0 -1 1917
+D2
+   The Portal looks like it leads to some kind of strange jungle.    
+~
+~
+0 0 500
+S
+#1923
+The Glowing Orange Portal Room~
+   All these rooms seem to glow a different colour.  This one glows orange.  
+Who ever created this place must have liked colours, or perhaps it was a
+mistake.  As usaual there is a portal in this room to the south.    
+~
+19 456 0
+D0
+~
+~
+0 -1 1918
+D2
+You can't see much through this portal because its is so bright.    
+~
+~
+0 0 3300
+S
+#1924
+The Glowing Purple Portal Room~
+   The Room you stand in glows with a dim purple light, not quite as bright as
+some of the other rooms that you have seen.  To the South is a Portal Glowing
+with the same light, while the way out is back to the North.    
+~
+19 456 0
+D0
+~
+~
+0 -1 1919
+D2
+   The Portal is to dim to show what lies behind it.    
+~
+~
+0 0 4701
+S
+#1925
+The Exit~
+   Finally you have found what looks like a way out of the castle to the south.
+Again there is some kind of strange portal, going throught it might be a one
+way thing.    
+~
+19 456 0
+D0
+~
+~
+0 -1 1921
+D2
+~
+~
+0 -1 1929
+S
+#1926
+The Western Portal Room~
+   You stand in a room which from what you can see has soom kind of portal in
+the North wall.  The only other way out is to the east from where you came.  
+
+~
+19 456 0
+D0
+   Looking through the portal you can see a dark and dreary city.  Looking even
+closer you suddenly feel an overpowering sense of evil.    
+~
+~
+0 0 5100
+D1
+~
+~
+0 -1 1927
+S
+#1927
+A Glowing Blue Room~
+   This room is just so strange.  It seems to glow with a blue light, you can't
+seem to figure out why.  There must be some kind of powerfull magic force at
+work here.  Maybe even from the gods themselves.    
+~
+19 456 0
+D0
+~
+~
+0 -1 1915
+D1
+~
+~
+0 -1 1928
+D2
+~
+~
+0 -1 1932
+D3
+~
+~
+0 -1 1926
+S
+#1928
+The Eastern Portal Room~
+   You stand in the eastern Portal Room.  To the south there is a glowing red
+portal.  While the other exits lies from where you came in.    
+~
+19 456 0
+D2
+   Looking through the portal you can just see some kind of city, Like the ones
+that the Romans used to live in.  Hmmmm Maybe its Rome then?    
+~
+~
+0 0 12064
+D3
+~
+~
+0 -1 1927
+S
+#1929
+In Some Strange Fields~
+   You stand in some very strange fields.  A Small Path leads through them to
+the East.  Hopefully it will lead out of this place.    
+~
+19 192 0
+D0
+~
+~
+0 -1 1925
+D1
+~
+~
+0 -1 1930
+S
+#1930
+Some Strange Fields~
+   You stand in some strange fields which continue to the West.  To the east
+looks like what is the way out along a small path.  Looking down there seems to
+be some ladders leading into some kind of pit.    
+~
+19 192 0
+D1
+~
+~
+0 -1 1931
+D3
+~
+~
+0 -1 1929
+D5
+~
+~
+0 0 22000
+S
+#1931
+The way out~
+   You have come across the exit to this strange area.  You can see lush green
+fields and large oak trees in a near by park.  This might be a good time to sit
+down and have a rest, perhaps a sleep under one of the trees would be even
+better.  The Portal to the east looks like the way out.    
+~
+19 192 0
+D1
+   Looking at the portal more closely you can see what looks like the Grand
+Temple of Minos.    
+~
+~
+0 0 4579
+D3
+~
+~
+0 -1 1930
+S
+#1932
+The Southern Portal Room~
+   To the South there seems to be a strange shimmering green light.  The only
+other exit is back where you came from.    
+~
+19 192 0
+D0
+~
+~
+0 -1 1927
+D2
+   Looking more closely at the portal you can just about make out what looked
+like to be a large city.  However you can make out that it has been left for
+ruin a long time ago
+~
+~
+0 0 5200
+S
+$~

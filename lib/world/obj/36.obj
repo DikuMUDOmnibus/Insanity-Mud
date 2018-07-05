@@ -1,0 +1,132 @@
+#3600
+candlestick~
+a candlestick~
+A pewter candlestick is standing here.~
+~
+1 1 16385
+0 0 24 0
+5 150 0 0 0
+E
+candlestick~
+It is a rather old-looking three-armed candlestick made from pewter.  Its
+candles are a yellowish white colour.
+~
+#3601
+brandy bottle~
+a brandy bottle~
+A brandy bottle is lying here.~
+~
+17 1 1
+10 10 5 0
+15 50 0 0 0
+E
+brandy bottle~
+The bottle is a special 'Dragon Blood' brandy bottle.  Its neck is shaped
+like a small dragon's head.  Bottles like these are often worth a small
+amount money, even when empty.
+~
+#3602
+brandy bottle~
+a brandy bottle~
+A brandy bottle is lying here.~
+~
+17 1 1
+10 0 5 0
+2 50 0 0 0
+E
+brandy bottle~
+The bottle is a special 'Dragon Blood' brandy bottle.  Its neck is shaped
+like a small dragon's head.  Bottles like these are often worth some money,
+even when empty.
+~
+#3603
+wheelbarrow~
+a wheelbarrow~
+A green-painted wheelbarrow is standing here.~
+~
+15 128 1
+250 1 -1 0
+100 100 0 0 0
+E
+wheelbarrow~
+It is a heavy wheelbarrow made from solid oaken planks that have been painted
+a dark, green colour.
+~
+#3604
+shovel~
+a shovel~
+A shovel is lying here.~
+~
+5 1 8193
+0 1 5 7
+8 30 0 0 0
+E
+shovel~
+It is a large metal shovel with a solid wooden handle.
+~
+#3605
+rake~
+a rake~
+A rake is lying here.~
+~
+5 1 8193
+0 1 4 5
+8 30 0 0 0
+E
+rake~
+It is a large metal rake with a solid wooden handle.
+~
+#3610
+skeleton~
+a dusty skeleton~
+A dusty skeleton lies here.~
+~
+12 0 1
+0 0 0 0
+15 0 0 0 0
+E
+skeleton~
+The dusty bones are almost brown.  It must have been buried for a very long
+time.
+A dusty skeleton is in an excellent condition.
+~
+#3611
+amethyst gem~
+a amethyst~
+A large, beautifully polished amethyst has been left here.~
+~
+8 0 16385
+0 0 0 0
+1 3000 0 0 0
+E
+amethyst~
+It has a very deep purple colour.
+~
+#3612
+pendant silver~
+a silver pendant~
+A silver pendant has been left here.~
+~
+9 1 5
+4 0 0 0
+1 400 0 0 0
+E
+pendant silver~
+It resembles Thor's hammer and appears to be made of solid silver.
+~
+#3613
+dagger silver~
+a silver dagger~
+A long silver dagger is lying here.~
+pierce~
+5 1 8193
+0 2 4 11
+1 100 0 0 0
+E
+dagger silver~
+It has a long, sharp blade that is made entirely from silver.  A small rune
+has been engraved on the blade next to the hilt.
+~
+A
+19 1
+$~

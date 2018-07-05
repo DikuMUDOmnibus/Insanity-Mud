@@ -1,0 +1,512 @@
+#9900
+imperial storm trooper~
+an Imperial Storm Trooper~
+An Imperial Storm Trooper is standing here, watching your every move.
+~
+You are looking at one of the finest fighting machines in the galaxy.
+He is trained at the Imperial Accademy and feels nothing.  He will not
+hesitate to blast you, twice if necissary.
+~
+6234 0 -500 E
+70 8 5 1d1+7500 15d27+10
+6500 50000
+8 8 1 2
+BareHandAttack: 12
+E
+#9901
+imperial storm trooper~
+an Imperial Storm Trooper~
+An Imperial Storm Trooper is searching for enemies of the Empire.
+~
+You are looking at one of the finest fighting machines in the galaxy.
+Trained at the Imperial Accademy he fells nothing.  He will not 
+hesitate to blast you, twice if neccisary.
+~
+526424 0 -500 E
+70 8 5 1d1+7500 15d27+10
+6500 50000
+8 8 1 2
+BareHandAttack: 12
+E
+#9902
+citizen~
+a Citizen of the Empire~
+A citizen of the Empire is walking about here.
+~
+You are looking at one of the many citizens of the Empire.  He is
+minding his own business, perhaps you should mind yours.  Remember
+an attack against any citizen of the Empire is an attack against the
+Empire itself.
+~
+526412 0 0 E
+50 17 5 1d1+1500 10d10+3
+1500 1000
+8 8 1 2
+BareHandAttack: 13
+E
+#9903
+citizen~
+a Citizen of Coruscant~
+A citizen of Coruscant is running about here.
+~
+You are looking at one of the citizens of the Empire's capitol. 
+She is minding her own business.  Perhaps you should mind yours?
+Remember, an attack against a citizen of the Empire is an attack
+against the Empire itself.
+~
+526412 0 0 E
+50 17 5 1d1+1500 10d10+3
+1500 1000
+8 8 2 2
+BareHandAttack: 8
+E
+#9904
+imperial officer~
+an Imperial Officer~
+An Imperial Officer is here, minding his own business.
+~
+You see an Impeiral Officer.  One of the Impeiral Navy's finest is
+here and is walking to his next post.  You see him and think, what a
+wuss, then remember that he is an expert marksmen and will not
+hesitate to kill you.
+~
+680024 0 -599 E
+74 8 2 1d1+6500 10d20+10
+5000 15000
+8 8 1 2
+BareHandAttack: 12
+E
+#9905
+imperial commander~
+an Imperial Commander~
+An Imperial Commander is here awaiting his next command.
+~
+You see one of the Imperial Navy's finest.  He is here awaiting
+his crew to command.  He looks as if he shouldnt be bothered right
+now.
+~
+649432 0 -500 E
+75 8 0 1d1+7000 10d30+10
+10000 60000
+8 8 1 3
+BareHandAttack: 12
+E
+#9906
+r2 unit~
+an R2 Unit~
+An R2 unit is running aimlessly about here.
+~
+You see your standard astrodroid.  He looks well used and as if
+it has seen some battle.
+~
+140 0 500 E
+40 18 0 1d1+2750 10d15+2
+10 5500
+8 8 0 2
+BareHandAttack: 11
+E
+#9907
+protocol droid~
+a protocol droid~
+A protocol droid is standing here.
+~
+You see your standard human relations-protocol droid.  Well
+adversed in the ways of eticit and protocol, he can be useful
+in those situations where a translator is needed.
+~
+524508 0 1000 E
+40 18 0 1d1+2750 10d15+2
+10 7500
+8 8 0 3
+BareHandAttack: 13
+E
+#9908
+imperial commando~
+an Imperial Commando~
+An Imperial Commando is here telling you, "Hey you are not authorized to be in here."
+~
+You see the finest fighting machine in the galaxy.  He has no feelings
+towards you and is ordered to shoot to kill.  Usually deployed on the
+front lines, he is here to keep the peace in the Empire's capital city.
+~
+31320 8252 -500 E
+95 0 0 1d1+20000 30d14+20
+5000 150000
+8 8 1 3
+BareHandAttack: 12
+E
+#9909
+jedi knight~
+a Jedi Knight~
+A Jedi Knight is standing here, defending the galaxy.
+~
+A Jedi Knight is someone not to be messed with.  You see a wise
+man, dressed in the usual Jedi garb.  He is well adversed in the
+ways of the Force.  A peacekeeper and a guardian of justice, it is
+not wise to pick a fight with him.  He turns to you and says,
+"May the Force be with you, always."
+~
+256344 37052 1000 E
+100 -70 -20 1d1+30000 25d127+90
+10000 900000
+8 8 1 5
+BareHandAttack: 3
+E
+#9910
+jedi knight~
+a Jedi Knight~
+A Jedi Knight is standing here, defending the galaxy.
+~
+A Jedi Knight is someone not to be messed with.  You see a wise
+woman, dressed in the usual Jedi gard.  She is well adversed in the
+ways of the Force. A peacekeeper and guardian og justice, it is
+not wise to pick a fight with her.  She turns to you and says,
+"May the Force be with you, always."
+~
+256344 4284 1000 E
+100 -70 -20 1d1+30000 25d127+90
+10000 900000
+8 8 2 5
+BareHandAttack: 3
+E
+#9911
+jedi master~
+a Jedi Master~
+A Jedi Master is here, teaching his young apprentice.
+~
+A Jedi Master is someone who is so well adversed in the Jedi Arts
+that he has been chosen to pass on what he has learned.  You see 
+that the force is at his beckon call.  With a flick of the wrist
+objects move from one side of the room to the other.  You gaze into
+his eyes and can see years of experince and the true nature of the
+force.
+~
+260442 32956 1000 E
+105 -80 -20 1d1+30000 30d127+100
+10000 1000000
+8 8 1 6
+BareHandAttack: 3
+E
+#9912
+jedi master~
+a Jedi Master~
+A Jedi Master is here, teaching her young apprentice.
+~
+A Jedi Master is someone who is so well adversed in the Jedi Arts
+that she has been chosen to pass on what she has learned.  You see
+that the force is at her beckon call.  With a flick of the wrist
+objects move from one side of the room to the other.  You gaze into
+her eyes and can see years of experince and the true nature of the
+force.
+~
+260442 37052 1000 E
+105 -80 -20 1d1+30000 30d127+100
+10000 1000000
+8 8 2 6
+BareHandAttack: 3
+E
+#9913
+yoda~
+Yoda, the Jedi Master~
+Yoda, the Jedi Master is sitting here.
+~
+You see the Jedi Master who as instructed all of the Jedi.  Just
+a tad past 800 years old, he is one of the wisest beings in all of
+the galaxy.  Known for his strenght, wisdom and heart, travelers
+from all over the galaxy come to him for advice on all subjects.
+~
+256026 45244 1000 E
+114 -100 -20 1d1000+30000 30d127+120
+10000 1000000
+6 6 0 10
+BareHandAttack: 5
+E
+#9914
+jedi counselmember~
+a Jedi Counselmember~
+A Jedi Counselmember is sitting here, awaiting their next audience.
+~
+You see a Jedi Counselmember in all of its glory.  Chosen from the
+elite Jedi Knights, they sit on the Jedi Counsel and decide the laws
+the Jedi abide by.  It is their interpretation of the ancient code of 
+the force that all Jedi Knights follow.  It is their blessing that
+allows a Jedi Apprentice to become a Jedi Knight.
+~
+256090 45244 1000 E
+100 -80 -20 1d1+30000 25d127+100
+10000 900000
+6 6 0 5
+BareHandAttack: 3
+E
+#9915
+remote~
+a remote~
+A remote is here running drills for a Jedi Apprentice.
+~
+Looks like a rather harmless floating ball of steel.  But then
+you cannot remember when you have seen a harmless ball of steel
+float before.  A better look at it shows small blaster-like ports
+all over its face.  You realize that this must be some sort of 
+Jedi training device.
+~
+254154 131072 0 E
+50 10 -5 1d1+9000 20d10+15
+10000 25000
+8 8 0 3
+BareHandAttack: 12
+E
+#9916
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is taking the Jedi Trials here.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260186 12348 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+8 8 1 4
+BareHandAttack: 3
+E
+#9917
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is practicing his draining skill here.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260186 60 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+8 8 1 4
+BareHandAttack: 3
+E
+#9918
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is practicing her healing skill here.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260186 60 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+8 8 2 4
+BareHandAttack: 3
+E
+#9919
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is here practicing his hand-to-hand combat skills.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260186 60 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+8 8 1 4
+BareHandAttack: 3
+E
+#9920
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is here practicing her hand-to-hand combat skills.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260186 60 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+8 8 2 4
+BareHandAttack: 3
+E
+#9921
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is here practicing the levitate skill.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260186 40 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+8 8 0 3
+BareHandAttack: 3
+E
+#9922
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is here practicing her speed skill.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260186 40 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+8 8 2 3
+BareHandAttack: 3
+E
+#9923
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is here practicing his sight skill.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260186 40 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+8 8 1 3
+BareHandAttack: 3
+E
+#9924
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is here practicing his lightsaber control.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260186 40 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+8 8 1 3
+BareHandAttack: 3
+E
+#9925
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is here practicing her lightsaber control.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260186 40 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+8 8 2 3
+BareHandAttack: 3
+E
+#9926
+landlord~
+the Landlord~
+The Landlord is standing here awaiting your rent.
+~
+You see a gastly beast.  All he has on his mind is money, money, money!
+And he wants your money.  He wants your rent and he wants it now!
+Remember that if you cannot pay the rent, you will be shot!  So pay him!
+~
+706778 0 -500 E
+75 5 0 1d1+10000 10d15+15
+10000 25000
+8 8 0 5
+BareHandAttack: 12
+E
+#9927
+gran alien~
+a Gran~
+A Gran is here collecting rent.
+~
+You see one of the landlord's employees.  This Gran has found a happy
+job going around and bugging the tenants of this building for their
+rent.  Since most of them cannot pay such an outrageous fee, the Gran
+gets to have fun torturing the poor soul and take the rent from their
+backside.
+~
+540872 0 0 E
+50 5 0 1d1+4500 10d15+15
+10000 25000
+8 8 0 2
+BareHandAttack: 12
+E
+#9928
+a Rodian~
+a Rodian~
+A Rodian is lurking about here collecting rent.
+~
+You see one of the landlord's employees.  This Rodian has found a happy
+job going around and bugging the tenants of this building for their
+rent.  Since most of them cannot pay such an outrageous fee, the Rodian
+gets to have fun torturing the poor soul and take the rent from their
+backside.
+~
+542920 0 0 E
+50 10 0 1d1+4500 15d10+10
+5000 25000
+8 8 0 2
+BareHandAttack: 12
+E
+#9929
+Trandoshan alien~
+a Trandoshan~
+An angry Trandoshan is here collecting rent.
+~
+You see one of the landlord's employees.  This Gran has found a happy
+job going around and bugging the tenants of this building for their
+rent.  Since most of them cannot pay such an outrageous fee, the Gran
+gets to have fun torturing the poor soul and take the rent from their
+backside.
+
+~
+542920 0 0 E
+50 10 0 1d1+30000 15d10+10
+5000 25000
+8 8 0 2
+BareHandAttack: 12
+E
+#9999
+jedi apprentice~
+a Jedi Apprentice~
+A Jedi Apprentice is here meditating.
+~
+You see a Jedi Apprentice.  They are practicing the Jedi Arts here
+in the Jedi Tower.  You can see that thier skills are already great
+and they are well adapted in the use of the lightsaber.  You can feel
+the force flowing through them from where you are standing.  Someday
+this apprentice will make a great Jedi Knight.
+~
+260184 40 750 E
+80 -60 0 1d1+25000 20d100+80
+1000 750000
+5 5 0 3
+BareHandAttack: 3
+E
+$

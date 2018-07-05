@@ -1,0 +1,211 @@
+#500
+Wild pig~
+a wild pig~
+A large hairy wild pig snorts in the dirt, looking for food.
+~
+Large round fat and hairy
+~
+76 0 5 E
+4 15 8 5d5+150 5d5+5
+0 200
+8 8 1 1
+BareHandAttack: 4
+E
+#501
+Tiger~
+Large hungry tiger~
+A large tiger is very hungry
+~
+It looks like it wants to eat you....
+~
+40 524288 -230 E
+15 5 0 4d4+500 7d7+10
+0 40000
+8 8 1 1
+BareHandAttack: 3
+E
+#502
+Snake black mamba~
+a black Mamba~
+A deadly Black Mamba Slithers toward you..
+~
+You see a smooth black glistening creature smelling the ait with it's forked tonge.
+@
+~
+18540 66600 -80 E
+17 12 0 10d7+700 30d8+8
+0 32000
+8 8 0 1
+BareHandAttack: 4
+E
+#503
+Croc crocodile~
+a large crocodile~
+A large crocodile floating here
+~
+It looks extremely dangerous
+~
+40 1572864 -500 E
+13 10 -15 4d5+400 10d4+13
+0 5000
+8 8 2 1
+BareHandAttack: 10
+E
+#504
+sunworshiper man~
+the sunworshiper~
+A sunworshiper with a manic look on his face
+~
+He becons you to take a lie down.
+~
+150040 0 -400 E
+23 7 10 7d23+1000 4d10+13
+78000 0
+8 8 1 1
+BareHandAttack: 14
+E
+#505
+Child inca~
+an inca child~
+An Inca Child runs around helping the adults.
+~
+The child looks scared and hungry.
+~
+12 33024 -300 E
+20 15 -2 5d10+10 10d10+4
+1500 10000
+8 8 0 1
+E
+#506
+Gollum~
+Hideous gollum~
+The hideous gollum is searching for his ring
+~
+Thin and dark skinned with large pale bulbous eyes
+~
+149788 787530 -500 E
+25 -10 6 10d15+1000 4d50+20
+30000 400000
+8 8 1 1
+BareHandAttack: 4
+E
+#507
+Kraken~
+a huge Kraken~
+A huge Kraken surfaces on the lake and peers at you hungrily
+~
+A rough skin with several huge crushing tentacles and one BIG eye!
+~
+114712 525378 -600 E
+40 -30 -10 30d50+5000 30d50+75
+10000 200000
+8 8 0 1
+BareHandAttack: 6
+E
+#508
+A Large ugly goblin~
+a large ugly goblin is here~
+A large ugly goblin looks and smells disgusting
+~
+Large, fat and putrid, the goblin is a mean adversary.
+~
+2108 288 -656 E
+25 -14 -2 25d25+1000 15d15+23
+20000 200000
+8 8 1 1
+BareHandAttack: 2
+E
+#509
+Goblin evil~
+an evil goblin~
+An evil goblin stands guard
+~
+Short, but powerful and well armoured he'll be a tough adversary.
+~
+182332 263432 7 E
+20 0 -2 20d20+500 1d20+14
+1000 50000
+8 8 1 1
+BareHandAttack: 3
+E
+#510
+goblin hideous clawed~
+a hideous female goblin~
+A hideous female goblin with long razor claws
+~
+She looks like she wants to perform surgery on you - without anaesthetic!
+~
+16440 256 -654 E
+12 6 -2 9d4+500 8d6+12
+5000 25000
+8 8 2 1
+BareHandAttack: 8
+E
+#511
+inca villager~
+an Inca Villager~
+An Inca Villager walks about doing it's daily chores.
+~
+It looks unfinished.
+~
+2124 0 -100 E
+30 10 -5 25d20+10 20d1+12
+10000 20000
+8 8 0 1
+BareHandAttack: 5
+E
+#512
+sunworshiper worshiper~
+the Sun Worshiper~
+The Sun Worshiper Stands here glowing with a bright orange light.
+~
+   The Sunworshiper is a tall skinny man, with blond flowing hair, probably
+from the many days standing in the sun. He wears a strange mask which covers
+only half his face, and has the most ornate of dress adorning his body.  
+~
+10 1060 700 E
+23 10 -1 1d1+200 5d15+20
+100 10000
+8 8 1 1
+E
+#513
+thunder hound~
+Thunder, the Inca Guardian Hound~
+Thunder, the Inca Guardian Hound who protects against evil stands here watching your every move.
+~
+With bristling fur and cold yellow eyes, Thunder looks like his wild cousin, the wolf.
+~
+260426 103612 -1000 E
+50 -5 -10 30d50+25 30d35+30
+10000 30000
+8 8 1 2
+BareHandAttack: 9
+E
+#514
+witchdoctor doctor witch~
+the Inca Witchdoctor~
+The Inca Witchdoctor dances about in front of you doing some strange dance.
+~
+   This small and dark skinned man stands before you. Looking at him you can
+tell he is well versed in the ways of magical healing, you also suspect he is
+prone to praticing a little of the dark side of his magic!  
+~
+172120 12584040 40 E
+100 -29 -5 20d1000+4000 10d40+60
+200 1000000
+8 8 1 3
+E
+#515
+snake~
+a deadly snake~
+A deadly snake slithers about, threating all that come near it.
+~
+Brightly coloured and huge, this snake strikes without warning.
+~
+256124 820280 100 E
+30 15 -7 30d30+100 30d25+7
+100 10000
+5 5 0 2
+BareHandAttack: 4
+E
+$

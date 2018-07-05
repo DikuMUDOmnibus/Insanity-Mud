@@ -1,0 +1,1149 @@
+#8200
+A Pig Pen~
+This is the strangest looking pig pen you have ever seen.
+You cannot quite fathom out why yet, but you're safe in the
+knowledge that most people do not think well when their
+up to their necks in shit! You can see a wooden wall north
+which has a locked door.
+
+There is a sign at eye level, which is odd because pigs cant read!
+
+~
+82 0 5
+D0
+A bone door
+~
+door~
+3 8200 8201
+D2
+~
+~
+0 0 3346
+E
+sign~
+The zone this guardian protects is for level 50/60, but dont be fooled
+this guardian is mearly to guage your worthiness to enter.
+You will have to employ cunning during your visit. There are several
+techniques that you will have to learn. If learnt they will
+hold you in good stead for later on. If not you will die.
+~
+S
+#8201
+The South-West corner of a Backgammon Board.~
+You stand on the wooden rim of a gigantic backgammon board.
+Below you can see a backgammon game in progress, but there is no way down.
+The Players appear to have made a mistake because they have both left
+single chequers in opposite corners of the board. You wonder if there is
+any significance in this.
+~
+82 0 5
+D0
+~
+~
+0 0 8202
+D1
+~
+~
+0 0 8208
+S
+#8202
+On the western rim~
+You stand on the wooden rim of a gigantic backgammon board.
+The game below you continues abound, but still the entrance eludes you.
+~
+82 0 5
+D0
+~
+~
+0 0 8203
+D2
+~
+~
+0 0 8201
+S
+#8203
+On the western rim~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril.  
+~
+82 0 5
+D0
+~
+~
+0 0 8204
+D2
+Welcome to the game!
+~
+~
+0 0 8202
+D5
+~
+~
+0 0 8210
+S
+#8204
+At the North-West corner of the Rim~
+You stand on the wooden rim of a gigantic backgammon board.
+Below you can see a backgammon game in progress. There is no way down to the playing
+area, but you can drop off the game here. It does look a long way down though.
+~
+82 0 5
+D1
+~
+~
+0 0 8212
+D2
+~
+~
+0 0 8203
+D5
+The drop down from the game looks positivly DEADLY.
+~
+~
+0 0 8233
+S
+#8205
+The 12th point on the board~
+You find yourself on a chequer point. The floor here is red. Dust that swirls
+around forever trapped in this corner affects your ability to use magic here.
+~
+82 128 0
+D0
+~
+~
+0 0 8206
+S
+#8206
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D1
+~
+~
+0 0 8214
+D2
+~
+~
+0 0 8205
+S
+#8207
+the 13th point on the board~
+You find yourself in the most northwesterly part of the game.
+To the east there are more chequer points. The floor is blue here.
+~
+82 0 0
+D1
+~
+~
+0 0 8211
+S
+#8208
+On the southern rim~
+You stand on the wooden rim of a gigantic backgammon board.
+~
+82 0 5
+D1
+~
+~
+0 0 8216
+D3
+~
+~
+0 0 8201
+D5
+~
+~
+0 0 8209
+S
+#8209
+The 11th point on the board~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D0
+~
+~
+0 0 8210
+D1
+~
+~
+0 0 8213
+D4
+~
+~
+0 0 8208
+S
+#8210
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D0
+~
+~
+0 0 8211
+D1
+~
+~
+0 0 8218
+D2
+~
+~
+0 0 8209
+D4
+~
+~
+0 0 8203
+S
+#8211
+The 14th point on the board~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D1
+~
+~
+0 0 8215
+D2
+~
+~
+0 0 8210
+D3
+~
+~
+0 0 8207
+D4
+~
+~
+0 0 8212
+S
+#8212
+On a northern part of the rim~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril.  
+~
+82 0 5
+D1
+~
+~
+0 0 8220
+D3
+~
+~
+0 0 8204
+D5
+Welcome to the game.
+~
+~
+0 0 8211
+S
+#8213
+the 10th point on the board~
+You find yourself on a chequer point. The floor here is blue.
+~
+82 0 0
+D0
+~
+~
+0 0 8214
+D1
+~
+~
+0 0 8217
+D3
+~
+~
+0 0 8209
+S
+#8214
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D0
+~
+~
+0 0 8215
+D1
+~
+~
+0 0 8222
+D2
+~
+~
+0 0 8213
+D3
+~
+~
+0 0 8206
+S
+#8215
+The 15th point on the board~
+You find yourself on a chequer point. The floor here is blue.
+~
+82 0 0
+D1
+~
+~
+0 0 8219
+D2
+~
+~
+0 0 8214
+D3
+~
+~
+0 0 8211
+S
+#8216
+On the southern rim~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril.  
+~
+82 0 5
+D1
+~
+~
+0 0 8227
+D3
+~
+~
+0 0 8208
+D5
+~
+~
+0 0 8217
+S
+#8217
+The 9th point on the board~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D0
+~
+~
+0 0 8218
+D3
+~
+~
+0 0 8213
+D4
+~
+~
+0 0 8216
+S
+#8218
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D0
+~
+~
+0 0 8219
+D1
+~
+~
+0 0 8225
+D2
+~
+~
+0 0 8217
+D3
+~
+~
+0 0 8210
+S
+#8219
+The 16th point on the board~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D2
+~
+~
+0 0 8218
+D3
+~
+~
+0 0 8215
+S
+#8220
+On a northern part of the rim~
+You stand on the wooden rim of a gigantic backgammon board.
+~
+82 0 5
+D1
+~
+~
+0 0 8231
+D3
+~
+~
+0 0 8212
+S
+#8221
+The 8th point on the board~
+You find yourself on a chequer point. The floor here is blue.
+~
+82 0 0
+D0
+~
+~
+0 0 8222
+S
+#8222
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D0
+~
+~
+0 0 8223
+D1
+~
+~
+0 0 8229
+D2
+~
+~
+0 0 8221
+D3
+~
+~
+0 0 8214
+S
+#8223
+The 17th point on the board~
+You find yourself on a chequer point. The floor here is blue.
+~
+82 0 0
+D2
+~
+~
+0 0 8222
+S
+#8224
+The 7th point on the board~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D0
+~
+~
+0 0 8225
+D1
+~
+~
+0 0 8228
+S
+#8225
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D0
+~
+~
+0 0 8226
+D2
+~
+~
+0 0 8224
+D3
+~
+~
+0 0 8218
+S
+#8226
+The 18th point on the board~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D2
+~
+~
+0 0 8225
+D4
+~
+~
+0 0 8230
+S
+#8227
+The south middle rim~
+You stand on the wooden rim of a gigantic backgammon board.
+~
+82 0 5
+D0
+~
+~
+0 0 8228
+D3
+~
+~
+0 0 8216
+S
+#8228
+The middle rim near the south~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril. The hinge looks sturdy and should allow you to cross
+over to the other half of the board. There is a strange bar to the north.
+~
+82 0 5
+D0
+~
+~
+0 0 8229
+D1
+~
+~
+0 0 8232
+D2
+~
+~
+0 0 8227
+D3
+~
+~
+0 0 8224
+S
+#8229
+The Bar~
+The bar is on the wooden rim of a gigantic backgammon board.
+This is where the chequers come to rest when they have been forcibly removed
+from the game. They are unlikely to be happy if they are disturbed.
+~
+82 0 5
+D0
+~
+~
+0 0 8230
+D2
+~
+~
+0 0 8228
+D3
+~
+~
+0 0 8222
+S
+#8230
+The Middle Rim~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril. The hinge looks sturdy and should allow
+you to cross over to the other half of the board. There is a strange bar to
+the south.  
+~
+82 0 5
+D0
+~
+~
+0 0 8231
+D1
+~
+~
+0 0 8234
+D2
+~
+~
+0 0 8229
+D5
+~
+~
+0 0 8226
+S
+#8231
+The Northern Rim of the board~
+You stand on the wooden rim of a gigantic backgammon board.
+~
+82 0 5
+D2
+~
+~
+0 0 8230
+D3
+~
+~
+0 0 8220
+S
+#8232
+The southern hinge~
+The hinge is sturdy and allows you to travel between the two halves of the
+board.
+~
+82 0 5
+D1
+~
+~
+0 0 8236
+D3
+~
+~
+0 0 8228
+S
+#8233
+Down from the game~
+You realise that the drop is too much for you poor body to handle! You Are
+Dead. Still look on the bright side. You wont have to carry all that
+equipment now! Oh by the way, could you please say hello to the angel for me.
+ 
+~
+82 6 0
+S
+#8234
+The northern hinge~
+The hinge is sturdy and allows you to travel between the two halves of the
+board. You can drop down from the game here but I wouldnt advise it, its a
+long way.  
+~
+82 0 5
+D1
+~
+~
+0 0 8238
+D3
+~
+~
+0 0 8230
+D5
+The drop down off the game looks positivly DEADLY!
+~
+~
+0 0 8233
+S
+#8235
+The south middle rim~
+You stand on the wooden rim of a gigantic backgammon board.
+~
+82 0 5
+D0
+~
+~
+0 0 8236
+D1
+~
+~
+0 0 8243
+S
+#8236
+The middle rim near the south~
+you stand on the wooden rim of a gigantic Backgammon board.
+~
+82 0 5
+D0
+~
+~
+0 0 8237
+D2
+~
+~
+0 0 8235
+D3
+~
+~
+0 0 8232
+S
+#8237
+The middle rim~
+You stand on the wooden rim of a gigantic backgammon board.
+~
+82 0 0
+D0
+~
+~
+0 0 8238
+D1
+~
+~
+0 0 8245
+D2
+~
+~
+0 0 8236
+S
+#8238
+The middle rim~
+You stand on the wooden rim of a gigantic backgammon board.
+~
+82 0 0
+D0
+~
+~
+0 0 8239
+D2
+~
+~
+0 0 8237
+D3
+~
+~
+0 0 8234
+S
+#8239
+The Northern edge of the rim~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril.  
+~
+82 0 5
+D1
+~
+~
+0 0 8247
+D2
+~
+~
+0 0 8238
+S
+#8240
+The 6th point on the board~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D0
+~
+~
+0 0 8241
+S
+#8241
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D1
+~
+~
+0 0 8249
+D2
+~
+~
+0 0 8240
+S
+#8242
+The 19th point on the board~
+You find yourself on a chequer point. The floor here is blue.
+~
+82 0 0
+D1
+~
+~
+0 0 8246
+S
+#8243
+on the southern rim~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril.  
+~
+82 0 5
+D0
+~
+~
+0 0 8244
+D1
+~
+~
+0 0 8254
+D3
+~
+~
+0 0 8235
+S
+#8244
+The 5th point on the board~
+You find yourself on a chequer point. The floor here is blue.
+~
+82 0 0
+D0
+~
+~
+0 0 8245
+D1
+~
+~
+0 0 8248
+D2
+~
+~
+0 0 8243
+S
+#8245
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D0
+~
+~
+0 0 8246
+D1
+~
+~
+0 0 8252
+D2
+~
+~
+0 0 8244
+D3
+~
+~
+0 0 8237
+S
+#8246
+The 20th point on the board.~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D2
+~
+~
+0 0 8245
+D3
+~
+~
+0 0 8242
+S
+#8247
+On the northern rim~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril.  
+~
+82 0 5
+D1
+~
+~
+0 0 8258
+D3
+~
+~
+0 0 8239
+S
+#8248
+The 4th point on the board~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D0
+~
+~
+0 0 8249
+D1
+~
+~
+0 0 8251
+D3
+~
+~
+0 0 8244
+S
+#8249
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D0
+~
+~
+0 0 8250
+D1
+~
+~
+0 0 8256
+D2
+~
+~
+0 0 8248
+D3
+~
+~
+0 0 8241
+S
+#8250
+The 21st point on the board~
+You find yourself on a chequer point. The floor here is blue.
+~
+82 0 0
+D2
+~
+~
+0 0 8249
+S
+#8251
+The 3rd point on the board~
+You find yourself on a chequer point. The floor here is blue.
+~
+82 0 0
+D1
+~
+~
+0 0 8255
+D3
+~
+~
+0 0 8248
+S
+#8252
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D0
+~
+~
+0 0 8253
+D1
+~
+~
+0 0 8260
+D3
+~
+~
+0 0 8245
+S
+#8253
+The 22nd point on the board~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D1
+~
+~
+0 0 8257
+D2
+~
+~
+0 0 8252
+S
+#8254
+On the southern rim~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril.  
+~
+82 0 5
+D0
+~
+~
+0 0 8255
+D1
+~
+~
+0 0 8262
+D3
+~
+~
+0 0 8243
+S
+#8255
+The 2nd point on the board~
+You find yourself on a chequer point. The floor here is red.
+~
+82 0 0
+D0
+~
+~
+0 0 8256
+D1
+~
+~
+0 0 8259
+D2
+~
+~
+0 0 8254
+D3
+~
+~
+0 0 8251
+S
+#8256
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D0
+~
+~
+0 0 8257
+D1
+~
+~
+0 0 8263
+D2
+~
+~
+0 0 8255
+D3
+~
+~
+0 0 8249
+S
+#8257
+The 23rd point on the board~
+You find yourself on a chequer point. The floor here is blue.
+~
+82 0 0
+D0
+~
+~
+0 0 8258
+D2
+~
+~
+0 0 8256
+D3
+~
+~
+0 0 8253
+S
+#8258
+On the northern rim~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril.  
+~
+82 0 5
+D1
+~
+~
+0 0 8265
+D2
+~
+~
+0 0 8257
+D3
+~
+~
+0 0 8247
+S
+#8259
+The 1st point on the board~
+A point on the Backgammon board.
+~
+82 0 0
+D3
+~
+~
+0 0 8255
+S
+#8260
+On an unmarked part of the board~
+You scan the area but can see nothing but the exits.
+If fact you are aMAZEd at the lack of detail!
+~
+82 0 0
+D0
+~
+~
+0 0 8261
+D3
+~
+~
+0 0 8252
+S
+#8261
+The 24th point on the board~
+You find yourself on a chequer point. The floor here is red. Dust that swirls
+around forever trapped in this corner affects your ability to use magic here.
+~
+82 128 0
+D2
+~
+~
+0 0 8260
+S
+#8262
+The south east corner of the rim~
+You stand on the wooden rim of a gigantic backgammon board. Below you can see
+a backgammon game in progress. There is no way down to the playing area, but
+you can drop off the game here. It does look a long way down though.  
+~
+82 0 5
+D0
+~
+~
+0 0 8263
+D3
+~
+~
+0 0 8254
+D5
+The drop down off the game looks positivly DEADLY.
+~
+~
+0 0 8233
+S
+#8263
+On the eastern rim~
+You stand on the wooden rim of a gigantic backgammon board. Staying on the rim
+is the quickest way around the game board. There is also the opportunity to
+enter the game area, at your peril.  
+~
+82 0 5
+D0
+~
+~
+0 0 8264
+D2
+~
+~
+0 0 8262
+D3
+~
+~
+0 0 8256
+S
+#8264
+On the eastern rim~
+You stand on the wooden rim of a gigantic backgammon board.
+~
+82 0 0
+D0
+~
+~
+0 0 8265
+D2
+~
+~
+0 0 8263
+S
+#8265
+The north east corner of the rim~
+You stand on the wooden rim of a gigantic backgammon board.
+~
+82 0 0
+D2
+~
+~
+0 0 8264
+D3
+~
+~
+0 0 8258
+S
+#8293
+The Dragon Sea~
+You are in an unfinished room.
+~
+82 0 0
+S
+$~

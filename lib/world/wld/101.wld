@@ -1,0 +1,2486 @@
+#10100
+Welcome to Coruscant~
+As you step off the landing pad, you awe in wonderment of the great city around
+you.  And it is just that.  The entire planet is just one city.  This is the
+center of the known galaxy.  Coruscant is the seat of the Empire and is home to
+the Emperor himself.
+
+You see a sign here.  Maybe you should read it.
+~
+101 262160 1
+D2
+You see the great city of Curuscant in all its glory.
+~
+~
+0 0 10101
+D4
+~
+~
+0 0 9973
+E
+sign~
+Welcome to the Imperial City of Coruscant.
+Remember the Empire is always watching you and you are guilty, period.
+All enemies of the Empire shall be shot on sight, no questions at all.
+~
+S
+#10101
+Coruscant Way~
+You are standing in the middle of the main jet way of Coruscant.  You can see
+the great towers of this city all around you.  Citizens of the Empire and 
+the protectors of the Empire are all around you.  You  must be careful.
+
+To the north is the shuttle landing pad, the only legal immigration point into
+the city.  To the south you can see the biggest tower of the city, the Imperial
+Senate Building.
+~
+101 0 1
+D0
+You look at the shuttle landing pad.  The only legal way in and out of the city.
+~
+~
+0 0 10100
+D2
+You see the Imperial Senate Tower, a building so big you can see nothing else.
+~
+~
+0 0 10102
+S
+#10102
+The doorway to the Imperial Senate.~
+Now you are in the centermost part of the city.  To the east you can see the
+shops of local merchants.  To the west you can see what seems to be like guild
+halls of some sort.  The stairs leading above you go onto the floor of the 
+Senate where the laws of the Empire are debated daily.  Down you will find the 
+basement of this great building.  North takes you toward the shuttle landing
+pad and south takes you towards two great towers.
+~
+101 8 1
+D0
+You see the start of Curuscant Way.
+~
+~
+0 0 10101
+D1
+You see the begining of the merchant jet way.
+~
+~
+0 0 10105
+D2
+You see the continuation of Curuscant Way towards two huge towers.
+~
+~
+0 0 10103
+D3
+You see the begining of the Guild jet way.
+~
+~
+0 0 10109
+D4
+You see the Senate Lounge.
+~
+~
+0 0 10153
+D5
+You see the basement.
+~
+~
+1 0 10141
+E
+statue statu stat sta st~
+You see a the great statue of Emperor Palpatine, the ruler of the Empire.
+As you stare into his face, you see no fear.  You see a wise, ruthless
+ruler who will crush all opposition to his law.  You remember the rumors
+of the Emperor seeing and knowing all.  Just as this thought leaves your
+mind you think you see the statue's eyes following your every move. . .
+~
+S
+#10103
+Coruscant Way~
+Continuing along the main jet way to what seem like two more great towers.  You
+cannot tell from the distance as to what they are, but both are mighty and look
+like they have been there for eons.
+~
+101 0 1
+D0
+You see the Imperial Senate building in all its glory.
+~
+~
+0 0 10102
+D2
+You see a split in the jet way.
+~
+~
+0 0 10104
+S
+#10104
+Before the crossroads.~
+You are just before the crossroads on the jetway between the two old towers.
+~
+101 0 1
+D0
+You see the jetway towards the Imperial Senate building.
+~
+~
+0 0 10103
+D2
+Nothing.
+You see the comming together of two jetways.
+~
+~
+0 0 10129
+S
+#10105
+The merchant jet way.~
+You are standing on the merchant jet way to the shops of Coruscant.  North of
+here are weapon shops.  Some are run by the Empire and others, are lets just
+say, not totally legal.  South of here is the entrance to the Imperial Bank.
+West takes you further down the merchant jet way and east is Coruscant Way.
+~
+101 0 1
+D0
+You see the Imperial Weapons Shop
+~
+~
+0 0 10119
+D1
+You see the continuation of the Merchant Way.
+~
+~
+0 0 10106
+D2
+You see the entrance to the Curuscant Bank.
+~
+~
+0 0 10123
+D3
+You see the entrance to the Imperial Senate building.
+~
+~
+0 0 10102
+S
+#10106
+The merchant jet way.~
+You are standing near the red light district of the merchant jet way.  Yes 
+even Imperial troops must have there down time.  To the south are all the 
+bars and leisure palaces of Curuscant.  To the west and east the merchant jet
+way continues.  To the north is the nick nack store.
+~
+101 0 1
+D0
+You see the nik-nak store.
+~
+~
+0 0 10122
+D1
+You see the end of the merchant jet way.
+You see the continuation of the merchant jet way.
+~
+~
+0 0 10107
+D2
+You see the entrance to the Curuscant Bar.
+~
+~
+0 0 10124
+D3
+You see the begining of the merchant jet way.
+Off in the distance you can see the Imperial Senate building.
+~
+~
+0 0 10105
+S
+#10107
+The merchant jet way.~
+You are standing here wondering what on earth is going on.  You think that the 
+buildings that were once so close seem so far away now.  This jet way is taking
+forever.  To the west and east lie more of the merchant way.
+~
+101 0 1
+D0
+~
+~
+0 0 9981
+D1
+You see the end of the merchant jet way.
+~
+~
+0 0 10108
+D3
+You see the continuation of the merchant jet way
+~
+~
+0 0 10106
+S
+#10108
+End of the Merchant jet way.~
+Finally, the end of the jet way.  North of here you can see the armour shop of
+Curuscant.  South of here is the magic shop of Curuscant.  Back to the west,
+you can start the long journey to the main part of the city.
+~
+101 0 1
+D0
+You see the Imperial Armory.
+~
+~
+0 0 10127
+D2
+You see the Magic shop of Curuscant.
+~
+~
+0 0 10128
+D3
+You see the merchant jet way.
+~
+~
+0 0 10107
+S
+#10109
+The guild jet way.~
+You are standing at the start of the way of the guilds.  This entier jet way
+has been dedicated to the guilds started long before you were born.  To the  
+north is the guild of the swordsmen.  To the south that guild of the mage.
+East takes you back to the center of town and west further down the jet way.
+~
+101 0 1
+D0
+You see the warriors guild.
+~
+~
+0 0 10117
+D1
+You see the entrance to the Imperial Senate building.
+~
+~
+0 0 10102
+D2
+You see the mage's guild.
+~
+~
+0 0 10118
+D3
+You see the rest of the guild jet way.
+~
+~
+0 0 10110
+S
+#10110
+The guild jet way.~
+More of the jet way.  Again guilds surround you.  To the south is the guild of 
+the Witchunters and north the guild of thieves.  To the east and west lie the 
+continuation of the jet way.
+~
+101 0 1
+D0
+You see the thieve's guild.
+~
+~
+0 0 10116
+D1
+You see the begining of the guild jet way.
+~
+~
+0 0 10109
+D2
+You see the witchunter's guild.
+~
+~
+0 0 10115
+D3
+You see the end of the guild jet way.
+~
+~
+0 0 10111
+S
+#10111
+The end of the guild jet way.~
+You are standing beofe the final three guilds.  To the north are the
+Avatars, to teh west the clerics, and to the south the druids.  Back to the
+east is the jet way to the rest of Coruscant.
+~
+101 0 1
+D0
+You see the avantar guild.
+~
+~
+0 0 10113
+D1
+You see the guild jet way.
+~
+~
+0 0 10110
+D2
+You see the druid guild.
+~
+~
+0 0 10114
+D3
+You see the cleric's guild.
+~
+~
+0 0 10112
+S
+#10112
+Coruscant's Cleric Guild~
+You are standing in the Guild of the Coruscant Clerics.  Known for their great
+wisdom and dexterity, these clerics are the most respected clerics of all the
+galaxy.  Their peace keeping efforts have averted many a war in their time.
+Now, their power is all but extinct.
+~
+101 220 1
+D1
+You see the guild jet way.
+~
+~
+0 0 10111
+S
+#10113
+Coruscant's Avatar Guild~
+You are standing in the Guild of the Coruscant Avatars.  Known for their great
+power and lack of emotion, these avatars are the most feared avatars of all the
+galaxy.  Their peace keeping efforts have averted many a war in their time.
+Now, their power is all but extinct.
+~
+101 220 0
+D2
+You see the guild jet way.
+~
+~
+0 0 10111
+S
+#10114
+Coruscant's Druid Guild~
+You are standing in the Guild of the Coruscant Druids.  Known for their great
+wisdom and power, these druids are the most respected druids of all the
+galaxy.  Their peace keeping efforts have averted many a war in their time.
+Now their power is all but extinct.
+~
+101 220 0
+D0
+You see the guild jet way.
+~
+~
+0 0 10111
+S
+#10115
+Coruscant's Witchunter Guild~
+You are standing in the Guild of the Coruscant Witchunters.  Known for their 
+great power and lack of fear, these witchunters are the most feared
+of all the galaxy.  Their peace keeping efforts have averted many a war in
+their time.  Now their power is all but extinct.
+~
+101 220 0
+D0
+You see the guild jet way.
+~
+~
+0 0 10110
+S
+#10116
+Coruscant's Thief Guild~
+You are standing in the Guild of the Coruscant Thieves.  Known for their great
+cunning and dexterity, these thieves are the most feared thieves of all the
+galaxy.  Their peace keeping efforts have averted many a war in their time.
+Now, their power is all but extinct.
+~
+101 220 0
+D2
+You see the guild jet way.
+~
+~
+0 0 10110
+S
+#10117
+Coruscant's Warrior Guild~
+You are standing in the Guild of the Coruscant Warriors.  Known for their great
+power, dexterity, and strength, these warriors are the most feared of all the
+galaxy.  Their peace keeping efforts have averted many a war in their time.
+Now, their power is all but extinct.
+~
+101 220 0
+D2
+You see the guild jet way.
+~
+~
+0 0 10109
+S
+#10118
+Coruscant's Mage Guild~
+You are standing in the Guild of the Coruscant mages.  Known for their great
+wisdon and intelligence, these mages are the most feared of all the
+galaxy.  Their peace keeping efforts have averted many a war in their time.
+Now, their power is all but extinct.
+~
+101 220 0
+D0
+You see the guild jet way.
+~
+~
+0 0 10109
+S
+#10119
+The Imperial Weapons Store~
+You are stading in front of the Imperial arms dealer.  I wouldnt try
+to ask him for weapons without the proper Imperial identification.  You can see
+blasters of all sorts and a variety of thermal detonators just laying all about
+this shop.  There is a sign on the wall, you should perhaps read it.
+~
+101 136 0
+D0
+You see the Imperial Bread and Water Store.
+~
+~
+0 0 10120
+D2
+You see the merchant jet way.
+~
+~
+0 0 10105
+E
+sign sig si~
+You must have the proper permit to purchase a weapon.  Either that or a 
+load of credits.  No permit, no credits, no business.
+
+Type 'LIST' to see a list of the Empire's finest weaponry.
+~
+S
+#10120
+The Imperial Bread and Water Store~
+You can see a variety of different types of bread and water containers laying
+about.  But you wonder what an Imperial bread and water store is doing on this 
+street.  Perhaps you should talk to the owner of the store.
+~
+101 136 0
+D1
+You don't see anything important...
+~
+secret secre secr sec se~
+2 10138 10121
+D2
+You see the Imperial Weapons Store.
+~
+~
+0 0 10119
+S
+#10121
+The Underground Weapons Market.~
+Weapons.  Weapons.  Weapons.  If you want a good, slightly used, standard 
+Imperial issue blaster, then you have come to the right place.  However, if you
+are looking for something with a little more kick, other weapons are here
+for your amusement.  Blasters, bowcasters, detonators, and not to mention
+lightsabers saved from the old republic.
+~
+101 201 0
+D3
+You see the Imperial Bread and Water Shop.
+~
+door~
+1 0 10120
+S
+#10122
+The Coruscant Nik-Nak Store.~
+"What a pile of junk!" you think to yourself.  That is all this nik-nak 
+store sells, junk.  You can see a variety of stuff laying around from
+droid parts, hyperdrive motivators, to hydrospanders.  You wonder where the
+store owner is in all this mess.  
+~
+101 0 0
+D2
+You see the merchant jet way.
+~
+~
+0 0 10106
+S
+#10123
+Before the Imperial Bank of Coruscant.~
+Below you is the enterance to the Imperial Bank of Coruscant.  You wonder
+if your money would ever be safe in the hands of the Empire.
+To the north is the merchant jet way, and to the east is the 'red-light'
+district of Coruscant.
+~
+101 0 0
+D0
+You see the merchant jet way.
+~
+~
+0 0 10105
+D1
+You see the entrance to the Curuscant Bar.
+~
+~
+0 0 10124
+D5
+You see the Imperial Bank.
+~
+~
+0 0 10145
+S
+#10124
+The entrance to the Coruscant Bar.~
+Down the stairs is the entrance into the Coruscant Bar.  It is rather clean
+foe being in this part of the city.  The Imperial Senate Building looms over
+head and the house of many pleasures is south of here.  To the west is the
+entrance to the bank and to the north is the merchant jet way.
+~
+101 0 0
+D0
+You see the merchant jet way.
+~
+~
+0 0 10106
+D2
+You see the pleasure dome of the Hutts.
+~
+~
+0 0 10125
+D3
+You see the entrance to the bank.
+~
+~
+0 0 10123
+D5
+You see the lounge of the bar.
+~
+~
+0 0 10147
+S
+#10125
+The pleasure dome.~
+You are standing in the pleasure dome.  You wonder how all these freaks got  
+past the immigration stations at the spaceport.  There are aliens from all 
+over the galaxy here.  This place is rumored to be run by a Hutt.  You hope  
+that you dont have a run in with him.  You hear a rumor of a secret space 
+port to all the other parts of the galaxy.  But where do you get a charter?
+~
+101 0 0
+D0
+You can see the entrance to the Curuscant Bar.
+~
+~
+0 0 10124
+D1
+~
+blastdoor blastdoo blastdo blastd blast blas bla bl~
+2 10139 10126
+D4
+~
+~
+0 0 -1
+S
+#10126
+Black Market Spaceport.~
+You are standing in the space port of the underworld.  You see smugglers of all
+sorts here and there with their cargo of who knows what.  If any Imperial
+Troops were to make it into here, there would be hell to pay.  You can see
+several ships here awaiting your boarding pass so you can go to whatever your
+destination might be.  There is a sign here that you might wanna read.
+~
+101 0 0
+D0
+You see the airlock.
+~
+airlock airloc airlo airl air ai~
+2 0 9978
+D1
+You see the airlock.
+~
+airlock airloc airlo airl air ai~
+2 0 9977
+D2
+You see the airlock.
+~
+airlock airloc airlo airl air ai~
+2 0 9976
+D3
+You see the pleasure dome of the Hutts.
+~
+blastdoors blastdoor blastdoo blastdo blastd blast blas bla bl~
+1 10139 10125
+D4
+You see the airlock.
+~
+airlock airloc airlo airl air ai~
+2 0 9974
+S
+#10127
+The Coruscant Armory.~
+You walk into one of the finest stores in all of Coruscant.  Layed
+out before you are all the uniforms of the Imperial Army and Navy.  Storm
+Troopers, Walker Commanders, and Officer's uniforms predominate the
+scene.  You see several clerks helping other customers get fitted.  You
+think you might find some important officers here, but then again you
+might want to fear for your life. . .
+~
+101 200 0
+D2
+You see the merchant jet way.
+~
+~
+0 0 10108
+S
+#10128
+The Coruscant Magic Shop.~
+You are standing in what seems to be a magical room.  Everything here seems
+to glow and pulsate.  You have a feeling that an ancient magic fills this room.
+You see a wierd looking creature standing behind the counter wondering what
+the hell you are doing in his shop.
+
+To the north you can see the merchant jetway.
+~
+101 0 0
+D0
+You see the merchant jetway.
+~
+~
+0 0 10108
+S
+#10129
+The crossroads.~
+You stand in the middle of two jet ways.  The jet way to the west takes you
+to one of the huge residence buildings on Coruscant.  To the east lies the
+ancient building of the Jedi Counsel.
+~
+101 0 0
+D0
+You see the jet way back to Curuscant.
+~
+~
+0 0 10104
+D1
+You see the gate to the residence tower.
+~
+~
+0 0 10130
+D3
+You see the gate to the Jedi Counsel.
+~
+~
+0 0 10131
+S
+#10130
+The gate of the Residence Building.~
+You are standing before the great gate of this colossal building.  It
+seems to be as high as the sky and nearly as thick.  You look for a 
+doorknob but then realize it is only an illusion.  To the east is the
+jetway back to Coruscant and the Jedi Tower.  To the west is the
+residence building.
+~
+101 0 0
+D1
+You see the path to the residence tower.
+~
+~
+0 0 9983
+D3
+You see the crossroads.
+~
+~
+0 0 10129
+S
+#10131
+The gate to the Jedi Counsel.~
+You are standing before the gate into the courtyard of the Jedi Counsel
+Tower.  You can see various statues of Jedi of the past.  You wonder
+how this most beautiful building of this city could be in such ruin.
+There seems to be a great power coursing through the air and your body.
+You can almost feel the force flowing through you.
+~
+101 0 0
+D1
+You see the crossroads.
+~
+~
+0 0 10129
+D3
+You see the gate to the Jedi Tower.
+~
+gate gat ga~
+1 0 9929
+S
+#10132
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D0
+You see more of the basement.
+~
+~
+0 0 10133
+D1
+You see more of the basement.
+~
+~
+0 0 10135
+D2
+You see more of the basement.
+~
+~
+0 0 10137
+D3
+You see more of the basement.
+~
+~
+0 0 10139
+D4
+~
+automatic~
+3 0 10102
+S
+#10133
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D0
+You see more of the basement.
+~
+~
+0 0 10141
+D1
+You see more of the basement.
+~
+~
+0 0 10134
+D2
+You see more of the basement.
+~
+~
+0 0 10132
+D3
+You see more of the basement.
+~
+~
+0 0 10140
+S
+#10134
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D2
+You see more of the basement.
+~
+~
+0 0 10135
+D3
+You see more of the basement.
+~
+~
+0 0 10133
+S
+#10135
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D0
+You see more of the basement.
+~
+~
+0 0 10134
+D1
+You see more of the basement.
+~
+~
+0 0 10142
+D2
+You see more of the basement.
+~
+~
+0 0 10136
+D3
+You see more of the basement.
+~
+~
+0 0 10132
+S
+#10136
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D0
+You see more of the basement.
+~
+~
+0 0 10135
+D3
+You see more of the basement.
+~
+~
+0 0 10137
+S
+#10137
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D0
+You see more of the basement.
+~
+~
+0 0 10132
+D1
+You see more of the basement.
+~
+~
+0 0 10136
+D2
+You see more of the basement.
+~
+~
+0 0 10143
+D3
+You see more of the basement.
+~
+~
+0 0 10138
+S
+#10138
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D0
+You see more of the basement.
+~
+~
+0 0 10139
+D1
+You see more of the basement.
+~
+~
+0 0 10137
+S
+#10139
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D0
+You see more of the basement.
+~
+~
+0 0 10140
+D1
+You see more of the basement.
+~
+~
+0 0 10132
+D2
+You see more of the basement.
+~
+~
+0 0 10138
+D3
+You see more of the basement.
+~
+~
+0 0 10144
+S
+#10140
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D1
+You see more of the basement.
+~
+~
+0 0 10133
+D2
+You see more of the basement.
+~
+~
+0 0 10139
+S
+#10141
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 173 0
+D2
+You see more of the basement.
+~
+~
+0 0 10133
+S
+#10142
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D3
+You see more of the basement.
+~
+~
+0 0 10135
+S
+#10143
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D0
+You see more of the basement.
+~
+~
+0 0 10137
+S
+#10144
+The basement.~
+All you can see down here is basement.  More and more basement.
+It goes on and on and on forever.  You wonder what in the name
+of hell can be down here.
+~
+101 169 0
+D1
+You see more of the basement.
+~
+~
+0 0 10139
+S
+#10145
+The Imperial Bank of Coruscant~
+You are standing in the reception of the Imperial Bank of Coruscant.
+You see an automatic teller machine here.  Also to the east there is a
+door to the Imperial vault.  Yeah, like you will ever get through that.
+~
+101 476 0
+D1
+You see the Imperial Vault, it seems inpenetrable.
+~
+Vault vaul vau va~
+1 0 10146
+D4
+You see the entrance to the bank.
+~
+~
+0 0 10123
+S
+#10146
+The Imperial Vault.~
+You are somehow standing in the Imperial Vault.  Suddenly, an alarm sounds
+and you are surrounded by hundreds of Imperial Troops.  Thinking back to that
+sign at the Shuttle Port, the last words through your mind are "You are guilty
+period. . .will be shot on sight."
+
+All of the troops open fire at once.
+
+As you feel the laser blasts rip through your body, you think that this was a
+bad idea.
+
+You are dead.
+
+
+~
+101 226 0
+D3
+You cannot see shit, you are dead.
+~
+~
+0 0 10145
+S
+#10147
+Coruscant Bar - In the Lounge~
+You are standing in the lounge of the Coruscant Bar.  People socializing
+and drinking all around you.  The bouncer says, "Come on it, get a drink...
+NOW!!!"  You had better do as he says as he is quite large.  You can go up
+the stairs to the Entrance or go into the bar to the east.
+~
+101 200 0
+D1
+You see the bar, damn you need a drink.
+~
+~
+0 0 10148
+D4
+You see the entrance to the bar.
+~
+~
+0 0 10124
+S
+#10148
+Coruscant Bar - Next to the bar~
+You come and decide to get a drink.  The bartender is here wondering what the
+hell you want to drink.  He turns to you and asks, "What do you want?"
+~
+101 200 0
+D1
+You see the other end of the bar.
+~
+~
+0 0 10149
+D3
+You see the lounge of the bar.
+~
+~
+0 0 10147
+S
+#10149
+The end of the bar.~
+You are standing at the end of the bar.  Drunks galore are around you.
+Looks like this place can get kinda rowdy if not for the presence of the
+Imperial Troops.  You think to yourself that you had better not start
+anything or you might end up dead.
+~
+101 0 0
+D3
+You see the other end of the bar.
+~
+~
+0 0 10148
+D5
+You don't see anything important...
+~
+door doo do~
+3 0 10198
+S
+#10150
+The Senate Lounge~
+You are standing the lounge of the senate tower.  This is rather spacious
+place with soft cushy seats and lots of refreshments for the busy senators
+who you can see running about debating the laws of the galaxy.  In fact, the
+Senate is in session right now.
+~
+101 0 0
+D0
+You see more of the lounge.
+~
+~
+0 0 10153
+D1
+You see more of the lounge.
+~
+~
+0 0 10151
+D4
+You see the senate floor.
+~
+~
+0 0 10155
+S
+#10151
+The Senate Lounge~
+You are standing the lounge of the senate tower.  This is rather spacious
+place with soft cushy seats and lots of refreshments for the busy senators
+who you can see running about debating the laws of the galaxy.  In fact, the
+Senate is in session right now.
+~
+101 0 0
+D0
+You see more of the lounge.
+~
+~
+0 0 10152
+D3
+You see more of the lounge.
+~
+~
+0 0 10150
+D4
+You see the senate floor.
+~
+~
+0 0 10156
+S
+#10152
+The Senate Lounge~
+You are standing the lounge of the senate tower.  This is rather spacious
+place with soft cushy seats and lots of refreshments for the busy senators
+who you can see running about debating the laws of the galaxy.  In fact, the
+Senate is in session right now.
+~
+101 0 0
+D2
+You see more of the lounge.
+~
+~
+0 0 10151
+D3
+You see more of the lounge.
+~
+~
+0 0 10153
+D4
+You see the senate floor.
+~
+~
+0 0 10157
+S
+#10153
+The Senate Lounge~
+You are standing the lounge of the senate tower.  This is rather spacious
+place with soft cushy seats and lots of refreshments for the busy senators
+who you can see running about debating the laws of the galaxy.  In fact, the
+Senate is in session right now.
+
+Down the stairs you can see the entrance to the Senate Building.  Or you can
+go up any one of the stair ways onto the Senate Floor.
+~
+101 4 0
+D1
+You see more of the lounge.
+~
+~
+0 0 10152
+D2
+you see more of the lounge.
+~
+~
+0 0 10150
+D4
+You see the senate floor.
+~
+~
+0 0 10154
+D5
+You see the entrance to the Senate Building.
+~
+~
+0 0 10102
+S
+#10154
+The Senate Floor.~
+You are standing the bottom floor of the Imperial Senate.  You can see the
+Senators and Deligates from all the constituent planets of the Empire in their
+respective Senate Boxes above.  You can step into on of the boxes here and go
+up.  Or you could go into the center of the senate and go up to where the high
+counsel sits.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10159
+D1
+You see the lift up to the high counsel.
+~
+~
+0 0 10186
+D2
+You see the senate floor.
+~
+~
+0 0 10155
+D3
+You see a senator's box.
+~
+~
+0 0 10161
+D5
+You see the senate lounge.
+~
+~
+0 0 10153
+S
+#10155
+The Senate Floor.~
+You are standing the bottom floor of the Imperial Senate.  You can see the
+Senators and Deligates from all the constituent planets of the Empire in their
+respective Senate Boxes above.  You can step into on of the boxes here and go
+up.  Or you could go into the center of the senate and go up to where the high
+counsel sits.
+~
+101 137 0
+D0
+You see the senate floor.
+~
+~
+0 0 10154
+D1
+You see the lift to the high counsel.
+~
+~
+0 0 10186
+D2
+You see a senator's box.
+~
+~
+0 0 10164
+D3
+You see a senator's box.
+~
+~
+0 0 10162
+D5
+You see the Senate Lounge.
+~
+~
+0 0 10150
+S
+#10156
+The Senate Floor.~
+You are standing the bottom floor of the Imperial Senate.  You can see the
+Senators and Deligates from all the constituent planets of the Empire in their
+respective Senate Boxes above.  You can step into on of the boxes here and go
+up.  Or you could go into the center of the senate and go up to where the high
+counsel sits.
+~
+101 137 0
+D0
+~
+~
+0 0 10157
+D1
+You see a senator's box.
+~
+~
+0 0 10167
+D2
+You see a senator's box.
+~
+~
+0 0 10165
+D3
+You see the lift to the high counsel.
+~
+~
+0 0 10186
+D5
+You see the senate lounge.
+~
+~
+0 0 10151
+S
+#10157
+The Senate Floor.~
+You are standing the bottom floor of the Imperial Senate.  You can see the
+Senators and Deligates from all the constituent planets of the Empire in their
+respective Senate Boxes above.  You can step into on of the boxes here and go
+up.  Or you could go into the center of the senate and go up to where the high
+counsel sits.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10158
+D1
+You see a senator's box.
+~
+~
+0 0 10168
+D2
+You see the Senate Floor.
+~
+~
+0 0 10156
+D3
+You see the lift to the high counsel.
+~
+~
+0 0 10186
+D5
+You see the Senate Lounge.
+~
+~
+0 0 10152
+S
+#10158
+A Senator's Box.~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D1
+You see a senator's box.
+~
+~
+0 0 10169
+D2
+You see the Senate Floor.
+~
+~
+0 0 10157
+D3
+You see a senator's box.
+~
+~
+0 0 10159
+D4
+You see a senator's box.
+~
+~
+0 0 10181
+S
+#10159
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D1
+You a senator's box.
+~
+~
+0 0 10158
+D2
+You see the floor of the senate.
+~
+~
+0 0 10154
+D3
+You a senator's box.
+~
+~
+0 0 10160
+D4
+You a senator's box.
+~
+~
+0 0 10179
+S
+#10160
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D1
+You a senator's box.
+~
+~
+0 0 10159
+D2
+You a senator's box.
+~
+~
+0 0 10161
+D4
+You a senator's box.
+~
+~
+0 0 10179
+S
+#10161
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D0
+You a senator's box.
+~
+~
+0 0 10160
+D1
+You see the floor of the senate.
+~
+~
+0 0 10154
+D2
+You a senator's box.
+~
+~
+0 0 10162
+D4
+You a senator's box.
+~
+~
+0 0 10178
+S
+#10162
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10161
+D1
+You see the senate floor.
+~
+~
+0 0 10155
+D2
+You see a senator's box.
+~
+~
+0 0 10163
+D4
+You see a senator's box.
+~
+~
+0 0 10177
+S
+#10163
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10162
+D1
+You see a senator's box.
+~
+~
+0 0 10164
+D4
+You see a senator's box.
+~
+~
+0 0 10176
+S
+#10164
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D0
+You see the senate floor.
+~
+~
+0 0 10155
+D1
+You see a senator's box.
+~
+~
+0 0 10165
+D3
+You see a senator's box.
+~
+~
+0 0 10163
+D4
+You see a senator's box.
+~
+~
+0 0 10175
+S
+#10165
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D0
+You see the senate floor.
+~
+~
+0 0 10156
+D1
+You see a senator's box.
+~
+~
+0 0 10166
+D3
+You see a senator's box.
+~
+~
+0 0 10164
+D4
+You see a senator's box.
+~
+~
+0 0 10174
+S
+#10166
+A Senator's Box.~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D0
+
+You see a senator's box.
+~
+~
+0 0 10167
+D3
+You see a senator's box.
+~
+~
+0 0 10165
+D4
+You see a senator's box.
+~
+~
+0 0 10173
+S
+#10167
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10168
+D2
+You see a senator's box.
+~
+~
+0 0 10166
+D3
+You see the floor of the senate.
+~
+~
+0 0 10156
+D4
+You see a senator's box.
+~
+~
+0 0 10172
+S
+#10168
+A Senator's Box.~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10169
+D2
+You see a senator's box.
+~
+~
+0 0 10167
+D3
+You see the Senate Floor.
+~
+~
+0 0 10157
+D4
+You see a senator's box.
+~
+~
+0 0 10171
+S
+#10169
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb up or down to another box.
+~
+101 137 0
+D2
+You see a senator's box.
+~
+~
+0 0 10168
+D3
+You see a senator's box.
+~
+~
+0 0 10158
+D4
+You see a senator's box.
+~
+~
+0 0 10170
+S
+#10170
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D2
+You see a senator's box.
+~
+~
+0 0 10171
+D3
+You see a senator's box.
+~
+~
+0 0 10180
+D5
+You see a senator's box.
+~
+~
+0 0 10169
+S
+#10171
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10170
+D2
+You see a senator's box.
+~
+~
+0 0 10172
+D3
+You see the second tier of the Senate.
+~
+~
+0 0 10182
+D5
+You see a senator's box.
+~
+~
+0 0 10168
+S
+#10172
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10171
+D2
+You see a senator's box.
+~
+~
+0 0 10173
+D3
+You see the second tier of the Senate.
+~
+~
+0 0 10183
+D5
+You see a senator's box.
+~
+~
+0 0 10167
+S
+#10173
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10172
+D3
+You see a senator's box.
+~
+~
+0 0 10174
+D5
+You see a senator's box.
+~
+~
+0 0 10166
+S
+#10174
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D0
+You see the second tier of the senate.
+~
+~
+0 0 10183
+D1
+You see a senator's box.
+~
+~
+0 0 10173
+D3
+You see a senator's box.
+~
+~
+0 0 10175
+D5
+You see a senator's box.
+~
+~
+0 0 10165
+S
+#10175
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D0
+You see the second tier of the senate.
+~
+~
+0 0 10184
+D1
+You see a senator's box.
+~
+~
+0 0 10174
+D3
+You see a senator's box.
+~
+~
+0 0 10176
+D5
+You see a senator's box.
+~
+~
+0 0 10164
+S
+#10176
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10177
+D1
+You see a senator's box.
+~
+~
+0 0 10175
+D5
+You see a senator's box.
+~
+~
+0 0 10163
+S
+#10177
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10178
+D1
+You see the second tier of the senate.
+~
+~
+0 0 10184
+D2
+You see a senator's box.
+~
+~
+0 0 10176
+D5
+You see a senator's box.
+~
+~
+0 0 10162
+S
+#10178
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10179
+D1
+You see the second tier of the senate.
+~
+~
+0 0 10185
+D2
+You see a senator's box.
+~
+~
+0 0 10177
+D5
+You see a senator's box.
+~
+~
+0 0 10161
+S
+#10179
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D1
+You see a senator's box.
+~
+~
+0 0 10180
+D2
+You see a senator's box.
+~
+~
+0 0 10178
+D5
+You a senator's box.
+~
+~
+0 0 10160
+S
+#10180
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D1
+You see a senator's box.
+~
+~
+0 0 10181
+D2
+You see the second tier of the Senate.
+~
+~
+0 0 10185
+D3
+You see a senator's box.
+~
+~
+0 0 10179
+D5
+You see a senator's box.
+~
+~
+0 0 10159
+S
+#10181
+A Senator's Box~
+You are standing in a Senator's Box.  It is remarkable how alike all these
+boxes are.  I guess it is only fair that the Empire does not play favorites.
+There are a couple seats here and a microphone so that the deligate can 
+address the entire Senate.  Also, you see that this entire box is mobile so
+that deligates can debate each other on the Senate Floor without ever
+leaving their respective box.  You can jump to other boxes on either side of
+you or you can climb down to another box.
+~
+101 137 0
+D1
+You see a senator's box.
+~
+~
+0 0 10170
+D2
+You see the second tier of the senate.
+~
+~
+0 0 10182
+D3
+You see a senator's box.
+~
+~
+0 0 10180
+D5
+You see a senator's box.
+~
+~
+0 0 10158
+S
+#10182
+Second tier of the Senate.~
+You are standing on the second tier of boxes for the senate.
+You can see all the way down to the floor of the senate without
+any obstructions.  Above you looms the platform of the High Counsel
+and the chamber of the High Consulat.   Around you are the boxes of
+more deligates and there is also a lift here.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10181
+D1
+You see a senator's box.
+~
+~
+0 0 10171
+D2
+You see the second tier of the senate.
+~
+~
+0 0 10183
+D3
+You see the lift.
+~
+~
+0 0 10187
+S
+#10183
+Second tier of the Senate.~
+You are standing on the second tier of boxes for the senate.
+You can see all the way down to the floor of the senate without
+any obstructions.  Above you looms the platform of the High Counsel
+and the chamber of the High Consulat.   Around you are the boxes of
+more deligates and there is also a lift here.
+~
+101 137 0
+D0
+You see the second tier of the senate.
+~
+~
+0 0 10182
+D1
+You see a senator's box.
+~
+~
+0 0 10172
+D2
+You see a senator's box.
+~
+~
+0 0 10174
+D3
+You see the lift.
+~
+~
+0 0 10187
+S
+#10184
+Second tier of the Senate.~
+You are standing on the second tier of boxes for the senate.
+You can see all the way down to the floor of the senate without
+any obstructions.  Above you looms the platform of the High Counsel
+and the chamber of the High Consulat.   Around you are the boxes of
+more deligates and there is also a lift here.
+~
+101 137 0
+D0
+You see the second tier of the senate.
+~
+~
+0 0 10185
+D1
+You see the lift.
+~
+~
+0 0 10187
+D2
+You see a senator's box.
+~
+~
+0 0 10175
+D3
+You see a senator's box.
+~
+~
+0 0 10177
+S
+#10185
+Second tier of the Senate.~
+You are standing on the second tier of boxes for the senate.
+You can see all the way down to the floor of the senate without
+any obstructions.  Above you looms the platform of the High Counsel
+and the chamber of the High Consulat.   Around you are the boxes of
+more deligates and there is also a lift here.
+~
+101 137 0
+D0
+You see a senator's box.
+~
+~
+0 0 10180
+D1
+You see the lift.
+~
+~
+0 0 10187
+D2
+You see a senator's box.
+You see the second tier of the senate.
+~
+~
+0 0 10184
+D3
+You see a senator's box.
+~
+~
+0 0 10178
+S
+#10186
+Lift to the High Counsel.~
+You are standing on the lift that will take you to the high counsel.
+Exits go off in all directions toward the floor of the Senate.  You
+can go up toward the platform where the high counsel resides, or you
+can go up to the next level of the senate.
+~
+101 137 0
+D0
+You see the floor of the senate.
+~
+~
+0 0 10154
+D1
+You see the floor of the senate.
+~
+~
+0 0 10157
+D2
+You see the floor of the senate.
+~
+~
+0 0 10156
+D3
+You see the floor of the senate.
+~
+~
+0 0 10155
+D4
+You see the lift going up toward the platform.
+~
+~
+0 0 10187
+S
+#10187
+Lift to the High Counsel.~
+You are standing on the lift that will take you to the high counsel.
+Exits go off in all directions toward the floor of the Senate.  You
+can go up toward the platform where the high counsel resides, or you
+can go up to the next level of the senate.
+~
+101 137 0
+D0
+You see the second tier of the senate.
+~
+~
+0 0 10185
+D1
+You see the second tier of the senate.
+~
+~
+0 0 10183
+D2
+You see the second tier of the senate.
+~
+~
+0 0 10182
+D3
+You see the second tier of the senate.
+~
+~
+0 0 10184
+D4
+You see the lift to the platform of the high counsel.
+~
+~
+0 0 10192
+D5
+You see the lift to the floor of the senate.
+~
+~
+0 0 10186
+S
+#10188
+The platform of the High Counsel.~
+You are standing in the box where the High Counsel resides when the
+senate is in session.  There are various translator devices as well as
+buttons that control the boxes of the individual senators during debates.
+~
+101 137 0
+D0
+Off the platform.
+It looks like a long way down.
+~
+~
+0 0 10194
+D1
+Off the platform.
+It looks like it's a long way down.
+~
+~
+0 0 10194
+D2
+You see more of the platform.
+~
+~
+0 0 10189
+D3
+You see more of the platform.
+~
+~
+0 0 10191
+S
+#10189
+The platform of the High Counsel.~
+You are standing in the box where the High Counsel resides when the
+senate is in session.  There are various translator devices as well as
+buttons that control the boxes of the individual senators during debates.
+~
+101 137 0
+D0
+You see more of the platform.
+~
+~
+0 0 10188
+D1
+Off the platform.
+~
+~
+0 0 10194
+D2
+Off the platform.
+~
+~
+0 0 10195
+D3
+You see more of the platform.
+~
+~
+0 0 10190
+S
+#10190
+The platform of the High Counsel.~
+You are standing in the box where the High Counsel resides when the
+senate is in session.  There are various translator devices as well as
+buttons that control the boxes of the individual senators during debates.
+~
+101 137 0
+D0
+You see more of the platform.
+~
+~
+0 0 10191
+D1
+You see more of the platform.
+~
+~
+0 0 10189
+D2
+Off the paltform.
+~
+~
+0 0 10194
+D3
+Off the platform.
+~
+~
+0 0 10194
+S
+#10191
+The platform of the High Counsel.~
+You are standing in the box where the High Counsel resides when the
+senate is in session.  There are various translator devices as well as
+buttons that control the boxes of the individual senators during debates.
+~
+101 137 0
+D0
+You see the lift to the senate floor.
+~
+~
+0 0 10192
+D1
+You see more of the platform.
+~
+~
+0 0 10188
+D2
+You see more of the platform.
+~
+~
+0 0 10190
+D3
+Its too dark to tell.
+Off the platform.
+~
+~
+0 0 10194
+S
+#10192
+Lift to the High Counsel.~
+You are standing at the platform of the high counsel.  Here you can
+see the three high counsel persons as the have been elected to these
+positions.  They listen and mediate the debates between the deligates
+as well as pass down laws from the Emperor himself.
+~
+101 137 0
+D0
+You see the platform of the high counsel.
+~
+~
+0 0 10188
+D1
+You see the platform of the high counsel.
+~
+~
+0 0 10190
+D2
+You see the platform of the high counsel.
+~
+~
+0 0 10191
+D3
+You see the platform of the high counsel.
+~
+~
+0 0 10189
+D4
+You see the High Consulat's chamber.
+~
+curtain curtai curta curt cur cu~
+1 0 10193
+D5
+You see the lift to the floor of the senate.
+~
+~
+0 0 10187
+S
+#10193
+Supreme Chancelor's Chamber~
+You are standing in the Supreme Chancelor's chamber.  Here is where he
+meets with the Emperor to discuss the laws of the land.  You are on
+sacred ground as few people have entered this room alive.
+Be careful, you never know who might enter this room and kill you.
+~
+101 169 0
+D5
+You see the lift to the senate floor.
+~
+curtains curtain curtai curta curt cur cu~
+1 0 10192
+S
+#10194
+Off the platform.~
+You fell off the platform you idiot.
+You fall into oblivion.
+
+S P L A T ! ! ! 
+
+You are dead.
+
+
+
+~
+101 239 0
+S
+#10195
+Off the platform.~
+You are seemingly standing in midair.  You realize this is a secret turbolift
+that goes up.  The only thing that is above here is the Emperor's quarters.
+You have second thought about continuing, but then again, you wonder if you  
+could take him. 
+~
+101 262541 0
+D0
+You see the platform of the High Counsel.
+~
+~
+0 0 10189
+D4
+It is pitch black...
+~
+~
+0 0 10196
+S
+#10196
+Before the Emperor's Chamber.~
+You are standing before the soul leader of the Empire.  Beyond these huge
+doors resides the Emperor himself.  You consider entering, but then again
+you have to get past the guards who are standing here.  Your only choices
+in exits is to go down the lift back to the platform, or to continue into
+the chamber.
+~
+101 489 0
+D1
+The Emperor's Chamber.
+~
+doors door doo do~
+2 0 10197
+D5
+You look down and realize the lift has gone back to the platform.
+You think to yourself, well, maybe I should find some other way down.
+Then again, you feel like you could fly from up here.
+~
+~
+0 0 10194
+S
+#10197
+The Emperor's Chamber.~
+You are standing in one of the more elaborate rooms you have seen in this
+Senate Building.  It is adorned with symbols of the Empire's pride and as a
+tribute to the Emperor himself.  You sense his presence and wonder where his
+highness is to be. . .
+~
+101 264 0
+D3
+You see the turbo lift down to the platform.
+~
+door doo do~
+1 0 10196
+D5
+~
+turbolift turbolif turbol turbo turb tur tu lift lif li~
+3 0 10154
+S
+#10198
+The Imperial Brewery.~
+As you look aroud you see where the Empire makes its wonderful brews.
+Here you see vats upon vats of beer, ale, whiskey, and other alcoholic
+beverages.  You can smell the brewing process all around you.  Just
+being in here is making you droll with thirst.  What luck, it looks like
+someone has left several samples of the Empire's finest laying around here
+on the ground.
+~
+101 262813 0
+D4
+~
+door doo do~
+3 0 10149
+S
+$~

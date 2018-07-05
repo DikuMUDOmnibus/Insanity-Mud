@@ -1,0 +1,249 @@
+#1
+Puff dragon fractal~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+Is that some type of differntial curve involving some strange, and
+unknown calculus that she seems to be made out of?
+~
+253960 33800 1000 E
+28 1 -1 5d10+550 4d6+3
+10000 155000
+8 8 2 3
+BareHandAttack: 12
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#2
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#5
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 E
+70 20 10 1d1+0 1d1+0
+0 0
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#10
+clone~
+Rincewind~
+A boring old clone is standing here.
+~
+This clone is nothing to look at.  No, really, it is quite boring.
+~
+10 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#11
+zombie undead humanoid~
+the zombie~
+A strange humanoid is here.  How odd, its flesh seems to be falling off!
+~
+This strange humanoid is moving rather slowly, and appears to be
+a corpse, a walking corpse!  It must be a zombie or something of
+the sort.
+~
+10 0 -500 E
+20 0 -1 10d20+20 1d5+5
+500 200
+8 8 0 1
+BareHandAttack: 7
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#19
+aerial servant shape~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+As you stare at this amorphous shape, it begins to appear to take
+the shape of a cloud-like humanoid.
+~
+10 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#20
+elemental~
+the elemental~
+An elemental is standing patiently here.
+~
+This creature is the essence of the elements, and appears to be
+waiting patiently for something to occur.
+~
+10 0 50 E
+30 5 -2 1d1+300 1d10+5
+200 5000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#21
+lesser elemental~
+the Lesser Elemental~
+A Lesser Elemental is standing patiently here.
+~
+This creature is the essence of the elements, and appears to be
+waiting patiently for something to occur.
+~
+10 0 500 E
+15 12 0 1d1+150 1d6+3
+50 200
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#22
+greater elemental~
+the Greater Elemental~
+A Greater Elemental is standing patiently here.
+~
+   This creature is the essence of the elements, and appears to be waiting
+patiently for something to occur.
+~
+10 128 20 E
+50 0 -5 10d1+1000 20d2+10
+20000 100000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#23
+minor elemental~
+a Minor Elemental~
+A minor elemental is standing patiently here.
+~
+   This creature is the essence of the elements, and appears to be waiting
+patiently for something to occur.
+~
+65546 1056 200 E
+10 15 -1 5d10+200 1d10+5
+200 2000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#24
+dragon~
+the Dragon~
+A Large Dragon stands here.
+~
+   This large and powerfull being looks very mean indeed.  He is red with a
+yellow belly.  His teeth are at least half a foot long.
+~
+196618 33832 -250 E
+25 10 -3 1d1+1000 3d9+20
+50 1000
+8 8 1 1
+BareHandAttack: 4
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#25
+dragon ancient~
+an Ancient Dragon~
+A Large ancient dragon towers before you here.
+~
+   This dragon must be more that 500 years old, he looks wise but also very
+powerfull.  Messing with him may not be such a good Idea.
+~
+231450 99480 -500 E
+50 -10 -5 2d100+2000 5d10+25
+10000 50000
+8 8 1 1
+BareHandAttack: 4
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#99
+death reaper~
+Death~
+Death the Grim Reaper is observing you silently from empty eye sockets.
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+256026 33960 0 E
+30 0 -10 1d1+665 10d15+20
+0 500000
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+$

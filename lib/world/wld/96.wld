@@ -1,0 +1,77 @@
+#9600
+Outside the Candy Store ~
+A small, humble building squats here, in the shade of a large apple tree. 
+From the slightly-opened door, the maddening perfume of chocolate and sweets
+pour out all around.  
+~
+96 0 0
+D0
+~
+~
+0 0 9601
+S
+#9601
+Inside the Candy Store~
+As you enter the store, it opens up to reveal a massive land made entirely of
+candy. The road is paved with Dime bars, and the trees are made of liquorice.
+Maybe this place bears further exploration. You can see a tunnel going up. 
+
+~
+96 28 0
+D2
+~
+~
+0 0 9600
+D4
+~
+~
+0 0 9602
+S
+#9602
+The Tunnel~
+This is a dark, and horrid place, its very frightening except for the wonderful
+aroma of peppermint that mysteriously lingers around.  
+~
+96 429 0
+D4
+~
+~
+0 0 9603
+S
+#9603
+The Big Decision~
+You have entered the crossroads to Candy Land. Where to go? To the north you
+see an angry mob of colorful jelly beans, to the south you see a group of
+Hershey kisses.  
+~
+96 4 0
+D0
+~
+~
+0 0 9604
+D2
+~
+~
+0 0 9605
+S
+#9604
+Jelly Beans~
+You are in an unfinished room.
+~
+96 0 0
+S
+#9605
+bob~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 9603
+D2
+~
+~
+0 0 -1
+S
+$~

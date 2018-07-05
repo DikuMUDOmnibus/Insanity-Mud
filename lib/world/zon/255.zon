@@ -1,0 +1,17 @@
+#255
+ds9 training holosuite (miri)~
+25599 3 2
+30 102 0
+M 0 25503 1 25501 	(a Ferengi)
+M 0 25507 2 25504 	(a Bynar)
+M 0 25507 2 25504 	(a Bynar)
+M 0 25509 1 25518 	(a Tholian)
+M 0 25506 1 25514 	(a Breen)
+M 0 25505 1 25511 	(a Horta)
+M 0 25504 1 25508 	(a Romulan)
+M 0 25502 1 25502 	(an Andorian)
+M 0 25500 1 25503 	(a Tribble)
+M 0 25501 1 25552 	(NEO)
+D 0 25500 2 1 	(Entrance to Fighter Training: Weakling to God)
+S
+$

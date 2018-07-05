@@ -1,0 +1,21 @@
+#4
+Clan House Zone~
+499 20 2
+0 0 1
+M 0 408 1 425 	(The Sacred Goat of the Sacred Goat clan)
+R 0 417 407 -1 	(a note from Flossy)
+O 0 407 100 417 	(a note from Flossy)
+M 0 407 1 404 	(the Sacred Barman of the Goat)
+G 1 405 999 -1 	(a roasted boar)
+G 1 408 999 -1 	(pork scratchings)
+G 1 404 999 -1 	(a pint)
+G 1 406 999 -1 	(a glass)
+O 0 400 1 401 	(Bulletin Board)
+M 0 422 1 422 	(the Undead Bartender)
+O 0 421 1 421 	(Vampire Sect's Notice Board)
+M 0 406 1 414 	(the Jedi Barman)
+G 1 403 100 -1 	(a pint)
+G 1 404 100 -1 	(a pint)
+O 0 402 1 413 	(the Jedi Board)
+S
+$

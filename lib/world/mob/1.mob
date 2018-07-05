@@ -1,0 +1,96 @@
+#100
+captain sailor~
+the crusty old Captain~
+The crusty old Captain is here, fishing in the ocean.
+~
+The old captain has skin like leather, and a mottled complexion. He looks
+positively ancient; yet his muscles and his countenance show that he is a
+capable warrior. He glares at you menacingly, suggesting you go away unless
+you want to <Buy ship>
+~
+222 8 125 E
+41 0 -5 12d12+3250 10d15+15
+10000 200000
+8 8 1 1
+E
+#101
+sea serpent seaserpent~
+the huge, green Sea Serpent~
+The huge, green Sea Serpent is swimming in the ocean, hunting for food.
+~
+You see a huge monster before you. Its glowing green eyes and sharp teeth
+terrify you. Green scales provide a spectacular defense armor. They would prob-
+ably make great armor on you too.
+~
+104 8 -875 E
+22 1 0 2d13+500 4d6+6
+0 80000
+8 8 0 1
+E
+#102
+barracuda fish~
+a viscious barracuda~
+A mean barracuda is flopping around in the sea.
+~
+This horrid-looking fish looks very unhappy that you've infested his sea.
+His sharp, huge teeth show just how unhappy he is as they clamp into you.
+~
+104 0 -150 E
+9 12 4 1d12+120 2d5+2
+0 5400
+8 8 0 1
+E
+#103
+leviathan~
+the demigod Leviathan~
+Leviathan is here, looking at you with a quizzical expresion.
+~
+Leviathan, the guardian of the seas--an eternal power guaranteed by the gods to
+keep an eye on all those travelers that enter Oceania. He is totally green, and
+has seaweed as his garb. His ancient eyes belie his youthful countenance.
+~
+282 8 1000 E
+44 0 -24 10d14+4500 20d15+25
+5000 25000
+8 8 1 1
+E
+#104
+shark~
+a shark ~
+A shark silently patrols the water.
+~
+Sleek and streamlined this shark easily glides through the waters looking for it's next meal.
+~
+16600 262144 -250 E
+20 13 -3 10d15+500 15d10+10
+200 15000
+8 8 0 1
+BareHandAttack: 4
+E
+#105
+mermaid~
+a Mermaid~
+A mermaid frolicks playfully in the water.
+~
+Beautiful, graceful and somewhat deadly, you watch in utter fasination as this sea enchantress swims easily amongst the waves.
+~
+27080 22282400 500 E
+35 3 -4 30d10+300 10d25+20
+10000 10000
+8 8 2 1
+BareHandAttack: 10
+E
+#106
+octopus~
+An Octopus~
+An Octopus floats here waving it's tenticles wildly at you.
+~
+This Octopus is rather large, has a long sharp beak and is not in a very good mood.
+~
+30796 294952 -275 E
+50 5 -7 25d20+1500 25d25+10
+1000 100000
+8 8 0 4
+BareHandAttack: 2
+E
+$

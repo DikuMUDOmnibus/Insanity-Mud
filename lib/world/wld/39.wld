@@ -1,0 +1,731 @@
+#3900
+The Scrapyard~
+The dying cry of a harsh world echoes from every wall of this so-called
+city of broken metal and tattered flesh. An almost pretty woman, half-
+machine, yet flesh where it counts, beckons from an alley for a moment,
+until an unseen hand wraps around her mouth and drags her back into the
+darkness. This area seems otherwise clear of people, save for the
+occasional shawled figure hurrying past on their way to somewhere else.
+~
+39 64 1
+D0
+~
+~
+0 0 3901
+S
+#3901
+The courtyard~
+This is to be completed...
+~
+39 0 1
+D0
+~
+~
+0 0 3909
+D1
+~
+~
+0 0 3903
+D2
+~
+~
+0 0 3900
+D3
+~
+~
+0 0 3902
+S
+#3902
+Southwest Courtyard~
+You are in an unfinished room.
+~
+39 0 1
+D0
+~
+~
+0 0 3908
+D1
+~
+~
+0 0 3901
+D2
+~
+~
+0 0 3943
+S
+#3903
+Southeast courtyard~
+You are in an unfinished room.
+~
+39 0 1
+D0
+~
+~
+0 0 3904
+D3
+~
+~
+0 0 3901
+S
+#3904
+The courtyard~
+You are in an unfinished room.
+~
+39 0 1
+D0
+~
+~
+0 0 3905
+D1
+~
+~
+0 0 3921
+D2
+~
+~
+0 0 3903
+D3
+~
+~
+0 0 3909
+S
+#3905
+Northeast courtyard~
+You are in an unfinished room.
+~
+39 0 1
+D1
+~
+~
+0 0 3910
+D2
+~
+~
+0 0 3904
+D3
+~
+~
+0 0 3906
+S
+#3906
+The courtyard~
+You are in an unfinished room.
+~
+39 0 1
+D0
+~
+~
+0 0 3950
+D1
+~
+~
+0 0 3905
+D2
+~
+~
+0 0 3909
+D3
+~
+~
+0 0 3907
+S
+#3907
+Northwest courtyard~
+You are in an unfinished room.
+~
+39 0 1
+D0
+~
+~
+0 0 3938
+D1
+~
+~
+0 0 3906
+D2
+~
+~
+0 0 3908
+S
+#3908
+The courtyard~
+You are in an unfinished room.
+~
+39 0 1
+D0
+~
+~
+0 0 3907
+D1
+~
+~
+0 0 3909
+D2
+~
+~
+0 0 3902
+D3
+~
+door~
+1 0 3916
+S
+#3909
+Courtyard Center~
+You are in an unfinished room.
+~
+39 0 1
+D0
+~
+~
+0 0 3906
+D1
+~
+~
+0 0 3904
+D2
+~
+~
+0 0 3901
+D3
+~
+~
+0 0 3908
+S
+#3910
+The alleyway~
+You are in an unfinished room.
+~
+39 33 1
+D0
+~
+~
+0 0 3911
+D3
+~
+~
+0 0 3905
+S
+#3911
+The alley near a particular building...~
+You are in an unfinished room.
+~
+39 33 1
+D0
+~
+door~
+1 0 3912
+D2
+~
+~
+0 0 3910
+S
+#3912
+Daisuke Ido's Cyborg Repair~
+You are in an unfinished room.
+~
+39 28 0
+D1
+~
+~
+0 0 3913
+D2
+~
+door~
+1 0 3911
+S
+#3913
+The repair room~
+You are in an unfinished room.
+~
+39 8 0
+D3
+~
+~
+0 0 3912
+D4
+~
+~
+0 0 3914
+S
+#3914
+On the rooftop~
+You are in an unfinished room.
+~
+39 262164 1
+D3
+~
+~
+0 0 3915
+D5
+~
+~
+0 0 3913
+S
+#3915
+A Sight of Tiphares~
+You are in an unfinished room.
+~
+39 0 1
+D1
+~
+~
+0 0 3914
+S
+#3916
+The Factory~
+You are in an unfinished room.
+~
+39 204 0
+D1
+~
+door~
+1 0 3908
+D2
+~
+~
+0 0 3917
+D3
+~
+~
+0 0 3918
+S
+#3917
+Hunter-Warrior Registration~
+You are in an unfinished room.
+~
+39 24 0
+D0
+~
+~
+0 0 3916
+S
+#3918
+The Factory~
+You are in an unfinished room.
+~
+39 8 0
+D1
+~
+~
+0 0 3916
+D2
+~
+~
+0 0 3919
+D4
+~
+~
+0 0 3920
+S
+#3919
+The Factory Warehouse~
+You are in an unfinished room.
+~
+39 41 0
+D0
+~
+~
+0 0 3918
+S
+#3920
+Mr. Vector's Office~
+You are in an unfinished room.
+~
+39 8 0
+D5
+~
+~
+0 0 3918
+S
+#3921
+Gregory Circuit Motorball Arena~
+You are in an unfinished room.
+~
+39 0 1
+D1
+~
+~
+0 0 3923
+D3
+~
+~
+0 0 3904
+D5
+~
+~
+0 0 3922
+S
+#3922
+The Betting Pit~
+You are in an unfinished room.
+~
+39 41 0
+D4
+~
+~
+0 0 3921
+E
+teigal~
+Odds for #50 Teigal - 70 to 1
+~
+E
+armblessed~
+Odds for #1 "Caligula" Armblessed - 6 to 1
+~
+E
+zafal~
+Odds for #7 "Crimson Wind" Zafal Takie - 3 to 1
+~
+E
+ajakutty~
+Odds for #88 "Crusher" Ajakutty - 5 to 1
+~
+E
+jashugan~
+Odds for #0 "Emperor" Jashugan - Even
+~
+E
+alita~
+Odds for #99 "Killing Angel" Alita - 5 to 2
+~
+S
+#3923
+The pit crew~
+You are in an unfinished room.
+~
+39 262172 0
+D1
+~
+door~
+1 0 3924
+D3
+~
+~
+0 0 3921
+S
+#3924
+The Starting Line~
+You are in an unfinished room.
+~
+39 72 0
+D0
+~
+~
+0 0 3925
+D3
+~
+door~
+1 0 3923
+S
+#3925
+The Straight~
+You are in an unfinished room.
+~
+39 40 0
+D0
+~
+~
+0 0 3926
+S
+#3926
+The Straight~
+You are in an unfinished room.
+~
+39 40 0
+D0
+~
+~
+0 0 3927
+S
+#3927
+Picket corner~
+You are in an unfinished room.
+~
+39 40 0
+D1
+~
+~
+0 0 3928
+S
+#3928
+Banked Slalom Bends~
+You are in an unfinished room.
+~
+39 40 0
+D1
+~
+~
+0 0 3929
+S
+#3929
+Banked Slalom Bends~
+You are in an unfinished room.
+~
+39 40 0
+D2
+~
+~
+0 0 3930
+S
+#3930
+Somersault Hill~
+You are in an unfinished room.
+~
+39 40 0
+D2
+~
+~
+0 0 3931
+S
+#3931
+Hell Bridge Straight~
+You are in an unfinished room.
+~
+39 168 0
+D2
+~
+~
+0 0 3932
+S
+#3932
+Hell Bridge Straight~
+You are in an unfinished room.
+~
+39 168 0
+D2
+~
+~
+0 0 3933
+S
+#3933
+Hell Bridge Straight~
+You are in an unfinished room.
+~
+39 168 0
+D2
+~
+~
+0 0 3934
+S
+#3934
+Hell Bridge Corner~
+You are in an unfinished room.
+~
+39 168 0
+D3
+~
+~
+0 0 3935
+S
+#3935
+Tubular Bend~
+You are in an unfinished room.
+~
+39 41 1
+D0
+~
+~
+0 0 3936
+S
+#3936
+Tubular Coils~
+You are in an unfinished room.
+~
+39 105 0
+D0
+~
+~
+0 0 3937
+S
+#3937
+The Finish Line~
+You are in an unfinished room.
+~
+39 40 0
+D0
+~
+~
+0 0 3924
+S
+#3938
+A major street~
+You are in an unfinished room.
+~
+39 0 1
+D0
+~
+~
+0 0 3939
+D2
+~
+~
+0 0 3907
+S
+#3939
+Nearing the Wall~
+You are in an unfinished room.
+~
+39 0 1
+D2
+~
+~
+0 0 3938
+D3
+~
+~
+0 0 3940
+S
+#3940
+The Hydrowall Gate~
+You are in an unfinished room.
+~
+39 0 1
+D1
+~
+~
+0 0 3939
+D3
+~
+~
+0 0 3941
+S
+#3941
+The trainyard~
+You are in an unfinished room.
+~
+39 0 1
+D1
+~
+~
+0 0 3940
+D5
+~
+hatch~
+1 0 3942
+S
+#3942
+Inside the train~
+You are in an unfinished room.
+~
+39 41 0
+D4
+~
+hatch~
+1 0 3941
+S
+#3943
+An alley near a laboratory~
+You are in an unfinished room.
+~
+39 33 1
+D0
+~
+~
+0 0 3902
+D2
+~
+~
+0 0 3944
+S
+#3944
+The gates to the laboratory grounds~
+You are in an unfinished room.
+~
+39 132 1
+D0
+~
+~
+0 0 3943
+D2
+~
+~
+0 0 3945
+S
+#3945
+The backdoor to the lab~
+You are in an unfinished room.
+~
+39 128 1
+D0
+~
+~
+0 0 3944
+D3
+~
+door~
+1 0 3946
+S
+#3946
+Desty Nova's Lab~
+You are in an unfinished room.
+~
+39 136 0
+D0
+~
+~
+0 0 3947
+D1
+~
+door~
+1 0 3945
+D5
+~
+trapdoor~
+1 0 3949
+S
+#3947
+Desty Nova's Lab~
+You are in an unfinished room.
+~
+39 136 0
+D2
+~
+~
+0 0 3946
+D4
+~
+~
+0 0 3948
+S
+#3948
+Desty Nova's work station~
+You are in an unfinished room.
+~
+39 136 0
+D5
+~
+~
+0 0 3947
+S
+#3949
+The hidden experiments~
+You are in an unfinished room.
+~
+39 169 0
+D4
+~
+trapdoor~
+1 0 3946
+S
+#3950
+The Arena colliseum~
+  Following a strange, mass destructive spree caused by the defear of one of the combatants, the Arena has been closed temporarily. There is an entire section of the colliseum torn out and turned to rubble, and some people are still digging through the wreckage for spare parts.
+~
+39 16 1
+D2
+~
+~
+0 0 3906
+S
+#3999
+A quiet, romantic bedroom~
+This beautiful room is decked in soft shades of black and blue, pleasing to
+the eye yet not enough to distract from your partner. A double king-sized
+bed dominates the room, with velvety black sheets and pillows. A half-
+shaded window looks out onto a beautiful valley between three mountains,
+with a peaceful lake settled nicely between them. In the night sky, the
+stars twinkle brightly, and the full moon shines down gently.
+~
+39 600 0
+S
+$~

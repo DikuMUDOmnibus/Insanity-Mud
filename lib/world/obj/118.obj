@@ -1,0 +1,77 @@
+#11800
+lightsaber~
+a dual beam Lightsaber~
+A lightsaber is laying here.~
+~
+5 3 8193
+0 120 20 3
+1 2147483647 2 0 104
+A
+18 5
+A
+19 5
+#11801
+jedi robe~
+the Jedi Robe~
+The robe of an ancient jedi is laying here.~
+~
+9 0 9
+25 0 0 0
+1 2147483647 2 0 104
+A
+18 5
+A
+19 5
+#11802
+jedi cloak~
+the Jedi Cloak~
+The cloak of an ancient Jedi is laying here.~
+~
+9 0 1025
+25 0 0 0
+0 2147483647 2 0 104
+A
+18 5
+A
+19 5
+#11803
+jedi belt~
+the Jedi Utility Belt~
+The belt of an ancient Jedi is layin here.~
+~
+15 0 2049
+1000000000 0 -1 0
+1 2147483647 2 0 104
+A
+18 5
+A
+19 5
+A
+17 -25
+#11804
+jedi sandals~
+the Jedi Sandals~
+The sandals of an ancient jedi are laying here.~
+~
+9 0 65
+25 0 0 0
+1 2147483647 2 0 104
+A
+18 5
+A
+19 5
+#11805
+jedi bracelet~
+the Jedi Bracelet~
+You see the bracelet of an ancient Jedi laying here.~
+~
+9 0 4097
+25 0 0 0
+1 2147483647 2 0 104
+A
+18 5
+A
+19 5
+A
+17 -25
+$~

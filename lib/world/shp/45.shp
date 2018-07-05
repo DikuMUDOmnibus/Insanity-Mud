@@ -1,0 +1,488 @@
+CircleMUD v3.0 Shop File~
+#4500~
+4550
+4551
+4552
+4553
+4554
+4564
+-1
+1.15
+0.15
+2
+3
+4
+10
+-1
+%s Sorry, I haven't got exactly that item.~
+%s You don't seem to have that.~
+%s I don't buy such items.~
+%s That is too expensive for me!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+2
+4500
+2
+4532
+-1
+0
+28
+0
+0
+#4501~
+4509
+4510
+4511
+-1
+1.40
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+4501
+0
+4527
+-1
+0
+28
+0
+0
+#4502~
+4531
+4532
+4533
+4536
+4530
+4516
+-1
+1.50
+0.40
+1
+8
+15
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a treasure.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+2
+4502
+0
+4531
+-1
+0
+28
+0
+0
+#4503~
+4520
+4521
+4522
+4523
+4524
+4525
+-1
+1.45
+0.40
+5
+-1
+%s I haven't got that kind of a weapon!~
+%s You don't carry that weapon!~
+%s I only buy weapons.~
+%s I can't afford such a great weapon!~
+%s sorry, but NO CREDIT!~
+%s That costs just %d coins.~
+%s Here, you can have %d coins for that.~
+0
+2
+4503
+0
+4509
+-1
+0
+28
+0
+0
+#4504~
+4540
+4541
+4542
+4543
+4544
+4545
+4546
+4570
+4571
+4575
+4576
+4580
+4581
+4585
+4586
+4508
+4507
+4517
+-1
+1.00
+0.50
+9
+9
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy armors.. Go away!~
+%s That is too expensive for me - Try a wizard!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+2
+4504
+0
+4506
+-1
+0
+28
+0
+0
+#4506~
+4560
+4561
+-1
+1.20
+0.90
+22
+-1
+%s Sorry pal, I have not got that kind of ship.~
+%s Ok, but let me see it first.~
+%s I only trade ships.~
+%s I can't afford such a nice ship.~
+%s This ship is too expensive for you.~
+%s Here is your ship, I'll take %d gold coins.~
+%s What a fine deal, you get %d gold coins.~
+0
+2
+4506
+0
+4582
+-1
+6
+22
+0
+0
+#4508~
+4512
+4513
+4514
+-1
+1.00
+1.00
+-1
+%s No tengo - try list!~
+%s No buying, compadre.~
+%s No buying, compadre.~
+%s No buying, compadre.~
+%s No dinero!  Hit the road!~
+%s That'll be %d coins, compadre.~
+%s Oops - %d a minor bug - please report.~
+0
+2
+4508
+0
+4556
+-1
+0
+28
+0
+0
+#4509~
+3102
+3103
+3104
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't have that -- try list!~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, but here, no money means no water!~
+%s That will be %d coins, please.  Thank you.~
+%s Oops - %d a minor bug - please report.~
+0
+2
+4509
+0
+4528
+-1
+0
+28
+0
+0
+#4531~
+1900
+1901
+1902
+1903
+1904
+1907
+1908
+1909
+1910
+1911
+1905
+1906
+-1
+1.23
+0.45
+-1
+%s Sorry, I've never been there to map it.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4531
+0
+4578
+-1
+0
+28
+0
+0
+#4532~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4500
+0
+-1
+0
+28
+0
+0
+#4540~
+4500
+4501
+4502
+4503
+4504
+-1
+1.10
+1.00
+-1
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+4540
+0
+4568
+-1
+0
+28
+0
+0
+#4542~
+4502
+4503
+-1
+1.00
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+4542
+112
+4546
+-1
+0
+28
+0
+0
+#4543~
+4502
+4504
+-1
+1.10
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+4543
+104
+4561
+-1
+0
+28
+0
+0
+#4544~
+4503
+4504
+-1
+1.70
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+4544
+88
+4552
+-1
+0
+28
+0
+0
+#4545~
+4502
+4503
+4504
+-1
+1.50
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+4545
+56
+4564
+-1
+0
+28
+0
+0
+#4546~
+4504
+4503
+-1
+1.00
+1.00
+-1
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Oh, bugger off, NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+4546
+0
+4548
+-1
+0
+28
+0
+0
+#4568~
+20015
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1953853036
+0
+-1
+0
+28
+0
+0
+#4586~
+6120
+4552
+4550
+1519
+4563
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4550
+0
+4586
+-1
+0
+28
+0
+0
+$~

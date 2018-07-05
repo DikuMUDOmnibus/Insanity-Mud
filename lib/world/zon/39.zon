@@ -1,0 +1,20 @@
+#39
+The Scrapyard~
+3999 30 2
+10 30 0
+O 0 3999 2 3999 	(a ticket back to home (recite it))
+O 0 3999 2 3999 	(a ticket back to home (recite it))
+D 0 3908 3 1 	(The courtyard)
+D 0 3916 1 1 	(The Factory)
+D 0 3945 3 1 	(The backdoor to the lab)
+D 0 3946 5 2 	(Desty Nova's Lab)
+D 0 3946 1 1 	(Desty Nova's Lab)
+D 0 3949 4 2 	(The hidden experiments)
+D 0 3942 4 2 	(Inside the train)
+D 0 3941 5 2 	(The trainyard)
+D 0 3924 3 1 	(The Starting Line)
+D 0 3923 1 1 	(The pit crew)
+D 0 3912 2 1 	(Daisuke Ido's Cyborg Repair)
+D 0 3911 0 1 	(The alley near a particular building...)
+S
+$

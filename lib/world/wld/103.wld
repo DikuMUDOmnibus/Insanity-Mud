@@ -1,0 +1,1865 @@
+#10300
+An Archway~
+You have stumbled into a subspace tunnel.  It's destination is unclear
+and the swirling cosmic dust reminds you of a blackhole.  Luckily there
+is a way out...straight up.
+
+A small sign floats in the dusty tunnel wall.
+~
+103 220 0
+D2
+~
+~
+0 0 905
+D4
+Exit the tunnel here.
+~
+~
+0 0 10301
+E
+sign~
+             :::WARNING:::
+
+      This area has been created by Miri for your pleasure.
+      Also to feed your addiction to danger, greed and, if
+      applicable, to your sadisctic pleasures.
+    You should be aware of your surroundings at all times.
+    Some areas of this zone are dangerous just to travel
+    through.  I hope you enjoy this area.
+
+  Miri.
+~
+S
+#10301
+OPS~
+You have enter a very chaotic place. The place, however, is not one
+that you are happy to be in, as it is obvious that you've landed in the
+middle of a warzone.  You are in OPS on Deep Space 9.  Sparks are flying
+from several consoles and others are on fire.  People are concentrating
+on their stations, many of them called into duty when the primary
+OPS crew, or senior officers went to other areas of the station to kill
+Jem Hadar that boarded when a shield went offline for only a moment.
+A turbolift is to the west and Captain Sisko's office is up a set of
+stairs.
+Two stations are in front of you that are bleeping for attention.
+(station1 and station2)
+~
+103 262216 3
+D3
+~
+~
+0 0 10303
+D4
+~
+~
+0 0 10302
+E
+station1~
+This is Major Kira's station.
+Upon inspection, you can see that there are Jem'hadar ships, and, to your
+astonishment, BREEN SHIPS!! Breen ships nor Breen themselves have been seen
+since the Federation treaty with them over 25 years ago.  It seems that they
+have aligned themselves with the Dominion!
+Another area of the station tells you that DS9 has been boarded by Jem'Hadar.
+~
+E
+station2~
+This is the science station.
+The panels here inform you that the station is very damaged.
+Several areas of the station are in darkness due to power
+rerouting, EPS conduit damages, and huge holes in some levels
+of the station, including the Docking ring.
+~
+S
+#10302
+Sisko's Office~
+Sisko's office has a metal plate for a floor, and only a few 
+decorations scattered about.  Like most captains, he has a couple
+of starfleet models on a table across from his desk, and near the entrance.
+Sisko's desk is strickly utilitarian in nature.  Monitors on its surface
+can access data from any station in Ops.  A monitor on the wall is for
+communications.  It seems the holo-comms didn't take too well.
+You may exit back down the stairs to Ops.
+~
+103 8 1
+D3
+~
+panel~
+3 0 10261
+D5
+~
+~
+0 0 10301
+S
+#10303
+Main Turbolift OPS Level~
+You are in the Main Turbolift at the OPS level.
+OPS is to the east. The lift goes down to the Promenade from here.
+The lift is a small circular platform that incases you in walls
+as it enters the public areas of the station.  It is made from
+strong metals and has several safety features for your protection.
+~
+103 256 1
+D1
+~
+~
+0 0 10301
+D5
+~
+~
+0 0 10304
+S
+#10304
+Main Turbolift Promenade Level~
+You have entered the main turbolift at the promenade level.
+The OPS level is up from here and the Promenade is north.
+~
+103 256 0
+D0
+~
+~
+0 0 10309
+D4
+~
+~
+0 0 10303
+D5
+~
+~
+0 0 10305
+S
+#10305
+Main Turbolift Habitat Level 2~
+This is the main turbolift exit on the habitat ring.
+Directly south of here and on the other side of the ring
+is another lift that visits the other decks of the ring.
+~
+103 328 0
+D0
+~
+~
+0 0 10200
+D4
+~
+~
+0 0 10304
+D5
+~
+~
+0 0 10306
+E
+school building~
+The building is a very tall one with at least 4 floors. There is a
+small dome on top of the building's front.  
+Very ornate designs are on the building, fashioned with what looks
+like very expensive materials; gold, jewels, and silver writing on
+front of the building announcing that this is Joaquin High School.
+There are students to the northwest that seem to be much younger though.
+~
+S
+#10306
+Main Turbolift Docking Ring Level~
+This is the main turbolift on the Docking Ring level.
+Exiting north, you will find three large docking pylons for
+very large ships, and small ships can be docked on the ring itself.
+A flashing red beacon mounted in the wall opposite of the lift
+warns of a hull breach on this deck.
+~
+103 328 0
+D0
+~
+~
+0 0 10341
+D4
+~
+~
+0 0 10305
+D5
+~
+~
+0 0 10307
+E
+board bulletinboard~
+On the board, you see notes from three students and two from
+teachers.
+(read them: student1, student2, student3, teacher1, teacher2)
+~
+E
+student1~
+Fellow students;
+The Student Board hereby announces a festival that will be held
+on the football field.  It starts today, but we haven't set
+an ending date, so go enjoy.  The festival must end before next
+year's football season.  More info will be posted soon regarding
+the ending date of the festival.
+The Student Board of Joaquin High.
+~
+E
+student2~
+There will be a garage sale at my house this weekend from
+1300 to 2100 (1pm to 9pm). We have over 20 garages to sell,
+so come get one!
+Pete Carlyle.
+~
+E
+student3~
+I'm announcing a party at the American Legion hall for Friday.
+Drinks will be freely served.
+[ PLEASE DO NOT DRINK ALCOHOL AND TRY TO DRIVE ]
+There will be live music performed by the B52's and slower
+songs by an Elvis lookalike.
+Sandy Barley, 15.
+~
+E
+teacher1~
+ATTENTION STUDENTS:
+Midterms will being in 1 week.  Don't forget to study
+for them.
+~
+E
+teacher2~
+Those wishing to be in the school play written by fellow
+student Michael Jackston, "In Love with Love and my Dog".
+Please see Mrs. Tyler for for tryout details.
+There are several male roles. As an incentive for you to
+tryout this year, Mrs. Tyler will be assisted by her niece,
+Liv Tyler this year.
+
+Principal Skinner.
+~
+S
+#10307
+Main Tubolift Abandoned Level~
+You are on the main turbolift on an abandoned level of the
+station.  It is so abandoned because of the forced labor and
+cruelty enacted here.  It has been left unused by the
+federation at the request of the Bajoran government
+~
+103 328 0
+D0
+~
+~
+0 0 10365
+D4
+~
+~
+0 0 10306
+D5
+~
+~
+0 0 10308
+S
+#10308
+Main Turbolift Reactor Level~
+This is the Reactor Level of the station.  It's
+on this level that the station's power is generated
+by large fusion reactors and stored in silicon batteries
+until needed.  Currently only two reactors are operational.
+~
+103 468 0
+D0
+~
+~
+0 0 10246
+D4
+~
+~
+0 0 10307
+S
+#10309
+Promenade~
+You are on the Promenade level just north of the main turbolift.
+To the north is the famous Ferengi bar, Quark's.  The Promenade
+hall leads east and west of here, and has a few shops about.
+~
+103 72 0
+D0
+~
+~
+0 0 10310
+D1
+~
+~
+0 0 10317
+D2
+~
+~
+0 0 10304
+D3
+~
+~
+0 0 10329
+S
+#10310
+Entrance to Quark's Bar~
+You are at the entrance to Quark's bar.  There are many tables about,
+but most are empty.  You can see a small Ferengi behind the bar grumbling
+about war hurting business when it arrives at you door.
+A Dabo table is to the west and a stairway leads up to a second level
+near the bar.
+~
+103 72 0
+D0
+~
+~
+0 0 10312
+D2
+~
+~
+0 0 10309
+D3
+~
+~
+0 0 10311
+S
+#10311
+Dabo Room~
+"The Dabo wheel is open.  Place your bets, gentlebeings, place your
+bets," a beautiful Dabo girl says as she offers you a smile and a
+wink. 
+Around you are six nubile and flirtatious girls, most from Bajor, but
+one is obviously from Rigel VIII. Light blue skin and very attractive.
+Another of the girls is from an area on Sol 3 (AKA Earth) that was
+once the country of Thailand.  She seems to be enjoying her work here.
+Other patrons are placing their bets, several on one square.
+The only obvious exit is back to the east from wince you came.
+~
+103 88 0
+D1
+~
+~
+0 0 10310
+S
+#10312
+Quark's Bar~
+You are a bar covered with drinks of various sizes and shapes.
+There are just as many sizes and shapes of people here, 
+although you notice that most are scared civilians, and
+a couple of diplomats that are in civvy clothing.  The
+bar is open as usual.  It is always open, no matter who is in
+control of the station.  A small stairway leads up to another
+level of Quark's place, and the main entrance is south.
+~
+103 8 0
+D2
+~
+~
+0 0 10310
+D4
+~
+~
+0 0 10313
+S
+#10313
+Holo Hall~
+You are on the second level of Quark's bar.
+Here you see several holosuites here and to the west.
+Currently, all holosuites are closed for upgrades.
+~
+103 8 0
+D0
+A holosuite labeled 1 is in that direction, but
+it looks as though it is closed for upgrades.
+~
+wheel~
+1 0 10000
+D1
+~
+hidden~
+3 0 10316
+D2
+~
+~
+0 0 10273
+D3
+~
+~
+0 0 10314
+D5
+~
+~
+0 0 10312
+S
+#10314
+Holo Hall~
+You are on the second level of Quark's bar.
+Here you see several holosuites here and to the west.
+Currently, all holosuites are closed for upgrades.
+~
+103 0 0
+D0
+Holosuite 2:  Training Program (Under construction)
+~
+wheel~
+1 0 25500
+D1
+~
+~
+0 0 10313
+D3
+~
+~
+0 0 10315
+S
+#10315
+Holo Hall~
+This is the end of Holo hall.
+Other holosuites are east of here.
+The hall turns to the south here, where
+more of Quark's bar is, with tables, chairs, and such.
+~
+103 141 0
+D0
+~
+wheel~
+1 0 10100
+D1
+~
+~
+0 0 10314
+D2
+~
+~
+0 0 10292
+S
+#10316
+Quark's Office~
+Despite, or maybe because of, the fact that this office is well
+hidden, you have found it.  It has several holopictures of former
+Grand Naguses, and, of course, the current one.
+A desk and safe adorn the northern wall.  The desk has several
+tools on it, but none that you know how to operate.
+~
+103 732 0
+D3
+~
+door~
+1 0 10313
+S
+#10317
+Promenade~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+~
+0 0 10337
+D1
+~
+~
+0 0 10318
+D3
+~
+~
+0 0 10309
+D4
+~
+~
+0 0 10275
+S
+#10318
+Promenade: NE Corner~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D2
+~
+~
+0 0 10319
+D3
+~
+~
+0 0 10317
+S
+#10319
+Promenade~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+~
+0 0 10318
+D1
+~
+~
+0 0 10334
+D2
+~
+~
+0 0 10320
+D3
+~
+~
+0 0 10294
+S
+#10320
+Promenade~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+~
+0 0 10319
+D1
+~
+~
+0 0 10335
+D2
+~
+~
+0 0 10321
+S
+#10321
+Southeast Corner of the Promenade hall~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+~
+0 0 10320
+D3
+~
+~
+0 0 10322
+D4
+~
+~
+0 0 10279
+S
+#10322
+Promenade~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+~
+0 0 10271
+D1
+~
+~
+0 0 10321
+D3
+~
+~
+0 0 10323
+S
+#10323
+Promenade~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+~
+0 0 10338
+D1
+~
+~
+0 0 10322
+D3
+~
+~
+0 0 10324
+S
+#10324
+Promenade~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D1
+~
+~
+0 0 10323
+D3
+~
+~
+0 0 10325
+D4
+~
+~
+0 0 10282
+S
+#10325
+Promenade: SW Corner~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+~
+0 0 10326
+D1
+~
+~
+0 0 10324
+S
+#10326
+Promenade~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+~
+0 0 10327
+D2
+~
+~
+0 0 10325
+S
+#10327
+Promenade~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+~
+0 0 10328
+D2
+~
+~
+0 0 10326
+D3
+~
+~
+0 0 10336
+S
+#10328
+Promenade: NW Corner~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+~
+0 0 10339
+D1
+~
+~
+0 0 10329
+D2
+~
+~
+0 0 10327
+S
+#10329
+Promenade~
+You are on the main Promenade Level.
+There are shops here for you to browse.
+Quark's bar is nearby for you to relax andhave dinner in.
+You notice the air around you moving occassionally but
+see noone or nothing to cause it.
+~
+103 8 0
+D0
+~
+door~
+1 0 10330
+D1
+~
+~
+0 0 10309
+D3
+~
+~
+0 0 10328
+S
+#10330
+Security Office~
+You have entered the station's security office.
+Constable Odo has arranged his office for his own
+comfort.  Monitors and consoles cover most of his desk
+and monitors of the prisoner area cover the west wall.
+The prisoner area is to the north and the Promenade is
+back south, where sounds of battle can be heard.
+~
+103 8 0
+D0
+~
+~
+0 0 10331
+D2
+~
+door~
+1 0 10329
+S
+#10331
+Prisoner Monitoring Room~
+From this room, you can keep an eye on any prisoners
+that may be in lockup without having to rely on monitors
+that may or may not be working.  There are 2 cells
+here, and the main office is to the south.
+~
+103 12 0
+D1
+~
+cell2~
+2 0 10333
+D2
+~
+~
+0 0 10330
+D3
+~
+cell1~
+2 0 10332
+S
+#10332
+Cell One~
+You are in Cell 1.
+The room meets only the barest of needs for comfort
+with a hard bed, a lavatory, and a sensor activated
+vent for drying anything the prisoner needs to get
+wet to be cleaned.
+~
+103 460 0
+D1
+~
+door~
+1 0 10331
+S
+#10333
+Cell 2~
+You are in Cell 1.
+The room meets only the barest of needs for comfort
+with a hard bed, a lavatory, and a sensor activated
+vent for drying anything the prisoner needs to get
+wet to be cleaned.
+~
+103 456 0
+D3
+~
+door~
+1 0 10331
+S
+#10334
+Garak's Tailor Shop~
+The tailor shop has various clothes hanging about,
+but most of it is full of different types of cloth
+to make every customer happy.  Garak's store is very
+neat.
+~
+103 12 0
+D3
+~
+~
+0 0 10319
+S
+#10335
+Lisa's Candy Store~
+Lisa's store is packed full of candies from all over the known
+galaxy.  Many on currently on order, however, but more will be
+arriving soon.
+~
+103 156 0
+D3
+~
+~
+0 0 10320
+S
+#10336
+A Human Mage's Shop~
+The small shop is empty. The only way to
+get anything is to ask the shop's owner
+for it.  She'll gladly sell it.
+~
+103 396 0
+D1
+~
+~
+0 0 10327
+S
+#10337
+Promenade Banking Center~
+The small alcove has a sign in it that reads:
+ATM now available!  Use it at your pleasure.
+~
+103 220 0
+D2
+~
+~
+0 0 10317
+S
+#10338
+Storage Locker Facility~
+An Unfinished Room
+~
+103 8 0
+D2
+~
+~
+0 0 10323
+S
+#10339
+Bajoran Temple~
+Bajoran tapestries adorn the room where bajorans
+come to worship.  They are of a deep purple, or
+velvet color and reach from ceiling to floor.
+The inner sanctum, which is only for the Kai,
+Emmissary and station engineers needing to make
+repairs, is north of here..
+~
+103 28 0
+D0
+~
+~
+0 0 10340
+D2
+~
+~
+0 0 10328
+S
+#10340
+Inner Sanctum~
+This is the inner sanctum of the DS9 Bajoran temple.
+The walls are covered like the temple, but has a 
+table upon which is an Orb of the Prophets.  The
+Orb is closed, and a force prevents you from getting
+close to it.
+~
+103 262668 0
+D2
+~
+~
+0 0 10339
+S
+#10341
+Docking Ring Hallway at Main Turbolift~
+As you step off of the turbolift, your attention is quickly drawn to
+a large blinking light.  The purpose of which is written below it in
+large lettering. "WARNING: Light indicates a serious hull breach."
+Looking both directions down the hall, you see solid walls, but much
+of the hall is dark.  Power systems have been disabled by the serious
+damage done to this level.
+~
+103 8 0
+D1
+~
+~
+0 0 10342
+D2
+~
+~
+0 0 10306
+D3
+~
+~
+0 0 10362
+S
+#10342
+Docking Ring Hallway~
+The hall is loud and dark.  Explosions of sparks, and
+ship weapons echo throughout the deck.  Cries of pain
+can be heard from somewhere on the deck as the hull is
+blown away.  The sound of atmospheric shield generators
+struggling to keep the deck from becoming another part of
+the vacuum of space doesn't ease the panic you feel in
+this enviroment.  You see that the hall goes west and east
+from here, so you take a deep breath, noticing that the
+air is a bit thin, and move on.
+~
+103 9 0
+D1
+~
+~
+0 0 10343
+D3
+~
+~
+0 0 10341
+S
+#10343
+Docking Ring: NW Corner at Pylon 2~
+You have stumbled upon the darkened northwest corner of the
+hallway.  The lights are out and just south of here, you can see
+major damage has been done to a ring docking port. After making
+sure you see a shield keeping your next breath from escaping the
+station, you move along.
+~
+103 8 0
+D0
+~
+~
+0 0 10344
+D2
+~
+~
+0 0 10347
+D3
+~
+~
+0 0 10342
+S
+#10344
+Pylon 2 Lift~
+The lift is large enough to carry you and a lot
+of cargo.  It is barren, no decorations are required for
+a utility lift.
+~
+103 8 0
+D2
+~
+~
+0 0 10343
+D4
+~
+~
+0 0 10345
+D5
+~
+~
+0 0 10346
+S
+#10345
+Upper Pylon 2~
+This is the upper level of the pylon.  It is 
+damaged a little, but not many ships are firing in this
+direction now.  The ships you see are moving toward the
+large starfleet armada approaching from the other side of the
+station.
+~
+103 264 0
+D0
+~
+~
+0 0 10306
+D2
+~
+~
+0 0 10343
+D5
+~
+~
+0 0 10344
+S
+#10346
+Lower Pylon 2~
+This half of the pylon has sustained minor damage
+from the blasting done to the south on the ring itself.
+It is dark here as a result.
+~
+103 265 0
+D4
+~
+~
+0 0 10344
+S
+#10347
+Docking Ring Hall~
+The air is extremely thin here and when you look at the dock to the east
+you can see why.  An empty Klingon Bird of Prey that was there has been
+destroyed, leaving a hole to open space.  As a result of the explosion,
+part of the hall is missing too.  Power conduits and other lines for
+communication and security monitors are broken and hanging loose over your
+head.  You can feel pain in your lungs.  The atmospheric shielding
+here is inadequate to handle the enormity of the damage that has occured.
+~
+103 9 7
+D0
+~
+~
+0 0 10343
+D2
+~
+~
+0 0 10348
+E
+dock~
+There is no longer a dock here, just burnt metals and arcing powerlines.
+You could see empty space if it weren't for all of the Jem'hadar and
+Breen ships.  You wonder why the Cardassians aren't here shooting at
+the heavily damaged station.
+~
+S
+#10348
+Docking Ring Hallway~
+There is a serious hull breach here!  
+Breen ships have caused the damage after seeing a gap in the main shielding
+over this part of the docking ring.  You can hear some Breen nearby, as
+well has several Jem'Hadar Warriors.  The air here is quite thin and,
+as a result, your lung are hurting.
+~
+103 73 7
+D0
+~
+~
+0 0 10347
+D2
+~
+~
+0 0 10349
+S
+#10349
+Docking Ring Hall: SE Corner~
+Somewhere nearby there must be a hull breach.  The air is very thin here
+and causes your lungs to hurt.  Enemy troops are all around, pinning you
+here unless you can fight your way out.
+The dark hall goes west and north from here.
+~
+103 73 7
+D0
+~
+~
+0 0 10348
+D3
+~
+~
+0 0 10350
+S
+#10350
+Docking Ring Hall at Pylon 3~
+The deckplates beneath your feet creak with the effort to remain straight.
+Already some have began buckling near the outer wall.
+An arcing circut nearby tells the awful tale of overloading
+structural energy fields.  Extra power won't help there now.
+A heavily damaged pylon lies to the south.  Parts of it look
+quite dangerous.  All of the upper pylon has been severed by Breen
+weapon fire.
+~
+103 9 7
+D1
+~
+~
+0 0 10349
+D2
+You see a very damaged lift and cracks along the floor and ceiling near it.
+~
+~
+0 0 10351
+D3
+~
+~
+0 0 10353
+S
+#10351
+Severely damaged pylon lift~
+When you enter the lift, you can see that the upper pylon has been 
+blown off!  The lift may be dangerous to use.  No enemy troops are
+even guarding this lift.
+When you bend to look below the lift, you hear the distinct sound
+of atmospheric shields straining below.  A high-pitched hiss
+accompanies the hum.  This whole pylon has been nearly destroyed!
+~
+103 421 7
+D0
+~
+~
+0 0 10350
+D5
+It looks like the pylon is there, but scarey sounds from below
+make you think it may be a bad idea to make the trip.
+~
+~
+0 0 10352
+S
+#10352
+Lower Pylon 3~
+The pylon is very dangerous to occupy unless you are using a floating
+pack or jetboots.  You MUST fly here.  The floor has been buckled and
+destroyed, so, although there is a gravity field here, there is no
+floor upon which to be gravitated to.  Below you can see a large 
+Jem'hadar Battleship slowly passing by firing rapidly at the docking
+ring below you.
+~
+103 709 9
+D4
+~
+~
+0 0 10351
+E
+battleship~
+It is a very large vessel with tremendous weapon power.
+It's firing in an unusual pattern below you.  First to the
+right of the pylon, then to the left.
+Suddenly, terror strikes you as you realize the ship is attempting
+to destroy the very pylon you are in!
+~
+S
+#10353
+Docking Ring Hall~
+The damage here is unbelievable!
+The dock here has been completely folded into the hall,
+making it diffucult to pass.  The atmosheric shield protecting
+the decks air pressure has visible holes in it.  More
+impact explosions are shaking the deck and seemingly pressing
+the outer wall and what's left of the dock here inward, further
+closing off the hall.  The air is so thin here...
+~
+103 265 7
+D1
+~
+~
+0 0 10350
+D3
+~
+~
+0 0 10354
+S
+#10354
+Docking Ring Hell~
+The near total destruction of the docking ring leads you to the
+funny pun that this isn't the docking ring hall, but the docking ring
+hell instead!  Explosions are begining again on theother side of the
+ring.  It's not another attack on the station, but a Jem'Hadar battleship
+finishing off a Galaxy Class starship, the last few shots passing through
+debris and hitting the station.  The mangled hull of the ship drifts past
+your viewpoint through a breach in the hull to the east.
+Weaponsfire is barely audible, but you hear it.  Enemy troops have landed!
+~
+103 9 7
+D1
+~
+~
+0 0 10353
+D3
+~
+~
+0 0 10355
+S
+#10355
+Docking Ring: SW Corner~
+The hall to the north seems untouched compared to the one
+leading east.  Standing at the SW corner, you can clearly see
+this, even though the lights are out.  Bright flashes of ship
+weapons race across a small hole in the hull over your head
+lighting up this small area, sometimes blindingly so.  It seems
+the attackers are leaving this side of the ring alone.  maybe they
+plan to dock on this unstable ring later.
+~
+103 9 7
+D0
+~
+~
+0 0 10356
+D1
+~
+~
+0 0 10354
+S
+#10356
+Docking Ring Hallway Near a Runabout Hangar~
+There is actual fighting going on in the hall on this
+side of the deck!  Klingons in hand-to-hand combat and
+starfleet and Bajoran security officers fighting with
+phasers and some bladed weapons.  Jem'Hadar are gladly
+engaging Klingons in bladed and hand-to-hand combat,
+meanwhile their fellow warriors are blasting away at the
+weaker races.
+~
+103 8 7
+D0
+~
+~
+0 0 10357
+D2
+~
+~
+0 0 10355
+D3
+~
+~
+0 0 10363
+S
+#10357
+Docking Ring Hall~
+Once again you find yourself in the middle of a fierce battle,
+or did you just bvring it with you?  At any rate it is here
+and you are forced to engage the enemy.
+~
+103 8 7
+D0
+~
+~
+0 0 10358
+D2
+~
+~
+0 0 10356
+S
+#10358
+Docking Ring Hallway: NW Corner at Pylon 1~
+You calming walk through the corridor, dodging blaster bolts
+and phaser beams, to find just the right target for you to kill.
+Meanwhile the blasters and phasers are aiming your way.  This is
+not a walk in the park!  A war is raging all around you and you
+are a part of it whether or not you wanna be.  Just as you
+realize this, a wayward bolt of energy slams into a wall right
+behind you.  Luckily it was not on target!
+~
+103 8 0
+D1
+~
+~
+0 0 10362
+D2
+~
+~
+0 0 10357
+D3
+~
+~
+0 0 10359
+S
+#10359
+Pylon 1 Lift~
+You are in the small lift that goes up and down
+through this pylon to carry goods and personel
+to and from ships that are docked there.
+~
+103 328 0
+D1
+~
+~
+0 0 10358
+D4
+~
+~
+0 0 10360
+D5
+~
+~
+0 0 10361
+S
+#10360
+Upper Pylon 1~
+You have located upper pylon 1.
+From here you can see the reason most of this side of the
+deck is untouched by weapons fire from the Dominion.
+A swarm of Star Fleet ships are approaching and the dominion
+are send all ships detailed to this side of the station to hold them all
+off.  The Calvary is HERE!
+~
+103 328 4
+D3
+~
+~
+0 0 10349
+D5
+~
+~
+0 0 10359
+S
+#10361
+Lower Pylon 1~
+The lights have been knocked off in the Pylon.
+You can still see out of the airlock where many
+ships are engaged in battle.  To your horror, you see
+a federation ship hit and lose all power before it begins
+to drift helplessly through space.  As you look closer, you can s
+the Federation ships in this condition.  Just as you lose all hope, and
+the Dominnion ships reverse course heading away from the disabled
+fleet, every ship in the fleet reactivates its systems and attack
+the Dominion ships with a terrible vengance, destroying all of them!
+Way to go StarFleet!!!
+The only exit, is up thru the lift to the main deck.
+~
+103 265 0
+D4
+~
+~
+0 0 10359
+S
+#10362
+Docking Ring Hallway~
+The docking ring is undergoing quite a pounding from outside
+where ships converge and fire on this level.  Inside here, you
+can hear the ships hitting the target, but also a lot of weapons
+are being fired nearby too.  The Main lift is just east of here,
+and the rest of the Docking ring is to the west.
+~
+103 8 0
+D1
+~
+~
+0 0 10341
+D3
+~
+~
+0 0 10358
+S
+#10363
+Runabout Hangar~
+This hangar is quite empty now.  As soon as Starfleet intel
+found out the dominion was launching an all-out offensive on ds9,
+all unneccessary personel was evacuated to Bajor or the nearest
+Starbase.  There is a large missle on the launchpad, but there is a 
+forcefield around it, so you can only look.  You wonder what the
+devil the Federation plans to do with that.
+~
+103 12 0
+D1
+~
+~
+0 0 10356
+S
+#10364
+An Unfinished room~
+An Unfinished Room
+~
+103 0 0
+D0
+~
+~
+0 0 10371
+D2
+~
+~
+0 0 10362
+D3
+~
+~
+0 0 10365
+S
+#10365
+Abandoned Level at Main Turbolift~
+It is quite dark down here, and noone seems to be here.
+The lift is south of you and the rest of the level is straight ahead.
+~
+103 13 0
+D0
+~
+~
+0 0 10366
+D2
+~
+~
+0 0 10307
+S
+#10366
+Abandoned Level Hall~
+You are on the Abandoned Level of DS9.
+The level is all dark and the only noises you
+can hear are the booms and bams of the battle
+goings on as the station continues to defend itself.
+~
+103 13 0
+D2
+~
+~
+0 0 10365
+D3
+~
+~
+0 0 10367
+S
+#10367
+Abandoned Level hall~
+It's too dark to see much.  Shadows
+are all over the walls.  Even if you
+have a light, the shadows gobble
+up your light as it nears the walls.
+~
+103 73 0
+D0
+~
+~
+0 0 10369
+D1
+~
+~
+0 0 10366
+D3
+~
+secret~
+3 0 10368
+S
+#10368
+Old Maquis Hideaway~
+An Unfinished Room
+~
+103 12 0
+D1
+~
+door~
+1 0 10367
+S
+#10369
+Abandoned Level Hall~
+It's too dark to see much.  Shadows
+are all over the walls.  Even if you
+have a light, the shadows gobble
+up your light as it nears the walls.
+~
+103 13 0
+D0
+~
+~
+0 0 10370
+D2
+~
+~
+0 0 10367
+S
+#10370
+Abandoned Level Hall~
+It's too dark to see much.  Shadows
+are all over the walls.  Even if you
+have a light, the shadows gobble
+up your light as it nears the walls.
+~
+103 9 0
+D0
+~
+~
+0 0 10371
+D2
+~
+~
+0 0 10369
+S
+#10371
+Abandoned Level Hall~
+It's too dark to see much.  Shadows
+are all over the walls.  Even if you
+have a light, the shadows gobble
+up your light as it nears the walls.
+~
+103 9 0
+D0
+~
+wall~
+3 0 10372
+D1
+~
+~
+0 0 10373
+D2
+~
+~
+0 0 10370
+S
+#10372
+Hidden Maquis Store~
+Nothing.
+~
+103 28 0
+D2
+~
+exit~
+2 0 10371
+S
+#10373
+Old Maquis Family Center~
+You have entered what was once a family center for the Maquis
+when they took refuge here, before the war with the Dominion
+started.  Tables are still here along with chairs and make-shift
+bedding lies along the walls.
+~
+103 9 0
+D0
+~
+wall~
+1 0 10375
+D3
+~
+~
+0 0 10371
+S
+#10375
+End of the Abandoned Level Hall~
+Disappointed, you find yourself at the end of the hall.
+There are no exits save for the one to the south.
+The walls are dark and deep in shadow, even when you
+point your light directly at them.  Both to the north and
+west this happens, but the wall seems normal to the east.
+~
+103 9 0
+D0
+~
+wall~
+3 0 10383
+D2
+~
+~
+0 0 10373
+D3
+~
+door~
+1 0 10376
+S
+#10376
+Maquis Hall~
+The hall you are now in is an old passage leading to
+the dining hall and a tunnel used for covert travel thru 
+the station.  The hall itself isn't very large, but it
+is plenty big for the small number of Maquis that were
+here.  The hall leads west from here.
+~
+103 76 0
+D1
+~
+door~
+1 0 10375
+D3
+~
+~
+0 0 10377
+S
+#10377
+Maquis Hall~
+The hall you are now in is an old passage leading to
+the dining hall and a tunnel used for covert travel thru 
+the station.  The hall itself isn't very large, but it
+is plenty big for the small number of Maquis that were
+here.  The hall leads west from here.
+~
+103 0 0
+D1
+~
+~
+0 0 10376
+D2
+~
+~
+0 0 10378
+D3
+~
+~
+0 0 10379
+S
+#10378
+The Dining Hall~
+The dining hall is a 15x12 foot room with a small table and
+two larger ones.  There are a couple of food stains on the floor
+near the food slot.
+~
+103 8 0
+D0
+~
+~
+0 0 10377
+S
+#10379
+Maquis Hall~
+The hall you are now in is an old passage leading to
+the dining hall and a tunnel used for covert travel thru 
+the station.  The hall itself isn't very large, but it
+is plenty big for the small number of Maquis that were
+here.  The hall leads west from here.
+~
+103 0 0
+D1
+~
+~
+0 0 10377
+D3
+~
+~
+0 0 10380
+S
+#10380
+End of the Maquis hall~
+The hall you are now in is an old passage leading to
+the dining hall and a tunnel used for covert travel thru 
+the station.  The hall itself isn't very large, but it
+is plenty big for the small number of Maquis that were
+here.  The hall leads west from here.
+~
+103 72 0
+D1
+~
+~
+0 0 10379
+D4
+~
+~
+0 0 10381
+S
+#10381
+A Small Tunnel~
+The tunnel is small, but at least it has lighting, which is
+surprising considering most power has been diverted to
+critical battle systems.
+The tunnel goes up and down from here.
+~
+103 320 0
+D4
+~
+~
+0 0 10382
+D5
+~
+~
+0 0 10380
+S
+#10382
+A Small Tunnel~
+The tunnel is small and made of a metal alloy.
+There is some dust, but much usage has cleared it from the floor.
+The tunnel falls away beneath you, with a ladder clinging to one
+side. It also leads west, but it is dark that way.
+~
+103 328 0
+D3
+~
+~
+0 0 10399
+D5
+~
+~
+0 0 10381
+S
+#10383
+Toil and Trouble Hall~
+You've found the entrance to the work and detainment area
+that was once home to many Bajoran slaves.  The whole area
+is dusty and groans loudly because of the pounding the
+station is recieving from without.
+This area like most of the abandoned level is in darkness.
+The power having been rerouted to important systems like
+lifesupport.
+~
+103 13 0
+D0
+~
+~
+0 0 10384
+D2
+~
+door~
+1 0 10375
+S
+#10384
+Mining Area Overlook~
+Standing here, you can look down where Bajorans once toiled
+away refining the minerals pirated from the planet Bajor.
+A fine dust still floats below, hiding the floor from view.
+A small lift goes down from here into that dusty hell.
+~
+103 269 0
+D2
+~
+~
+0 0 10383
+D5
+~
+~
+0 0 10385
+S
+#10385
+Mining Room~
+The dust you saw from above is about knee high down here.
+Several times you feel something brush against your leg.
+~
+103 8 0
+D1
+~
+~
+0 0 10386
+D4
+~
+~
+0 0 10384
+S
+#10386
+Cage Hall~
+This is a dark pathway that leads to what once was the
+detainment center for Bajoran slaves that were forced
+to work in the ore processing center to the west.
+~
+103 13 0
+D1
+~
+~
+0 0 10387
+D3
+~
+~
+0 0 10385
+S
+#10387
+Corner in Cage Hall~
+The hall is still dark. The way east is blocked by
+a wall, but there seems to be some noises coming from
+the south.
+~
+103 65 0
+D2
+~
+~
+0 0 10388
+D3
+~
+~
+0 0 10386
+S
+#10388
+Cage Hall~
+An Unfinished Room
+~
+103 9 0
+D0
+~
+~
+0 0 10387
+D2
+~
+~
+0 0 10389
+S
+#10389
+Cage Room~
+The horrific cage is before you.  It is made with very strong
+bars wrapped with ripping wires.  You can see blood on the wire,
+and to your horror, some of it isn't even dry!  Someone was just
+here and was injured by that wire.
+~
+103 201 0
+D0
+~
+~
+0 0 10388
+D1
+~
+cage~
+1 0 10390
+E
+wire cage~
+The wire wrapped around the strong bars make them a wall of
+razor-sharp blades that you can't see thru.
+~
+S
+#10390
+Inside the Cage~
+Nothing.
+~
+103 332 0
+D1
+~
+~
+0 0 10392
+D3
+~
+cage~
+1 0 10389
+D5
+~
+~
+0 0 10391
+S
+#10391
+In the Waste Recepticle~
+If you had looked before you lept, you would have noticed
+that this is not a good place to be,  Strong force fields
+rip through your body, getting you ready to be recycled.
+
+               YOU ARE DEAD ... (sorry, no eq refunds)
+~
+103 2 0
+D4
+~
+~
+0 0 10390
+S
+#10392
+Praise a God Board Room~
+This is a peaceful board room where you can write praises 
+to your favorite God.
+
+
+I'm waiting.....
+~
+103 28 0
+D3
+~
+~
+0 0 10390
+S
+#10394
+An Unfinished room~
+An Unfinished Room
+~
+103 0 0
+S
+#10398
+Stairway to Basement~
+The stairs are wide, have friction strips on the edge to prevent
+accidental slips, and Bronze plated handrails.  The stairs lead
+up the the basement entrance and further down to the basement
+below.
+A small note is taped high on the wall.
+~
+103 412 0
+D4
+~
+~
+0 0 10346
+E
+note~
+Notice:
+Down from here is another zone.
+~
+S
+#10399
+End of the Tunnel~
+You've reached the end of the tunnel. To the south there is a
+small panel that looks like it might open for you.
+The tunnel only goes e from here.
+~
+103 333 0
+D1
+~
+~
+0 0 10382
+D3
+Exiting to the Habitat Ring.
+There's no exit back.
+~
+~
+0 0 10238
+S
+$~

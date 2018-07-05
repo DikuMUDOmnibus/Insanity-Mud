@@ -1,0 +1,672 @@
+#20000
+A kestrel's feather~
+a Kestrel's Feather~
+A beautiful long feather lays here.~
+The feather appeaars to come from a hunting bird.  It has a very strong stem,
+that you figure may be used as a weapon.
+~
+5 487510275 24577
+0 10 10 11
+5 0 0 0 0
+A
+18 50
+A
+19 50
+#20002
+bow crossbow~
+a colourful crossbow.~
+An odd looking bow is here.~
+~
+6 260 24577
+1 0 100 100
+10 0 0 0 0
+A
+19 1
+A
+1 1
+A
+1 3
+A
+2 1
+#20003
+whip babe spirit~
+Babe's Whip of Spirits~
+A slightly glowing whip has been left on the ground.~
+~
+5 289 8193
+5 7 5 2
+7 0 0 0 0
+A
+19 4
+#20010
+tunic made of white~
+a tunic made of brilliant white.~
+A glowing piece of cloth lays here.~
+~
+9 5 1025
+-5 0 0 0
+10 0 0 0 0
+A
+2 1
+A
+19 1
+A
+1 1
+#20012
+sparkling key~
+a sparkling key~
+A sparkling piece of metal lays here.~
+~
+18 5 1
+0 0 0 0
+3 0 0 0 0
+#20013
+black key~
+a black key~
+A black key is laying here.~
+~
+18 4 16385
+0 0 0 0
+0 0 0 0 0
+#20014
+mandala's mace mandala~
+a Mandala's Mace~
+A junky looking mace has been left here.~
+~
+5 20971521 8193
+5 8 3 6
+13 0 0 0 0
+A
+19 2
+#20015
+joint cigarrette spliff~
+a massive spliff~
+A large cigarrette has been left here.~
+~
+17 0 16385
+0 0 0 0
+2 112 0 0 0
+A
+3 1
+#20016
+knife blade hertz~
+a Hertz knife~
+A knife is staked into the ground.~
+~
+5 0 24577
+2 5 3 14
+8 1000 0 0 0
+#20017
+rope length~
+a length of rope~
+A piece of rope is here on the groud.~
+~
+12 0 16385
+0 0 0 0
+10 0 0 0 0
+#20018
+overcoat camel's hair~
+an overcoat of camel's hair~
+A fur coat is hanging here.~
+~
+9 24576 1025
+6 0 0 0
+12 0 0 0 0
+A
+1 -1
+A
+13 10
+#20019
+beer mug~
+a mug of beer~
+A mug has been left on one of the tables.~
+~
+10 0 16385
+1 39 0 0
+0 0 0 0 0
+#20020
+medal Maleficarum~
+a Maleficarum Medal~
+A medal has been left here.~
+~
+12 134348800 5
+0 0 0 0
+9 0 0 0 0
+A
+2 1
+A
+19 3
+A
+1 -1
+A
+18 -1
+#20021
+pack witch~
+a witch's pack~
+A pack is laying here.~
+~
+15 0 17409
+40 0 -1 0
+4 0 0 0 0
+A
+17 -5
+#20022
+dark blade~
+a dark blade~
+A sword has been left here.~
+~
+5 0 8193
+2 2 4 3
+12 200 0 0 0
+#20023
+scruptious leggings~
+a pair of Lazuras' leggings~
+A pair of green leggings are lying here.~
+~
+9 0 33
+7 0 0 0
+20 0 0 0 0
+A
+1 -1
+A
+12 10
+A
+14 10
+#20024
+purse~
+a purse~
+A purse has been left here.~
+~
+15 0 24577
+20 1 -1 0
+0 0 0 0 0
+#20025
+tray~
+a waiter's tray~
+A tray is on the ground here.~
+~
+12 0 16385
+0 0 0 0
+3 10 0 0 0
+A
+3 1
+#20026
+battle axe~
+a battle axe~
+A large axe has been left here.~
+~
+5 0 8193
+2 3 4 6
+6 0 0 0 0
+A
+18 2
+#20027
+doll raggedy~
+a raggedy doll~
+A doll has been dropped here.~
+~
+1 0 16385
+0 0 300 0
+10 0 0 0 0
+#20028
+mushroom fungus food~
+a phospherescent mushroom~
+A mushroom is growing on a tree.~
+~
+19 1 16385
+10 0 0 0
+1 0 0 0 0
+#20029
+zoltrix sword~
+a zoltrix longsword~
+A shiny sword is lying here.~
+~
+5 12354 8193
+4 4 7 3
+5 0 0 0 0
+A
+1 1
+A
+18 2
+A
+19 3
+#20030
+stream water~
+a stream~
+A stream of clear water is flowing by your feet.~
+~
+23 0 16384
+10000 10000 15 0
+10005 0 0 0 0
+#20031
+fountain water~
+a stone fountain~
+A stone fountain is flowing here. A sign has been attached to the base.~
+~
+23 0 0
+1000 1000 14 1
+1005 0 0 0 0
+E
+sign~
+   This water will only serve those that can biologically consume salt water.
+If you can't, then don't drink the water.    
+~
+#20032
+plunger~
+a plunger~
+A plunger has been left here.~
+~
+3 0 16385
+1 3 3 15
+3 0 0 0 0
+#20033
+key silver~
+a silver key~
+A key is on the ground.~
+~
+18 4 16385
+0 0 0 0
+0 0 0 0 0
+#20034
+wand stick~
+a silver wand~
+A silver stick has been left here.~
+~
+3 0 16385
+5 2 2 2
+2 0 0 0 0
+#20035
+saphire staff~
+a brilliant saphire staff~
+A blue staff is laying here.~
+~
+5 295168 8193
+5 3 5 3
+10 0 0 0 0
+A
+18 -2
+A
+19 1
+A
+3 2
+A
+12 10
+#20036
+lantern light~
+a coleman lantern~
+A lantern is laying here.~
+~
+1 257 16385
+0 0 238 0
+5 20845 0 0 0
+#20037
+key leg spider~
+a spider-leg shaped key~
+A spider leg has been severed, and left here.~
+~
+18 4 16385
+0 0 0 0
+2 0 0 0 0
+#20038
+club ~
+a battering club~
+A club is laying here.~
+~
+5 148104 8193
+1 2 4 7
+6 0 0 0 0
+A
+19 -1
+#20039
+cloak spiderweb~
+a cloak made of spiderweb~
+A mass of spider web is piled on the ground.~
+~
+9 0 1025
+10 0 0 0
+9 25000 0 0 20
+A
+18 2
+A
+1 -1
+A
+4 1
+A
+12 20
+#20040
+water fountain~
+a fountain~
+Water is continuously flowing here through a marble fountain.~
+~
+23 0 0
+1000 1000 15 0
+1005 0 0 0 0
+#20041
+key gold medallion~
+a gold medallion~
+A shiny medallion in the shape of a key has been dropped here.~
+~
+18 4 16389
+0 0 0 0
+3 0 0 0 0
+#20042
+key black horn~
+a black horn~
+A black horn shaped object has been left here.~
+~
+18 6 16385
+0 0 0 0
+0 0 0 0 0
+#20043
+sapphire pants~
+Sapphire pants~
+A pair of blue pants have been dropped here.~
+~
+9 2098176 33
+7 0 0 0
+12 0 0 0 0
+A
+3 1
+A
+5 -1
+#20044
+jacket sapphire~
+a sapphire jacket~
+A blue sparkling jacket is hanging here.~
+~
+11 2098176 1025
+0 0 0 0
+12 0 0 0 0
+A
+17 -8
+A
+3 1
+#20045
+key iron ~
+an Iron Key~
+A key has been left on the ground.~
+~
+18 4 16385
+0 0 0 0
+2 0 0 0 0
+#20046
+locker lock~
+the locker~
+A large lock can be seen on a yellow locker.~
+~
+15 4 0
+3 13 20047 0
+0 0 0 0 0
+#20047
+large key~
+a large key~
+A large key has been left on the ground.~
+~
+18 4 16385
+0 0 0 0
+2 0 0 0 0
+#20048
+Key ring~
+a key ring~
+A Key Ring has been left on the ground.~
+~
+18 4 16385
+0 0 0 0
+3 0 0 0 0
+#20050
+silver key~
+Silver Vault Key~
+A silver key has been left here.~
+~
+18 4 16385
+0 0 0 0
+3 0 0 0 0
+#20051
+brass key~
+a Brass Key~
+A brass key has been left here.~
+~
+18 4 16385
+0 0 0 0
+3 0 0 0 0
+#20052
+gold key~
+a Gold Key~
+A gold key has been left here.~
+~
+18 4 16385
+0 0 0 0
+3 0 0 0 0
+#20053
+small vault~
+a small vault~
+A small vault sits here.~
+~
+15 4 0
+100 13 20054 0
+1000 0 0 0 0
+#20054
+vault key~
+a dull key ~
+A key is on the ground here.~
+~
+18 4 16385
+0 0 0 0
+4 0 0 0 0
+#20055
+safe~
+a large safe~
+A large safe is on the south wall.~
+~
+15 4 0
+1000 13 20056 0
+10000 0 0 0 0
+#20056
+bent key~
+the bent key~
+A odly bent key has been thrown on the ground here.~
+~
+18 4 16385
+0 0 0 0
+2 0 0 0 0
+#20057
+opal spheres~
+Opal Sphere~
+A tiny sphere has fallen here.~
+~
+12 180481 65537
+0 0 0 0
+1 200 0 0 0
+A
+12 7
+#20060
+club adamintium~
+an adamintium club~
+A large club has been left here.~
+~
+5 151680 8193
+2 2 4 7
+5 400 0 0 0
+#20061
+skeleton key~
+a skeleton key~
+An odd shaped key rests on the ground.~
+~
+18 4 1
+0 0 0 0
+1 0 0 0 0
+#20062
+scorpion wristband~
+Wristband made of Scorpion skin~
+A wristband has been left here.~
+~
+12 1088 4097
+0 0 0 0
+3 0 0 0 0
+A
+1 1
+A
+17 3
+A
+5 -1
+#20063
+skeleton hand~
+a Skeleton Hand~
+A bony hand is on the ground.~
+~
+12 4202496 16385
+0 0 0 0
+4 1200 0 0 0
+A
+17 -8
+A
+18 3
+A
+19 2
+A
+1 -1
+#20066
+ring viscera~
+Ring made of viscera~
+A fleshy looking ring is on the ground.~
+~
+12 2 3
+0 0 0 0
+2 11000 0 0 0
+A
+19 3
+A
+2 2
+#20067
+mandala crossbow~
+a Mandala crossbow~
+A crossbow is laying on the ground.~
+~
+6 1 16385
+1 0 100 100
+4 2000 0 0 0
+A
+4 2
+A
+18 2
+A
+19 -2
+#20068
+shield thor~
+Shield of Thor~
+A large jewel encrested shield has been left here.~
+~
+9 8400896 513
+9 0 0 0
+5 0 0 0 0
+A
+18 2
+#20070
+murky potion~
+a murky potion~
+A murky potion is lying here.~
+~
+10 4 16385
+1 28 0 0
+3 0 0 0 0
+#20076
+dagger splak~
+a sharpened splak~
+A handled sharpened piece of metal has been left here.~
+~
+5 222433675 24577
+0 10 10 11
+5 0 2 0 0
+A
+19 3
+A
+5 4
+A
+13 75
+A
+17 -10
+#20077
+Cane of Age~
+cane of age~
+A cane is lying on the ground here.~
+~
+12 0 16385
+0 0 0 0
+4 1000 0 0 0
+A
+9 3
+#20080
+Britos botus~
+a britos botus~
+An oddly shapped bottle has been left here.~
+~
+17 256 18433
+100 100 15 0
+105 0 0 0 0
+A
+2 4
+A
+1 10
+A
+13 44
+A
+18 1
+A
+19 1
+#20090
+Silver earstud~
+a silver earstud~
+An earring has been left here.~
+You feel a little more agile.
+~
+12 16416 65537
+0 0 0 0
+1 0 0 0 0
+A
+2 1
+#20091
+pen feather~
+Wren's Feather~
+A wren's feather has been left here.~
+~
+21 971776 25091
+0 0 0 0
+0 0 0 0 0
+#20096
+helmet blue scale~
+a helmet made of blue scale~
+A blue helmet has been left here.~
+~
+9 271360 16401
+8 0 0 0
+4 4500 0 0 0
+A
+18 2
+A
+5 -2
+A
+19 4
+#20098
+Olies' special recall~
+Olies' special recall~
+A scroll laced with hyroglyphics lays here.~
+gives Proteus a big kiss as he recites the scroll
+~
+2 4 16385
+3 42 42 42
+0 0 0 0 0
+#20099
+A beautiful feather laced vest.~
+a feather vest~
+A piece of what looks like clothing covered in feathers has been left here.~
+~
+9 449597445 9
+5 0 0 0
+1 0 0 0 0
+A
+18 5
+A
+1 2
+A
+19 5
+$~

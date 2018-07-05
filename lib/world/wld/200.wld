@@ -1,0 +1,1598 @@
+#20000
+Olies' CourtYard~
+The smell of inscense overwhelms you as you enter this candle light room.  You
+become instantly relaxed and a feeling of floating overcomes you.  On the north
+wall you see a throne.  It is encrested with great jewels and what appears to
+be human and animal type ears.  The walls are covered with reminents of a great
+warrior.  Odd, you think as you know Olies was a great healer.    
+~
+200 16 1
+D5
+~
+~
+0 0 4579
+S
+#20001
+The Stairwell~
+   You are standing at the top of the stairwell.  There is an antiseptic smell
+that is burning your nose hairs.  The hall to the east is a little dimmer then
+the room that opens to the west.    
+~
+200 12 0
+D1
+~
+~
+0 0 20002
+D3
+~
+~
+0 0 20005
+S
+#20002
+The Hallway~
+   The hall walls are mared with scratches.  This area obviously is one that is
+used for the public that visits the casino.  The ground is a simple tile that
+would definitly not be used to impress anyone.  The hall continues to the east
+and to the west.  The antiseptic odor is stronger here.    
+~
+200 8 0
+D1
+~
+~
+0 0 20003
+D3
+~
+~
+0 0 20001
+S
+#20003
+The Hallway~
+   The scratches on the walls give you the shivers, even though you have no
+idea where they came from.  You begin to feel nausious as the odor is extremly
+strong in this part of the hall.  A bright light is coming from the room to the
+east.    
+~
+200 8 0
+D1
+~
+~
+0 0 20004
+D3
+~
+~
+0 0 20002
+S
+#20004
+The Locker Room~
+   Nausea has now taken over your senses inhale the scent of this putrid locker
+room.  Maybe you should complain about the smell, and get this room cleaned.  
+Benches centre the rows of yellow lockers in the room.  On the north wall are
+shower stalls and fountains.  Presumably used by the workers of the casino.  
+An abnormally large lock on one of the lockers catches your eye as you look
+about the room.    
+~
+200 8 0
+D3
+~
+~
+0 0 20003
+S
+#20005
+The Hallway~
+   The hall is increasingly streil looking to the west.  The odd odor that was
+so prominent to the east is now subsiding, to your great relief.    
+~
+200 8 0
+D1
+~
+~
+0 0 20001
+D3
+~
+~
+0 0 20006
+S
+#20006
+A Bend in the Hallway~
+   You can here the noise of working hands and feet to the south.  To the east
+you sense an odor that makes you cringe.    
+~
+200 8 0
+D1
+~
+~
+0 0 20005
+D2
+~
+~
+0 0 20007
+S
+#20007
+A Hallway~
+   The hall brightens to the south as the sound of workers becomes louder.  
+The hall is unlike anything the casino has offered as yet.  The walls are a
+solid white, not painted on, but the stone is actually a sheer white.    
+~
+200 8 0
+D0
+~
+~
+0 0 20006
+D2
+~
+~
+0 0 20008
+S
+#20008
+An Intersection in the Hallway~
+   The hall has three exits from here.  To the south the hall continues into a
+slightly dimmer area then what you see to the east.  Noises, that of workers,
+can be heard from the east.  The Oak door to the west indicates that it is an
+office of sorts.    
+~
+200 8 0
+D0
+~
+~
+0 0 20007
+D1
+~
+~
+0 0 20038
+D3
+~
+oak door~
+1 0 20009
+S
+#20009
+The Guard's Common Office~
+   Several desks line the walls in this room.  A couple couches are in the
+center, obviously there for the comfort of the guards.  The casino officials
+know that being a guard is a stressful job, and therefor offer them a
+comfortable place to hang out.    
+~
+200 8 0
+D1
+~
+door oak~
+1 0 20008
+S
+#20010
+Grand Entrance of The Wren Casino~
+   This room carries with it the age of time.  The floors are made of marble,
+the walls built of boulders and gold bricks.  There is a magnificent chandalier
+that hangs way above your head that illuminate the room.  To the north you see
+a hall that leads to a slight crowd noise.  To the west is what appears to be a
+vestibule of some sort.  On the east wall you see a plaque of silver.  Make
+sure you have lots of gold before you go further.    
+~
+200 152 0
+D0
+A hall almost as grand as the entrance.
+~
+~
+0 0 20012
+D2
+~
+doors~
+1 0 20091
+D3
+You see the coat check.    
+~
+~
+0 0 20011
+E
+plaque sign silver~
+This plaque is to commemorate our 2000 years service to you, the public.  We
+have maintained a peaceful enviroment for that time and would like to keep it
+that way.  Please enjoy your stay and if there is anything we can do , please
+just ask.    
+~
+S
+#20011
+The coat check~
+   The room is covered in coats, capes and cloaks that have been left here by
+guest of the casino.  Some appear quite expensive others could belong to
+vagrants.  There are no exits except for the way you came in.  On the table you
+see a chest with the words "TIPS" carved in it.  On the far wall you can see a
+window that is much too small to fit through.  It seems to be the only light in
+the room aside from the chandalier in the entrance.    
+~
+200 8 0
+D1
+You see that light from the chandalier you left not long ago.    
+~
+~
+0 0 20010
+S
+#20012
+Hallway to Fun~
+   This hall also has great marble floors and the same walls as the entrance.
+The walls are covered in paintings that come from all over Minos.  Some appear
+to be as old as the building while others seem quite new.  One of the paintings
+has a little card attached to the bottom right hand corner.  The sound of the
+crowd is getting nearer and louder.  What are you getting yourself into?    
+~
+200 8 0
+D0
+You see more hall and cries from a crowd.    
+~
+~
+0 0 20013
+D2
+You see the light from the chandalier of the main entrance.    
+~
+~
+0 0 20010
+E
+card~
+This can be purchased for the price of 1000 gold coins and your fisrt born.  
+Do you really think we would sell these paintings.  They have come from the
+heart and soul of those that created this world.  Again enjoy your stay in the
+casino and it's great hotel.    
+~
+S
+#20013
+Hallway To Fun~
+   The hall floor is the same as the entrance and the walls are now covered in
+a fluffy material.  Again they are plastered in paintings of all eras.  You can
+now see the crowd and hear there obnoxious cheers, cries and yelps.  Now the
+fun starts!!!    
+~
+200 8 0
+D0
+A room full of people and noise.    
+~
+~
+0 0 20014
+D2
+You see more hallway and a dim light.    
+~
+~
+0 0 20012
+S
+#20014
+McKormick's slot room.~
+   This room is filled with what appears to be slot machines.  There are all
+kinds of beings entranced by them, dropping gold coins into them like robots.
+To the east you another similar room.  To the west yet another and to the north
+a large oak door.  There are officials everywhere making sure all is to the
+liking of the casinos guests.  The ceiling is encrusted with glitering stones
+that have come from the depths of the seas of Minos.  To the south is the hall
+that leads to the outside.    
+~
+200 8 0
+D0
+~
+oak door~
+1 0 20017
+D1
+You see another room full of people and there noise.    
+~
+~
+0 0 20016
+D2
+You see a dimmly lit hallway.    
+~
+~
+0 0 20013
+D3
+You see another room full of noise and people.    
+~
+~
+0 0 20015
+S
+#20015
+Hobbe's slot room.~
+   This room is crawling with zombie type creatures.  They are so entranced in
+their slot machines that they don't even realize they are dead.  As with
+throughout the rest of the casino and the hotel, the officials are roaming room
+with much more action.  To the east is a room with better lighting and just as
+many people.    
+~
+200 8 0
+D1
+You see a large, loud room.    
+~
+~
+0 0 20014
+D3
+A much busier room then this one.    
+~
+~
+0 0 20018
+S
+#20016
+Deichtine's slot room.~
+   This room has what appear to be slot machines scattered around it.  T The
+players are completly entranced by their games.  Heaps of gold is going from
+hand to machine every second.    
+~
+200 8 0
+D1
+   You see a dark and scary hallway.    
+~
+~
+0 0 20034
+D3
+~
+~
+0 0 20014
+S
+#20017
+Dracon's Blackjack room~
+This room has two large round tables. Chairs surround the tables with players
+and a dealer is giving out cards at each. You are mesmerised by the amount of
+gold you see changing hands. The floor here is covered with a plush material
+that eases the discomfort you have been feeling in your feet. The east wall
+has a large picture window centered on it. To the south is a large oak door.
+ 
+~
+200 8 0
+D0
+~
+stone door~
+1 0 20032
+D2
+~
+oak door~
+1 0 20014
+E
+window~
+Looking out the window you see that country side covered in trees, roaming
+animals and flying birds.  The peacefulness of the outside seems quite ironic.
+  
+~
+S
+#20018
+Emer's slot room.~
+   This room has many slot machines.  The crowd seems louder here then the
+rest of the slot rooms.  Perhaps this is intensified by the noise you here from
+the west.  There are humanoid figures at each machine with many waiting to play
+there turn.  On the north wall is a what appears to be a message board.    
+~
+200 8 0
+D1
+~
+~
+0 0 20015
+D3
+~
+~
+0 0 20019
+E
+board message~
+Glad you have taken the time to rest and look around.  We do hope that you are
+enjoying yourself.  If you see Samuin, remember that he is quite a philosipher
+, and enjoys good conversation.  He once had a dog named ROOD, and is sometimes
+obssesed by the use of the name.  Take care and have fun.    
+~
+S
+#20019
+The Adenga Saloon.~
+   The saloon has a large bar in the center of the room that is surrounded by
+stools and patrons.  The are tables and chairs along the walls that look very
+inviting.  Each table is centred by brightly coloured candles.  Some tables even
+have mugs of beer that have been left behind by the guests.  MMMMMMMM, wouldn't
+a mug of beer go down great right now.    
+~
+200 136 0
+D0
+~
+~
+0 0 20022
+D1
+~
+~
+0 0 20018
+D2
+~
+door toilet men~
+1 0 20020
+D3
+~
+door toilet ladies~
+1 0 20021
+S
+#20020
+Men's room~
+   What would an architect be thinking if he didnt install such a magnificent
+toilet in this grand casino, espicailly outside the saloon.  There's not much
+here, but take a rest.    
+~
+200 9 0
+D0
+~
+door toilet men~
+1 0 20019
+S
+#20021
+Ladies' room.~
+   This room is filled with the scent of an expensive parfume.  There are
+stalls, and a mirror on the south wall.  You see a note attached to the mirror.
+  
+~
+200 9 0
+D1
+~
+door toilet~
+1 0 20019
+E
+note~
+Remember Samuin was very found of his dog ROOD.  Having fun?    
+~
+S
+#20022
+Ylno's BlackJack room.~
+   This room is dressed with three large tables surrounded by gamblers playing
+cards.  You can smell some sort of food cooking, perhaps coming from the room
+to the west.  The sound of the slot machines, amazingly enough, can be heard
+all the way to this room.  For the first time, you notice that the walls are
+tarnished a yellowish colour.  This is prrobably from the heavy smoke dispelled
+by the gamblers.  An accumulation over the past 2000 years also leaves a sticky
+film on the walls and window to the east that overlooks a courtyard.    
+~
+200 8 0
+D0
+~
+door~
+1 0 20027
+D2
+~
+~
+0 0 20019
+D3
+~
+~
+0 0 20023
+S
+#20023
+The Adenga Eatery.~
+   The sweet aroma of fresh food overwhelmes you.  Many tables are being used
+by beings filling theirs faces before they return to their gambling.    
+~
+200 8 0
+D1
+~
+~
+0 0 20022
+D3
+~
+door~
+1 20033 20024
+S
+#20024
+A dark hallway.~
+   This hallway is very dark and dingy.  Quite a contrast from the rest of what
+you seen in the casino.  On the north wall is a burts of paint that may be
+legible.    
+~
+200 41 0
+D1
+Ahhh civilization.    
+~
+door~
+1 20010 20023
+D3
+~
+~
+0 0 20025
+E
+wall burst~
+You have no business here unless you are staff.  Please save us all the trouble
+and turn around now.  Samuin will be waiting for you if you go any further.  
+
+~
+S
+#20025
+A dark hallway.~
+This hall is dark and has a strange stale smell.  The stairs lead down to more
+darkness and up to a little more light.  You can feel the cold through your
+footwear here as the floor is made of simple stone.  You shiver , thinking of
+the comfort you felt minutes ago in the casino.    
+~
+200 41 0
+D1
+~
+~
+0 0 20024
+D4
+~
+~
+0 0 20056
+D5
+Better think twice before going there. What's the bloody room called?
+~
+~
+0 0 -1
+S
+#20026
+Reipap's poker room.~
+As you enter the room you are greeted by the warmth of the fireplace on the
+east wall.  There are three small round tables with 4 players apiece.  The
+dealeres don't pay any attention to you as they deal out the cards.  The walls
+here are covered in mirrors.  The floor is once again made of marble, as the
+main entrance was.  The ceiling boosts an intricatly carved chandalier that
+serves as the light in the room.  To the north you see a rock door and to the
+south is a large gold looking door.  The southern door has handles made of
+white gold, in the shape of swans.    
+~
+200 8 0
+D0
+~
+rock door~
+1 0 20027
+D2
+You see another room with tables.    
+~
+gold door~
+1 0 20022
+S
+#20027
+Riangabur's Poker room.~
+   This room has, like the other poker rooms, three tables surrounded by
+players.  Gold is changing hand in unbelievable amounts.  There is a stone door
+to the south and a wooden one to the north.  The walls here are covered in a
+yellow ivy that spreads to the ceiling.  Candles lace the walls to illuminate
+the room.    
+~
+200 8 0
+D1
+It's dark.    
+~
+door~
+1 0 20028
+D2
+~
+stone door~
+1 0 20026
+S
+#20028
+A hallway.~
+   Like much of the rest of the casino, this hall is well decorated and the
+floors are covered with a plush colourful material.  The door to the east
+appears to be a stronghold.  The material on the floor near the east door is
+very worn.  On the wall beside the door is a board with a warning.    
+~
+200 41 0
+D1
+A dim room lays ahead.    
+~
+door ~
+2 20012 20029
+D3
+
+~
+door~
+1 0 20027
+E
+board ~
+Take heed.  You must be authorised to go any further.  Turn back now if you are
+not a staff memeber.    
+~
+S
+#20029
+Counting room~
+   This room has a few desks scattered about that have workers busily working
+counting the gold that was made by the casino.  There are no windows, and the
+doors lead west, north and east.  The door to the north looks fairly normal,
+but the door to the east looks very strong.    
+~
+200 40 0
+D1
+~
+door~
+1 20013 20030
+D3
+A dark hall awaits.    
+~
+door~
+2 20012 20028
+S
+#20030
+Counting room.~
+   This room has many desks scattered about.  There are machines that the staff
+use to count the gold and package it for the vaults.  To the west you see a
+stronghold door.    
+~
+200 8 0
+D3
+A similar looking room awaits.    
+~
+door~
+2 20013 20029
+S
+#20031
+Xes' Poker room.~
+This room is bare except for four tables that are used in games of poker which
+carry the highest stakes. The walls appear to have dark stains scattered about
+them. Perhaps they are blood stains? As you peer about you see similar stains
+all over the floor. There appear to be puddles of blood near the foot of three
+of the tables. On the east wall is a sign that reads in large letters: GET OUT
+UNLESS YOU ARE BIDDING A MINIMUM OF 1000000 COINS PER HAND.  
+~
+200 8 0
+D2
+~
+wooden door~
+1 0 20033
+S
+#20032
+Emuin's Blackjack room.~
+This room is fairly well lit from a source which you cannot detect. The three
+tables are littered with playing cards and empty drink glasses. You can feel a
+slight temperature raise coming from the door to the north.  
+~
+200 8 0
+D0
+~
+stone door~
+1 0 20033
+D2
+~
+stone door~
+1 0 20017
+S
+#20033
+Engel's Blackjack room.~
+   The heat from the fire place warms your bones and creates an awsome feeling
+of comfort as you enter yet another gambling room.  This room is much simpler
+then the rest of the special gambling rooms.  To the north you see a large
+wooden door and to the south another stone door.    
+~
+200 8 0
+D0
+~
+wooden door~
+1 0 20031
+D2
+~
+stone door~
+1 0 20032
+S
+#20034
+A dark hallway.~
+   This hallway continues to the east and to the west.  There is nothing truly
+unusual about the room save for the fact that it is without a light source.  
+
+~
+200 9 0
+D1
+   Another dark extension to this hall leads in this direction.    
+~
+~
+0 0 20035
+D3
+   A well lit room awaits.    
+~
+~
+0 0 20016
+S
+#20035
+A dark hallway.~
+   This dark hallway continues to east and the west.  It's very musky in here,
+almost as though it has not been cleaned for centuries.  Cobwebs line the walls
+where they meet the ceiling.    
+~
+200 9 0
+D0
+~
+~
+0 0 20036
+D3
+A dark hallway awaits.
+~
+~
+0 0 20034
+D5
+The Iron secret trapdoor is closed.
+~
+secret door~
+1 20045 20092
+S
+#20036
+A dark hallway.~
+   This dark hall ends here.  There is a weak looking staircase that leads up
+and a continuation of the hall to the south.  The walls appear to be moist with
+somform of liquid.  The musky smell is making you shiver as it starts to smell
+like a roting corpse.    
+~
+200 9 0
+D2
+A dark hall awaits.
+~
+~
+0 0 20035
+S
+#20037
+The staff staircase.~
+   This room has stairs leading down and a door to the south.  The walls have
+lost there great appeal as in the rest of the casino.  They are much simpler
+and unkept.  There is even much grafiti on them.    
+~
+200 1 0
+D2
+~
+steel door~
+1 0 20029
+S
+#20038
+A Hallway~
+   The Hall walls are a simple white, that remind you of an institutional
+setting.  The hall continues to the south and to the west, where you the
+growing sound of workers.    
+~
+200 8 0
+D2
+~
+~
+0 0 20039
+D3
+~
+~
+0 0 20008
+S
+#20039
+A Hallway~
+   The walls are a simple white that remind you of an mental institution.  The
+floors have marks on them that appear to have come from some sort of trawly.  
+The hall continues to the east and to the north.    
+~
+200 8 0
+D0
+~
+~
+0 0 20038
+D1
+~
+~
+0 0 20040
+S
+#20040
+A Hallway~
+   The walls are a simple white that remind you of an mental institution.  The
+floors have marks on them that appear to have come from some sort of trawly.  
+The hall continues to the east and to the west.    
+~
+200 8 0
+D1
+~
+~
+0 0 20041
+D3
+~
+~
+0 0 20039
+S
+#20041
+A Hallway~
+   The walls are a simple white that remind you of an mental institution.  The
+floors have marks on them that appear to have come from some sort of trawly.  
+The hall continues to the north and to the west.  To the south you see a large
+door.    
+~
+200 8 0
+D0
+~
+~
+0 0 20042
+D2
+~
+large door~
+1 20048 20043
+D3
+~
+~
+0 0 20040
+S
+#20042
+A Hallway~
+   The walls are a simple white that remind you of an mental institution.  The
+floors have marks on them that appear to have come from some sort of trawly.  
+The ha hall continues to the east were you can can here the shuffle of bodies
+and faint voices.    
+~
+200 8 0
+D1
+~
+~
+0 0 20048
+D2
+~
+~
+0 0 20041
+S
+#20043
+A Dark Hallway~
+   The candles that usualy serve to illuminate this part of the hall have
+melted away.  A stale smell, and damp air offer the suggestion that this area
+may ntot be used all that much.  The hall continues to the south and to the
+north is a large door.    
+~
+200 9 0
+D0
+~
+large door~
+1 1 20041
+D2
+~
+~
+0 0 20044
+S
+#20044
+A Dark Hallway~
+   The candles that usualy serve to illuminate this part of the hall have
+melted away.  A stale smell, and damp air offer the suggestion that this area
+may ntot be used all that much.  The hall continues to north and to the west.
+  
+~
+200 9 0
+D0
+~
+~
+0 0 20043
+D3
+~
+~
+0 0 20045
+S
+#20045
+A Dark Gallery~
+   The Hall has opened into a old Gallery of sorts.  There are old pots ligned
+on shelves and Ancient paintings on the walls.  An old language has also been
+scribled onto the wall.  Not big enough to read really, and most of it has been
+erased or faded.  The hall continues to the east and to the west.    
+~
+200 9 0
+D1
+~
+~
+0 0 20044
+D3
+~
+~
+0 0 20046
+S
+#20046
+A Dark Gallery~
+   The candles on the walls have burnt out and offer no light.  There are old
+pots ligned on shelves and Ancient paintings on the walls.  An old language has
+also been scribled onto the wall.  Not big enough to read really, and most of
+it has been erased or faded.  The hall continues to the north and to the east.
+  
+~
+200 9 0
+D0
+~
+~
+0 0 20047
+D1
+~
+~
+0 0 20045
+S
+#20047
+A Dark Hallway~
+   The candles that usualy serve to illuminate this part of the hall have
+melted away.  A stale smell, and damp air offer the suggestion that this area
+may ntot be used all that much.  The hall continues to the east and to the
+north is what appears to be a trapdoor of sorts.    
+~
+200 0 0
+D0
+~
+trapdoor~
+1 20049 20039
+D2
+~
+~
+0 0 20046
+S
+#20048
+A Hallway~
+   The hall comes to an end here.  The east is blocked by a large steel door
+that appears almost immpassible.  The scratches on the floor go beyond the
+door.  The hall to the west looks a little more inviting then the baracade to
+the east.    
+~
+200 8 0
+D1
+~
+steel door~
+2 20050 20049
+D3
+~
+~
+0 0 20042
+S
+#20049
+Vault Room~
+   The walls here are all made of three foot steel.  There are tables lining
+the walls , but there is nothing on them.  The door to the east is as large and
+strong looking as the one to the east.  A sign has been posted on the wall.  
+
+~
+200 8 0
+D1
+~
+steel door~
+1 20051 20050
+D3
+~
+door steel~
+1 0 20048
+E
+sign~
+Please be sure to keep this area clean, as it may be needed for storing. 
+If you are NOT supposed to be here, GET THE HELL OUT.
+~
+S
+#20050
+Vault Room~
+   The walls of this room are about three feet of steel.  The two massive doors
+to the south and west are also made of steel.  A small vault sits near the
+south wall under one of the many tables.    
+~
+200 8 0
+D2
+~
+steel door~
+2 20052 20051
+D3
+~
+steel door~
+1 0 20049
+S
+#20051
+Main Vault Room~
+   This room is huge.  The ceilings sit about ten feet above your head.  The
+walls again are made of steel and the only exit to the north is a solid looking
+steel as well.  A large safe is on the south wall.    
+~
+200 8 0
+D0
+~
+steel door~
+2 1 4579
+S
+#20056
+A stairwell~
+   The stairwell leads both up and down to dark rooms.  To the east you can see
+light.  A musky smell is annoying your nose hairs.    
+~
+200 13 0
+D1
+~
+~
+0 0 20057
+D4
+The door has an odly shaped key hole.
+~
+door~
+2 20061 20001
+D5
+~
+~
+0 0 20025
+S
+#20057
+A hallway~
+   This bright room is as well maintained as the main floor of the casino.  It
+is well lit, however you can see no light source.  The hall continues to the
+east and to the west.    
+~
+200 8 0
+D1
+~
+~
+0 0 20060
+D3
+It's too dark to see.    
+~
+~
+0 0 20056
+S
+#20058
+The hostess' office~
+   This room is not much different then the reception area attached to it.  
+Save for a window on the east wall, the room is the pretty much the same.  An
+identicle ugly wooden desk is covered in documents waiting to be tended to.  
+
+~
+200 8 0
+D0
+~
+door~
+1 0 20059
+S
+#20059
+The reception area~
+   This is a fairly simple room.  There is cheap decore scattered about on the
+walls that are complimented by a dim lighting.  On the south wall near the
+door, a wooden desk sits.    
+~
+200 8 0
+D0
+~
+~
+0 0 20060
+D2
+~
+door~
+1 0 20058
+S
+#20060
+A crossway in the hall~
+   The hall breaks in all directions here.  To the north and south, there
+appears to be offices and the hall continues to the east and west.    
+~
+200 8 0
+D0
+~
+~
+0 0 20061
+D1
+You hear flowing water.
+~
+~
+0 0 20063
+D2
+~
+~
+0 0 20059
+D3
+~
+~
+0 0 20057
+S
+#20061
+A reception area~
+   A musky smell over powers all other smells in here.  The smell can't be made
+out, but it is familiar.  The room has psychodelic paintings covering the
+walls.  On the oak desk in the north west corner there are jar type objects.  
+To the north is a door bearing a sign.    
+~
+200 8 0
+D0
+Ahead you see Morgan's Office
+~
+door~
+1 0 20062
+D2
+~
+~
+0 0 20060
+E
+sign~
+   This office for Captain of the guard only.    
+~
+S
+#20062
+Master Guard's Room~
+   The walls in this room are covered with ancient swords and jewel encrusted
+shields.  The window to the south is covered in some kind of slime that makes
+the outside look foggy.  You suddenly realize that this is where the musky
+smell is coming from.    
+~
+200 8 0
+D2
+You see the corner of a desk
+~
+door~
+1 0 20061
+S
+#20063
+A hallway~
+   This extension to the hallway has a refreshment stand for the employees.  
+The hall continues to the east and to the west.    
+~
+200 8 0
+D1
+~
+~
+0 0 20066
+D3
+~
+~
+0 0 20060
+S
+#20064
+The staff rest area~
+   There is a selection of beds here.  There are thin and thick mattresses to
+chose from and a huge pile of blankets in the corner on a shelf.  The owners of
+this place really care for their employees.    
+~
+200 8 0
+D0
+~
+~
+0 0 20065
+S
+#20065
+A staff lounge~
+   This room has all the comforts of home.  Couches line the walls accompanied
+by magazine ladden side tables.  There is a bar on the south wall that is used
+to store refreshments for the employees.    
+~
+200 8 0
+D0
+~
+~
+0 0 20066
+D2
+~
+~
+0 0 20064
+S
+#20066
+An intersection in the hall~
+   The hall continues to the west and to the east.  To the north and south are
+dimely lit rooms.  There is a musky smell in the air, but not enough to pin
+point.    
+~
+200 8 0
+D0
+~
+~
+0 0 20067
+D1
+~
+~
+0 0 20071
+D2
+~
+~
+0 0 20065
+D3
+You hear flowing water.
+~
+~
+0 0 20063
+S
+#20067
+The reception area~
+   A gold desk is the first thing that catches your eye as you enter the room.
+Expensive paintings line the wall that seem to be depicting the ancient
+Goddesses.  To the north is another similar room.    
+~
+200 0 0
+D0
+~
+~
+0 0 20068
+D2
+~
+~
+0 0 20066
+S
+#20068
+Waiting area~
+   This room is very similar to the first.  Save for not having a gold desk it
+is pretty much the same as the reception area.  There are several seats for
+those that must wait.  The door to the north has a sign on it.    
+~
+200 8 0
+D0
+~
+door~
+1 20041 20069
+D2
+~
+~
+0 0 20067
+E
+sign~
+   This is the office of Vi, Casino Manager.  Do not enter unless you are
+summoned.    
+~
+S
+#20069
+The Casino manager's office~
+   The window to the south overlooks the country side of Minos.  As the
+previous two r rooms, the walls are laced with priceless paintings that depict
+goddesses from all ages.  One of the paintaings on the east wall appears to be
+slightly ajar.    
+~
+200 8 0
+D2
+~
+door~
+1 20041 20068
+S
+#20070
+The Den~
+   Ah...  Finally a place to relax.  Or maybe not.  The couches and chairs here
+look very comfortable and well used.  The fire place is crackling as the nots
+in the wood explode.  The western door is closed and bears a notice to keep out
+when closed.    
+~
+200 8 0
+D0
+~
+~
+0 0 20076
+D3
+~
+door~
+1 0 20073
+S
+#20071
+A hall~
+   The hall split off to the north and to the and to the west.  There is a
+slight musky smell that is beginning to annoy you.    
+~
+200 8 0
+D0
+~
+~
+0 0 20072
+D3
+~
+~
+0 0 20066
+S
+#20072
+A bend in the hall~
+   The hall is dimely lit here.  To the south is a brighter room.  To the east
+is a darker one.  You can here a little rustle ahead.    
+~
+200 8 0
+D1
+~
+~
+0 0 20075
+D2
+~
+~
+0 0 20071
+S
+#20073
+The Bedroom~
+   A large kingsize bed is centered in the room.  An oak dresser is on the
+north wall cornered by a coat rack.  Another large painting of the same old
+creature is hanging here.    
+~
+200 8 0
+D1
+~
+door~
+1 0 20070
+S
+#20074
+Entrance to living quarters~
+   An attempt has been made to make this part of the casino appear quite poor.
+A solid steel door is to the east.  A musky smell is getting stronger here.  
+
+~
+200 9 0
+D0
+~
+~
+0 0 20075
+D1
+~
+door steel~
+2 20042 20076
+S
+#20075
+A bend in the hall~
+   The hall bends to the south and to the west.  This area is getting less
+detailed as you move along.    
+~
+200 8 0
+D2
+~
+~
+0 0 20074
+D3
+~
+~
+0 0 20072
+S
+#20076
+A dark hallway~
+   A large painting of an older man type being is on the north wall.  You can
+feel the warmth of a fire coming from the south.  The glare of the fire is
+illuminating the walls which a tiled in marble.    
+~
+200 9 0
+D2
+~
+~
+0 0 20070
+D3
+~
+door steel~
+1 0 20074
+S
+#20078
+The pier of Accota Island~
+   The pier is very well maintained.  The pier itself appears quite new, yet
+carries a rustic look.  To the south is a white sandy beach that looks very
+inviting.  The sun is very hot here, you better put some sun screen on.    
+~
+200 20 0
+D0
+~
+~
+0 0 125
+D2
+~
+~
+0 0 20079
+S
+#20079
+On a sandy beach~
+   The heat from the sand can be felt on your feet.  The beach leads to the
+north and to the south is a pier.    
+~
+200 0 0
+D0
+~
+~
+0 0 20078
+D2
+~
+~
+0 0 20080
+S
+#20080
+A path on the beach~
+   The heat here is making you sweat like a fiend.  There is not much here to
+enjoy , except for more beach to the east, west and north.    
+~
+200 0 0
+D0
+~
+~
+0 0 20079
+D1
+~
+~
+0 0 20081
+D3
+~
+~
+0 0 20083
+S
+#20081
+A path on the beach~
+   The heat is making you sweat like a fiend.  Luckily to the east you can see
+a park that is covered in trees.    
+~
+200 0 0
+D1
+~
+~
+0 0 20082
+D3
+~
+~
+0 0 20080
+S
+#20082
+A Park~
+   A white painted bench is waiting for you to sit.  The trees make an umbrella
+of shade for you to relax under.  This area is quite a contrast to where you
+just came from.  The ground is mostly well kempt grass, and soothing to your
+burning feet.    
+~
+200 4 0
+D3
+~
+~
+0 0 20081
+S
+#20083
+A path on the beach~
+   Wow...  It's really hot here.  You must be losing a lot of water through
+your sweating.  Keep mooving to a fresher place.    
+~
+200 0 0
+D1
+~
+~
+0 0 20080
+D3
+~
+~
+0 0 20084
+S
+#20084
+A bend in the path~
+   The beach path bends to the east and to the south.  To the south you here
+the sound of a stream.    
+~
+200 0 0
+D1
+~
+~
+0 0 20083
+D2
+~
+~
+0 0 20085
+S
+#20085
+A path on the beach~
+   The sand is burning your feet.  You feel the need to get to a cooler place.
+  
+~
+200 0 0
+D0
+~
+~
+0 0 20084
+D2
+~
+~
+0 0 20086
+S
+#20086
+A fork in the path~
+   The beach is silent and calm.  The wind that may have been prevlent closer
+to the water is now gone.  To the east you flowing water.    
+~
+200 0 0
+D0
+~
+~
+0 0 20085
+D1
+~
+~
+0 0 20087
+D2
+~
+~
+0 0 20088
+S
+#20087
+Accota Oasis~
+   A place to finally cool yourself.  The stream here is filled with clear
+water and small fish.  You can smell the freshness in the air.  The palm trees
+offer a large covered area to protect you from the sun.    
+~
+200 0 0
+D3
+~
+~
+0 0 20086
+S
+#20088
+The end of the beach path~
+   The path comes to an end here.  It is replaced by a well groomed road that
+leads to the south.  To the north is more beach path.    
+~
+200 0 0
+D0
+~
+~
+0 0 20086
+D2
+~
+~
+0 0 20089
+S
+#20089
+The Beach Road~
+   The road here leads to the west and to the north.  A little noise an be
+heard from somewhere to the west.    
+~
+200 0 0
+D0
+~
+~
+0 0 20088
+D3
+~
+~
+0 0 20090
+S
+#20090
+The Beach Road~
+   The deserted road continues to the east and to the west.  The trees that you
+see around here are shaped like animals and different types of creatures.    
+~
+200 0 0
+D1
+~
+~
+0 0 20089
+D3
+~
+~
+0 0 20091
+S
+#20091
+Before the Great Wren Casino~
+   Before you stands a monstreous building.  The great oak doors are encrusted
+with jewels.  A feeling of awe overwhelmes you as you ponder the contents of
+this place.    
+~
+200 4 0
+D0
+~
+doors~
+1 0 20010
+D1
+~
+~
+0 0 20090
+S
+#20092
+A Crawlway~
+   If back scraps the top of this tunnel as you try to make your way through.
+To the east you see more tunnel that appears just as uncomfortable.  There is
+an echo of a ballowing in the distance.    
+~
+200 269 0
+D1
+~
+~
+0 0 20093
+S
+#20093
+A Crawlway~
+   This is becoming a very tight fit.  You can feel a crushing of your body as
+you work your way through this dark, musky tunnel.  The ballowing is getting
+much louder here, and sends shivers down your spine.  The tunnel continues to
+the east.    
+~
+200 264 0
+D1
+~
+~
+0 0 20094
+S
+#20094
+A Curve in the Crawlway~
+   You find it very difficult to squeeze through the bend as you are drawn to a
+larger opening to the south.  Now you can here scratching as well as a
+ballowing.  Finally you will be able to regroup if needed.    
+~
+200 265 0
+D2
+~
+~
+0 0 20095
+S
+#20095
+An Opening in the Crawlway~
+   Your bones relax as you can stretch out finally.  The walls here are covered
+in scratch marks.  As you step in notice a slimy yellow film on the ground.  
+To the east is another large opening.    
+~
+200 9 0
+D1
+~
+~
+0 0 20096
+S
+#20096
+Before a Large Web~
+   The room smells like death.  An extremly large web stands before you to the
+east.  This is where the ballowing was coming from.  In the distance, on the
+web, you see many drone spiders working at freeing corpses of there blood and
+juices.    
+~
+200 73 0
+D1
+~
+~
+0 0 20097
+S
+#20097
+On the Ethereal Web~
+   You find it difficult to step about on the web as your feet stick to it.  
+The drones here don't even notice that you have arrived.  They are constructing
+more web to hold the growing number of corpses.  Suddenly you realize that the
+web has surrounded you with no exits save from a trapdoor above you.    
+~
+200 9 0
+D4
+~
+trap trapdoor~
+1 20037 20020
+S
+$~

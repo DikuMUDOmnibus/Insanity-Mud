@@ -1,0 +1,7 @@
+mv $1.obj $2.obj
+mv $1.mob $2.mob
+mv $1.shp $2.shp
+mv $1.wld $2.wld
+mv $1.zon $2.zon
+
+echo done...

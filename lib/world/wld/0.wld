@@ -1,0 +1,196 @@
+#0
+The Void~
+ 
+~
+0 0 0
+S
+#1
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 184 1
+S
+#2
+The Void~
+   You find yourself floating in the grey nothingness of the void. The only
+sensation that can be felt is that you exist. Smell, touch, hearing are senses
+that are just not relevant to this plane of existance. Even the appearance of
+the void isn't real. You eyes aren't actually registering anything, the
+concept of the void is simply superimposed upon your visual cortex. You know
+that without this sensation, you would quickly go mad from hypostimulation...
+The complete lack of stimulus to your brain. Let's hope a kind heart will
+eventually remember your presence here and feel in an agreeable frame of
+mind... Otherwise this will be your final resting place.  
+
+~
+0 4456536 0
+S
+#3
+A Totally Empty Room~
+   The walls are completely bare... nothing at all in the room.
+How... utterly bizarre and completely weird.  There is a strange
+portal just above you, and it almost looks as if there is some
+sort of room above you.
+~
+0 216 0
+S
+#4
+The plains of Eternity~
+You are standing upon the legendary plains of Eternity. The light of infinite
+twilight falls across the fine grey sand which stretches as far as the eye can
+see in every direction. The landscape is totally featureless, utterly devoid
+of even a footprint in the sand. The oppressive silence and unforgiving
+solitude are somewhat unnerving.  
+~
+0 4 0
+S
+#5
+Madness~
+This place is totally crazy! The walls don't seem to be any particular colour,
+but rather a maniacal shifting though the entire visual spectrum, including a
+number of colours you have never seen before. There is an incessant cacophony
+of lunacy emanating from an unknown source. That smell in the air as well...
+Now what is that? It sort of reminds you of... Felt tip markers!  
+~
+0 4194336 0
+S
+#6
+Placidity~
+A clearing in the forest is filled with the most beautiful lake you have ever
+seen. The waters are of a most wonderful greeny blue, and a wispy mist rolls
+quietly across the surface. At the shore you notice several powerful horses
+partaking of the refreshing waters, and as they notice you they swiftly vanish
+within the tightly packed surrounding trees. You stand transfixed momentarily
+as the waters lap gently on the shore. It is a lovely thought to swim within
+the lake. The surface is broken and you catch a glimpse of a pair of white,
+aqua-steeds as they dive into the depths.  
+~
+0 0 0
+S
+#7
+Sun, Sand and Sea~
+Powder fine, white sand cushions your footsteps as you walk here. The deep
+azure of the ocean is a stark contrast as it breaks gently on the sand. A few
+palm trees sway softly as the breeze caresses them, their faint shade
+flickering in mesmerising patterns. A faint smell of salt carries from the
+sea, as the breeze ruffles your hair.  
+~
+0 4194320 2
+S
+#8
+A Hall of Contemplation~
+The wooden floor is polished to a deep mahogany brown. It reflects the pale
+cream architechture of the domed ceiling. Looking up, you see that it is made
+of marble, and the light from outside pours gently through, like syrup. At the
+very centre of the room is a slightly raised area that looks as though it could
+function as a seat. The whole room almost hums with thoughts people have had
+here.  
+~
+0 144 0
+S
+#9
+A Large Dark Room~
+   As you open the door to this dark chamber, you think about the possible
+reasons for having it barred from the *outside*... The glow from your
+flickering light illuminates no more than a few feet all around you; The
+darkness beyond is as yet hidden to your eyes. There seems to be a strange
+smell about the place, a cross between bacon and burnt chicken. You find it
+slightly nauseating. The floor appears to be covered with a thick, sticky
+brownish sludge of unknown origin. Somehow, this doesn't seem to be a place to
+linger, best be on your way. Quickly.  
+
+~
+0 200 0
+S
+#10
+Countryside~
+You stand atop a hill, looking out across a valley patched with a multitude of
+greens. Deep down, in the seat of the valley, you can see a small stream
+flowing gently, until it dissappears into a small wood. The winds blows
+briskly across your face, balancing nicely with the warmth of the midday sun.
+This place would make the ideal place to set up a home.  
+~
+0 0 0
+D5
+~
+~
+0 0 11
+S
+#11
+countryside~
+Just beyond the edge of the trees, the light dims quickly. Giving the
+impression that dusk has already arrived. Small amounts of sunlight filter
+through the leaves, giving a mottle look to the ground. Moss grows on a long
+fallen tree, providing a soft place to sit and rest. Above the gentle rustle
+of the leaves, you can just hear the small stream flowing down from the valley.
+ 
+~
+0 0 0
+D4
+~
+~
+0 0 10
+S
+#24
+A Winding Trail Between Two Cliffs~
+   Two towering cliff walls stand to the north and south, allowing only a small
+amount of space between them for travellers. The dense, dark earth and its
+absence of any plantlife is one indication of the frequent traffic through this
+narrow pathway. A chill wind blasts by at irregular intervals coming from
+somewhere east of here.  
+~
+0 0 0
+D1
+The Narrow trail continues in that direction.
+~
+~
+0 0 2500
+S
+#94
+Unused Room.~
+You are in an unfinished room.
+~
+0 0 0
+S
+#99
+The Realm Of The Dead~
+   You are standing on an immense, grey stone floor that stretches as far
+as you can see in all directions.  Rough winds plunging from the dark,
+starless sky tear savagely at your fragile body.
+~
+0 520 0
+D0
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+D1
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+D2
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+D3
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+S
+$~

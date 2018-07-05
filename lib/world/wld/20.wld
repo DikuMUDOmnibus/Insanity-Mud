@@ -1,0 +1,1738 @@
+#2000
+Western Side of the Danger Room~
+So you thought you were safe, but no this area of the danger room is just as
+perilous as the others so keep moving!!!!  
+~
+20 33 0
+D0
+~
+Doors~
+2 2001 2001
+D1
+~
+~
+0 0 2004
+D2
+~
+~
+0 0 2002
+S
+#2001
+North-West Corner of The Danger Room~
+This area of the Danger Room is no easier to survive. You will have to use all
+of your wits to survive for very long. Look out for, the enemy as he has many
+a different power.  
+~
+20 8 0
+D1
+~
+~
+0 0 2003
+D2
+~
+Doors~
+2 2001 2000
+S
+#2002
+The Western Side of the Danger Room~
+So you thought you were safe, but no this area of the danger room is just as
+perilous as the others so keep moving!!!!  
+~
+20 8 0
+D0
+~
+~
+0 0 2000
+D1
+~
+~
+0 0 2005
+D2
+~
+~
+0 0 2009
+S
+#2003
+Northern End of the Danger Room~
+So you thought you were safe, but no this area of the danger room is just as
+perilous as the others so keep moving!!!!  
+~
+20 8 0
+D1
+~
+~
+0 0 2006
+D2
+~
+~
+0 0 2004
+D3
+~
+~
+0 0 2001
+S
+#2004
+Middle of the Danger Room~
+This area of the Danger Room is no easier to survive. You will have to use all
+of your wits to survive for very long. Look out for, the enemy as he has many
+a different power.  
+~
+20 8 0
+D0
+~
+~
+0 0 2003
+D1
+~
+~
+0 0 2007
+D2
+~
+~
+0 0 2005
+D3
+~
+~
+0 0 2000
+S
+#2005
+Middle of the Danger Room~
+So you thought you were safe, but no this area of the danger room is just as
+perilous as the others so keep moving!!!!  
+~
+20 0 0
+D0
+~
+~
+0 0 2004
+D1
+~
+~
+0 0 2008
+D2
+~
+~
+0 0 2010
+D3
+~
+~
+0 0 2002
+S
+#2006
+The Northern End of the Danger Room~
+This is the prefunctory, room before the the last room before the, Final
+Challenge. I would make the most of what you have got, if I was you!!!! It
+isn't going to be easy.  
+~
+20 0 0
+D0
+~
+~
+0 0 2026
+D1
+~
+~
+0 0 2012
+D2
+~
+~
+0 0 2007
+D3
+~
+~
+0 0 2003
+S
+#2007
+Middle of the Danger Room~
+This seems to be a quite peaceful room, no sudden noises, or flashing lights to
+put you off. You can feel yourself, relaxing as you grow acustomed to the
+natural ambience of the room. You suddenly get the feeling that sitting around
+here is not going to get the job done, and more to the point it feels like
+trouble is just around the corner.  
+~
+20 0 0
+D0
+~
+~
+0 0 2006
+D1
+~
+~
+0 0 2013
+D2
+~
+~
+0 0 2008
+D3
+~
+~
+0 0 2004
+S
+#2008
+Dead Center of the Danger Room~
+You stand in the dead center of this large canvernous room, you look up and see
+a large projector protruding from the ceiling.  
+~
+20 0 0
+D0
+~
+~
+0 0 2007
+D1
+~
+~
+0 0 2014
+D2
+~
+~
+0 0 2011
+D3
+~
+~
+0 0 2005
+S
+#2009
+Western Side of the Danger Room~
+So you thought you were safe, but no this area of the danger room is just as
+perilous as the others so keep moving!!!!  
+~
+20 256 0
+D0
+~
+~
+0 0 2002
+D1
+~
+~
+0 0 2010
+D2
+~
+~
+0 0 2016
+S
+#2010
+Middle of the Danger Room~
+This seems to be a quite peaceful room, no sudden noises, or flashing lights to
+put you off. You can feel yourself, relaxing as you grow acustomed to the
+natural ambience of the room. You suddenly get the feeling that sitting around
+here is not going to get the job done, and more to the point it feels like
+trouble is just around the corner.  
+~
+20 129 0
+D0
+~
+~
+0 0 2005
+D1
+~
+~
+0 0 2011
+D2
+~
+~
+0 0 2017
+D3
+~
+~
+0 0 2009
+S
+#2011
+Middle of the Danger Room~
+This seems to be a quite peaceful room, no sudden noises, or flashing lights to
+put you off. You can feel yourself, relaxing as you grow acustomed to the
+natural ambience of the room. You suddenly get the feeling that sitting around
+here is not going to get the job done, and more to the point it feels like
+trouble is just around the corner.  
+~
+20 0 0
+D0
+~
+~
+0 0 2008
+D1
+~
+~
+0 0 2015
+D2
+~
+~
+0 0 2018
+D3
+~
+~
+0 0 2010
+S
+#2012
+Northern End of the Danger Room~
+As you look around you notice that this area seems to be lacking in any form of enemy.  Maybe you should go elsewhere to kill something then.
+~
+20 68 0
+D1
+~
+~
+0 0 2020
+D2
+~
+~
+0 0 2013
+D3
+~
+~
+0 0 2006
+S
+#2013
+Middle of the Danger Room~
+This area of the Danger Room, seems to be missing the holographic projection
+the others seem to have. All you can see is bare metal, with a fair few burn
+marks.  
+~
+20 0 0
+D0
+~
+~
+0 0 2012
+D1
+~
+~
+0 0 2021
+D2
+~
+~
+0 0 2014
+D3
+~
+~
+0 0 2007
+S
+#2014
+Middle of the Danger Room~
+This seems to be a quite peaceful room, no sudden noises, or flashing lights to
+put you off. You can feel yourself, relaxing as you grow acustomed to the
+natural ambience of the room. You suddenly get the feeling that sitting around
+here is not going to get the job done, and more to the point it feels like
+trouble is just around the corner.  
+~
+20 262164 0
+D0
+~
+~
+0 0 2013
+D1
+~
+~
+0 0 2022
+D2
+~
+~
+0 0 2015
+D3
+~
+~
+0 0 2008
+S
+#2015
+Middle of the Danger Room~
+This area of the Danger Room, seems to be missing the holographic projection
+the others seem to have. All you can see is bare metal, with a fair few burn
+marks.  
+~
+20 0 0
+D0
+~
+~
+0 0 2014
+D1
+~
+~
+0 0 2023
+D2
+~
+~
+0 0 2019
+D3
+~
+~
+0 0 2011
+S
+#2016
+South-Western Corner of the Danger Room~
+This area is probably the least dangeerous of them all, but it is still
+dangerous. So, you had better not stand still too long!!!  
+~
+20 262144 0
+D0
+~
+~
+0 0 2009
+D1
+~
+~
+0 0 2017
+S
+#2017
+Southern End of the Danger Room~
+This area seems to be fairly safe, to stay in for a while. As you look around
+you see activity taking place all around. The atmosphere here, is much
+different to that of the rest of the Danger Room, you feel that you can relax.
+ 
+~
+20 262148 0
+D0
+~
+~
+0 0 2010
+D1
+~
+~
+0 0 2018
+D3
+~
+~
+0 0 2016
+S
+#2018
+The Southern End of the Danger Room~
+You have just entered a very large room that expands as far as the eye can see.
+You can see many different perils before you that you must overcome. It is not
+a place for the faint hearted.  
+~
+20 0 0
+D0
+~
+~
+0 0 2011
+D1
+~
+~
+0 0 2019
+D2
+~
+~
+0 0 2025
+D3
+~
+~
+0 0 2017
+S
+#2019
+Southern End of the Danger Room~
+This area of the Danger Room, seems to be missing the holographic projection
+the others seem to have. All you can see is bare metal, with a fair few burn
+marks.  
+~
+20 0 0
+D0
+~
+~
+0 0 2015
+D1
+~
+~
+0 0 2024
+D3
+~
+~
+0 0 2018
+S
+#2020
+North-East Corner of The Danger Room~
+You are in the North Eastern corner of this dangerous zone. You really wish
+that they would stop coming at you!!! Well if you kill them all they will, so
+hop to it!!!  
+~
+20 0 0
+D2
+~
+~
+0 0 2021
+D3
+~
+~
+0 0 2012
+S
+#2021
+Eastern Side of the Danger Room~
+As you look around you notice that this area seems to be lacking in any form of
+enemy. Maybe you should go elsewhere to kill something then.  
+~
+20 0 0
+D0
+~
+~
+0 0 2020
+D2
+~
+~
+0 0 2022
+D3
+~
+~
+0 0 2013
+S
+#2022
+The Eastern Side of the Danger Room~
+As you look around you notice that this area seems to be lacking in any form of enemy.  Maybe you should go elsewhere to kill something then.
+~
+20 4 0
+D0
+~
+~
+0 0 2021
+D2
+~
+~
+0 0 2023
+D3
+~
+~
+0 0 2014
+S
+#2023
+Eastern Side of the Danger Room~
+This area of the Danger Room, seems to be missing the holographic projection
+the others seem to have. All you can see is bare metal, with a fair few burn
+marks.  
+~
+20 0 0
+D0
+~
+~
+0 0 2022
+D2
+~
+~
+0 0 2024
+D3
+~
+~
+0 0 2015
+S
+#2024
+South-East Corner of The Danger Room~
+This lowly corner of the Danger Room, look particulary well used, this could be because, it also the most dangerous area of the whole room.
+~
+20 457 0
+D0
+~
+~
+0 0 2023
+D3
+~
+~
+0 0 2019
+S
+#2025
+Entrance to the Danger Room~
+Before You stands a Large Metal Door with Danger written on it. I hope you are
+prepared for a difficult task, as that is what lays ahead of you.  
+~
+20 4 0
+D0
+~
+~
+0 0 2018
+D2
+~
+~
+0 0 2028
+S
+#2026
+Entrance to the Final Challenge~
+This is the final place that you can rest before entering the final challenge,
+all that has gone before, will be nothing compared to what lays ahead.  
+~
+20 262212 0
+D0
+~
+~
+0 0 2027
+D2
+~
+~
+0 0 2006
+S
+#2027
+The Hall of Apocalypse~
+As you enter this room you notice the many different scrawling all over the
+wall as if, the owner of this room had been through time and collected a great
+many secrets.  
+~
+20 128 0
+D2
+~
+~
+0 0 2026
+S
+#2028
+Intersection of Corridors~
+You are at the intersection of two corridors.  One runs east from here, and the
+other runs north and south.  To the west is the Danger Room, training area of
+the legendary fighting force the X-Men.    
+~
+20 0 0
+D0
+~
+~
+0 0 2029
+D1
+~
+~
+0 0 2034
+D2
+~
+~
+0 0 2032
+D3
+~
+Blast door~
+1 0 2025
+S
+#2029
+Basement Corridor~
+You stand in a dark corridor.  The walls seem to be made of a strange metal you
+have never seen before.  On closer inspection, the wall reveals lots of smaller
+pieces of metal all moving around one another.    
+~
+20 0 0
+D0
+~
+~
+0 0 2030
+D2
+~
+~
+0 0 2028
+S
+#2030
+Basement Corridor~
+You stand in a dark corridor.  The walls seem to be made of a strange metal you
+have never seen before.  On closer inspection, the wall reveals lots of smaller
+pieces of metal all moving around one another.    
+~
+20 0 0
+D0
+~
+~
+0 0 2031
+D2
+~
+~
+0 0 2029
+S
+#2031
+Weapon Store~
+This room is bristling with weapons of all sorts. There are conventional
+weapons, bio-chemical weapons, even weapons that you have never seen before. 
+It is a shame, that you wouldn't have the faintest idea how to use them. They
+might be of use against some of the enemies you have to face.  
+~
+20 0 0
+D2
+~
+~
+0 0 2030
+S
+#2032
+Darkened Corridor~
+You stand in a dark corridor.  The walls seem to be made of a strange metal you
+have never seen before.  On closer inspection, the wall reveals lots of smaller
+pieces of metal all moving around one another.  To the south, you can see a
+cell door.  It is made of the same stuff as the rest of the corridor.  It gives
+the impression, that it has been built to keep some very powerful people
+inside.  I wouldn't recommend going that way!!!    
+~
+20 0 0
+D0
+~
+~
+0 0 2028
+D2
+There is a large metal door, with the words DANGER on it. It looks like it is
+a cell for keeping someone in. I don't think you should go in there!!  
+~
+cell door~
+1 0 2033
+S
+#2033
+Sabretooth's Cell~
+Not a smart move coming in here. As soon as you stepped through the door,
+Sabretooth, leapt upon you and ripped your head off. Now you are dead, better
+luck next time!! And what is more he has escaped to kill everyone else!!  
+~
+20 6 0
+D0
+You see a large metal door, designed to keep whoever is in here in!!
+~
+cell door~
+1 0 2032
+S
+#2034
+Basement Corridor~
+You stand in a dark corridor.  The walls seem to be made of a strange metal you
+have never seen before.  On closer inspection, the wall reveals lots of smaller
+pieces of metal all moving around one another.    
+~
+20 0 0
+D1
+~
+~
+0 0 2035
+D3
+~
+~
+0 0 2028
+S
+#2035
+Basement Corridor~
+You stand in a dark corridor.  The walls seem to be made of a strange metal you
+have never seen before.  On closer inspection, the wall reveals lots of smaller
+pieces of metal all moving around one another.    
+~
+20 0 0
+D0
+~
+~
+0 0 2036
+D1
+~
+~
+0 0 2037
+D3
+~
+~
+0 0 2034
+S
+#2036
+Food Store~
+You are in the Mansion's food store, the walls are lined with different food
+stuffs.  You could live for months on all the food in here.    
+~
+20 0 0
+D2
+~
+~
+0 0 2035
+S
+#2037
+Basement Corridor~
+You stand in a dark corridor.  The walls seem to be made of a strange metal you
+have never seen before.  On closer inspection, the wall reveals lots of smaller
+pieces of metal all moving around one another.    
+~
+20 0 0
+D1
+~
+~
+0 0 2038
+D2
+~
+~
+0 0 2042
+D3
+~
+~
+0 0 2035
+S
+#2038
+The bottom of the Basement stairs~
+You stand at the bottom of the stairs, the corridor leads of to the west.  
+What dangers might lie in wait down here???  Go forth and find out!!!    
+~
+20 0 0
+D1
+~
+passage~
+3 0 2039
+D3
+~
+~
+0 0 2037
+D4
+~
+~
+0 0 2044
+S
+#2039
+Behind the Secret~
+This looks like a secret way out of the mansion.  It must have been put in, in
+case someone attacked the mansion and there was noway of escaping!!    
+~
+20 0 0
+D0
+~
+~
+0 0 2040
+D3
+~
+passage~
+3 0 2038
+S
+#2040
+The secret Passage~
+You are in a small passageway leading to some unknown location.  But, as you
+might know it is probably more preferable than where it comes from.    
+~
+20 0 0
+D0
+~
+~
+0 0 2041
+D2
+~
+~
+0 0 2039
+S
+#2041
+The end of the secret Passage~
+You are at the end of the passageway you can now see ahead a small island.  
+There doesn't seem to be too much activity there.  You should be safe.    
+~
+20 0 0
+D0
+~
+~
+0 0 4579
+D2
+~
+~
+0 0 2040
+S
+#2042
+Before Cerebro~
+You are in the corridor before the massive computer Cerebro. If you are lucky
+Professor X will be in, so you can talk to him.  
+~
+20 0 0
+D0
+~
+~
+0 0 2037
+D2
+~
+~
+0 0 2043
+S
+#2043
+Cerebro~
+You stand before the largest most powerful computer on Earth.  It is made from
+the same material as the rest of the basement, the design looks very alien to
+this planet.  This has got to be one of the most important parts of this whole
+operation.    
+~
+20 0 0
+D0
+~
+~
+0 0 2042
+S
+#2044
+Top of the Basement stairs~
+You stand at the top of the stairs leading down to the basement, it is too dark
+down there to see anything.  The only way you are going to find out if it is
+safe is to go down.    
+~
+20 0 0
+D3
+~
+~
+0 0 2045
+D5
+~
+~
+0 0 2038
+S
+#2045
+Ground Floor Corridor~
+The walls of this corridor are covered with graduates of the institute.  There
+are many famous faces, along these walls.  There are too many to count.    
+~
+20 0 0
+D1
+~
+~
+0 0 2044
+D3
+~
+~
+0 0 2046
+S
+#2046
+Ground Floor Corridor~
+The walls of this corridor are covered with graduates of the institute.  There
+are many famous faces, along these walls.  There are too many to count.    
+~
+20 0 0
+D1
+~
+~
+0 0 2045
+D2
+~
+~
+0 0 2047
+D3
+~
+~
+0 0 2049
+S
+#2047
+The Professor's outer Office~
+You are in a magnificent room, the walls are adorned with the pictures of the
+Professors most valued students.  There are plush seats for people to sit and
+wait for the Professor to call them.    
+~
+20 0 0
+D0
+~
+~
+0 0 2046
+D2
+~
+~
+0 0 2048
+S
+#2048
+The Professor's Office~
+This is a quite remarkable office, for a person of such high standing.  The
+Professor obviously doesn't believe in overdoing things in the office, there is
+not much else than what you would need to work in an office.    
+~
+20 0 0
+D0
+~
+~
+0 0 2047
+S
+#2049
+Ground Floor Corridor~
+The walls of this corridor are covered with graduates of the institute.  There
+are many famous faces, along these walls.  There are too many to count.    
+~
+20 0 0
+D0
+~
+~
+0 0 2050
+D1
+~
+~
+0 0 2046
+D3
+~
+~
+0 0 2054
+S
+#2050
+The Dining room Ante-Chamber~
+You are in a small unimposing room, which looks as if it serves as a place for
+all the students to line up before each meal.  Maybe it will be dinner time
+soon, and you can sneak into the line, and get some free food.    
+~
+20 0 0
+D0
+~
+~
+0 0 2051
+D2
+~
+~
+0 0 2049
+S
+#2051
+The Dining Room~
+You are in a large open plan hall.  There are ordered rows of Tables and
+Chairs, there looks as if there are enough seats to house half of Wembely
+stadium.  But then again that may just be your eyes playing tricks on you.    
+~
+20 0 0
+D0
+~
+~
+0 0 2052
+D2
+~
+~
+0 0 2050
+S
+#2052
+The Dining Room~
+You are in a large open plan hall.  There are ordered rows of Tables and
+Chairs, there looks as if there are enough seats to house half of Wembely
+stadium.  But then again that may just be your eyes playing tricks on you.    
+~
+20 0 0
+D1
+~
+~
+0 0 2053
+D2
+~
+~
+0 0 2051
+S
+#2053
+The Kitchen~
+For the size of the Dining Room this is a very small kitchen, there is barely
+enough room for more than four people, let alone enough food to feed the number
+of chairs that are out there.    
+~
+20 0 0
+D3
+~
+~
+0 0 2052
+S
+#2054
+Ground Floor Corridor~
+The walls of this corridor are covered with graduates of the institute.  There
+are many famous faces, along these walls.  There are too many to count.    
+~
+20 0 0
+D1
+~
+~
+0 0 2049
+D3
+~
+~
+0 0 2055
+S
+#2055
+Intersection of Passages~
+You are at the intersection of the Ground Floor Corridor, and the Entrance
+Hall.  You can go in all directions.  Off to the north you can see, a staircase
+leading up.    
+~
+20 0 0
+D0
+~
+~
+0 0 2056
+D1
+~
+~
+0 0 2054
+D2
+~
+~
+0 0 2058
+D3
+~
+~
+0 0 2064
+S
+#2056
+Before the Main Staircase~
+You stand before the grand Staircase.  It winds gracefully up to the next
+floor, of this magnificent mansion.    
+~
+20 0 0
+D0
+~
+~
+0 0 2057
+D2
+~
+~
+0 0 2055
+S
+#2057
+On the Grand Staircase~
+As you climb the grand Staircase, you dare to peek over the railing, only to
+notice how far you are up.  Your head begins to spin, you decide not to look
+down again in case you do actually fall.    
+~
+20 0 0
+D2
+~
+~
+0 0 2056
+D4
+~
+~
+0 0 2075
+S
+#2058
+The Entrance Hall~
+You stand in the magnificent hallway, of Westchester Mansion.  The Institute of
+Higher Learning would like to extend its greetings to you, and congratulate you
+on your choice of education.    
+~
+20 0 0
+D0
+~
+~
+0 0 2055
+D2
+~
+~
+0 0 2059
+S
+#2059
+The Entrance Hall~
+You are just inside the entrance to The Institute of Higher Learning.  To your
+west is the area where you can check your coat, and to your east you can
+deposit your luggage.  Just ahead of you, there is a man waiting to greet you,
+and show you around.    
+~
+20 0 0
+D0
+~
+~
+0 0 2058
+D1
+~
+~
+0 0 2060
+D2
+~
+~
+0 0 2062
+D3
+~
+~
+0 0 2061
+S
+#2060
+Baggage Deposit~
+There is a beautiful young woman standing here ready to take your luggage, and
+have it taken up to your room.  Oh you don't have any, well she scowls at you
+for wasting her time and calling her away from her book.    
+~
+20 0 0
+D3
+~
+~
+0 0 2059
+S
+#2061
+Coat Store~
+A young gentleman arrives from out back and offers to take your coat for you.
+What, you were outside without a coat on!!!  What would your mother say????  
+Well, you had better go sit in front of a fire pretty quick then.    
+~
+20 0 0
+D1
+~
+~
+0 0 2059
+S
+#2062
+Before the Great Doors~
+You stand on the threshold of a reat institute for learning.  You could really
+gain a lot of experience in a place like this!!!  Well go on in then, don't
+stand around out here, you will catch a cold!!!    
+~
+20 0 0
+D0
+~
+~
+0 0 2059
+D2
+~
+~
+0 0 2063
+S
+#2063
+On the Steps~
+You are standing on the mansions steps, just ahead there is a great adventure
+just waiting to be had.  Why don't you go and enjoy yourself.    
+~
+20 0 0
+D0
+~
+~
+0 0 2062
+D1
+~
+~
+0 0 2072
+D2
+~
+~
+0 0 2099
+D3
+~
+~
+0 0 2073
+S
+#2064
+Ground Floor Corridor~
+The walls of this corridor are covered with graduates of the institute.  There
+are many famous faces, along these walls.  There are too many to count.    
+~
+20 0 0
+D1
+~
+~
+0 0 2055
+D3
+~
+~
+0 0 2065
+S
+#2065
+Ground Floor Corridor~
+The walls of this corridor are covered with graduates of the institute.  There
+are many famous faces, along these walls.  There are too many to count.    
+~
+20 0 0
+D0
+~
+~
+0 0 2066
+D1
+~
+~
+0 0 2064
+D3
+~
+~
+0 0 2068
+S
+#2066
+The library Check-In~
+A small desk is pushed up against the far wall.  Behind it sits an old woman,
+who is slowly working her way through a pile of books.  To the north is the
+main library, I wonder what sort of information you could get in there!!    
+~
+20 0 0
+D0
+~
+~
+0 0 2067
+D2
+~
+~
+0 0 2065
+S
+#2067
+The Library~
+This has to be the largest collection of books you have ever seen.  There are
+all of the classics, and some that never went to general release.  There are
+even books written in a language you cannot comprehend.  This Professor really
+is a clever man.    
+~
+20 0 0
+D2
+~
+~
+0 0 2066
+S
+#2068
+Ground Floor Corridor~
+The walls of this corridor are covered with graduates of the institute.  There
+are many famous faces, along these walls.  There are too many to count.    
+~
+20 0 0
+D1
+~
+~
+0 0 2065
+D3
+~
+~
+0 0 2069
+S
+#2069
+End of the Ground Floor Corridor~
+You are now at the end of this long corridor, there are yet more pictures of
+past students, this must have been a very popular institute, although you
+haven't seen many people so far today.    
+~
+20 0 0
+D0
+~
+~
+0 0 2070
+D1
+~
+~
+0 0 2068
+S
+#2070
+Locker Room~
+You are standing in the locker room, this is where the students store their
+books between classes.  For some reason all the lockers are open and empty.  
+For a thriving institute there are some strange things happening here.    
+~
+20 0 0
+D0
+~
+~
+0 0 2071
+D2
+~
+~
+0 0 2069
+S
+#2071
+The Class Room~
+This room should be the centre of activity, but it is not.  This is very
+strange.  The rooms is spotlessly clean, so someone is trying to give the
+impression that the room is still being used.  I wonder why anyone would want
+to do that?    
+~
+20 0 0
+D2
+~
+~
+0 0 2070
+S
+#2072
+Eastern Side of the Mansion~
+You are walking through the gardens, of Westchester Mansion.  It must cost a
+fortune to maintain all of these, hedges and flower beds.  The Professor must
+be really rich to have a place like this
+~
+20 0 0
+D0
+~
+~
+0 0 2074
+D3
+~
+~
+0 0 2063
+S
+#2073
+Western Side of the Mansion~
+You are walking through the gardens, of Westchester Mansion.  It must cost a
+fortune to maintain all of these, hedges and flower beds.  The Professor must
+be really rich to have a place like this
+~
+20 0 0
+D0
+~
+~
+0 0 2074
+D1
+~
+~
+0 0 2063
+S
+#2074
+Behind Westchester Mansion~
+You are standing in a massive field out the back of the mansion.  It rolls for
+as far as teh eye can see, in the distance you can see a tree on top of a hill.
+~
+20 0 0
+D1
+~
+~
+0 0 2072
+D3
+~
+~
+0 0 2073
+S
+#2075
+Top of The Grand Staircase~
+You are standing at the top of the Grand Staircase.  What is now obviously just
+a facade, continues to prevail on this level.  This floor gives the impression
+of a school dormitory.  Only difference is that the hallway is silent, and
+nothing moves.  Maybe if you explored some of the rooms up here you would find
+out what is really going on in this place.    
+~
+20 0 0
+D2
+~
+~
+0 0 2076
+D5
+~
+~
+0 0 2057
+S
+#2076
+Dormitory Hallway~
+The walls up here are lined with a beautiful oak panelling.  The sheer beauty
+of this hallway, leaves you wondering if this really is a school of any sort.
+The lighting in this hallway, is just as grand as the rest of the house.  
+Something strange is going on.    
+~
+20 0 0
+D0
+~
+~
+0 0 2075
+D1
+~
+~
+0 0 2084
+D3
+~
+~
+0 0 2077
+S
+#2077
+Dormitory Hallway~
+This hallway is not dissimilar to any other hallway really except for the fact
+that it seems very under used.  I wouldn't be surprised if this place was
+deserted.    
+~
+20 0 0
+D1
+~
+~
+0 0 2076
+D3
+~
+~
+0 0 2078
+S
+#2078
+Dormitory Hallway~
+This hallway is not dissimilar to any other hallway really except for the fact
+that it seems very under used.  I wouldn't be surprised if this place was
+deserted.    
+~
+20 0 0
+D0
+~
+~
+0 0 2079
+D1
+~
+~
+0 0 2077
+D2
+~
+~
+0 0 2080
+S
+#2079
+Dr. McCoy's Room~
+You are in a room full of different technical bits and bobs.  This would
+suggest that the occupant of this room is very technically minded.  This is not
+to say that he is narrow minded as he also has a great collection of classical
+texts.  The occupant of this room, is definitely of great intelligence.    
+~
+20 0 0
+D2
+~
+~
+0 0 2078
+S
+#2080
+Dormitory Hallway~
+This hallway is not dissimilar to any other hallway really except for the fact
+that it seems very under used.  I wouldn't be surprised if this place was
+deserted.    
+~
+20 0 0
+D0
+~
+~
+0 0 2078
+D2
+~
+~
+0 0 2081
+D3
+~
+~
+0 0 2082
+S
+#2081
+Sean Cassidy's Room~
+This room has a distinct Irish feel to it.  This could come from the fact that
+the occupant of this room is most definitely Irish.  The Shamrock, and Irish
+Flag adorning the walls were the biggest give aways, as to the nationality of
+the occupant.  There doesn't seem to be much of use in this room.  Just like
+the Irish no good at all.    
+~
+20 0 0
+D0
+~
+~
+0 0 2080
+S
+#2082
+Dormitory Hallway~
+You would have thought that someone with this much money, would have been able
+to afford something different once in a while.  The decor is all the same, it
+is getting quite tiresome now.    
+~
+20 0 0
+D1
+~
+~
+0 0 2080
+D3
+~
+~
+0 0 2083
+S
+#2083
+Jean and Scott Summers' Room~
+You are in an unfinished room.  This bedroom is typical of all married couples.
+In one corner there are the few things that Scott Summers has been luckily
+permitted to bring into the marital Domain.  Other than that the room has a
+distinctly feminine fell to it.  The window is covered by the customary net
+curtains, with the pink border across the top of the frame.    
+~
+20 0 0
+D1
+~
+~
+0 0 2082
+S
+#2084
+Dormitory Hallway~
+This hallway is really beginning to grate on your nerves now, all these rooms
+seem to be the same.  I don't think your mind will cope much longer.  Maybe you
+don't belong here in the Institute of Higher Learning .
+~
+20 0 0
+D1
+~
+~
+0 0 2086
+D3
+~
+~
+0 0 2076
+D4
+~
+hatch~
+3 0 2093
+S
+#2085
+Jubilation Lee's Room~
+This is a typical teenagers room.  No matter how big you make the room, the
+floor would always become lost beneath the junk that finds it's way into their
+rooms.  Jubilation has a few books on the desk in the corner.    
+~
+20 0 0
+D2
+~
+~
+0 0 2086
+S
+#2086
+Dormitory Hallway~
+To the north you can see, a small room, with lots of posters all over the
+walls.  To the south this monotonous hallway continues.  
+Aggggggggghhhhhhhh!!!!!!!!!!!  I think I am going mad now, I don't know about
+you, or care for that matter.    
+~
+20 0 0
+D0
+~
+~
+0 0 2085
+D2
+~
+~
+0 0 2087
+D3
+~
+~
+0 0 2084
+S
+#2087
+Dormitory Hallway~
+I bet you thought 'If I come this way maybe this place will get better?  '!!  
+Well you are wrong!!!  It is just the same as the rest of the corridors!!!!  
+AHAHAHAHAHAHAHAHAHA!!!!!!!!    
+~
+20 0 0
+D0
+~
+~
+0 0 2086
+D1
+~
+~
+0 0 2088
+S
+#2088
+Dormitory Hallway~
+What more hallway?  I'm afraid so.  But to the east you can see it coming to an
+end.  Aren't you lucky?!?!  To the south you can see, a very neat room.    
+~
+20 0 0
+D1
+~
+~
+0 0 2091
+D2
+~
+~
+0 0 2089
+D3
+~
+~
+0 0 2087
+S
+#2089
+Ororo Munroe's Room~
+You are in one of the largest rooms possible for a mansion of this size.  
+There is plenty of room in here to swing a cat.  Or maybe even a dozen.  This
+room is probably as neat as anyone could make anything.  Not a single item
+seems to be out of place.  Whoever owns this room must be very meticulous.    
+~
+20 0 0
+D0
+~
+~
+0 0 2088
+S
+#2090
+Rogue's Room~
+This room is very neat and tidy, the occupant is obviously a female, and a very
+female female at that. The room is full of perfumes, and beauty products. 
+Her dressing table looks as if it would snap in two if anymore makeup was to be
+put on it. There may be something of use in this place if you looked around
+properly.  
+~
+20 0 0
+D2
+~
+~
+0 0 2091
+S
+#2091
+The End of The Dormitory Hallway~
+You have finally reached the end of this damned hallway, and just for you.  It
+has decided not to be any different from any other part of the hallway.  Maybe
+if you try a different level you may find something a bit more interesting.  
+~
+20 0 0
+D0
+~
+~
+0 0 2090
+D1
+~
+~
+0 0 2092
+D3
+~
+~
+0 0 2088
+S
+#2092
+Reme Le Beau's Room~
+This is a dark looking room.  This could come from the fact that the curtains
+are still closed.  Despite this you can still see that the floor, is a mess
+with bottles laying about the place.  In the far corner you can see a desk with
+the draw open.  Maybe you should go take a look.    
+~
+20 0 0
+D3
+~
+~
+0 0 2091
+S
+#2093
+On the Roof~
+You are standing on the roof of Westchester mansion.  From up here you can see
+all around.  For as far as the eye can see, there are fields in every
+direction.  You wonder if the Professor owns it all.    
+~
+20 0 0
+D1
+~
+~
+0 0 2094
+D5
+~
+hatch~
+1 0 2084
+S
+#2094
+Before the Blackbird~
+You stand before the awesome aerospace unit known as The Blackbird.  It is the
+single most impressive aeroplane ever.  I bet you wish you owned one for
+yourself.    
+~
+20 0 0
+D1
+~
+~
+0 0 2095
+D3
+~
+~
+0 0 2093
+S
+#2095
+Beneath the Blackbird~
+You are now standing beneath this awesome plane.  You notice that it is not
+made of a metal you have seen before.  This metal does not shine like it
+should, and almost feels soft to touch.  You notice a small hatchway above your
+head, maybe you can get inside.    
+~
+20 0 0
+D3
+~
+~
+0 0 2094
+D4
+~
+hatch~
+1 0 2097
+S
+#2096
+The Cockpit~
+You are standing on the flight deck of this magnificent bird.  Before you are
+the flight controls.  This is definitely, a complex machine.  If only you knew
+how to fly this thing.    
+~
+20 0 0
+D2
+~
+~
+0 0 2097
+S
+#2097
+Passenger Section~
+This section has enough seats to fit in at least 20 people.  It looks like
+unlike the Mansion this is used quite a lot.  Although the design is of a very
+alien nature.    
+~
+20 0 0
+D0
+~
+~
+0 0 2096
+D2
+~
+~
+0 0 2098
+D5
+~
+hatch~
+1 0 2095
+S
+#2098
+Cargo Space~
+This is the area where they must store all their equipment, when they go on
+missions.  At the moment it is empty.  But maybe if you were to come back
+later, you might catch them when they are about to go on a mission.    
+~
+20 0 0
+D0
+~
+~
+0 0 2097
+S
+#2099
+The Mansion Gates~
+You stand before the mansion gates.  Way off to the north you can see the
+mansion dominating the skyline.  The gates look as if they could easily keep
+out those who are not wanted.  Lucky for you they are open then.    
+~
+20 0 0
+D0
+~
+~
+0 0 2063
+D2
+~
+gate~
+1 0 12073
+S
+$~

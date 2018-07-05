@@ -1,0 +1,197 @@
+#7800
+cooshee dog~
+a cooshee~
+A rather large dog is here, wandering the valley.
+~
+A beast is the size of the largest common dog.  It has a greenish coat with
+brown spots.  Its shape, along with its colors, make this cooshee almost
+undetectable as it moves.
+~
+200 262144 0 E
+5 15 4 4d4+55 2d4+1
+0 700
+8 8 0 1
+E
+#7801
+valley elf~
+a valley elf~
+A valley elf wanders here, cautious of your intrusion.
+~
+This elf is almost as tall as you are, but much slimmer and agile.  You see
+hatred in his eyes, and you try to avoid his stare.  His tense body looks ready
+to spring upon you, like a mountain lion stalking its prey.  He sees you
+noticing him, and quietly disappears.
+~
+236 263168 0 E
+8 11 0 7d7+80 1d4+6
+10 2000
+8 8 1 1
+E
+#7802
+valley elf~
+a valley elf~
+A female valley elf wanders here, skirting between the tall grasses.
+~
+This elf is almost as tall as you are, but much slimmer and more agile.
+She glares at you, then quickly disappears before you see more of her.
+~
+236 263168 0 E
+8 11 0 7d7+80 1d4+6
+10 2000
+8 8 2 1
+E
+#7803
+sentry valley elf~
+a valley elf sentry~
+A valley elf sentry stands here, then noticing you, attacks quickly!
+~
+This elf is almost as tall as you are, but much slimmer and more agile.
+He glares at your intrusion and attacks with menace.
+~
+42 263168 0 E
+7 12 1 6d6+70 1d4+5
+10 1500
+8 8 1 1
+E
+#7804
+sentry valley elf~
+a valley elf sentry~
+A valley elf sentry stands here, then noticing you, attacks quickly!
+~
+This elf is almost as tall as you are, but much slimmer and more agile.
+She glares at your intrusion and attacks with menace.
+~
+42 263168 0 E
+7 12 1 6d6+70 1d4+5
+10 1500
+8 8 2 1
+E
+#7805
+scout valley elf~
+a valley elf scout~
+A valley elf scout wanders the valley, searching for intruders like you!
+~
+The elf notices your intrusion and attacks with determination.
+~
+108 263168 0 E
+6 13 2 5d5+60 1d4+4
+10 1000
+8 8 1 1
+E
+#7806
+valley elf~
+a valley elf~
+A valley elf is here, doing her duties.
+~
+She is currently doing some menial chores, and ignores your intrusion except
+when you are in her way.
+~
+200 263168 0 E
+6 13 2 5d5+60 1d4+4
+10 1000
+8 8 2 1
+E
+#7807
+elder valley elf~
+a valley elf elder~
+A valley elf elder is here, studying.  He notices you.
+A valley elf elder shouts 'You have intruded wrongly.  Be prepared to die!'
+~
+This elf looks quite old, probably twenty or more times your age.  He looks
+quite potent, though.
+~
+46 8320 0 E
+15 3 -7 14d14+150 1d4+9
+10 30000
+8 8 1 1
+E
+#7808
+elder valley elf~
+a valley elf elder~
+A valley elf elder is here, studying.  She notices you.
+A valley elf elder says 'Your arrogance will be your end, human.'
+~
+This elf looks quite old, probably twenty or more times your age.  She looks
+quite potent, though.
+~
+46 8192 0 E
+15 3 -10 14d14+150 1d4+9
+10 30000
+8 8 2 1
+E
+#7809
+pyrohydra pyro hydra~
+the pyrohydra~
+A big beast with many heads, each breathing fire, stares at you with malice.
+~
+This big beast looks like a small red dragon, but has many more heads than a
+regular dragon, too.  It doesn't look happy.
+~
+42 0 0 E
+20 2 -5 20d20+200 1d20+12
+0 50000
+8 8 0 1
+E
+#7810
+hermit man old~
+an old hermit~
+An old hermit sits here, smoking a pipe.
+~
+He looks old and feeble.
+~
+142 0 0 E
+3 17 7 3d3+33 1d4+2
+10 300
+8 8 1 1
+E
+#7811
+talemon wizard mage~
+Talemon~
+An old mage busies himself with some chemicals.
+~
+Talemon looks harmless, but the fireballs he throws at you don't.
+~
+46 0 0 E
+25 0 -10 25d25+250 1d4+10
+1000 100000
+8 8 1 1
+E
+#7812
+guardian daemon~
+the guardian daemon~
+A huge guardian daemon is here, watching the treasure.
+~
+This daemon is unhappy with its summoned job, and is willing to take out it's
+anger at you!
+~
+254010 525480 -500 E
+100 -100 -20 25d100+20000 30d120+100
+0 2000000
+8 8 0 5
+E
+#7813
+wolf~
+a wolf~
+A wolf is here, looking for small prey.
+~
+The wolf is covered with brown hair.  It looks at you with fright.
+~
+168 0 0 E
+4 16 6 4d4+40 1d4+3
+0 500
+8 8 0 1
+E
+#7814
+antelope~
+an antelope~
+An antelope is here, peacefully munching on grass.
+~
+With horns and spots over coarse, brown hair, this beast is the spit and
+image of ... an antelope.
+~
+136 0 0 E
+6 14 4 6d6+66 1d4+5
+0 1000
+8 8 0 1
+E
+$

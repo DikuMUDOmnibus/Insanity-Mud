@@ -1,0 +1,1598 @@
+#600
+Dank Corridor~
+   The castle is very cold, and a presence of good and evil seem to be present
+in the air as it glides past your nostriles.    
+~
+6 72 0
+D1
+~
+~
+0 -1 601
+D2
+~
+~
+0 -1 604
+D4
+~
+~
+0 0 640
+S
+#601
+Dank Corridor~
+   The castle is very cold, and a presence of good and evil seem to be present
+in the air as it glides past your nostriles.    
+~
+6 72 0
+D1
+~
+~
+0 -1 602
+D3
+~
+~
+0 -1 600
+S
+#602
+Dank Corridor~
+   You stand in quite a drab looking corridor, the only light is from the small
+torches which have been mounted in bracketts on the walls.    
+~
+6 72 0
+D1
+~
+~
+0 -1 603
+D3
+~
+~
+0 -1 601
+S
+#603
+Dank Corridor~
+   The corridor you stand in is lit with small burning torches which have been
+mounted on the walls.    
+~
+6 72 0
+D2
+~
+~
+0 -1 607
+D3
+~
+~
+0 -1 602
+D4
+~
+~
+0 0 622
+S
+#604
+Dank Corridor~
+   You stand in quite a drab looking corridor, the only light is from the small
+torches which have been mounted in bracketts on the walls.    
+~
+6 72 0
+D0
+~
+~
+0 -1 600
+D1
+~
+~
+0 -1 605
+D2
+~
+~
+0 -1 608
+S
+#605
+Castle Courtyard~
+   The smell of flowers is so beautiful here, you love it!  The courtyard
+continues in all directions.    
+~
+6 64 1
+D1
+~
+~
+0 -1 606
+D2
+~
+~
+0 -1 609
+D3
+~
+~
+0 -1 604
+S
+#606
+Castle Courtyard~
+   You stand in the castle court yard.  Below you you see a road going down
+into a small ditch.  You can see the castle workers in the rest of the court
+yard from here.    
+~
+6 64 1
+D1
+~
+~
+0 -1 607
+D2
+~
+~
+0 -1 610
+D3
+~
+~
+0 -1 605
+D5
+~
+trapdoor~
+1 0 646
+S
+#607
+Dank Corridor~
+   This dank place is very damp, smelly and the walls seem to move in and out
+of reality.    
+~
+6 72 0
+D0
+~
+~
+0 -1 603
+D2
+~
+~
+0 -1 611
+D3
+~
+~
+0 -1 606
+S
+#608
+Dank Corridor~
+   The castle is very cold, and a presence of good and evil seem to be present
+in the air as it glides past your nostriles.    
+~
+6 72 0
+D0
+~
+~
+0 -1 604
+D1
+~
+~
+0 -1 609
+D2
+~
+~
+0 -1 614
+S
+#609
+Castle Courtyard~
+   This courtyard is very bare with a statue of a naked lady with large
+breasts, her name printed on the plaque is of the princess Claire.    
+~
+6 64 1
+D0
+~
+~
+0 -1 605
+D1
+~
+~
+0 -1 610
+D2
+~
+~
+0 -1 615
+D3
+~
+~
+0 -1 608
+S
+#610
+Castle Gardens~
+   This yard is large, with a huge fountain set in the middle of it, with small
+yellow and red flowers surrounding its base.  The fluid being sprayed up from
+the fountain is illuminous black in colour --- how strange!    
+~
+6 192 1
+D0
+~
+~
+0 -1 606
+D1
+~
+~
+0 -1 611
+D2
+~
+~
+0 -1 616
+D3
+~
+~
+0 -1 609
+S
+#611
+The Grand Hall of Excellence~
+The castle is like no other castle you have seen before, it seems to fade
+in and out of reality-- as if time and space were one.
+~
+6 72 0
+D0
+~
+~
+0 -1 607
+D1
+~
+~
+0 -1 612
+D2
+~
+~
+0 -1 617
+D3
+~
+~
+0 -1 610
+S
+#612
+On The Drawbridge~
+   You stand on the sturdy draw bridge of the Castle.  You wounder how many
+attacks it has witheld against viscious saveages bent on looting and pilliaging
+this fine structure.    
+~
+6 64 0
+D1
+~
+~
+0 -1 613
+D3
+~
+gate~
+1 -1 611
+S
+#613
+Trail To The Castle~
+Looking up above you now you can see the vast black castle towering
+above you. The two towers in front of you are littered with small
+holes, you can see many eyes looking down upon you. This castle is
+definitly not deserted, perhaps you should not go in after all.
+~
+6 72 0
+D1
+~
+~
+0 0 665
+D2
+~
+~
+0 0 15064
+D3
+~
+~
+0 -1 612
+S
+#614
+Dank Corridor~
+   The corridor you stand in is lit with small burning torches which have been
+mounted on the walls.    
+~
+6 72 0
+D0
+~
+~
+0 -1 608
+D1
+~
+~
+0 -1 615
+D2
+~
+~
+0 -1 618
+S
+#615
+Castle Courtyard~
+   You stand in the castle courtyard.  The various archers and soldiers
+practice thier skills here.  The smell of flowers is also quite strong, but
+pleasant on the nose.    
+~
+6 64 1
+D0
+~
+~
+0 -1 609
+D1
+~
+~
+0 -1 616
+D3
+~
+~
+0 -1 614
+S
+#616
+Castle Courtyard~
+   The smell of flowers here is quite strong.  You can see why, there is a
+small area of the courtyard which seems to have been set aside for someone to
+grow flowers and shrubs in.    
+~
+6 64 1
+D0
+~
+~
+0 -1 610
+D1
+~
+~
+0 -1 617
+D3
+~
+~
+0 -1 615
+S
+#617
+Dank Corridor~
+   The corridor is very dank indeed.  You can smell a damp musty smell,
+probably the due to the moss which grows in the various places on the walls.  
+
+~
+6 72 0
+D0
+~
+~
+0 -1 611
+D2
+~
+~
+0 -1 621
+D3
+~
+~
+0 -1 616
+S
+#618
+Dank Corridor~
+   You stand in quite a drab looking corridor, the only light is from the small
+torches which have been mounted in bracketts on the walls.  Some stairs lead
+upwards.    
+~
+6 72 0
+D0
+~
+~
+0 -1 614
+D1
+~
+~
+0 -1 619
+D4
+~
+~
+0 0 634
+S
+#619
+Dank Corridor~
+   The corridor is indeed dank.  Its also quite chilly and the echo's of people
+moving about the castle can be heard quite clearly giving this place an eary
+feeling.    
+~
+6 72 0
+D1
+~
+~
+0 -1 620
+D3
+~
+~
+0 -1 618
+S
+#620
+Dank Corridor~
+   The corridor continues in a east west direction.  Torches mounted on the
+walls provide the only light.    
+~
+6 72 0
+D1
+~
+~
+0 -1 621
+D3
+~
+~
+0 -1 619
+S
+#621
+Dank Corridor~
+   The corridor is indeed dank.  Its also quite chilly and the echo's of people
+moving about the castle can be heard quite clearly giving this place an eary
+feeling.  Some stairs lead you upwards.    
+~
+6 72 0
+D0
+~
+~
+0 -1 617
+D3
+~
+~
+0 -1 620
+D4
+~
+~
+0 0 628
+S
+#622
+Stairway~
+You are in an unfinished room.
+~
+6 72 0
+D2
+~
+~
+0 0 653
+D3
+~
+~
+0 0 654
+D4
+~
+~
+0 0 623
+D5
+~
+~
+0 0 603
+S
+#623
+Top Of North East Tower~
+You are in an unfinished room.
+~
+6 72 0
+D0
+~
+~
+0 0 624
+D1
+~
+~
+0 0 625
+D2
+~
+~
+0 0 626
+D3
+~
+~
+0 0 627
+D5
+~
+~
+0 0 622
+S
+#624
+Top Of North East Tower~
+You are in an unfinished room.
+~
+6 72 0
+D2
+~
+~
+0 0 623
+S
+#625
+Castle Armoury~
+Mounted on the walls here are all the weapons owned by this mighty clan.
+I wouldn't touch any if I were you, this room could be alarmed.
+~
+6 72 0
+D3
+~
+~
+0 0 623
+S
+#626
+Top Of North East Tower~
+You are in an unfinished room.
+~
+6 72 0
+D0
+~
+~
+0 0 623
+S
+#627
+Top Of North East Tower~
+You are in an unfinished room.
+~
+6 72 0
+D1
+~
+~
+0 0 623
+S
+#628
+Stairwell~
+You are in an unfinished room.
+~
+6 72 0
+D0
+~
+~
+0 0 659
+D3
+~
+~
+0 0 660
+D4
+~
+~
+0 0 629
+D5
+~
+~
+0 0 621
+S
+#629
+Top Of South East Tower~
+You are in an unfinished room.
+~
+6 72 0
+D0
+~
+~
+0 0 630
+D1
+~
+~
+0 0 631
+D2
+~
+~
+0 0 632
+D3
+~
+~
+0 0 633
+D5
+~
+~
+0 0 628
+S
+#630
+Top Of South East Tower~
+You are in an unfinished room.
+~
+6 72 0
+D2
+~
+~
+0 0 629
+S
+#631
+Top Of South East Tower~
+You are in an unfinished room.
+~
+6 72 0
+D3
+~
+~
+0 0 629
+S
+#632
+Castle Weaponry~
+You are in an unfinished room.
+~
+6 72 0
+D0
+~
+~
+0 0 629
+S
+#633
+Top Of South East Tower~
+You are in an unfinished room.
+~
+6 72 0
+D1
+~
+~
+0 0 629
+S
+#634
+Tower Stairs~
+   The stairs here look well worn, the stone slowly rubbed away with the
+continuous walking up and down of the many guards which protect the castle. 
+
+~
+6 72 0
+D0
+~
+~
+0 0 657
+D1
+~
+~
+0 0 658
+D4
+~
+~
+0 0 635
+D5
+~
+~
+0 0 618
+S
+#635
+Top Of South West Tower~
+   You stand in the centre of the tower. You can see small windows which are
+used when the castle is attacked, the guards and soldiers can easily fire
+arrows from the without fear of being hit themselves.  
+~
+6 72 0
+D0
+~
+~
+0 0 636
+D1
+~
+~
+0 0 637
+D2
+~
+~
+0 0 638
+D3
+~
+~
+0 0 639
+D5
+~
+~
+0 0 634
+S
+#636
+Top Of South West Tower~
+You are in an unfinished room.
+~
+6 72 0
+D2
+~
+~
+0 0 635
+S
+#637
+Top Of South West Tower~
+You are in an unfinished room.
+~
+6 72 0
+D3
+~
+~
+0 0 635
+S
+#638
+Dark Castle Donation Room~
+You are in an unfinished room.
+~
+6 72 0
+D0
+~
+~
+0 0 635
+S
+#639
+Top Of South West Tower~
+You are in an unfinished room.
+~
+6 72 0
+D1
+~
+~
+0 0 635
+S
+#640
+Inside North West Tower~
+You are in an unfinished room.
+~
+6 72 0
+D1
+~
+~
+0 0 656
+D2
+~
+~
+0 0 655
+D4
+~
+~
+0 0 641
+D5
+~
+~
+0 0 600
+S
+#641
+Top Of North West Tower~
+You are in an unfinished room.
+~
+6 72 0
+D0
+~
+~
+0 0 642
+D1
+~
+~
+0 0 643
+D2
+~
+~
+0 0 644
+D3
+~
+~
+0 0 645
+D5
+~
+~
+0 0 640
+S
+#642
+Top Of North West Tower~
+You are in an unfinished room.
+~
+6 72 0
+D2
+~
+~
+0 0 641
+S
+#643
+Dark Castle Board Room~
+You are in an unfinished room.
+~
+6 72 0
+D3
+~
+~
+0 0 641
+S
+#644
+Top Of North West Tower~
+You are in an unfinished room.
+~
+6 72 0
+D0
+~
+~
+0 0 641
+S
+#645
+Top Of North West Tower~
+You are in an unfinished room.
+~
+6 72 0
+D1
+~
+~
+0 0 641
+S
+#646
+Climing a rope~
+   You hold onto the rope with your dear life.  Down bellow you you can see a
+small trapdoor, while upwards is the safetly of the castle courtyard.    
+~
+6 76 0
+D4
+~
+trapdoor~
+1 0 606
+D5
+~
+trapdoor~
+1 0 647
+S
+#647
+Beneath The Trapdoor~
+   You stand bellow the trapdoor, to the north there is some sort of crawlway,
+it looks rather dark though and you think it might be unwise to go crawling
+down it.    
+~
+6 72 0
+D0
+~
+~
+0 0 648
+D4
+~
+trapdoor~
+1 0 646
+S
+#648
+Crawlway~
+   The Crawlway is rather low which is not suprising really, its a crawlway.  
+Its also rather damp and you can feel the water dripping on your head off the
+moss covered stone.    
+~
+6 328 0
+D0
+~
+~
+0 0 649
+D2
+~
+~
+0 0 647
+S
+#649
+Crawlway~
+   The Crawlway is rather low which is not suprising really, its a crawlway.  
+Its also rather damp and you can feel the water dripping on your head off the
+moss covered stone.    
+~
+6 328 0
+D0
+~
+~
+0 0 650
+D2
+~
+~
+0 0 648
+D3
+~
+~
+0 0 652
+S
+#650
+Deep In A Tunnel~
+   You are now deep in the tunnel, its very cold, its very dark and you wish
+you had not wandered in here. The dripping of the water on the damp mossy
+bricks which support the tunnel send shivers down your spine, as you listen to
+the dripping a spider crawls across the back of your neck.  
+~
+6 73 0
+D0
+~
+~
+0 0 651
+D2
+~
+~
+0 0 649
+S
+#651
+Tunnel Opening~
+You stand just inside the tunnel opening, looking deep into the tunnel you see
+how dark and dank it is, I hope you brought a torch with you!? You can climb
+back out of the tunnel, back up to the safety of the fields.  
+~
+6 73 0
+D2
+~
+~
+0 0 650
+D4
+~
+grate~
+1 0 696
+S
+#652
+Secure Room~
+   The is iggy's little trading room, here you can trade interesting objects.
+Iggy is a big bloke and you would be wise not to annoy him.    
+~
+6 131272 0
+D1
+~
+~
+0 0 649
+S
+#653
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D0
+~
+~
+0 0 622
+D2
+~
+~
+0 0 664
+S
+#654
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D1
+~
+~
+0 0 622
+D3
+~
+~
+0 0 661
+S
+#655
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D0
+~
+~
+0 0 640
+D2
+~
+~
+0 0 662
+S
+#656
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D1
+~
+~
+0 0 661
+D3
+~
+~
+0 0 640
+S
+#657
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D0
+~
+~
+0 0 662
+D2
+~
+~
+0 0 634
+S
+#658
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D1
+~
+~
+0 0 663
+D3
+~
+~
+0 0 634
+S
+#659
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D0
+~
+~
+0 0 664
+D2
+~
+~
+0 0 628
+S
+#660
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D1
+~
+~
+0 0 628
+D3
+~
+~
+0 0 663
+S
+#661
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D1
+~
+~
+0 0 654
+D3
+~
+~
+0 0 656
+S
+#662
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D0
+~
+~
+0 0 655
+D2
+~
+~
+0 0 657
+S
+#663
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D1
+~
+~
+0 0 660
+D3
+~
+~
+0 0 658
+S
+#664
+Up On The Battlements~
+Standing on the battlements you look down and feel dizzy as you realise
+just how far up you are now. The peasants below you look like ants going
+about their business. The towers next to you climb into the sky.
+~
+6 72 0
+D0
+~
+~
+0 0 653
+D2
+~
+~
+0 0 659
+S
+#665
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D0
+~
+~
+0 0 666
+D1
+~
+~
+0 0 671
+D2
+~
+~
+0 0 668
+D3
+~
+~
+0 0 613
+S
+#666
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D0
+~
+~
+0 0 673
+D1
+~
+~
+0 0 672
+D2
+~
+~
+0 0 665
+S
+#667
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+S
+#668
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D0
+~
+~
+0 0 665
+D1
+~
+~
+0 0 669
+D2
+~
+~
+0 0 670
+S
+#669
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D0
+~
+~
+0 0 671
+D1
+~
+~
+0 0 675
+D3
+~
+~
+0 0 668
+S
+#670
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D0
+~
+~
+0 0 668
+D2
+~
+~
+0 0 677
+S
+#671
+Out In The Fields~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D0
+~
+~
+0 0 672
+D1
+~
+~
+0 0 674
+D2
+~
+~
+0 0 669
+D3
+~
+~
+0 0 665
+S
+#672
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D1
+~
+~
+0 0 676
+D2
+~
+~
+0 0 671
+D3
+~
+~
+0 0 666
+S
+#673
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D0
+~
+~
+0 0 693
+D2
+~
+~
+0 0 666
+S
+#674
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D0
+~
+~
+0 0 676
+D2
+~
+~
+0 0 675
+D3
+~
+~
+0 0 671
+S
+#675
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D0
+~
+~
+0 0 674
+D3
+~
+~
+0 0 669
+S
+#676
+New room~
+There are peasants working in the fields all around you. They work all
+of their lives to serve whoever watches over them from the castle.
+~
+6 0 0
+D2
+~
+~
+0 0 674
+D3
+~
+~
+0 0 672
+S
+#677
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D0
+~
+~
+0 0 670
+D3
+~
+~
+0 0 678
+S
+#678
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D1
+~
+~
+0 0 677
+D3
+~
+~
+0 0 679
+S
+#679
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D1
+~
+~
+0 0 678
+D3
+~
+~
+0 0 680
+S
+#680
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D1
+~
+~
+0 0 679
+D3
+~
+~
+0 0 681
+S
+#681
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D0
+~
+~
+0 0 682
+D1
+~
+~
+0 0 680
+S
+#682
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D0
+~
+~
+0 0 683
+D2
+~
+~
+0 0 681
+S
+#683
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D0
+~
+~
+0 0 684
+D2
+~
+~
+0 0 682
+S
+#684
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D0
+~
+~
+0 0 685
+D2
+~
+~
+0 0 683
+S
+#685
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D0
+~
+~
+0 0 686
+D2
+~
+~
+0 0 684
+S
+#686
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D1
+~
+~
+0 0 687
+D2
+~
+~
+0 0 685
+S
+#687
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D1
+~
+~
+0 0 688
+D3
+~
+~
+0 0 686
+S
+#688
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D1
+~
+~
+0 0 689
+D3
+~
+~
+0 0 687
+S
+#689
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D1
+~
+~
+0 0 690
+D3
+~
+~
+0 0 688
+S
+#690
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D1
+~
+~
+0 0 691
+D3
+~
+~
+0 0 689
+S
+#691
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D1
+~
+~
+0 0 692
+D3
+~
+~
+0 0 690
+S
+#692
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D0
+~
+bushes~
+1 0 694
+D1
+~
+~
+0 0 693
+D3
+~
+~
+0 0 691
+S
+#693
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D2
+~
+~
+0 0 673
+D3
+~
+~
+0 0 692
+S
+#694
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D0
+~
+~
+0 0 695
+D2
+~
+~
+0 0 692
+S
+#695
+New room~
+You are in an unfinished room.
+~
+6 0 0
+D2
+~
+~
+0 0 694
+D3
+~
+~
+0 0 696
+S
+#696
+Above a Tunnel.~
+   You stand above what looks to be a large tunnel. You wounder what could be
+deep down in there, perhaps its a secret way into the castle, or maybe its
+where all the sewage flows from, well it does stink a bit!  
+~
+6 0 2
+D1
+~
+~
+0 0 695
+D5
+~
+grate~
+1 0 651
+S
+#697
+New room~
+You are in an unfinished room.
+~
+6 0 0
+S
+#698
+New room~
+You are in an unfinished room.
+~
+6 0 0
+S
+#699
+New room~
+You are in an unfinished room.
+~
+6 0 0
+S
+$~

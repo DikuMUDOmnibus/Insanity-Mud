@@ -1,0 +1,123 @@
+#25500
+tribble~
+a Tribble~
+A cute little tribble is here, making a very soothing sound.
+~
+It has brown and white hair.
+It is about 4 cm in diameter if you include
+its hair. It wiggles gently as it sings.
+~
+16410 4194336 100 E
+30 5 10 30d50+2000 5d15+20
+0 100000
+8 8 0 2
+E
+#25501
+neo man~
+NEO~
+A man dressed in a bulging trenchcoat is here staring intently at you.
+~
+NEO is the buff conquerer of the first matrix sentinal. He is dressed in
+a black trenchcoat, shirt, pants, shoes, and, well, he is wearing all black.
+He also has some neat sunglasses.  It's too bad all of this is not
+real.
+~
+254106 4206776 10 E
+113 -100 10 20d40+30000 30d120+120
+0 2000000
+8 8 1 10
+BareHandAttack: 12
+E
+#25502
+andorian~
+an Andorian~
+An Andorian is your next challenge.
+~
+It looks like...like...like and Andorian!
+~
+2122 4194304 0 E
+35 5 0 1d1+3800 8d4+10
+0 125000
+8 8 0 1
+BareHandAttack: 13
+E
+#25503
+ferengi~
+a Ferengi~
+A Ferengi is here seeking revenge.
+~
+It looks like a Ferengi with an attitude.
+~
+2062 1032 0 E
+38 2 10 2d18+2000 8d5+15
+0 130000
+8 8 0 4
+E
+#25504
+romulan~
+a Romulan~
+A Romulan is here.
+~
+It looks like a Romulan.
+~
+18458 8 0 E
+45 -5 0 10d5+2250 12d10+20
+0 140000
+8 8 0 2
+E
+#25505
+a HOrta~
+a Horta~
+A large Horta is here feeding on rocks by spraying acid on them.
+~
+This is unmistakably a Horta adult.
+~
+10 1160 0 E
+50 -15 -10 10d10+5000 20d10+30
+0 190000
+8 8 0 6
+E
+#25506
+Breen~
+a Breen~
+A big bad Breen is here to rip off your head and eat your brains!
+~
+It looks like a hungry Breen.
+~
+149530 1192 0 E
+80 -70 10 20d35+11000 25d30+50
+0 900000
+8 8 0 6
+E
+#25507
+bynars~
+a Bynar~
+A Bynar is here looking for his other half.
+~
+The Bynar has a large white head and a peculiar box on the
+front of his belt.  They speak in binary, so you can't understand
+a word it says.
+~
+10 1280 0 E
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 0 1
+E
+#25509
+tholian~
+a Tholian~
+A large Tholian is here.
+~
+The Tholian looks like a tall crystal that
+stands about 1.5 meters tall.  It stands on
+one end.  It's attacks are lightning like in
+nature.  You see no eyes on the Tholian, but
+and can _feel_ it staring at you.
+~
+18442 4195497 0 E
+55 -5 -10 5d2+8900 10d12+20
+0 150000
+8 8 0 4
+BareHandAttack: 1
+E
+$

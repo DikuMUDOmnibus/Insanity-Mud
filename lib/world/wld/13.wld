@@ -1,0 +1,1147 @@
+#1300
+The Bridge~
+You have reached the Bridge, the central nervous system for
+Space Station Alpha. All around you are flashing screens a
+ndlights. Status reports and damage reports are scrolling o
+ffthe screen faster than you can read them. The gravity is ve
+rylight in this room. You can see blood staining the crash couch
+of what was probably the Computer Systems Officer. There are
+dozens of egg pods here!
+~
+13 32905 0
+D4
+~
+red hatch~
+2 1514 1306
+E
+egg eggs pod~
+Yes, your presence in this room has been noticed by the 
+proto-aliens in the pods!
+~
+S
+#1301
+Weapon Storage Chamber~
+You have located the weapons storage chamber. 
+Unfortunatelyit is empty. Apparently the crewmembers had a 
+chance to get to the weapons.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1302
+D2
+~
+hatch~
+2 1515 1305
+S
+#1302
+Officer's Mess~
+This is where the officers of Space Station Alpha take
+their meals. It looks as if the room is being used as
+a staging area for alien hunting Predators!
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1303
+D3
+~
+hatch~
+2 1515 1301
+S
+#1303
+Systems Officer's Quarters~
+These are the quarters of the Systems Officer. What is
+left of her is scattered all about the room. The grate 
+over the ventilation shaft has been torn off.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1304
+D3
+~
+hatch~
+2 1515 1302
+S
+#1304
+Communications Officer's Quarters~
+These are the quarters of Lt. Oshura, communications officer
+of the station. There is no sign of Oshura here.
+~
+13 32905 0
+D2
+~
+hatch~
+2 1515 1307
+D3
+~
+hatch~
+2 1515 1303
+S
+#1305
+Captain's Quarters~
+These are the quarters of Captain Vance Marshal.They look 
+recently occupied but Captain Marshal is not in the room. 
+A steel plate has been hastily welded over the ventilation 
+shaft.
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1301
+D1
+~
+hatch~
+2 1515 1306
+D2
+~
+hatch~
+2 1515 1308
+S
+#1306
+Main Axis Transportation Column~
+You are in the main transportation column.There are some 
+burn marks here on the walls and the rungs directly above 
+you have been corroded away by acid.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1307
+D3
+~
+hatch~
+2 1515 1305
+D4
+~
+green hatch~
+2 1517 1318
+D5
+~
+red hatch~
+2 1514 1300
+S
+#1307
+Science Officer's Quarters~
+These are the quarters of the stations Science Officer. 
+The room is in complete dissaray. A vent cover in the
+ceiling has been forcibly removed from the inside. There 
+are burn marks and signs of acid corrosion on the floor 
+below the vent.
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1304
+D2
+~
+hatch~
+2 1515 1311
+D3
+~
+hatch~
+2 1515 1306
+S
+#1308
+Recreation Room~
+You have found the recreation room. It looks like there was
+some strenuous activity going on here recently judging by
+the human body parts. Where is the skull though?
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1305
+D1
+~
+hatch~
+2 1515 1309
+S
+#1309
+The Latrine~
+You have found the latrine. The fixtures have been
+torn off the floor and smashed by something with great
+strength. Part of a dead adult stage alien is here.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1310
+D3
+~
+hatch~
+2 1515 1308
+S
+#1310
+A Storage Room~
+This room stored various replacement parts for the 
+spacestation. Boxes are tossed randomly about.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1311
+D3
+~
+hatch~
+2 1515 1309
+S
+#1311
+Food Storage~
+This was where the dry rations for the station were stored. 
+Most packages have been ripped open.
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1307
+D3
+~
+hatch~
+2 1515 1310
+S
+#1312
+Storage Room~
+This room is stored with huge metal barrels.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1315 1313
+D2
+~
+hatch~
+2 1515 1317
+S
+#1313
+Bio Lab~
+This room is full of high tech equipment for disection and 
+analisis of biological specimens. There is a naked human 
+on an examination table here. A facehugger is firmly attached 
+to him.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1314
+D3
+~
+hatch~
+2 1515 1312
+S
+#1314
+Cryo Storage~
+This room is bitterly cold. There are some large glass tubes
+here containing frozen humanbeings. Other containers house
+suspended alien life forms.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1315
+D3
+~
+hatch~
+2 1515 1313
+S
+#1315
+An Empty Stateroom~
+There are a couple neately made beds here. Nothing else is out
+of the ordingary.
+~
+13 32776 0
+D2
+~
+hatch~
+2 1515 1319
+D3
+~
+hatch~
+2 1515 1314
+S
+#1316
+Hangar #1~
+You are in Hangar #1 on Space Station Alpha. A
+suttlecraft is waiting here to transport you to 
+the planet's surface.
+~
+13 32776 0
+D1
+~
+airlock~
+2 1516 1317
+D3
+The Shuttle awaits you to head back to the planet's
+surface.
+~
+~
+0 -1 1361
+S
+#1317
+Air Lock #1~
+This room has especially thick hatches to it with a
+large control pannel mounted next to the hatch to the
+west.
+~
+13 32776 0
+D0
+~
+hatch~
+2 1515 1312
+D1
+~
+hatch~
+2 1515 1318
+D2
+~
+hatch~
+2 1515 1321
+D3
+~
+airlock~
+2 1516 1316
+S
+#1318
+Main Axis Transportation Column~
+You are in the main transportation column.
+There are some burn marks on the walls here.
+What's that!????? A part of a human face?! 
+Something isn't right here!
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1319
+D3
+~
+hatch~
+2 1515 1317
+D4
+~
+green hatch~
+2 1517 1330
+D5
+~
+green hatch~
+2 1517 1306
+S
+#1319
+Airlock #2~
+This room has especially thick hatches to it with a
+large control pannel mounted next to the hatch to the
+east.
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1315
+D1
+~
+airlock~
+2 1316 1320
+D2
+~
+hatch~
+2 1515 1324
+D3
+~
+hatch~
+2 1515 1318
+S
+#1320
+Hanger #2~
+This is a rather large room, similar to the room you
+entered the station from. There is no other space craft
+here however.
+~
+13 32905 0
+D3
+~
+airlock~
+2 1516 1319
+S
+#1321
+Preparation Room #1~
+This room contains a number of vacum suits and other 
+equipment for walking out side the hull of the station.
+~
+13 32776 0
+D0
+~
+hatch~
+2 1515 1317
+D1
+~
+hatch~
+2 1515 1322
+S
+#1322
+Repair Shop~
+This room is obviously a repairshop of some sort. There is
+a half assembled robot on a table here along with some 
+weapons that are recharging.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1323
+D3
+~
+hatch~
+2 1515 1321
+S
+#1323
+A Storage Room~
+Spare parts are stacked to the ceiling in this room.
+There are a few overturned boxes but otherwise this room
+is intact.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1324
+D3
+~
+hatch~
+2 1515 1322
+S
+#1324
+Preparation Room #2~
+This room is full of vacum suits and equipment for
+space walking out side the hull of the ship.
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1319
+D3
+~
+hatch~
+2 1515 1323
+S
+#1325
+A Kitchen~
+This is a small kitchen used for making snacks for the crew.
+The place has been ransacked!
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1326
+D2
+~
+hatch~
+2 1515 1329
+S
+#1326
+A Crew Stateroom~
+The room was until recently occupied by a memeber of the 
+space station's crew.
+~
+13 32776 0
+D1
+~
+hatch~
+2 1515 1327
+D3
+~
+hatch~
+2 1515 1325
+S
+#1327
+A Crew Stateroom~
+The room was until recently occupied by a memeber of the 
+space station's crew.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1328
+D3
+~
+hatch~
+2 1515 1326
+S
+#1328
+A Crew Stateroom~
+The room was until recently occupied by a memeber of the 
+space station's crew. The bed in this room is soaked with
+blood from the poor slob on the floor. The corpse has a 
+gaping hole in its chest.
+~
+13 32905 0
+D2
+~
+hatch~
+2 1515 1331
+D3
+~
+hatch~
+2 1515 1327
+S
+#1329
+Video Room~
+This room contains a dozen comfortable looking reclining 
+couches each equiped with thier own video screen on a 
+swivel are attached to the couch. One of the video couches 
+is occupied by a corpse with a large hole it his chest.
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1325
+D1
+~
+hatch~
+2 1515 1330
+D2
+~
+hatch~
+2 1515 1332
+S
+#1330
+Main Axis Transportation Column~
+You are in the main transportation column.
+There are some burn marks here on the walls and
+blood covers most of the shaft here.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1331
+D3
+~
+hatch~
+2 1515 1329
+D4
+~
+green hatch~
+2 1517 1342
+D5
+~
+green hatch~
+2 1517 1318
+S
+#1331
+Crew Stateroom~
+This room was recently occupied by one of the crew
+members of the spacestation. There is a hastily 
+scribbled note laying on the desk here.
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1328
+D2
+~
+hatch~
+2 1515 1335
+D3
+~
+hatch~
+2 1515 1330
+S
+#1332
+Sceen of a Battle~
+It is hard to say what this room once was. 
+Everything has been destroyed.There are burn 
+marks and holes everywhere. It looks like some 
+eventually tossed in a fragmentation grenade 
+and closed the door. Bits of alien flesh cling 
+to the walls and ceiling. Score one up for the crew!
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1329
+D1
+~
+hatch~
+2 1515 1333
+S
+#1333
+A Crew Stateroom~
+A corpse lies slumped over a small metal desk against 
+the far wall of thisroom. As you lift the head up to 
+have a better look you notice the singleperfectly round 
+hole through the right temple and out the other side.
+This crewmenber took the easy way out.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1334
+D3
+~
+hatch~
+2 1515 1332
+S
+#1334
+A Small Theater~
+This is a small theater. One entire wall is a huge 
+viewing screen for moviesand entertainment views. 
+Unfortunately the screen has been damaged by splattered 
+alien blood. A translucent alien arm lays on the floor 
+just inchesfrom your feet. Looks like the crew didn't 
+do so badly after all.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1513 1335
+D3
+~
+hatch~
+2 1515 1333
+S
+#1335
+Observation Room~
+The external wall of this room is completely transparent. 
+There are a numberof comfortable chairs here for simply 
+sitting and staring out into space. You could stare at 
+the stars forever, just like the dead crewman to your
+right with the huge gaping hole in his chest!
+~
+13 32776 0
+D0
+~
+hatch~
+2 1515 1331
+D3
+~
+hatch~
+2 1515 1334
+S
+#1336
+Agrodome #1~
+This room is full of lush plant life that has been 
+designed to live in lowgravity environments such 
+as are found on orbiting space platforms. The
+foliage offers great cover. This room is a veritable 
+jungle in space!
+~
+13 32776 0
+D1
+~
+hatch~
+2 1515 1337
+D2
+~
+hatch~
+2 1515 1341
+S
+#1337
+Agrodome #2~
+This room is full of row after row of editable plant 
+life. There are gainttomatoes, two foot long cucumbers, 
+carrots, and other vegetables. They haveno doubt been 
+geneticaly altered to grow in the light gravity of a 
+spacestation.
+~
+13 32905 0
+D1
+The access pannel for this hatch has a red flashing light on it.
+The LCD reads:
+
+'No Pressure'
+~
+hatch~
+2 1515 1338
+D3
+~
+hatch~
+2 1515 1336
+S
+#1338
+Agrodome #3~
+It was a BIG mistake to open that hatch! The hull of 
+the station has beenbreached here! Anything that wasn't 
+nailed down has been sucked out of thisroom... including you! 
+Should have paid more attention to that little light
+on the hatch console now shouldn't you?
+~
+13 102 0
+D1
+Agrodome #4 is that way.
+~
+hatch~
+2 1515 1339
+D3
+Agrodome #2 is that way.
+~
+hatch~
+2 1515 1337
+S
+#1339
+Agrodome #4~
+All the plantlife in this room has been destroyed by energy 
+weapon fire. Someone apparently got spookedand just started 
+opening up at radom here. Either thator they simply went nuts! 
+Maybe both.
+~
+13 32905 0
+D2
+~
+hatch~
+2 1515 1343
+D3
+The hatch to Agrodome #3 is closed. The control pannel onthe door 
+has a red flashing light on it. 
+The LCD reads:
+
+** NO PRESSURE **
+~
+hatch~
+2 1515 1338
+S
+#1340
+Hangar Delta~
+This is another space hangar. The shuttle in this hangar
+has been destroyed by a powerful blast. Parts from four
+or five aliens are lying here on the floor, most of the hangar
+deck had been corroded away and it looks unsafe to walk here.
+~
+13 32776 0
+D1
+~
+airlock~
+2 1516 1341
+S
+#1341
+Preparation Room~
+This is a equipment preparation room for crew memebers
+who will be walking outside the ship or taking a flight
+in one of the shuttles.
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1336
+D1
+~
+hatch~
+2 1515 1342
+D2
+~
+hatch~
+2 1515 1345
+D3
+~
+airlock~
+2 1516 1340
+S
+#1342
+Main Axis Transportation Column~
+You are in the main transportation column. There are more 
+burn marks on the walls here.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1343
+D3
+~
+hatch~
+2 1515 1341
+D4
+~
+green hatch~
+2 1517 1354
+D5
+~
+green hatch~
+2 1517 1330
+S
+#1343
+Predator Remote Command Facility~
+This room has been converted over from its former 
+function to serve as a Predator remote comand and 
+control base. You get the feeling you are being watched!
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1339
+D1
+~
+airlock~
+2 1516 1344
+D2
+~
+hatch~
+2 1515 1348
+D3
+~
+hatch~
+2 1515 1342
+S
+#1344
+Hangar Gamma~
+This hangar is occupied by and extreamly strange looking
+spacecraft. The markings on the hull are not human in origin.
+A large access hatch is open on the alien craft.
+~
+13 32905 0
+D1
+The main hatch of the Predator ship is that way.
+~
+hatch~
+1 1507 1362
+D3
+~
+airlock~
+2 1516 1343
+S
+#1345
+A Storage Room~
+Strange markings have been crudely painted on
+the wall here in what appears to be Predator blood!
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1341
+D1
+~
+hatch~
+2 1515 1346
+S
+#1346
+Room #1346~
+This description is yet unfinished...
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1347
+D3
+~
+hatch~
+2 1515 1345
+S
+#1347
+Cleaning Room~
+Cleaning supplies are stored in this room. Mops, sponges etc.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1348
+D3
+~
+hatch~
+2 1515 1346
+S
+#1348
+The Sickbay~
+This is the hospital for the station. There are 10 beds, one of
+which is totaly soaked in blood. The others are empty. A corpse
+lies on the floor of the bloodstained bed with a gaping hole
+in her chest.
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1343
+D3
+~
+hatch~
+2 1515 1347
+S
+#1349
+Surgery~
+This is the surgery room of the station. Most of the equipment
+has been badly damaged here. Smashed readouts broken glass, a
+major mess.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1350
+D2
+~
+hatch~
+2 1515 1353
+S
+#1350
+A Crew Stateroom~
+This room has been left pretty much intact.
+The bed is still made and there is no sign of anything
+out of the ordinary.
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1351
+D3
+~
+hatch~
+2 1515 1349
+S
+#1351
+Room #1351~
+This description is yet unfinished...
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1352
+D3
+~
+hatch~
+2 1515 1350
+S
+#1352
+Room #1352~
+This description is yet unfinished...
+~
+13 32905 0
+D2
+~
+hatch~
+2 1515 1355
+D3
+~
+hatch~
+2 1515 1351
+S
+#1353
+Room #1353~
+This description is yet unfinished...
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1349
+D1
+~
+~
+0 -1 1354
+D2
+~
+hatch~
+2 1515 1356
+S
+#1354
+Main Axis Transportation Column~
+You are in the main transportation tube.
+~
+13 32905 0
+D1
+~
+~
+0 -1 1355
+D3
+~
+~
+0 -1 1353
+D4
+~
+red hatch~
+2 1514 1360
+D5
+~
+green hatch~
+2 1517 1342
+S
+#1355
+Room #1355~
+This description is yet unfinished...
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1352
+D2
+~
+hatch~
+2 1515 1359
+D3
+~
+~
+0 -1 1354
+S
+#1356
+Room #1356~
+This description is yet unfinished...
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1353
+D1
+~
+hatch~
+2 1515 1357
+S
+#1357
+Room #1357~
+This description is yet unfinished...
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1358
+D3
+~
+hatch~
+2 1515 1356
+S
+#1358
+Room #1358~
+This description is yet unfinished...
+~
+13 32905 0
+D1
+~
+hatch~
+2 1515 1359
+D3
+~
+hatch~
+2 1515 1357
+S
+#1359
+Room #1359~
+This description is yet unfinished...
+~
+13 32905 0
+D0
+~
+hatch~
+2 1515 1355
+D3
+~
+hatch~
+2 1515 1358
+S
+#1360
+Reactor Room~
+The main reactors that power the station are here.
+There is a pannel on the main reactor that looks as if
+a code has been partially entred. Suddenly you are 
+surprized by Captain Marshal! The man is obviously insane
+and screams "I must destroy the station!" as he aims his
+weapon at your head!
+~
+13 32905 0
+D5
+~
+red hatch~
+2 1514 1354
+S
+#1361
+Space Shuttle Galeleo~
+You have entered the strange looking craft and you search it for signs of life.
+There are none. What you do find is a button marked 'Return'.  
+~
+13 32909 0
+D1
+~
+~
+0 0 4579
+D4
+Pressing the 'Return' button launches the ship.
+~
+~
+0 -1 1316
+S
+#1362
+The Bridge of the Predator Craft~
+You stand on the mist shrouded bridge of the Predator
+aliean spacecraft. Strange glowing controls hypnotically
+flash and change color. Occasionally a strange spiting-hissing
+sound comes over what must be an intercom speaker.
+~
+13 32776 0
+D1
+A misty trophy room.~
+hatch~
+1 1505 1363
+D3
+Ship's hatch to hangar Gamma.
+~
+hatch~
+1 1505 1344
+S
+#1363
+Trophy Room~
+You have entered the main hold and trophy room of the 
+Predator ship.There are skulls of all sorts on trophy 
+stands along the walls.These monsters have killed a lot 
+of men, and other things in their travels!
+~
+13 32936 0
+D0
+There is a room to the north.~
+~
+0 0 -1
+D1
+The Predator's Engine room.~
+~
+0 0 1366
+D2
+There is a room to the south.~
+~
+0 0 -1
+D3
+The main bridge of the craft.~
+~
+0 0 1362
+S
+#1366
+Predator Engine Room~
+Somehow you have managed to get all the way to the main engine 
+room ofthe Peredator's ship! Too bad the technology here is so 
+alien you can find nothing of use. Strange machinery hums and glows.  
+The same thick mist that covers most of the ship is on the 
+floor here too.
+~
+13 233 0
+D3
+West is the main hold of the Predator ship.~
+~
+0 0 1363
+S
+$~

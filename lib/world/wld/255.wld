@@ -1,0 +1,1133 @@
+#25500
+Entrance to Fighter Training: Weakling to God~
+It looks like you have just entered onto a class N planet.
+It looks much like the planet Mars does; iron ladened landscape,
+mountains, rocks, and in the distance you can see what seems to be
+constructed acrhways, steps, and other thing nature just can't
+duplicate.  A sign is full of information that you will have
+to have to almost survive here.
+~
+255 262148 2
+D0
+~
+~
+0 0 25503
+D2
+Holo-exit
+~
+wheel~
+1 0 10314
+E
+sign~
+Things you must know to survive here.
+Creatures are announced in the next rooms title.
+If you enter a regen room, be assured that a very large enemy is in the next room.
+Some enemies are not to be attacked alone!  
+A few enemies move, but only a few.
+No gold nor equipment is in here, just exp.
+If the enemy you wish to attack sounds tough, it likely is.
+~
+S
+#25501
+Ferengi~
+There is a Ferengi here.
+It is a low level opponent (38)
+~
+255 520 0
+D0
+~
+~
+0 0 25509
+D1
+~
+~
+0 0 25502
+S
+#25502
+Andorians~
+An Andorian is here to challenge you.
+It is a low level opponent (35).
+~
+255 8 0
+D1
+~
+~
+0 0 25503
+D3
+~
+~
+0 0 25501
+S
+#25503
+Tribble~
+Before you is a lone tribble.
+It is a low level opponent. (30)
+~
+255 0 0
+D1
+~
+~
+0 0 25504
+D2
+~
+~
+0 0 25500
+D3
+~
+~
+0 0 25502
+S
+#25504
+Bynars~
+There are two Bynars here speaking in binary.
+They are low level (30)
+~
+255 520 0
+D1
+~
+~
+0 0 25505
+D3
+~
+~
+0 0 25503
+S
+#25505
+An Intersection~
+The path splits here.  
+There are challengers in all directions.
+The Douwd is a tougher opponent than the others.
+~
+255 8 0
+D0
+~
+~
+0 0 25513
+D1
+~
+~
+0 0 25506
+D2
+~
+~
+0 0 25507
+D3
+~
+~
+0 0 25504
+S
+#25506
+DOUWD~
+An Unfinished Room
+~
+255 0 0
+D3
+~
+~
+0 0 25505
+S
+#25507
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25505
+S
+#25508
+Romulan~
+A fierce Romulan smells your blood
+It is a medium level opponent (45)
+~
+255 520 0
+D1
+~
+~
+0 0 25509
+S
+#25509
+A Tunnel~
+You are in a tunnel that leads to larger opponents.
+The exit is to the southeast.
+~
+255 8 0
+D1
+~
+~
+0 0 25510
+D2
+~
+~
+0 0 25501
+D3
+~
+~
+0 0 25508
+S
+#25510
+An Intersection~
+You are at a crossroads, of sorts.  To the north are higher
+level creatures, and to the east is a Horta.
+~
+255 12 0
+D0
+~
+~
+0 0 25515
+D1
+~
+~
+0 0 25511
+D3
+~
+~
+0 0 25509
+S
+#25511
+Horta~
+A Horta is your next challenge.
+Hortas are medium level mobs (45)
+~
+255 520 0
+D3
+~
+~
+0 0 25510
+S
+#25512
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25516
+D1
+~
+~
+0 0 25513
+S
+#25513
+Bajoran~
+An Unfinished Room
+~
+255 0 0
+D2
+~
+~
+0 0 25505
+D3
+~
+~
+0 0 25512
+S
+#25514
+Breen~
+This is a Breen.  It is here to taste your guts. Hmmm, sausage!
+It is a high level opponent. (80)
+~
+255 520 0
+D1
+~
+~
+0 0 25515
+S
+#25515
+A Tunnel~
+This tunnel moves you north.
+There is a small branch that goes
+west of here.
+~
+255 8 0
+D0
+~
+~
+0 0 25518
+D2
+~
+~
+0 0 25510
+D3
+~
+~
+0 0 25514
+S
+#25516
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25520
+D1
+~
+~
+0 0 25517
+D2
+~
+~
+0 0 25512
+S
+#25517
+Gorn~
+An Unfinished Room
+~
+255 0 0
+D3
+~
+~
+0 0 25516
+S
+#25518
+Tholian~
+Here you discover a Tholian.
+It is a medium level opponent (55).
+~
+255 520 0
+D1
+~
+~
+0 0 25519
+D2
+~
+~
+0 0 25515
+S
+#25519
+Tellarite~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25522
+D1
+~
+~
+0 0 25520
+D3
+~
+~
+0 0 25518
+S
+#25520
+Excalibans~
+An Unfinished Room
+~
+255 0 0
+D2
+~
+~
+0 0 25516
+D3
+~
+~
+0 0 25519
+S
+#25521
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25530
+D1
+~
+~
+0 0 25522
+S
+#25522
+Kahless~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25523
+D2
+~
+~
+0 0 25519
+D3
+~
+~
+0 0 25521
+S
+#25523
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25524
+D3
+~
+~
+0 0 25522
+S
+#25524
+Vulcan~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25533
+D3
+~
+~
+0 0 25523
+S
+#25525
+The Borg~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25527
+D1
+~
+~
+0 0 25526
+S
+#25526
+Khan~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25528
+D3
+~
+~
+0 0 25525
+S
+#25527
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25534
+D1
+~
+~
+0 0 25528
+D2
+~
+~
+0 0 25525
+S
+#25528
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25535
+D1
+~
+~
+0 0 25529
+D2
+~
+~
+0 0 25526
+D3
+~
+~
+0 0 25527
+S
+#25529
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25536
+D1
+~
+~
+0 0 25530
+D3
+~
+~
+0 0 25528
+S
+#25530
+Klingon~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25531
+D2
+~
+~
+0 0 25521
+D3
+~
+~
+0 0 25529
+S
+#25531
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25537
+D1
+~
+~
+0 0 25532
+D3
+~
+~
+0 0 25530
+S
+#25532
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25533
+D3
+~
+~
+0 0 25531
+S
+#25533
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25539
+D2
+~
+~
+0 0 25524
+D3
+~
+~
+0 0 25532
+D4
+~
+~
+0 0 25540
+S
+#25534
+Lore~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25535
+D2
+~
+~
+0 0 25527
+S
+#25535
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D2
+~
+~
+0 0 25528
+D3
+~
+~
+0 0 25534
+S
+#25536
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25553
+D2
+~
+~
+0 0 25529
+S
+#25537
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25555
+D1
+~
+~
+0 0 25538
+D2
+~
+~
+0 0 25531
+S
+#25538
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25539
+D3
+~
+~
+0 0 25537
+S
+#25539
+Cardassian~
+An Unfinished Room
+~
+255 0 0
+D2
+~
+~
+0 0 25533
+D3
+~
+~
+0 0 25538
+S
+#25540
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25541
+D5
+~
+~
+0 0 25533
+S
+#25541
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25542
+D3
+~
+~
+0 0 25540
+S
+#25542
+Aries: Greek God of War~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25544
+D2
+~
+~
+0 0 25541
+S
+#25543
+Regen Room~
+An Unfinished Room
+~
+255 262144 0
+D1
+~
+~
+0 0 25550
+D2
+~
+~
+0 0 25544
+S
+#25544
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25543
+D2
+~
+~
+0 0 25545
+D3
+~
+~
+0 0 25542
+S
+#25545
+Regen Room~
+An Unfinished Room
+~
+255 262144 4
+D0
+~
+~
+0 0 25544
+D2
+~
+~
+0 0 25546
+S
+#25546
+Q~
+An Unfinished Room
+~
+255 0 4
+D0
+~
+~
+0 0 25545
+D1
+~
+~
+0 0 25547
+S
+#25547
+undefined~
+An Unfinished Room
+~
+255 0 4
+D0
+~
+~
+0 0 25548
+D3
+~
+~
+0 0 25546
+S
+#25548
+Regen Room~
+An Unfinished Room
+~
+255 262144 4
+D1
+~
+~
+0 0 25549
+D2
+~
+~
+0 0 25547
+S
+#25549
+0 (zero)~
+An Unfinished Room
+~
+255 0 0
+D3
+~
+~
+0 0 25548
+S
+#25550
+The Calamarain~
+An Unfinished Room
+~
+255 0 0
+D3
+~
+~
+0 0 25543
+S
+#25551
+Regen Room~
+An Unfinished Room
+~
+255 262144 0
+D0
+~
+~
+0 0 25552
+D1
+~
+~
+0 0 25553
+S
+#25552
+Neo: destroyer of Matrix security Protocol 1~
+An Unfinished Room
+~
+255 0 0
+D2
+~
+~
+0 0 25551
+S
+#25553
+Kazon~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25554
+D2
+~
+~
+0 0 25536
+D3
+~
+~
+0 0 25551
+S
+#25554
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25556
+D1
+~
+~
+0 0 25555
+D3
+~
+~
+0 0 25553
+S
+#25555
+Changling~
+An Unfinished Room
+~
+255 0 0
+D2
+~
+~
+0 0 25537
+D3
+~
+~
+0 0 25554
+S
+#25556
+Dinosaur Valley~
+An Unfinished Room
+~
+255 4 4
+D0
+~
+~
+0 0 25560
+D1
+~
+~
+0 0 25558
+D2
+~
+~
+0 0 25554
+D3
+~
+~
+0 0 25557
+S
+#25557
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25559
+D1
+~
+~
+0 0 25556
+S
+#25558
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25561
+D3
+~
+~
+0 0 25556
+S
+#25559
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25562
+D1
+~
+~
+0 0 25560
+D2
+~
+~
+0 0 25557
+S
+#25560
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25563
+D1
+~
+~
+0 0 25561
+D2
+~
+~
+0 0 25556
+D3
+~
+~
+0 0 25559
+S
+#25561
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25564
+D2
+~
+~
+0 0 25558
+D3
+~
+~
+0 0 25560
+S
+#25562
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25567
+D1
+~
+~
+0 0 25563
+D2
+~
+~
+0 0 25559
+S
+#25563
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25566
+D1
+~
+~
+0 0 25564
+D2
+~
+~
+0 0 25560
+D3
+~
+~
+0 0 25562
+S
+#25564
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25565
+D2
+~
+~
+0 0 25561
+D3
+~
+~
+0 0 25563
+S
+#25565
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25570
+D2
+~
+~
+0 0 25564
+D3
+~
+~
+0 0 25566
+S
+#25566
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25569
+D1
+~
+~
+0 0 25565
+D2
+~
+~
+0 0 25563
+D3
+~
+~
+0 0 25567
+S
+#25567
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D0
+~
+~
+0 0 25568
+D1
+~
+~
+0 0 25566
+D2
+~
+~
+0 0 25562
+S
+#25568
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25569
+D2
+~
+~
+0 0 25567
+S
+#25569
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D1
+~
+~
+0 0 25570
+D2
+~
+~
+0 0 25566
+D3
+~
+~
+0 0 25568
+S
+#25570
+An Unfinished room~
+An Unfinished Room
+~
+255 0 0
+D2
+~
+~
+0 0 25565
+D3
+~
+~
+0 0 25569
+S
+$~

@@ -1,0 +1,1834 @@
+#4500
+The End of City Road~
+   You have come to the end of the main road which cuts through the center of
+the City of Minos, Up ahead you can see the Minos housing estate.    
+~
+45 32768 1
+D0
+~
+~
+0 0 1600
+D2
+~
+~
+0 -1 4502
+S
+#4501
+The Cryogenists~
+You are standing in an impossible white sterile room with cylindrical
+body-length canisters lined up against the walls.  The entrance to the 
+hotel is south.
+~
+45 32924 0
+D2
+~
+~
+0 -1 4503
+S
+#4502
+City Road~
+   You stand on city road which runs through the center of Minos. People
+busily push past you, not looking where they are going. To the west a road
+leads off to a large building with a big car park in front of it.  
+~
+45 32768 1
+D0
+~
+~
+0 0 4500
+D1
+~
+~
+0 0 4503
+D2
+~
+~
+0 -1 4505
+D3
+~
+~
+0 0 1100
+S
+#4503
+The Grand Minos Hotel~
+You are standing in the entrance hall of the Minos Hotel.  The hall has been
+wiseley decorated with simple, functional furniture.  To the east lies the
+hotel reception where you can book a room and to the North lies the 
+Cyrogenists.  
+~
+45 32904 0
+D0
+~
+~
+0 -1 4501
+D1
+~
+~
+0 -1 4504
+D3
+~
+~
+0 -1 4502
+D4
+~
+~
+0 0 4568
+S
+#4504
+The Reception.~
+You are standing in the hotel reception here you can book a room for
+a short while. If you think you may have to stay for a long time its
+best if you go and check out the services of the Cryogenic Center to
+the north of the hotel entrance. There is a small sign on the counter.
+
+~
+45 295068 1
+D3
+~
+~
+0 -1 4503
+E
+sign~
+Rooms are expensive but good!  You may:
+
+   Offer - get an offer on a room - Time is in real life days.
+   Rent  - Rent a room (saves your stuff, and quits the game),
+           minimum charge is one day.
+
+
+                          MY WAY OR THE HIGHWAY
+                             PAY YOUR RENT!
+                WE WON'T THINK TWICE BEFORE KICKING YOU OUT.
+~
+S
+#4505
+City Road~
+   You stand on city road which runs through the center of Minos.  People
+busily push past you, not looking where they are going.    
+~
+45 32768 1
+D0
+~
+~
+0 -1 4502
+D1
+~
+~
+0 -1 4507
+D2
+~
+~
+0 -1 4511
+D3
+~
+~
+0 0 4506
+S
+#4506
+The Armory~
+   You stand in the Minos armory, one of the most popular shops in town.  
+There are several displays set up, showing off the latest in practical and
+fashionable armors.  There are helmets on the rack on the right, shields
+mounted on the left wall, and full body armours up on the stands.  To your east
+is the City Road.  On the wall is a small note.    
+~
+45 295048 0
+D1
+~
+~
+0 -1 4505
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#4507
+The Post Office~
+   You are in the central post office for Minos.  Piles of assorted mail
+lay untouched in the corners, collecting cobwebs.  Several large crates have
+been pried open by curious customs agents, and are now stacked along the west
+wall, hiding plenty of 'WANTED' posters.
+There is a sign posted on the wall here.
+~
+45 32904 0
+D3
+~
+~
+0 -1 4505
+E
+WANTED posters poster wall~
+Faces of various known Killers and Thieves can barely be seen behind the
+crates on the west wall.  Some of them look quite familar, sorta like that
+guy who you saw in the Reception a minute ago... but then again, they are
+rather hard to see past the crates.
+~
+E
+crates opened large~
+As you know, it is illegal to send contraband items through the Midgaard
+Mail.  The customs agents use this as a great excuse to seize liquor,
+rare spices, and just about anything they might find useful or profitable.
+~
+E
+cobwebs~
+They seem to cover everything here, even the Postmaster himself.
+~
+E
+letters envelopes assorted~
+Envelopes of all sizes are heaped into hugh piles around the room.  As you
+look closer, you see a letter that you had posted a full week ago, laying
+unnoticed and slightly rat-chewed towards the bottom of the pile.
+~
+E
+sign~
+**********************************************************
+*     							 *
+*    Mail Instructions:                                  *
+*							 *
+*      To send a note to someone:                        *
+*         MAIL <playername>				 *
+*     							 *
+*      To see if you have any mail:                      *
+*         CHECK						 *
+*							 *
+*      To get the Postmaster to give you your mail:      *
+*         RECEIVE					 *
+*							 *
+*         Stamps cost 150 coins per letter               *
+*         Type 'HELP MAIL' for more info                 *
+**********************************************************
+~
+S
+#4508
+The Witchunters Training Room~
+You Stand in the Training room of the witchunters.  Various devices made for
+the purpose of hunting down evil people are strewn around the room making it
+look quite frightening.    
+
+~
+45 32776 0
+D2
+~
+~
+0 -1 4515
+S
+#4509
+The Minos Weapons Market~
+   You are inside the weapon shop.  There is a small note on the counter.
+~
+45 32904 0
+D2
+~
+~
+0 -1 4519
+E
+note~
+Welcome to the weapon shop. Valid commands are:
+
+   list
+   buy <item>
+   sell <item>
+
+~
+S
+#4510
+The Minos Doctors Surgery~
+   You are standing in a small and dingy room.  Some kind of wacky doctor is
+walking about healing people.  He is chanting some strange incantations, and
+you realize why he needs no instruments to heal his patients.    
+
+There is a small note pinned on the wall for you to read.
+
+~
+45 294940 0
+D1
+~
+~
+0 -1 4511
+E
+note sign poster~
+The Minos Doctors Surgery.
+-----------------------
+
+For a list of the Doctors services Type LIST.
+
+Type Heal <Spell> to cast that spell upon you.
+
+~
+S
+#4511
+City Road~
+The city road runs in either direction from here, and the glowing sign in
+the shop window nearby tells you that the town's healer is nearby. The traffic
+here isn't any lighter, and many people continue to push you about without a
+care.
+~
+45 32768 1
+D0
+~
+~
+0 -1 4505
+D2
+~
+~
+0 -1 4521
+D3
+~
+~
+0 -1 4510
+S
+#4512
+The National Bank of Minos~
+You stand in the entrance to the Minos National Bank. Here you can
+deposit all your gold where it will be safe from harm.
+~
+45 32904 0
+D2
+~
+~
+0 -1 4522
+S
+#4513
+The Minos Library~
+This is the minos library where the players write down all their
+best stories and make comments about how they would like the game
+to progress. Why don't you write something!
+~
+45 32908 0
+D0
+~
+~
+0 0 4584
+D1
+~
+~
+0 0 4585
+D2
+~
+~
+0 -1 4523
+D3
+~
+~
+0 0 4587
+D4
+~
+~
+0 0 4588
+D5
+~
+~
+0 0 4592
+S
+#4514
+The Entrance to the Witchunters Guild~
+This is the Entrance to the Guild of Witchunters, one of the wierdest classes
+in the whole of Minos.  Various posters are pinned to the walls showing
+potential targets for the witchunters to hunt!    
+
+
+~
+45 32776 0
+D1
+~
+~
+0 -1 4515
+D2
+~
+~
+0 -1 4525
+S
+#4515
+The Witchunters Bar~
+This is the bar of the witchunters. All around you are instruments of
+torture and punishment. The Walls are painted a dark colour and all
+the people in here look very dodgy.
+~
+45 32780 0
+D0
+~
+~
+0 -1 4508
+D3
+~
+~
+0 -1 4514
+S
+#4516
+The West Gate of Minos~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Market Road leads
+east.
+~
+45 32768 1
+D1
+~
+~
+0 -1 4517
+D3
+~
+~
+0 0 6092
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+S
+#4517
+Market Road~
+You are at the west end of Market Street.  To your west is the city
+gate, or at least one of them.  The city of Minos expands out to you
+east, and nearby you see the Minos Bread Stall.
+~
+45 32768 1
+D1
+~
+~
+0 -1 4518
+D2
+~
+~
+0 -1 4527
+D3
+~
+~
+0 -1 4516
+S
+#4518
+Market Road~
+You are travelling the west end of Market Road.  In this section of 
+of the city, you can find all the foodstuffs necessary to survive 
+on your own for several days.  Nearby is the Minos Watershop, and to
+your west you can see the Minos Bread Stall.
+~
+45 32768 1
+D0
+~
+~
+0 0 2200
+D1
+~
+~
+0 -1 4519
+D2
+~
+~
+0 -1 4528
+D3
+~
+~
+0 -1 4517
+S
+#4519
+Market Road~
+You are exploring the west end of Market Street.  Here the traveller can
+find the everyday necessities of wandering the wildernesses of Minos.
+The lane extends west to the city gate, and you see shops lining the way
+all the way to the end.
+~
+45 32768 1
+D0
+~
+~
+0 -1 4509
+D1
+~
+~
+0 -1 4520
+D3
+~
+~
+0 -1 4518
+S
+#4520
+Market Road~
+You are walking along the west part of Market Road. You can see the
+fountain back towards the east, and you can see the people of Minos
+hurrying about all around you.
+~
+45 32768 1
+D0
+~
+~
+0 0 4589
+D1
+~
+~
+0 -1 4521
+D2
+~
+~
+0 0 4591
+D3
+~
+~
+0 -1 4519
+S
+#4521
+The Great Square~
+   This is the Great Square of Minos.  Here the City Road crosses with the
+Market Street.  You can tell that a great expense has been made to establish
+this display of wonder.  There is a great fountain which flows from the eternal
+spring provided by the Gods to the citizens of Minos.  Some of the townswomen
+are filling their buckets with the clear, sparkling water, and several of the
+children are playing in the baths that are filled by the fountain.
+~
+45 32768 1
+D0
+~
+~
+0 -1 4511
+D1
+~
+~
+0 -1 4522
+D2
+~
+~
+0 -1 4529
+D3
+~
+~
+0 -1 4520
+D5
+A grate leads in to the Minos Sewer System
+~
+Grate~
+1 0 7030
+S
+#4522
+Market Road~
+You are standing in the centre of Market Road. There are suprisingly
+few people here, and it is refreshingly free of the hustle and bustle
+of City Road. A large sign in a window on the north side of the street
+reads "Loans and Overdrafts - you must be joking!!"
+~
+45 32768 1
+D0
+~
+~
+0 -1 4512
+D1
+~
+~
+0 -1 4523
+D2
+~
+~
+0 0 4530
+D3
+~
+~
+0 -1 4521
+S
+#4523
+Market Road~
+You are on Market Road, the main shopping street of Minos. The street
+is very wide, and paved with logs. There are some men standing around
+in a corner, talking about days when they were young, and every now
+and then you see a busker, playing for money.
+There is a large sign here, directions for those poor lost tourists.
+Not like you of course.
+~
+45 32768 1
+D0
+~
+~
+0 -1 4513
+D1
+~
+~
+0 -1 4524
+D2
+~
+~
+0 -1 4531
+D3
+~
+~
+0 -1 4522
+E
+signpost sign~
+                             City Library
+                                   ^
+                                   |
+Central Square via Market Street --+-- West Gate via Market Street
+                                   |
+                           Bargain Basement
+~
+S
+#4524
+Market Road~
+You are walking along Market Road. There are more people about here
+and the citizens of Minos are conducting their daily business. As you
+glance around, you happen to notice a thick spiral of orange smoke,
+rising up through the air from one of the buildings to the south.
+
+~
+45 32768 1
+D1
+~
+~
+0 -1 4525
+D2
+~
+~
+0 -1 4532
+D3
+~
+~
+0 -1 4523
+S
+#4525
+Market Road~
+This is Market Road, and true to the name, there are many shops, and 
+stalls, some in the middle of the road! There is a large building to
+the north, with a small plaque attached to the wall beside the door.
+~
+45 32768 1
+D0
+~
+~
+0 -1 4514
+D1
+~
+~
+0 -1 4526
+D3
+~
+~
+0 -1 4524
+E
+plaque~
+"Witchhunters guild. Knock and enter."
+~
+S
+#4526
+The East Gate of Minos~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Market Road leads
+west from here.
+~
+45 32768 1
+D1
+~
+~
+0 0 3502
+D3
+~
+~
+0 -1 4525
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+S
+#4527
+The Minos Bread Stall.~
+   You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine order
+on the shelves, and seem to be of the finest quality.
+A small sign is on the counter.
+~
+45 32904 0
+D0
+~
+~
+0 -1 4517
+E
+sign~
+Free instructions provided by the store:
+
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+          his bakery.
+~
+E
+danish pastry~
+You see that this is truly delicious pastry.  Must be made by a Dane from
+Denmark (which surely is not the capital of Sweden!).  Former ruler of
+Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
+Iceland, Estonia etc.  etc.
+   The sight of those large, wholesome chokoladeboller makes your mouth water
+and your soul sing.
+~
+S
+#4528
+The Minos Watershop~
+   You are standing in the center of a small wooden shop whose walls are
+covered with racks upon racks of water jugs.  Several large barrels with
+spigots are stacked in the corner.
+~
+45 32904 0
+D0
+~
+~
+0 -1 4518
+S
+#4529
+City Road~
+   The City Square stretches out south from here, and you can see the
+guildhouses of several clans established therein.  You can also see the Great
+Spring of Minos just north of here, spraying gracefully into the air.    
+~
+45 32768 1
+D0
+~
+~
+0 -1 4521
+D1
+~
+~
+0 -1 4571
+D2
+~
+~
+0 -1 4536
+S
+#4530
+The Language Center~
+   You stand in a busy room, there are various desks and various chairs
+scattered around the place, people sit at them with reading books and scrolls
+on the various languages here in the realm of Minos. You notice a small sign
+just by the doorway.  
+~
+45 32924 0
+D0
+~
+~
+0 0 4522
+E
+note sign~
+How to learn a new language.
+---------------------------
+
+Type practice <language>
+
+This takes TWO practices up rather than the usual one.
+
+~
+S
+#4531
+The Great Minos Bargain basement~
+   You are inside the general store.  All sorts of items are stacked on shelves
+behind the counter, safely out of your reach.
+A small note hangs on the wall.
+~
+45 32904 0
+D0
+~
+~
+0 -1 4523
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#4532
+The Minos Magic Shop~
+   Behind the counter you see various items, neatly placed in racks,
+presumably most of them are magic.
+~
+45 32904 0
+D0
+~
+~
+0 -1 4524
+S
+#4533
+The Druids Practice Room~
+This is where the young druids go to worship their guildmaster, and to
+learn the ways of their kind. The Room is dark and filled with
+various plants and herbs of a kind you have never seen before.
+~
+45 32780 0
+D1
+~
+~
+0 -1 4534
+S
+#4534
+The Druids Rest Room.~
+Unlike the other Guilds the druids don't seem to have a bar here!
+Maybe its because they don't drink, well not officialy anyhow, you
+do get loads of them down the pub off the temple square!
+
+~
+45 32908 0
+D2
+~
+~
+0 -1 4541
+D3
+~
+~
+0 -1 4533
+S
+#4535
+Central Square~
+You stand in the north-west corner of Central Square.  Rows of shops extend
+south from this end of the square.  The Druid Guild lies just south
+of here.
+~
+45 32768 1
+D0
+~
+~
+0 0 4578
+D1
+~
+~
+0 -1 4536
+D2
+~
+~
+0 -1 4542
+S
+#4536
+Central Square~
+   You are standing at the north end of Central Square.  The east and west
+sides of the square house assorted shops.  Just south of this point you see the
+main fountain of Minos.    
+~
+45 32768 1
+D0
+~
+~
+0 -1 4529
+D1
+~
+~
+0 -1 4537
+D2
+~
+~
+0 -1 4543
+D3
+~
+~
+0 -1 4535
+S
+#4537
+Central Square~
+You are standing at the north-east corner of the Central Square of Minos.
+It is apparent to you that this corner of the square is not often visited
+as most of the torches that hang from the walls here have long since
+burned out and gone cold.  Even the feel of the cobblestones on the
+ground here tells you that very few feet have tread upon them.
+~
+45 32768 1
+D2
+~
+~
+0 -1 4544
+D3
+~
+~
+0 -1 4536
+S
+#4538
+The Avatars Bar~
+This is where the Avatars Stop and have a rest. The Room is filled
+with pictures and paintings of a some what wierd nature. How strange
+this room is!
+
+~
+45 32780 0
+D2
+~
+~
+0 -1 4545
+D4
+~
+~
+0 -1 4539
+S
+#4539
+The Mystical Training Room.~
+   This is where the avatars come to do all their training, the room seems very
+strange as if it has the wrong dimensions or something. Hmmmm maybe one day
+you'll figure out why.  
+~
+45 32784 1
+D5
+~
+~
+0 -1 4538
+S
+#4540
+The Mages' Laboratory~
+This is the Magical Experiments Laboratory.  Dark smoke-stained stones arch
+over numerous huge oaken tables, most of these cluttered with strange- looking
+pipes and flasks.  The floor is covered with half-erased pentagrams and even
+weirder symbols, and a blackboard in a dark corner has only been partially
+cleaned, some painful-looking letters faintly visible.  A well in the middle of
+the floor leads down into darkness.  Vile smells waft from the depths.    
+~
+45 32768 1
+D2
+~
+~
+0 -1 4546
+S
+#4541
+The Entrance to the Druids Guild~
+You stand in the entrance to the Druids Guild. Various pictures and
+paintings line the walls showing various druid rituals and sacrafices.
+A Large Druid Guard Watches you carefully to make sure you don't
+try and get in.
+
+~
+45 32904 0
+D0
+~
+~
+0 -1 4534
+D1
+~
+~
+0 -1 4542
+S
+#4542
+Central Square~
+You are standing at the west end of the Central Square.  To the east you can
+see a quaint little fountain.  The distinct markings of the building
+to your west tells you that you are standing before the guild of
+the Druids of Minos.  Even here, you can feel the power of the priests
+and you feel safe.
+~
+45 32768 1
+D0
+~
+~
+0 -1 4535
+D1
+~
+~
+0 -1 4543
+D2
+~
+~
+0 -1 4548
+D3
+~
+~
+0 -1 4541
+S
+#4543
+Central Square~
+   You are standing in the very middle of the Central Square.  To your west you
+see the Guilds of the Druids and the Mages.  East of here is the entrance to
+the Avatar's Guild.  Due north of here you can see the travellers of the Market
+road, and to the south you see the entrance to the Temple of Minos
+~
+45 32768 1
+D0
+~
+~
+0 -1 4536
+D1
+~
+~
+0 -1 4544
+D2
+~
+~
+0 -1 4549
+D3
+~
+~
+0 -1 4542
+D5
+~
+~
+0 0 400
+S
+#4544
+Central Square~
+You are standing at the east end of the Central Square.  Just east of here is
+the entrance to the mystical Avatar's Guild.
+~
+45 32768 1
+D0
+~
+~
+0 -1 4537
+D1
+~
+~
+0 -1 4545
+D2
+~
+~
+0 -1 4550
+D3
+~
+~
+0 -1 4543
+S
+#4545
+The Entrance to the Avatars guild~
+You stand in the entrance to the guild of avatars. This room is quite
+strange, why? You just can't seem to put your finger on it. Oh well
+perhaps the rest of this place is like that!
+
+~
+45 32920 0
+D0
+~
+~
+0 -1 4538
+D3
+~
+~
+0 -1 4544
+S
+#4546
+The Mages Bar~
+The bar is one of the weirdest in the land. Mystical images float around
+the air.  Illusions of fine furniture appear all around the room.
+~
+45 32780 0
+D0
+~
+~
+0 -1 4540
+D1
+~
+~
+0 -1 4547
+S
+#4547
+The Entrance to the Mages Guild~
+the enterance hall to this guild is very musty and poorly lit and many cobwebs hang from the corners of the room.
+~
+45 32904 0
+D1
+~
+~
+0 -1 4548
+D3
+~
+~
+0 -1 4546
+S
+#4548
+Central Square~
+You find yourself standing in the south-west corner of Minos' Central
+Square.  For some reason, this end of the square seems darker, and
+feels a bit colder than any other.  From the Mages Guild to the west,
+you can sense the dark energy, and think it may be best to leave.
+~
+45 32768 1
+D0
+~
+~
+0 -1 4542
+D1
+~
+~
+0 -1 4549
+D3
+~
+~
+0 -1 4547
+S
+#4549
+Central Square~
+   This is the south end of the Central Square.  There is a simple little
+fountain flowing softly to your north.  A few of the guilds of Minos are set up
+on either side of the square here.  Most importantly, the entrance to the
+Temple of Minos is just south of here.    
+~
+45 32768 1
+D0
+~
+~
+0 -1 4543
+D1
+~
+~
+0 -1 4550
+D2
+~
+~
+0 -1 4556
+D3
+~
+~
+0 -1 4548
+S
+#4550
+Central Square~
+You stand in the south-east corner of the Central Square.
+The buildings in this corner show little sign of use, as you notice
+some of the posters and signs put up here speak of sales, and special
+notices that have past some years ago.  Here, you can see the entrance
+to the Avatar's Guild lies just north of here.
+~
+45 32768 1
+D0
+~
+~
+0 -1 4544
+D3
+~
+~
+0 -1 4549
+S
+#4551
+The Entrance Hall To The Guild Of Thieves~
+The entrance hall to the thieves' and assassins' guild.  A place where you
+can lose both your life and your money, if you are not careful.  To the north
+is the dark alley and to the east is the thieves' bar.
+~
+45 32904 0
+D1
+~
+~
+0 -1 4552
+D2
+~
+~
+0 -1 4558
+S
+#4552
+The Thieves' Bar~
+   The bar of the thieves.  Once upon a time this place was beautifully
+furnished, but now it seems almost empty.  To the south is the yard, and to the
+west is the entrance hall.  (Maybe the furniture has been stolen?!  )
+
+~
+45 252 0
+D2
+~
+~
+0 -1 4560
+D3
+~
+~
+0 -1 4551
+S
+#4553
+A Side Alley~
+   The side alley reaches its west end at this point, and makes a turn down to
+the docks, where the boat yard can be found.  The alley extends east from this
+point, back into the main of Minos.    
+~
+45 32768 1
+D1
+~
+~
+0 -1 4554
+D2
+~
+~
+0 0 4582
+S
+#4554
+A Side Alley~
+   You find that you are nearing the end of the alley just to the west of this
+point, but that the docks extend south from there.  The warmth of the Clerics'
+guildhouse is very inviting, and the even the smell of the magical elixers
+being brewed there invigorate you.    
+~
+45 32768 1
+D0
+~
+~
+0 0 2101
+D1
+~
+~
+0 -1 4555
+D2
+~
+~
+0 -1 4562
+D3
+~
+~
+0 -1 4553
+S
+#4555
+A Side Alley~
+   The smell of oiled plate-mail and freshly changed stables tell you that you
+are very near to the guildhouse of the Warrior clan of Minos.  From here you
+catch the distinct smell of the wharves, which lie to the west of here.    
+~
+45 32768 1
+D1
+~
+~
+0 -1 4556
+D2
+~
+~
+0 -1 4563
+D3
+~
+~
+0 -1 4554
+S
+#4556
+Below the Grand Temple of Minos~
+   You are standing just below the grand Temple of Minos.  There are some large
+granite steps leading up to the Temple itself, and the magnificent marble
+pillars tower high above you.    
+~
+45 32768 1
+D0
+~
+~
+0 -1 4549
+D1
+~
+~
+0 -1 4557
+D2
+~
+~
+0 0 403
+D3
+~
+~
+0 -1 4555
+D4
+~
+~
+0 0 4579
+D5
+~
+~
+0 0 425
+S
+#4557
+A Side Alley~
+This dark side alley does little for the self confidence of those who
+dare to travel it, and quicken your step as you draw your cloak close
+about you.
+You can see that the alley lightens to the west, as the path opens to
+the guilds of the Warriors and the Clerics of Minos, as well as the
+entrance to the Temple of Minos.
+~
+45 32768 1
+D1
+~
+~
+0 -1 4558
+D3
+~
+~
+0 -1 4556
+S
+#4558
+A Side Alley~
+You are travelling the eastern path of the side alley.
+Just north of here is the Thieves' Guild, a place of haven for all
+of the seedy crowd of Minos.  West of this point is lies the entrance
+to the Temple of Minos.
+~
+45 32768 1
+D0
+~
+~
+0 -1 4551
+D1
+~
+~
+0 -1 4559
+D3
+~
+~
+0 -1 4557
+S
+#4559
+A Side Alley~
+You are standing at the east end of this side alley.
+South of here lie the Promenade and the Concourse.  Travelling this
+path will also lead you to the south gate of Minos, and into the
+forest of Miden'Nir.
+~
+45 32768 1
+D1
+~
+~
+0 0 100
+D2
+~
+~
+0 0 3100
+D3
+~
+~
+0 -1 4558
+S
+#4560
+The Secret Yard~
+The secret practice yard of thieves and assassins.  To the north is the
+bar.
+~
+45 24 0
+D0
+~
+~
+0 -1 4552
+S
+#4561
+The Bar Of Divination~
+The bar is one of the finest in the land, lucky it is members only.  
+Fine furniture is set all around the room.
+A small sign is hanging on the wall.
+~
+45 252 1
+D1
+~
+~
+0 -1 4562
+D2
+~
+~
+0 -1 4565
+S
+#4562
+The Entrance hall of the Clerics Guild~
+   The entrance hall is a small modest room, reflecting the true nature of the
+Clerics.  The exit leads east to the temple square.  A small entrance to the
+bar is in the western wall.    
+~
+45 32904 0
+D0
+~
+~
+0 -1 4554
+D3
+~
+~
+0 -1 4561
+S
+#4563
+The Entrance Hall To The Guild Of Swordsmen~
+The entrance hall to the Guild of Swordsmen.  A place where one has to
+be careful not to say something wrong (or right).  To the east is the bar
+and to the north is the main street.
+~
+45 32904 0
+D0
+~
+~
+0 -1 4555
+D1
+~
+~
+0 -1 4564
+S
+#4564
+The Bar Of Swordsmen~
+   The bar of swordsmen, once upon a time beautifully furnished.  But now the
+furniture is all around you in small pieces.  To the south is the yard, and to
+the west is the entrance hall.    
+~
+45 252 0
+D2
+~
+~
+0 -1 4566
+D3
+~
+~
+0 -1 4563
+S
+#4565
+The Clerics' Inner Sanctum~
+   This is the inner sanctum.  A picture of the mighty Thor, is hanging on the
+wall, just above the altar which is set against the western wall.  A well in
+the middle of the floor leads down into darkness.  Vile smells waft from the
+depths.    
+~
+45 8 0
+D0
+~
+~
+0 -1 4561
+S
+#4566
+The Tournament And Practice Yard~
+   This is the practice yard of the fighters.  To the north is the bar.    
+~
+45 12 0
+D0
+~
+~
+0 -1 4564
+S
+#4568
+The Minos Hotel Bar.~
+You are standing in the bar.  The bar is set against the northern wall, old
+archaic writing, carvings and symbols cover its top.  A fireplace is built into
+the western wall, and through the southeastern windows you can see the city
+road.  This place makes you feel like home.  A small sign with big letters is
+fastened to the bar.    
+
+~
+45 32904 0
+D5
+~
+~
+0 0 4503
+E
+writing carving carvings symbols symbol~
+Although it is very hard to understand, you think it looks a lot like beer,
+poems about beer, and small beer-mugs.
+~
+E
+sign~
+The sign reads:
+Free instructions provided by the Grunting Boar Inn.
+
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+          specialties, and tell the price of each.
+~
+S
+#4569
+The Spiritual Aura.~
+The room you are in seem to take no form what so ever. Around you there is a
+swirling Aura which seems to eminate from every direction. Floating in this
+Aura are the bodies of many dead adventurers, if you look hard enough you maybe
+able to see your's. You can see a small sign sat in the middle of the room. 
+
+~
+45 28 0
+D0
+It leads to the Town of New Sparta.  
+~
+~
+0 0 21112
+D1
+It leads to the town of New Thalos.  
+~
+~
+0 0 5509
+D2
+It leads to the Town of Sundhaven.
+~
+~
+0 0 6601
+D4
+It leads to the Temple in the City of Minos.
+~
+~
+0 0 4579
+E
+sign~
+NOTICE:: After Level 10, your corpse will no longer be deposited here. You
+will have to retrieve it from where you died. If you are unable to get it no
+equipment will be reimbursed by the Gods.  
+~
+S
+#4570
+The void of new life~
+   You feel yourself floating about here, how you don't know.  Down bellow you
+you can see a small shimmering light that looks quite Welcoming.  You feel the
+presence of something else in the room with you!    
+~
+45 220 0
+D0
+~
+~
+0 0 4570
+D1
+~
+~
+0 0 4570
+D2
+~
+~
+0 0 4570
+D3
+~
+~
+0 0 4570
+D4
+~
+~
+0 0 4569
+D5
+~
+~
+0 0 4570
+S
+#4571
+The Pet Store~
+   This is more then just your average neighborhood pet store...  Here, they
+specialize in exotic pets for today's adventurers.  There is a sign on the
+wall.    
+~
+45 32904 0
+D3
+~
+~
+0 -1 4529
+E
+sign~
+The sign reads:
+
+  Use 'List' to see the available pets.
+  Use 'Buy <pet>' to buy yourself a pet.
+
+  Instructions for having pets:
+
+  You can use 'order <pet> <instructions>' to order your pets around.
+  If you abuse your pet, it will no longer regard you as its master.
+  If you have several pets you may use 'order followers <instructions>'
+
+  You can name the pet you buy with: 'buy <pet> <name>'
+
+ Regards,
+
+ The Shopkeeper
+
+~
+S
+#4572
+Internal Room for Pet Store (LEAVE IT)~
+   This  is the small dark room in which the Pet shop keeps his pets.
+It is vital that this room's virtual number is exactly one larger
+than the Pet Shop number.
+~
+45 1992 0
+S
+#4578
+The Cartographers Shop~
+   You stand in the Cartography show.  Shelves of old dustly maps hang from the
+walls.  A large oak counter with a glass pannel in the front spans the back of
+the shop.  The pannel displays the cartographers best work, and looking at the
+prices you hope so too.    
+~
+45 32924 0
+D2
+~
+~
+0 0 4535
+E
+writing carving carvings symbols symbol~
+Although it is very hard to understand, you think it looks a lot like beer,
+poems about beer, and small beer-mugs.
+~
+E
+sign~
+The sign reads:
+Free instructions provided by the Grunting Boar Inn.
+
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+          specialties, and tell the price of each.
+~
+S
+#4579
+The Grand Temple of Minos~
+   You stand in the Grand Temple of Minos, where the Mortals come to worship
+the Gods. In the center of the room there is a large alter surrounded by two
+statues, one of the Mighty Zeus and his equally Mighty Kavianna. Down the
+steps the City of Minos awaits you and to the north is the Minos Donation Room.
+
+** THERE IS A SIGN ON THE WALL, NEWBIES SHOULD TYPE: READ SIGN ****
+
+~
+45 295068 0
+D0
+~
+~
+0 0 4580
+D2
+~
+~
+0 0 4581
+D4
+~
+~
+0 0 18600
+D5
+~
+~
+0 0 4556
+E
+Newbie Sign~
+Welcome to Minos.
+----------------
+
+Here are a few tips to get you started on Minos:
+
+- Type INFO which will give you some hints on how things work.
+
+- You may like to type HELP on its own which will show you some usefull Commands.
+
+- Typing HELP <Command> will give you help on that command.
+
+- A List of all commands is available by typing COMMAND
+
+- Ask some of the Immortals or other players if you are not sure what to do.
+
+- Some usefull commands are AUTOEXIT, AUTOLOOT, DISPLAY 1, WHO, SCORE, KILL.
+
+- For a Tour of the city and a help with some commands type FOLLOW GUIDE, when
+  the Newbie Guide announces that the Tour Will be starting soon. The Tour Always
+  Starts from this room.
+
+We Hope you will have hours of Fun here on Minos, however if you can think of
+ways to make us better then please do tell us.
+
+Oh you if you get lost round the city type HELP MAP.
+
+Enjoy!
+
+~
+S
+#4580
+The Minos Donation Room.~
+   You stand in the Donation room of Minos.  Small wooded benches are lined up
+against the wall.  People sit down and wait for equipment to donated by other
+players.    
+
+You notice some writing on the wall.
+~
+45 32924 0
+D2
+~
+~
+0 0 4579
+E
+writing~
+MIRI
+LOVES
+PEACHES
+~
+S
+#4581
+A Small Empty Room.~
+   You stand in a small empty room, with nothing in it except for a large hole
+in the ground, some ladders lead down into the hole, from which there is a vile
+smell.    
+~
+45 32904 0
+D0
+~
+~
+0 0 4579
+D2
+~
+~
+0 0 4583
+S
+#4582
+The Boat Yard~
+The boat yards lead on to a small jetty which goes into the river which
+runs past the city of minos. Somebody is standing here selling boats 
+for those who want to have trip along the water.
+~
+45 32772 1
+D0
+~
+~
+0 0 4553
+D2
+~
+~
+0 0 3159
+S
+#4583
+The Waste Disposal Room.~
+   You stand in the Waste disposal room, where the citizens of Minos come to
+throw away all their unwanted items.  Just drop all the stuff you don't want on
+the floor and someone will come along and put it in the furnaces for you.    
+~
+45 32904 0
+D0
+~
+~
+0 0 4581
+S
+#4584
+The Newbie Section~
+   This is where all the messages for newbie's go.  Here the more experienced
+players leave messages to help out new players in the game.    
+~
+45 32924 0
+D2
+~
+~
+0 0 4513
+S
+#4585
+Quest Board Room~
+   If you are out to take part in quests then this is the place for you.  You
+see a board here listing all the news of the quests that have taken place and
+will take place soon.  Perhaps your name will be on here one day showing that
+you have won a quest.    
+~
+45 32908 0
+D3
+~
+~
+0 0 4513
+S
+#4586
+Junior's All Sorts Shop~
+Looks like Junior has taken over this old abandoned shop and changed
+it into what seems like a very respectable little shop selling all
+sorts of things. Why don't you ask the shopkeeper what he is selling.
+~
+45 16 0
+D1
+~
+~
+0 0 4529
+S
+#4587
+The Clan Board Room~
+   You stand in the clan board room, you notice it is pretty well smashed up
+that because the clans are always fighting with each other.  Anyway you can
+leave clan related questions on this board.    
+~
+45 32780 0
+D1
+~
+~
+0 0 4513
+S
+#4588
+The News Room~
+   This is the news room, various posters and flyers litter the walls and the
+floor.  However under all the junk is a very useful board which is used to tell
+the people of minos, thats YOU, what is going on, whats new and whats changed.
+Make sure you look at it regularly.    
+~
+45 32924 0
+D5
+~
+~
+0 0 4513
+S
+#4589
+The Stables~
+   You stand in the stable yard, here you can buy various animals to ride, you
+notice that there are not just horses but various animals of strange type.    
+~
+45 32912 1
+D2
+~
+~
+0 0 4520
+S
+#4590
+The Stables Store.~
+   An internal rooms to store the animals in the stables.    
+~
+45 1664 0
+S
+#4591
+The Engravers Shop~
+   You stand in the engravers shop, it is small and dimly lit. A small counter
+stands across the far wall, on it various lamps and lights so that the engraver
+can see clearly what he is engraving. Hung on the walls and on various shelves
+are several items which have been engraved as examples to show you what can be
+done. There is a small sign above the counter.  
+~
+45 32924 0
+D0
+~
+~
+0 0 4520
+E
+sign~
+Type List to see a list of Services.
+Type engrave <object> to engrave that object.
+Type unengrave <object> to unegrave an object.
+
+~
+S
+#4592
+BS Board Room~
+A small room has been set up here for you to write on.
+Poems, songs, jokes, and just plain bs can go here.
+Enjoy the board, but don't abuse it or it will be removed.
+Abuses may include, but are not limited to:
+:posting private information about a fellow player.
+:posts that are meant to hurt others feelings.
+:posts that give hacking info for any internet/telnet site.
+:anything else deemed to be abuse of this board by a sub-impl or higher.
+
+(note: anyone lower than sub-impl that has a problem with this board,
+ let me or an impl know about the post you have a problem with.  That
+ infraction will be added to the no-no list. Miri.)
+~
+45 32780 0
+D1
+~
+~
+0 0 4593
+D4
+~
+~
+0 0 4513
+S
+#4593
+Praise Board Room~
+This is a peaceful board room where you can write praises 
+to your favorite God.
+
+
+I'm waiting.....
+~
+45 32924 0
+D3
+~
+~
+0 0 4592
+S
+$~

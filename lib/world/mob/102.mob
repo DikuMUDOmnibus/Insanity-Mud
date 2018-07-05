@@ -1,0 +1,40 @@
+#10200
+general mar'tok~
+General Mar'tok~
+General Mar'tok is here going over starfleet battle plans.
+~
+It looks unfinished.
+~
+10250 160 290 E
+110 -100 -5 0d1+22000 30d18+100
+10000 285000
+6 8 1 4
+BareHandAttack: 3
+E
+#10298
+antimatter goblin~
+antimatter goblin~
+A small goblin is here tinkering with the anitmatter restrictors
+~
+The goblin is only a meter tall, but is of a large build.
+He has white hair except on his hands, which are black.
+~
+16506 37750280 -100 E
+100 15 5 1d500+3500 2d100+0
+10000 100
+7 4 0 10
+E
+#10299
+small dog~
+Small dog~
+A small dog wanders around here searching for Taco Bell.
+~
+It looks like a small light brown dog.
+~
+16460 1032 0 E
+99 0 0 1d0+5000 30d120+20
+10000 60
+8 8 0 2
+BareHandAttack: 4
+E
+$

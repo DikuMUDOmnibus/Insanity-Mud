@@ -1,0 +1,29 @@
+#250
+The Living Motherboard~
+25065 60 2
+37 60 1
+M 0 25002 1 25029 	(an fpu)
+M 0 25001 1 25032 	(a cpu)
+M 0 25000 30 25014 	(an electron)
+M 0 25000 30 25014 	(an electron)
+M 0 25000 30 25014 	(an electron)
+M 0 25000 30 25014 	(an electron)
+M 0 25000 30 25014 	(an electron)
+M 0 25000 30 25023 	(an electron)
+M 0 25000 30 25023 	(an electron)
+M 0 25000 30 25023 	(an electron)
+M 0 25000 30 25023 	(an electron)
+M 0 25000 30 25023 	(an electron)
+M 0 25000 30 25019 	(an electron)
+M 0 25003 6 25038 	(a 16MB EDO SIMM chip)
+M 0 25003 6 25039 	(a 16MB EDO SIMM chip)
+M 0 25003 6 25040 	(a 16MB EDO SIMM chip)
+M 0 25003 6 25041 	(a 16MB EDO SIMM chip)
+M 0 25003 6 25042 	(a 16MB EDO SIMM chip)
+M 0 25003 6 25043 	(a 16MB EDO SIMM chip)
+M 0 25004 1 25044 	(a 28.8kbps modem)
+M 0 25005 1 25045 	(a video card)
+M 0 25006 1 25046 	(a sound card)
+M 0 25007 1 25047 	(an SCSI controller)
+S
+$

@@ -1,0 +1,78 @@
+#8300
+yyrkoon prince~
+Prince Yyrkoon~
+Prince Yyrkoon ,The usurper who would be king and is not about to let you get in his way!
+~
+Prince Yyrkoon believes it is his god given right to be emperor, even though he
+is not first in line! Accordingly he is dressed in his finest silks, furs,
+jewels and his brocades.  
+~
+256058 186 -200 E
+40 -100 -20 30d50+7000 30d5+80
+10000 100000
+8 8 1 3
+E
+#8301
+ghost sadric~
+the Ghost of Sadric~
+The Ghost of Sadric - The Eighty Sixth King of Melnibon floats menacingly before you.
+~
+The ghost of Sadric look to have unfinished business, with you prehaps?
+~
+254010 0 100 E
+60 -100 -20 30d50+10000 30d5+120
+10000 200000
+8 8 1 3
+E
+#8302
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+She is adorned with fine furs and pays you scant reguard as she tries to
+impress the other courtiers with her dancing.  
+~
+30728 128 0 E
+40 5 5 1d1+500 5d2+15
+1000 1000
+8 8 2 1
+E
+#8303
+Dyvim Tvar~
+Dyvim Tvar~
+Dyvim Tvar, Lord of The Dragon Caves charges towards you with pure hate in his eyes.
+~
+A fearsome warrior stands before you. Wisened with age and sorcery he will be
+a worthy opponant.  
+~
+260156 8389768 0 E
+50 -100 -20 1d1+4000 30d5+120
+10000 75000
+8 8 1 1
+E
+#8304
+Cymroril~
+Cymroril~
+Cymroril ,  Queen of Melnibone (designate) is ready to protect herself.
+~
+Of slender build, Cymroril is a perfect example of a Melnibone warrior princess.
+~
+223512 168 200 E
+50 -100 -10 30d30+1000 10d10+120
+10000 50000
+8 8 2 1
+E
+#8305
+dancing courtier~
+A Dancing Courtier~
+A Dancing Courtier twirls here threatening to whip you with his furs.
+~
+This peacock of a male is adorned with fine furs and pays you scant reguard as
+he tries to impress the other courtiers with his dancing.  
+~
+94380 0 0 E
+40 -10 5 1d1+750 5d2+30
+1000 1000
+8 8 1 4
+E
+$

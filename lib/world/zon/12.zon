@@ -1,0 +1,26 @@
+#12
+God Simplex~
+1299 50 2
+62 71 0
+M 0 1299 1 1267 	(Miri's dog Thumper)
+O 0 10298 3 1221 	(the BS Board)
+O 0 10396 3 1222 	(Praise Board)
+M 0 1202 2 1200 	(the Living Cabbage)
+R 0 1218 4591 -1 	(the Senior Gods bulletin board)
+O 0 4591 5 1218 	(the Senior Gods bulletin board)
+R 0 1204 4598 -1 	(a holy bulletin board)
+O 0 4598 5 1204 	(a holy bulletin board)
+R 0 1215 4579 -1 	(the News Board)
+O 0 4579 6 1215 	(the News Board)
+R 0 1214 4582 -1 	(the Clan Board)
+O 0 4582 5 1214 	(the Clan Board)
+R 0 1213 4584 -1 	(quest board bulletin)
+O 0 4584 5 1213 	(quest board bulletin)
+R 0 1212 4583 -1 	(newbie bulletin board)
+O 0 4583 5 1212 	(newbie bulletin board)
+O 0 4597 1 1202 	(a frozen bulletin board)
+R 0 1203 4599 -1 	(a bulletin board)
+O 0 4599 5 1203 	(a bulletin board)
+M 0 1201 1 1205 	(the Immortal Postmaster)
+S
+$

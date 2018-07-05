@@ -1,0 +1,457 @@
+#9900
+imperial blaster~
+an Imperial Blaster~
+An Imperial blaster is lying here.~
+~
+5 0 8193
+0 10 12 12
+10 7500 2 0 50
+A
+3 -2
+A
+18 2
+A
+19 -1
+#9901
+imperial laser rifle~
+an Imperial Laser Rifle~
+An Imperial laser rifle is laying here.~
+~
+5 0 8193
+0 15 10 12
+15 10000 2 0 50
+A
+3 -2
+A
+18 2
+A
+19 3
+#9902
+blaster~
+a blaster~
+A blaster is lying about here.~
+~
+5 0 8193
+0 10 20 12
+10 5000 1 0 50
+A
+1 1
+A
+3 1
+A
+18 10
+#9903
+corellian blaster~
+a Corellian blaster~
+A massive blaster is lying here.~
+~
+5 0 8193
+0 20 14 12
+15 12500 1 0 50
+A
+1 2
+A
+18 10
+A
+19 5
+#9904
+bowcaster crossbow~
+a bowcaster~
+What looks like a crossbow is lying here.~
+~
+5 0 8193
+0 25 8 12
+20 15000 1 0 50
+A
+1 3
+A
+18 4
+A
+19 -2
+#9905
+thermal detonator~
+a thermal detonator~
+A thermal detonator has been discarded here.~
+~
+3 0 16385
+50 1 1 53
+5 20000 0 0 50
+#9906
+lightsaber saber~
+a lightsaber~
+A small cylinder is lying here.~
+~
+5 65603 8193
+0 50 10 3
+5 50000000 2 0 114
+A
+1 2
+A
+3 2
+A
+4 2
+A
+18 4
+A
+19 4
+#9907
+imperial helmet~
+an Imperial Storm Trooper helmet~
+You see the helmet of an Imperial Troop lying here.~
+~
+9 3145864 17
+10 0 0 0
+10 11000 0 0 50
+A
+6 2
+A
+13 25
+A
+12 -50
+#9908
+imperial armplates~
+some Imperial Storm Trooper armplates~
+A set of Imperial Troop armplates are resting here.~
+~
+9 3145736 257
+13 0 0 0
+15 21000 0 0 50
+A
+18 2
+A
+19 3
+A
+14 -20
+#9909
+imperial leggins~
+some Imperial Storm Trooper Leggings~
+A set of Imperial Troop leggins are laying here.~
+~
+9 0 33
+20 0 0 0
+15 22500 1 0 50
+A
+14 -25
+A
+25 25
+#9910
+imperial armor~
+some Imperial Storm Trooper Armor~
+A piece of Imperial Strom Trooper Armor is laying about.~
+~
+9 7340040 9
+35 0 0 0
+20 50000 0 0 50
+A
+3 -2
+A
+17 -10
+#9911
+imperial belt~
+an Imperial Storm Trooper Utility Belt~
+The belt off of one of the Imperial Troops is laying here.~
+~
+15 1048584 2049
+500 0 -1 0
+10 10000 0 0 50
+#9912
+imperial backpack~
+an Imperial Storm Trooper Battlepack~
+A huge backpack is laying about.~
+~
+15 5242888 1025
+3000 0 -1 0
+15 35000 1 0 50
+#9913
+imperial uniform~
+an Imperial Officer Uniform~
+The uniform of an Imperial Office is neatly folded here.~
+~
+11 0 9
+0 0 0 0
+10 1000 0 0 50
+A
+17 -7
+#9914
+imperial pants~
+an Imperial Officer's Pants~
+The pants of an Imperial Officer are laying here.~
+~
+11 0 33
+0 0 0 0
+10 750 0 0 50
+A
+17 -5
+#9915
+imperial hat~
+an Imperial Officer's Hat~
+The hat of an Imperial Officer is laying here.~
+~
+11 0 17
+0 0 0 0
+5 500 0 0 50
+A
+17 -4
+#9916
+imperial belt~
+an Imperial Officer's Belt~
+You see a length of black leather hear.~
+~
+11 0 2049
+0 0 0 0
+5 100 1 0 50
+A
+17 -1
+#9917
+pilots vest~
+a pilot's vest~
+You see a pilot's vest laying abut, ready to be worn.~
+~
+9 0 1025
+19 0 0 0
+15 2500 0 0 50
+#9918
+clothes~
+a set of clothes~
+You see a plain set of clothes, like those of a citizen.~
+~
+11 0 41
+0 0 0 0
+10 10 0 0 40
+A
+17 -5
+#9919
+jedi robe~
+a Jedi Robe~
+A piece of cloth is laying here.~
+~
+11 0 9
+0 0 0 0
+10 500000 1 0 90
+A
+17 -25
+A
+18 4
+A
+19 4
+#9920
+jedi cloak~
+a Jedi Cloak~
+A piece of cloth is laying here.~
+~
+11 0 1025
+0 0 0 0
+14 500000 1 0 90
+A
+17 -25
+A
+1 2
+A
+4 1
+#9921
+jedi utility belt~
+a Jedi Utility Belt~
+A belt is laying about here.~
+~
+15 0 2049
+3000 0 -1 0
+10 500000 0 0 90
+A
+6 3
+#9922
+jedi armband~
+a Jedi Armband~
+A scrap of cloth is lying here.~
+~
+11 0 4097
+0 0 0 0
+5 500000 1 0 90
+A
+17 -10
+A
+18 2
+A
+19 2
+#9923
+jedi hairbeads beads~
+some Jedi Hairbeads~
+A string of beads are laying on the ground here.~
+~
+11 0 262145
+0 0 0 0
+10 500000 0 0 90
+A
+1 1
+A
+2 1
+A
+4 1
+A
+5 1
+A
+9 -4
+#9924
+jedi heal~
+the Jedi Force Power of Heal~
+An old scroll is lying here.~
+~
+2 1024 16385
+70 28 28 28
+1 15000 0 0 50
+#9925
+jedi levitate~
+the Jedi Force Power of Levitate~
+An old scroll is lying here.~
+~
+2 0 16385
+70 68 69 70
+1 15000 0 0 50
+#9926
+jedi speed~
+the Jedi Force Power of Speed~
+An old scroll is lying here.~
+~
+2 0 16385
+70 75 75 75
+1 15000 0 0 50
+#9927
+jedi protect~
+the Jedi Force Power of Protection~
+An old scroll is lying here.~
+~
+2 1024 16385
+70 3 36 52
+1 15000 0 0 50
+#9928
+jedi sight~
+the Jedi Force Power of Sight~
+An old scroll is lying here.~
+~
+2 0 16385
+70 14 19 50
+1 15000 0 0 50
+#9929
+yodas cane~
+Yoda's Cane~
+A rather small looking cane is laying about here.~
+~
+5 7407048 8193
+0 20 20 5
+5 500000 2 0 50
+A
+18 20
+A
+19 20
+#9930
+rent~
+Someone's rent credits~
+Someone's rent is laying here on the floor waiting to be collected.~
+~
+20 0 1
+35000 0 0 0
+50 0 0 0 50
+#9931
+jedi boots~
+some Jedi Boots~
+A set of raddedy boots are sitting here.~
+~
+9 0 65
+20 0 0 0
+15 15000 0 0 50
+A
+14 50
+#9932
+imperial helm~
+an Imperial Commando's Helm~
+A black helmet is laying about here, it has the markings of the Empire upon it.~
+~
+9 0 17
+15 0 0 0
+10 45000 0 0 75
+A
+3 4
+A
+18 2
+A
+19 2
+#9933
+imperial armor~
+an Imperial Commando's Armor~
+Some jet black armor is laying on the ground, it has the markings of the Empire upon it.~
+~
+9 0 9
+20 0 0 0
+15 250000 1 0 75
+A
+3 4
+A
+17 -25
+#9934
+imperial boots~
+some Imperial Commando's Boots~
+A pair of black boots are laying here, they have the mark of the Empire on them.~
+~
+9 0 65
+10 0 0 0
+10 95000 1 0 75
+A
+14 50
+A
+3 4
+#9935
+jedi fountain~
+part of the Jedi Fountains~
+A section of the Jedi Foutains is splashing before you.~
+~
+23 0 0
+10000 10000 15 0
+100000000 0 0 0 0
+#9936
+jedi drain~
+the Jedi Force Power of Drain~
+An old scroll is lying here.~
+~
+2 1024 16385
+70 25 25 25
+1 15000 0 0 50
+#9937
+droid parts~
+some droid parts~
+A droid up and left some of his parts here.~
+~
+13 0 16385
+0 0 0 0
+10 0 0 0 0
+#9938
+landlords keys~
+A set of keys~
+A huge pile of keys are lying about on the ground.~
+~
+18 32 16385
+0 0 0 0
+2 0 0 0 75
+#9939
+landlords safe~
+the landlords safe~
+A huge safe is here in the corner of the room.~
+~
+15 32 0
+3000 15 9938 0
+0 0 0 0 0
+#9940
+landlords treasure~
+The landlords treasure~
+A huge pile of credits are lying here on the floor.~
+~
+20 0 1
+1000000 0 0 0
+10 0 0 0 0
+#9941
+lightsaber parts saber~
+some lightsaber parts~
+Some light saber parts are strewn about here.~
+~
+13 0 1
+0 0 0 0
+10 0 0 0 0
+$~

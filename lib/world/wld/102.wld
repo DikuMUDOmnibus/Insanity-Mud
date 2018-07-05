@@ -1,0 +1,1581 @@
+#10200
+Habitat Hallway at Main Turbolift~
+You have entered the Habitat hallway just north of the main turbolift.
+The hall is decorated to please the eyes with paintings, and colorful
+carpeting, walls and ceiling.  The hall stretches west and east of here.
+~
+102 4 0
+D1
+~
+~
+0 0 10201
+D2
+~
+~
+0 0 10305
+D3
+~
+~
+0 0 10214
+E
+carpeting wall ceiling decorations~
+The hall's colorful decor includes:
+smoke gray carpeting that is resistant to water, phasers, and most other
+weapons.
+The walls are of a much lighter gray and has metal supports of the
+same color as the carpeting.  Although there are none here, paintings
+are hung around here and there on the walls.
+The ceiling is black with local stars painted on it.  It is a real
+navigation chart, once you get your bearings.  Too bad you don't own a ship.
+~
+S
+#10201
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 8 0
+D1
+~
+~
+0 0 10202
+D3
+~
+~
+0 0 10200
+S
+#10202
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 0 0
+D2
+~
+~
+0 0 10203
+D3
+~
+~
+0 0 10201
+S
+#10203
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 0 0
+D0
+~
+~
+0 0 10202
+D2
+~
+~
+0 0 10204
+S
+#10204
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 0 0
+D0
+~
+~
+0 0 10203
+D2
+~
+~
+0 0 10205
+S
+#10205
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 8 0
+D0
+~
+~
+0 0 10204
+D3
+~
+~
+0 0 10206
+S
+#10206
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 8 0
+D1
+~
+~
+0 0 10205
+D3
+~
+~
+0 0 10207
+S
+#10207
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 8 0
+D0
+~
+~
+0 0 10208
+D1
+~
+~
+0 0 10206
+D3
+~
+~
+0 0 10209
+S
+#10208
+Habitat Levels Lift level 2~
+You have found the small lift that takes you between
+floors in the Habitat Ring.  Level 1 is up and Level 3 is down.
+~
+102 12 0
+D2
+~
+~
+0 0 10207
+D4
+~
+~
+0 0 10215
+D5
+~
+~
+0 0 10216
+S
+#10209
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 8 0
+D1
+~
+~
+0 0 10207
+D3
+~
+~
+0 0 10210
+S
+#10210
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 8 0
+D0
+~
+~
+0 0 10211
+D1
+~
+~
+0 0 10209
+S
+#10211
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 8 0
+D0
+~
+~
+0 0 10212
+D2
+~
+~
+0 0 10210
+S
+#10212
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 8 0
+D0
+~
+~
+0 0 10213
+D2
+~
+~
+0 0 10211
+S
+#10213
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 8 0
+D1
+~
+~
+0 0 10214
+D2
+~
+~
+0 0 10212
+S
+#10214
+Habitat Hall~
+You are in the Habitat Hall on level L2
+Doors are all over the place.  It's hard to believe
+that so many people once lived here.
+~
+102 8200 0
+D0
+~
+~
+0 0 1675
+D1
+~
+~
+0 0 10200
+D3
+~
+~
+0 0 10213
+S
+#10215
+Habitat Lift~
+You are in the Habitat lift at Level 1.
+Levels 2 and 3 are below.
+~
+102 8 0
+D2
+~
+~
+0 0 10217
+D5
+~
+~
+0 0 10208
+S
+#10216
+Habitat Lift Level 3~
+You are in the small lift that services
+the Habitat Ring.  Levels 2 and 1 are above.
+~
+102 8 0
+D2
+~
+~
+0 0 10231
+D4
+~
+~
+0 0 10208
+S
+#10217
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 8 0
+D0
+~
+~
+0 0 10215
+D1
+~
+~
+0 0 10230
+D3
+~
+~
+0 0 10218
+S
+#10218
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 0 0
+D1
+~
+~
+0 0 10217
+D3
+~
+~
+0 0 10219
+S
+#10219
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 0 0
+D0
+~
+~
+0 0 10220
+D1
+~
+~
+0 0 10218
+S
+#10220
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 0 0
+D0
+~
+~
+0 0 10221
+D2
+~
+~
+0 0 10219
+S
+#10221
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 0 0
+D0
+~
+~
+0 0 10222
+D2
+~
+~
+0 0 10220
+S
+#10222
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 8 0
+D1
+~
+~
+0 0 10223
+D2
+~
+~
+0 0 10221
+S
+#10223
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 8 0
+D1
+~
+~
+0 0 10224
+D3
+~
+~
+0 0 10222
+S
+#10224
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 8 0
+D1
+~
+~
+0 0 10225
+D3
+~
+~
+0 0 10223
+S
+#10225
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 8 0
+D1
+~
+~
+0 0 10226
+D3
+~
+~
+0 0 10224
+S
+#10226
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 8 0
+D2
+~
+~
+0 0 10227
+D3
+~
+~
+0 0 10225
+S
+#10227
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 8 0
+D0
+~
+~
+0 0 10226
+D2
+~
+~
+0 0 10228
+S
+#10228
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 8 0
+D0
+~
+~
+0 0 10227
+D2
+~
+~
+0 0 10229
+S
+#10229
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 8 0
+D0
+~
+~
+0 0 10228
+D3
+~
+~
+0 0 10230
+S
+#10230
+Habitat Hall~
+You are on Habitat level 1.  The hall is littered
+with doors leading to people's homes.  
+~
+102 8 0
+D1
+~
+~
+0 0 10229
+D3
+~
+~
+0 0 10217
+S
+#10231
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D0
+~
+~
+0 0 10216
+D1
+~
+~
+0 0 10232
+D2
+~
+~
+0 0 10245
+D3
+~
+~
+0 0 10244
+S
+#10232
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D1
+~
+~
+0 0 10233
+D3
+~
+~
+0 0 10231
+S
+#10233
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D0
+~
+~
+0 0 10234
+D3
+~
+~
+0 0 10232
+S
+#10234
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D0
+~
+~
+0 0 10235
+D2
+~
+~
+0 0 10233
+S
+#10235
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D0
+~
+~
+0 0 10236
+D2
+~
+~
+0 0 10234
+S
+#10236
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D2
+~
+~
+0 0 10235
+D3
+~
+~
+0 0 10237
+S
+#10237
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D1
+~
+~
+0 0 10236
+D3
+~
+~
+0 0 10238
+S
+#10238
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D1
+~
+~
+0 0 10237
+D3
+~
+~
+0 0 10239
+S
+#10239
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D1
+~
+~
+0 0 10238
+D3
+~
+~
+0 0 10240
+S
+#10240
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D1
+~
+~
+0 0 10239
+D2
+~
+~
+0 0 10241
+S
+#10241
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D0
+~
+~
+0 0 10240
+D2
+~
+~
+0 0 10242
+S
+#10242
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D0
+~
+~
+0 0 10241
+D2
+~
+~
+0 0 10243
+S
+#10243
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D0
+~
+~
+0 0 10242
+D1
+~
+~
+0 0 10244
+S
+#10244
+Habitat Hall~
+You are in the Habitat Hall on level 3
+of the Habitat ring.
+~
+102 8 0
+D1
+~
+~
+0 0 10231
+D3
+~
+~
+0 0 10243
+S
+#10245
+BS Board Room~
+A small room has been set up here for you to write on.
+Poems, songs, jokes, and just plain bs can go here.
+Enjoy the board, but don't abuse it or it will be removed.
+Abuses may include, but are not limited to:
+:posting private information about a fellow player.
+:posts that are meant to hurt others feelings.
+:posts that give hacking info for any internet/telnet site.
+:anything else deemed to be abuse of this board by a sub-impl or higher.
+
+(note: anyone lower than sub-impl that has a problem with this board,
+ let me or an impl know about the post you have a problem with.  That
+ infraction will be added to the no-no list. Miri.)
+~
+102 284 0
+D0
+~
+~
+0 0 10231
+S
+#10246
+Reactor Level at Main Turbolift~
+The occasional violent shaking from the space battle going
+on outside the station isn't as noticeable here.  The
+reactors on this level are bolted to the floor and the
+generators have spinning parts that hold the generators still.
+They do make their own noise, though, and that you can hear.
+A short hall leads west and east of here.
+~
+102 136 0
+D1
+~
+~
+0 0 10262
+D2
+~
+~
+0 0 10308
+D3
+~
+~
+0 0 10253
+S
+#10247
+Reactor 5~
+Like reactor 2, this reactor is running, but is 
+sounding a bit strained.  It's got a whine to it
+that could mean it is about to overload.
+The reactors to the north and south are not
+even running in stand-by mode so they would be no help if this
+one did shut down.
+~
+102 136 0
+D0
+~
+~
+0 0 10251
+D2
+~
+~
+0 0 10252
+D3
+~
+~
+0 0 10262
+S
+#10248
+Reactor 2~
+The reactor here is labeled as R2, and is purring.
+There are other reactors north and south of this one,
+but both seem to be silent.
+~
+102 136 0
+D0
+~
+~
+0 0 10249
+D1
+~
+~
+0 0 10253
+D2
+~
+~
+0 0 10250
+S
+#10249
+Reactor 1~
+Reactor 1 is no long functioning.  Parts of it was
+used to reconstruct R2.  What was left over was either
+left on the floor, or wasn't removed yet.
+~
+102 136 0
+D2
+~
+~
+0 0 10248
+S
+#10250
+Reactor 3~
+Reactor 3 isn't running, so don't try to catch it.
+It was sabotaged by the Cardassians before they
+abandoned the station.
+~
+102 136 0
+D0
+~
+~
+0 0 10248
+S
+#10251
+Reactor 4~
+This is reactor 4.  It is very useless, since it
+is scattered all over the floor plating.  It must
+have been scavenged for parts by the current occupants
+after the Cardies severely damaged it before they left.
+~
+102 136 0
+D2
+~
+~
+0 0 10247
+S
+#10252
+Reactor 6~
+Reactor 6 is not running, though it looks very together.
+A note on the side of R6 says that the reactor needs
+a part for it and Cardassia Prime refuses to give one up.
+~
+102 136 0
+D0
+~
+~
+0 0 10247
+S
+#10253
+Reactor Level Main Hall~
+The hall intersects another here. The hall goes north and
+south here, and the original one continues in its own directions.
+~
+102 136 0
+D0
+~
+~
+0 0 10266
+D1
+~
+~
+0 0 10246
+D2
+~
+~
+0 0 10254
+D3
+~
+~
+0 0 10248
+S
+#10254
+Power Distribution Maintenance~
+This room holds a large number of monitors and controls
+that watch the power systems throughout the stations core.
+Those systems let out power thru the station at orders
+from above in Ops.  All switches and monitors that are
+here are backups to the ones in Ops and can, in emergency
+situations, be used to override Ops stations in the event
+that it has been taken over by enemy forces.  To do this
+you'd have to have the correct code commands.  The main
+hall is north of here, and the core power conduit is south.
+~
+102 136 0
+D0
+~
+~
+0 0 10253
+D2
+~
+~
+0 0 10255
+S
+#10255
+Bottom of Power Distribution Conduit~
+You are in a power conduit that seems to go the full
+height of the station.  It is dark here, since the lights
+are only on when work is going on in here.  You can see lights
+below, but no light comes from above.  High voltage affects
+any non-shielded technology, and interferes with any magic you may try.
+~
+102 396 0
+D0
+~
+~
+0 0 10254
+D4
+~
+~
+0 0 10256
+S
+#10256
+Power Distribution Conduit~
+You are in a power conduit that seems to go the full
+height of the station.  It is dark here, since the lights
+are only on when work is going on in here.  You can see lights
+below, but no light comes from above.  High voltage affects
+any non-shielded technology, and interferes with any magic you may try.
+~
+102 392 0
+D4
+~
+~
+0 0 10257
+D5
+~
+~
+0 0 10255
+S
+#10257
+Power Conduit~
+You are in a power conduit that seems to go the full
+height of the station.  It is dark here, since the lights
+are only on when work is going on in here.  You can see lights
+below, but no light comes from above.  High voltage affects
+any non-shielded technology, and interferes with any magic you may try.
+~
+102 0 0
+D4
+~
+~
+0 0 10258
+D5
+~
+~
+0 0 10256
+S
+#10258
+Power Conduit~
+You are in a power conduit that seems to go the full
+height of the station.  It is dark here, since the lights
+are only on when work is going on in here.  You can see lights
+below, but no light comes from above.  High voltage affects
+any non-shielded technology, and interferes with any magic you may try.
+~
+102 393 0
+D4
+~
+~
+0 0 10259
+D5
+~
+~
+0 0 10257
+S
+#10259
+Power Conduit~
+You are in a power conduit that seems to go the full
+height of the station.  It is dark here, since the lights
+are only on when work is going on in here.  You can see lights
+below, but no light comes from above.  High voltage affects
+any non-shielded technology, and interferes with any magic you may try.
+~
+102 269 0
+D4
+~
+~
+0 0 10260
+D5
+~
+~
+0 0 10258
+S
+#10260
+Power Conduit~
+You are in a power conduit that seems to go the full
+height of the station.  It is dark here, since the lights
+are only on when work is going on in here.  You can see lights
+below, but no light comes from above.  High voltage affects
+any non-shielded technology, and interferes with any magic you may try.
+~
+102 392 0
+D1
+~
+~
+0 0 10261
+D5
+~
+~
+0 0 10259
+S
+#10261
+Power Conduit Access~
+You are at the top of a power conduit tunnel that starts
+at the power distribution center on the reactor level.
+The power you've followed this far dives into the wall, but
+a panel near the floor, just large enough to squeeze thru
+intrigues you.
+~
+102 396 0
+D1
+~
+panel~
+1 0 10302
+D3
+~
+~
+0 0 10260
+S
+#10262
+Reactor Level Main Hall~
+The hall continues here, leading into another
+much smaller hall to the south and into the
+reactor rooms 4 thru 6 to the east.
+~
+102 136 0
+D1
+~
+~
+0 0 10247
+D2
+~
+~
+0 0 10263
+D3
+~
+~
+0 0 10246
+S
+#10263
+A Small Hall~
+You have entered a small hallway that has no
+evidence of where it may end.  The main hall
+is to the north.
+~
+102 392 0
+D0
+~
+~
+0 0 10262
+D2
+~
+~
+0 0 10264
+S
+#10264
+A Small Hall~
+The hall makes a sharp turn to the east to the south
+of here.  The only sure way to be safe now, is to turn back.
+~
+102 460 0
+D0
+~
+~
+0 0 10263
+D1
+~
+~
+0 0 10265
+S
+#10265
+A Small Room~
+Well, here you have it.  A small
+hall goes to a small room with no apparent function.
+The only obvious exit leads back the way you came.
+~
+102 204 0
+D3
+~
+~
+0 0 10264
+D5
+Escape from DS9!
+~
+escape~
+3 0 4545
+S
+#10266
+Reaction Control Room~
+An Unfinished Room
+~
+102 200 0
+D0
+~
+~
+0 0 10267
+D2
+Anti-matter storage tank
+~
+tank~
+1 0 10253
+S
+#10267
+Anti-matter Storage Tank~
+You have walked into a secured tank full of anti-matter.
+Anti-matter cannot touch matter, so magnetic fields keep
+the fuel away from the sides of the tank.  It seems you have
+deposited yourself between the tank wall and the antimatter.
+This being the case, you are stuck here, since no doors are present.
+~
+102 733 0
+S
+#10271
+DS9 Arboredum~
+The arboredum has been stocked with herbs and food
+plants from various worlds that can be used by the
+population of DS9 and especially the medical staff
+here.  Greens, purples, oranges adorn the room, and
+there are many beautiful flowers on amny of these stems.
+~
+102 12 2
+D2
+~
+~
+0 0 10322
+S
+#10272
+Quark's Bar~
+You are on the upper level of Quark's.
+Below you can see where all of the action is.
+~
+102 8 0
+D1
+~
+~
+0 0 10273
+D3
+~
+~
+0 0 10292
+S
+#10273
+Level 2 Entrance to Quark's Bar~
+You are at the upper level entrance to Quark's.
+The Promenade is below. You are on the upper level
+of the Promenade.
+~
+102 8 0
+D0
+~
+~
+0 0 10313
+D2
+~
+~
+0 0 10274
+D3
+~
+~
+0 0 10272
+S
+#10274
+Upper Promenade~
+You are on the Upper Promenade just outside of
+Quark's bar.  The bar that stays open no matter
+what power is in control of the sector.  The space
+across the promenade is open.  There is a bridge
+that expands the width of the Promenade allowing
+a quick shortcut to the great vista on the other side.
+~
+102 8 0
+D0
+~
+~
+0 0 10273
+D1
+~
+~
+0 0 10275
+D2
+~
+~
+0 0 10289
+D3
+~
+~
+0 0 10288
+S
+#10275
+Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 8 0
+D1
+~
+~
+0 0 10276
+D3
+~
+~
+0 0 10274
+D5
+~
+~
+0 0 10317
+S
+#10276
+Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 0 0
+D2
+~
+~
+0 0 10277
+D3
+~
+~
+0 0 10275
+S
+#10277
+Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 0 0
+D0
+~
+~
+0 0 10276
+D2
+~
+~
+0 0 10278
+S
+#10278
+Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 0 0
+D0
+~
+~
+0 0 10277
+D2
+~
+~
+0 0 10279
+S
+#10279
+Southeast Corner Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 8 0
+D0
+~
+~
+0 0 10278
+D3
+~
+~
+0 0 10280
+D5
+~
+~
+0 0 10321
+S
+#10280
+Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 0 0
+D1
+~
+~
+0 0 10279
+D3
+~
+~
+0 0 10281
+S
+#10281
+Upper Promenade at Bridge~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 0 0
+D0
+~
+~
+0 0 10290
+D1
+~
+~
+0 0 10280
+D3
+~
+~
+0 0 10282
+S
+#10282
+Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 8 0
+D1
+~
+~
+0 0 10281
+D3
+~
+~
+0 0 10283
+D5
+~
+~
+0 0 10324
+S
+#10283
+Southwest Corner Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 8 0
+D0
+~
+~
+0 0 10284
+D1
+~
+~
+0 0 10282
+S
+#10284
+Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 8 0
+D0
+~
+~
+0 0 10285
+D1
+~
+~
+0 0 10293
+D2
+~
+~
+0 0 10283
+S
+#10285
+Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 8 0
+D0
+~
+~
+0 0 10287
+D1
+~
+~
+0 0 10291
+D2
+~
+~
+0 0 10284
+D3
+~
+~
+0 0 10286
+S
+#10286
+Conference Room 1~
+An Unfinished Room
+~
+102 8 0
+D1
+~
+~
+0 0 10285
+S
+#10287
+Northwest Corner Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 0 0
+D1
+~
+~
+0 0 10288
+D2
+~
+~
+0 0 10285
+S
+#10288
+Upper Promenade~
+You are on the upper level of the Promenade.
+The upper level is a walkway around and above the Promenade below.
+Around this level you can see stairs leading down to the main level,
+and windows on the south side that offers a view of where the wormhole 
+is.
+~
+102 8 0
+D1
+~
+~
+0 0 10274
+D3
+~
+~
+0 0 10287
+S
+#10289
+Bridge Across Promenade~
+As you cross the bridge, you see a lot of action
+below.  Fights galore.
+~
+102 264 0
+D0
+~
+~
+0 0 10274
+D2
+~
+~
+0 0 10290
+S
+#10290
+Bridge Across Promenade~
+As fighting continues below, you notice fighting
+is going on just ahead.
+~
+102 264 0
+D0
+~
+~
+0 0 10289
+D2
+~
+~
+0 0 10281
+S
+#10291
+Conference Room 2~
+An Unfinished Room
+~
+102 0 0
+D3
+~
+~
+0 0 10285
+S
+#10292
+Quark's Bar~
+The bar is full of noise; people having fun and a few
+just relaxing with drinks and a few are eating.  The war
+going on around them seem to be disturbing their meal only
+a little.  
+~
+102 8 0
+D0
+~
+~
+0 0 10315
+D1
+~
+~
+0 0 10272
+S
+#10293
+Klingon Fleet Command Office~
+An Unfinished Room
+~
+102 396 0
+D3
+~
+~
+0 0 10284
+S
+#10294
+Infirmary~
+You have wondered into the station's infirmary.
+Nurses are running about taking care of wounded
+Starfleet soldiers, bith security, and marines,
+as well as federation allies.
+The doctor is about somewhere you are informed
+that you must see him for healing drugs.
+~
+102 8 0
+D1
+~
+~
+0 0 10319
+D2
+~
+~
+0 0 10295
+S
+#10295
+Doctor's Office~
+This office is full of computer consoles filled with medical data
+on changling physics, human casualty reports and a desk that sits
+in front of a huge medical cabinet.
+
+A small sign hangs on the wall behind the good Doctor.
+~
+102 92 0
+D0
+~
+~
+0 0 10294
+E
+sign~
+I buy anything I sell and Ident scrolls too.
+~
+S
+$~

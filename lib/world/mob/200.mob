@@ -1,0 +1,681 @@
+#20000
+man tender bar~
+Undefined~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1 1
+E
+#20001
+man bar bartender tender mandrid~
+Mandrid the bartender.~
+Mandrid the bartender is standing here.
+~
+As the bartender works busily ehind the bar, you see he has the worn face of
+a warrior.
+His hands are weather beaten.  Even though he appears so aged and and worn
+out, he still carries a glow of power.
+~
+90186 98344 750 E
+15 15 -7 7d1+30000 5d10+50
+1 10
+8 8 1 1
+BareHandAttack: 13
+E
+#20002
+a guard~
+the guard~
+A guard eyes you up and down wondering why you are here.
+~
+   This tall, mean looking man has no time to deal with you.  So is the
+impression you get from his gaze.  You better duck as his sword is coming at
+you.    
+~
+26728 0 100 E
+25 -5 -8 3d5+1750 15d2+17
+1349 125000
+8 8 1 2
+BareHandAttack: 3
+E
+#20003
+guard weir~
+Weir~
+Weir, the guard of the first vault is standing here.
+~
+   This slim , strong looking woman is not impressed to see you.  Her armour
+makes her appear much bigger then she probably is.  She is most likely not
+someone to reckon with!    
+~
+26666 128 150 E
+45 -55 -14 30d6+4000 20d3+35
+8124 475000
+8 8 2 3
+BareHandAttack: 6
+E
+#20004
+nepo guard~
+Nepo~
+Nepo, the guard to the second vault is standing here.
+~
+   This burly chested ogre has a powerful aura that is quite intimidating. 
+His glare pierces right through as he contemplates your death.  
+~
+59434 128 200 E
+50 -20 -16 6d6+6500 25d3+35
+7256 650000
+8 8 0 2
+BareHandAttack: 6
+E
+#20005
+Siltrem guard~
+Siltrem~
+Siltrem, the guard of the final vault is here.
+~
+undefined~
+129032 65704 200 E
+60 -80 -20 20d4+14000 30d5+50
+50000 1250000
+8 8 1 4
+BareHandAttack: 7
+E
+#20010
+Ylno dealer~
+Ylno~
+Ylno, the main dealer of this room stands here.
+~
+Maroon tuxedo.  Her hair is long and braided.  Her shoulders are very large and
+Ylno wears a black cape over her broad shoulders.  Her maroon toxedo covers a
+very well built body.  Her long silver hair is braided.  Her dealing hands are
+the size of a beast's.    
+~
+24586 32768 10 E
+10 15 -1 1d1+175 2d5+5
+1523 2000
+8 8 2 1
+BareHandAttack: 13
+E
+#20011
+clerk niapos woman~
+Niapos ~
+Niapos, the coat clerk is working busily here.
+~
+   Niapos has large arms covered by her casino uniform.  Her face is weathered
+and her hands solid and leatherlike.  Her eyes seem to wonder as she is busy
+checking coats and cleaning the room she works in.    
+~
+24586 0 360 E
+5 17 2 1d1+250 2d8+2
+900 3000
+8 8 2 1
+BareHandAttack: 13
+E
+#20012
+emer dealer~
+Emer~
+Emer the exchanger is standing here, swapping coins for coins.
+~
+   Emer is very well dressed in his casino toxedo.  His hair is long and
+braided, which ascentuates the thickness of his face.  He is of average size
+and build, but a very attractive man.  Around his waist is a pouch that he dips
+into every few minutes to get more coins to swap.    
+~
+24714 0 355 E
+9 16 -4 1d1+300 3d6+3
+3500 5000
+8 8 1 1
+E
+#20013
+randrek bartender~
+Randrek~
+Randrek, the bartender is serving here.
+~
+   This bartender has his hair drooping over his eyes to prevent you from
+seeing his direction of vision.  His broad shoulders are menacing when
+accompanied with the sight of the four inch scar on his left hand.    
+~
+24590 0 355 E
+15 17 -2 3d5+350 3d8+3
+1000 7000
+8 8 1 1
+BareHandAttack: 6
+E
+#20014
+woman drunk countess~
+the drunk countess~
+A drunken countess stands here, slurring her speech.
+~
+   This well groomed and well dressed countess is very drunk looking.  Her eyes
+are blood shot, her skin is a pale yellow colour and her knees are quite shaky.
+  
+~
+204 0 300 E
+3 19 3 1d1+75 2d2+1
+450 1000
+8 8 2 1
+BareHandAttack: 13
+E
+#20015
+man waiter server~
+the waiter~
+A very nice looking waiter is waiting to serve.
+~
+   This man is tall and slender.  His muscular face is accentuated by long
+slicked back hair.  The size of his shoulders may be a hint at the power this
+server has.  OOPS, he's staring at you waiting for you to order.    
+~
+14 0 0 E
+10 18 1 1d1+175 2d8+2
+987 1500
+8 8 1 1
+E
+#20016
+man attendant~
+the washroom attendant~
+The washroom attendant is standing here.
+~
+   Dressed in a white smock, the attendant is waiting to offer you a towel.  
+
+~
+10 0 300 E
+13 17 -2 2d5+200 3d6+4
+2769 8000
+8 8 1 1
+E
+#20017
+xes dealer~
+Xes~
+Xes, the poker dealer stands here.
+~
+   Xes is a very small man.  He almost looks like a dwarf of some kind.  He has
+very large hands which are perfect for his profession.  He has very broad
+shoulders and what appears to be a very powerful body.    
+~
+10 8 -5 E
+26 -2 -5 2d8+1000 5d6+11
+10000 25000
+8 8 1 1
+BareHandAttack: 6
+E
+#20018
+player woman~
+the poker player~
+A poker player is playing cards.
+~
+   The woman has long drawn back hair that gives her an air of sophistication.
+Her eyes are somewhat red, probably from sitting at the table for so long.  
+She does not seem to be aware of anything other then the cards she has in her
+hands.    
+~
+142 0 -5 E
+8 18 1 2d2+150 2d5+2
+1875 5000
+8 8 2 1
+E
+#20019
+player man gambler~
+the blackjack player~
+A gambler is here playing blackjack.
+~
+   The player is very stern looking.  His powerful hands are full of cards that
+he is waiting to play.  His gaze is so pearcing that you cant look him in the
+eye to long without cringing.    
+~
+142 0 -5 E
+7 18 1 1d1+125 3d3+1
+1452 5000
+8 8 1 1
+E
+#20020
+guard~
+the casino guard~
+A casino guard is scanning the room.
+~
+   A very large man this guard is.  He towers at at least seven feet tall and
+is wide as a hundred year old tree.  He has no exprection on his face, but does
+look like he means business.    
+~
+4184 32896 -20 E
+16 4 -4 3d4+450 4d6+8
+850 20000
+8 8 1 1
+BareHandAttack: 5
+E
+#20021
+woman guard~
+the bodyguard~
+A bodyguard stands here, watching your every move.
+~
+   She is very beutiful, it's hard to imagine that she is a killing machine.  
+She stands about six feet high and has the body of a bodybuilder.    
+~
+151566 128 -10 E
+25 7 -2 3d4+800 5d6+8
+3280 40000
+8 8 2 1
+BareHandAttack: 10
+E
+#20022
+cook~
+the cook~
+The cook is busily preparing food for patrons.
+~
+   With his chef's hat on and his white coat, it's hard to miss this guy.  His
+hair is long and d is long and hanging in the food.  How can anyone want to eat
+his food with his hair in it?  His hands are covered in scares that must have
+resulted from his quick actions with his knife.    
+~
+16394 0 -20 E
+15 7 -4 3d4+1800 3d5+7
+1342 17500
+8 8 1 1
+E
+#20023
+woman patron~
+the woman~
+A lovely lady is sitting here eating a gastly looking salad.
+~
+   With her short hair and expensive dress, this woman is able to draw anyones
+attetion.  She is wearing gold earings and what appears to be a diamond
+necklace.    
+~
+138 0 -10 E
+12 11 1 2d4+175 3d5+3
+1575 5000
+8 8 2 1
+E
+#20024
+patron man~
+the patron~
+A patron is sitting here consuming a large blob of green gelatine.
+~
+   This stout man is leaning over his plate swallowing his food in fast gulps.
+He is so confined to his meal that he doesn't pay any attention to anything
+else.    
+~
+10 0 100 E
+8 17 1 1d1+100 2d6+3
+645 2000
+6 8 1 1
+E
+#20025
+male prostitute man~
+the male prostitute~
+A nice looking young man is lounging about here.
+~
+   This fine looking young man is dressed in very tight leather pants and a
+white shirt.  His hair is short and brushed back, which accentuates the chisled
+features of his face.    
+~
+204 262144 20 E
+13 11 1 2d4+175 3d5+4
+2435 5500
+8 8 1 1
+E
+#20026
+emuin dealer woman~
+Emuin, the dealer~
+Emuin, a blackjack dealer is dealing cards here.
+~
+   She has long silky black hair that covers her face.  Because of this you
+can't see the expression on her face as she grabs a large mound of gold from
+the table.  Her dealers outfit covers what seems to be a great body.    
+~
+10 0 20 E
+14 9 -1 1d1+300 3d5+5
+3700 6000
+8 8 2 1
+E
+#20027
+engel dealer man~
+Engel, a dealer~
+Engel, a dealer is standing here.
+~
+   Engel has nice short hair that is combed to the right.  His eyes give you a
+stern look as he continues to play his game.  You can't help but notice how
+fast he is dealing...    
+~
+4362 128 20 E
+18 1 -3 1d1+400 3d6+9
+5400 35000
+8 8 1 1
+BareHandAttack: 6
+E
+#20028
+guard counting~
+the counting guard~
+A guard of the counting rooms stands guard here.
+~
+   This guard is a true giant.  His shoulders are about as wide as you are tall
+and he is about ten feet tall.  You can't imagine the power that this giant
+has.  His hands are so big he could probably crush you with one hit.    
+~
+61722 128 30 E
+29 -4 -6 17d10+1600 30d1+17
+9800 145000
+8 8 1 2
+BareHandAttack: 6
+E
+#20029
+counter~
+the counter~
+A counter is counting gold.
+~
+   It's hard to tell what kind of creature this being is.  They don't have any
+hair and their faces appear to have no sex.  It's big hands are fast at work
+counting gold coins that has come from the slot machines and the gambling
+tables.    
+~
+20506 0 20 E
+13 -5 1 1d1+250 3d4+7
+14200 17000
+8 8 0 1
+BareHandAttack: 2
+E
+#20034
+dealer man dracon~
+Dracon, the dealer~
+Dracon, the dealer is standing here dealing cards.
+~
+   Dracon is a very small man, with large out of proportion hands.  He has no
+hair and seems to be blinded in one eye.  He is concentrating very hard on what
+he is doing.    
+~
+16394 0 10 E
+5 15 2 1d1+500 3d4+5
+2100 2300
+8 8 1 1
+E
+#20035
+dealer riangabur~
+Riangabur, the dealer~
+Riangabur is waiting patiently to deal some cards.
+~
+   This slender lady has her hair very short and tainted a reddish colour.  
+The dress she has on accentuates the definition of her body.  She has the build
+of a swimmer that she shows off with her tight uniform.    
+~
+163850 0 10 E
+23 8 -5 3d4+850 5d6+8
+4200 45000
+8 8 2 1
+E
+#20037
+callan guard~
+Callan~
+Callan, Vi's bodyguard is waiting here.
+~
+   Callan is a large, and strong looking Orcish type creature.  As he realizes
+you are looking at him he unsheathes his sword.    
+~
+59418 128 100 E
+30 -10 -9 1d1+2500 25d2+20
+2475 225000
+8 8 1 1
+BareHandAttack: 5
+E
+#20038
+vi manager~
+Virginia~
+Vi, the casino manager is hard at work here.
+~
+   Hard at work, Virginia appears to be some sort of small being.  When she
+sees you, she stands.  You can't believe your eyes as she stands to a height of
+eleven feet tall.  Her body carries the attributes of a bodybuilder, she
+appears very strong and fierce.    
+~
+43018 65664 150 E
+44 -100 -20 30d30+5000 30d3+30
+22500 500000
+8 8 2 2
+BareHandAttack: 14
+E
+#20039
+clerk assistant~
+the assistant~
+A clerk is busy working to finish up for the day.
+~
+   The clerk, a dwarf, is slender and extremly well groomed.  The three piece
+suit that he is wearing sparkles as he moves about in the light.    
+~
+182298 0 50 E
+35 5 -5 5d5+750 15d2+20
+3561 30000
+8 8 1 1
+BareHandAttack: 4
+E
+#20040
+Morgan captain guard~
+Morgan~
+Morgan, the captain of the guard is lounging about smoking a joint.
+~
+   Morgan is a half feline half human creature.  He carries the face of a cat
+and the body of a human.  He has an excessive amount of fur on both hands that
+gives you a shiver.  His stature is quite intimidating, as he stands at six
+feet tall.    
+~
+49434 65536 150 E
+35 -10 -9 5d3+1500 25d2+19
+4200 45000
+8 8 1 1
+BareHandAttack: 6
+E
+#20041
+partigiani human form~
+the partigiani~
+A human form is lurking in the shadows.
+~
+   The partigiani is a being of dark comlexion and small stature.  Every step
+he takes, he takes into the blind spot of your eye.  You have to keep
+refocusing to get them back into your line of sight.    
+~
+155980 262272 10 E
+20 -15 -9 30d1+750 10d2+10
+900 80000
+8 8 0 1
+BareHandAttack: 14
+E
+#20042
+hostess mickey~
+Mickey~
+Mickey is rummaging through her papers.
+~
+   Mickey is a tall slender woman.  Her long dark hair is braided and topped
+off with a gold hair clip.  Her posture adds to her appearence of a powerful
+and confident woman.    
+~
+92170 65536 30 E
+25 0 -4 1d1+850 10d2+15
+6023 50000
+8 8 2 1
+BareHandAttack: 11
+E
+#20043
+guard ~
+the off duty guard~
+An off-duty guard is sitting about here.
+~
+   This guard, though very large and menacing, appears weak and tired.  He is
+enjoying his time off by relaxing and getting stoned.    
+~
+18442 65536 10 E
+15 5 -1 5d3+540 4d4+7
+3290 54000
+8 8 1 1
+E
+#20044
+martha dealer~
+Martha~
+Martha, a dealer is relaxing here.
+~
+   Martha is a half orc half human dealer.  She has worked a very long shift
+and now awaits here next one.  She is enjoying her beer as she stares into
+space.    
+~
+34826 0 10 E
+17 10 3 4d4+300 5d3+7
+1002 10000
+8 8 2 1
+E
+#20045
+bountykiller rowek~
+Rowek~
+Rowek, the bountykiller is waiting for some action.
+~
+   A very ugly Orc, Rowek is.  His hairy hands are the size of your head, and
+his stature is that of a overgrown bear.  At nine feet tall, he is not someone
+to be reconed with lightly.    
+~
+51242 65664 0 E
+40 -10 -19 25d4+7000 20d4+30
+12500 200000
+8 8 0 3
+BareHandAttack: 7
+E
+#20046
+guard casino~
+the casino guard~
+The casino guard is sleeping comfortably here.
+~
+   The guard is just as large as the guards in the playing rooms.  Obviously
+just relaxing.    
+~
+24602 0 -20 E
+16 4 -1 3d4+450 4d6+8
+800 20000
+8 8 2 1
+BareHandAttack: 5
+E
+#20047
+janitor~
+the janitor~
+The janitor is fast asleep.
+~
+   The scrawny orc looks beat.  Probably worked like a dog keeping this place
+clean.    
+~
+16394 0 0 E
+9 15 1 5d5+175 2d3+5
+231 15000
+8 8 2 1
+E
+#20048
+little girl~
+a little girl~
+A little girl is weaping here.
+~
+   You get an uneasy feeling as you look at the girl.  She is on her knees and
+crying for some reason.    
+~
+125194 65664 -200 E
+50 -15 -20 20d10+11000 30d5+40
+35000 700000
+8 8 2 3
+BareHandAttack: 4
+E
+#20049
+scorpion~
+the scorpion~
+The giant Scorpion charges towards you!
+~
+   The Scorpion is an unsual size.  It's tail is extremly large, and seems to
+be getting bigger as it swings towards you.    
+~
+18478 524416 20 E
+15 15 -3 15d2+750 4d3+9
+0 60000
+8 8 0 1
+BareHandAttack: 1
+E
+#20050
+snake beach~
+the snake~
+A colourful beach snake scurries by your feet.
+~
+   A small, cute little snake it is.  It has a red head orangy body and a
+purplish tail that rattles.    
+~
+200 262144 0 E
+10 17 2 1d1+125 2d5+5
+0 5000
+8 8 0 1
+BareHandAttack: 4
+E
+#20051
+fairy spirit~
+the Fairy~
+A Spirit is floating about.
+~
+   This tiny spirit has the eyes of an angel.  Her tiny wings are moving faster
+than what you can focus on.  She is the most innocent being you have ever seen.
+  
+~
+10 2 1000 E
+6 18 1 1d1+200 2d3+2
+1 75000
+8 8 2 1
+E
+#20052
+shape drider~
+the drider~
+An odd shape is lurking in the shadows.
+~
+   A strange looking, very ugly beast is standing before.  It's teeth are
+protruding just waiting to take a bite of your warm flesh.  His stare never
+leaves your direction.  He readys himself for and attack on you.    
+~
+151594 524288 -25 E
+40 -10 -11 10d10+7000 20d3+20
+1 100000
+8 8 0 1
+BareHandAttack: 7
+E
+#20053
+queen spider~
+the Queen Spider~
+An extremly large and annoyed spider CHARGES towards you!!!!
+~
+   Her multiple eyes mezmorize you as she catches your stare.  You can almost
+see a reflection of yourself, or is it maybe that she is contoling your
+thoughts.  She is about ten times the size of her drone spiders.  As she starts
+towards you, her drones gather round to watch this battle to the death.    
+~
+10282 65704 200 E
+60 -30 -20 20d15+12500 30d5+40
+37200 1000000
+8 8 2 3
+BareHandAttack: 4
+E
+#20054
+babe dog spirit~
+the Spirit of Babe~
+A Dogalomite Spirit floats in the shadows.
+~
+   Babe used to be a Dogalomite.  Now she has passed on and has become a
+guardian Spirit.  She has the head of a dog like animal and the body of a
+goddess.  The appears to be as gentle as a butterfly.  When she catches your
+stare she throws you a smile.    
+~
+180250 589992 750 E
+40 -20 -16 30d3+5000 30d3+50
+3700 750000
+8 8 2 2
+BareHandAttack: 2
+E
+#20055
+guard elite~
+the elite guard~
+An elite guard is doodling about here.
+~
+   This barelchested man towers over you.  His strong hands, large shoulders
+and stern look intimidate you.  He does not look impressed to see you.    
+~
+26650 0 250 E
+35 -5 -15 5d5+2500 20d2+20
+4300 200000
+8 8 1 2
+E
+$

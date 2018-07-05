@@ -1,0 +1,163 @@
+#600
+Castle Guardian~
+the Castle Guardian~
+The Castle Guardian stands here.
+~
+He looks as if he is pretty hard, with all those scars and muscles the size
+of your little head!
+~
+391198 753794 -1000 E
+102 -100 -20 30d1000+2000 30d127+120
+50000 300000
+8 8 1 10
+BareHandAttack: 6
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#601
+Claire~
+Claire the Mystic~
+Claire the mystic stands here.
+~
+She is sexy, powerful and damn right pissed off with none clan members!
+~
+290826 196738 -1000 E
+102 -100 -20 30d1000+1000 30d127+120
+10000 100000
+8 8 2 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#602
+iggy~
+Iggy the trader~
+Iggy the trader stands here ready to assist you.
+~
+Tall, thin, boney what else can you say about a skeleton.
+~
+278542 163840 1000 E
+102 -100 -20 1d1000+10000 30d127+120
+100 2000000
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#603
+Soldier~
+the Soldier of String~
+The soldier of String stands here
+~
+No body, no head, no legs, no arms..... no nothing--- OH MY GOD!
+~
+284702 229376 -1000 E
+59 -100 -20 30d200+10000 30d127+120
+50000 750000
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#604
+eric~
+Eric the Viking~
+Eric the Viking is standing here with a big smile.
+~
+Big smile, with a huge tongue attached to each tooth.
+~
+348236 458942 1000 E
+102 -100 -20 30d1000+1750 30d127+120
+50000 1250000
+8 8 1 10
+BareHandAttack: 6
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#605
+wiggy~
+the wig~
+Wiggy is standing here with a bucket and spade.
+~
+undefined~
+262154 0 300 E
+102 -100 -20 30d50+3500 30d127+120
+1000 250000
+8 8 1 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#606
+wall~
+the wall~
+The wall is here.
+~
+Bricks, mortar, cement!
+~
+262152 65537 500 E
+102 -100 -20 30d1000+10000 30d127+120
+50000 1250000
+8 8 0 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#607
+battle archer~
+the battle archer~
+The battle archer is here.
+~
+Dont mess with him, or he will go mad and his mates may go BANZAI??
+~
+358476 4194432 -1000 E
+102 -100 -20 10d200+2670 30d127+120
+24024 1500000
+8 8 0 10
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#608
+dragon jade~
+the Jade Dragon~
+The Jade dragon looks at you striking fear in your soul.
+~
+The Jade Dragon is a powerful mythical beast, he has been down here for
+centuries, guarding the secret to the castle, it is said those that
+kill him will gain control of this most magnificent building.
+
+~
+514138 33976 -500 E
+70 -100 -20 30d1000+4500 30d127+120
+200 3000000
+8 8 1 10
+BareHandAttack: 4
+E
+$

@@ -1,0 +1,117 @@
+#1401
+bastard evil stairs stair death~
+the STAIRS~
+Leading up to the next level, a set of stairs looks at you menacingly.
+~
+   Somehow these stairs are very evil, and menacing. You think if you tried to
+walk up them you would end up with "\c01Stupid Mortal\c00" stamped on your
+skull and tossed into the next room.  
+~
+256106 0 1000 E
+104 -55 -20 1d1+30000 30d127+75
+2 1000000
+8 8 1 10
+BareHandAttack: 7
+E
+#1402
+nymph slyph fey faerie fairy~
+a Glitter Faerie~
+Fluttering about with joy and fey devotion is a sparkling glitter faerie.
+~
+   Leaving little glitter trails as it passes, the light refracts in a myriad
+of swirls and sparkles. The fey creature itself glows with an otherworldly
+light leaving you speechless with its alien beauty. She sings at you with a
+golden voice but carries a sharp sting. She is a Glitter Faerie
+
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2 1
+E
+#1403
+sarcasm faerie fairy fey godless tramp~
+the Sarcasm Faerie~
+With arms crossed and a sardonic smirk on its unearthly face, here be the faerie of Sarcasm
+~
+   With cutting wit and bitingly harsh critique, this faerie absolutely oozes
+with perfect sarcasm for every situation. It looks at you with total disdain,
+as if to say, '\c06You aren't even worth the breath it takes to insult you. 
+\c00' . You get the feeling that this fey being is the whole reason behind
+Monty Python, Nikolai's Zones and other strange things.  
+
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2 1
+E
+#1404
+avatar statue clone~
+the Avatar of Nikolai~
+Casually dressed in a hawaiian shirt and tie-dyed pants, the Avatar of Nikolai leans here.
+~
+   Dressed in bad taste clothes, with a shaved head and a little red goatee. 
+The avatar of Nikolai stands here looking at you with impish humour. He would
+look much more imposing if he didn't have an almost cherub quality to his face,
+but that's genetics for you. He is a paradox and is certainly not all he
+seems.  
+
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1 1
+E
+#1405
+avatar clone statue~
+the Avatar of Arcadia~
+Delicate and luminous, the Avatar of Arcadia is here reading a tome of some sort.
+~
+   With luminous beauty, the Avatar of Arcadia stands here without an
+expression upon her face and pink bunny slippers on her feet. You are sure
+though, that beneath the surface there is a sharp mind and a devious nature. 
+She carries herself with an esoteric air and a great amount of knowledge of
+things gone by, she is the Goddess of Knowledge.  
+
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2 1
+E
+#1406
+avatar clone statue~
+the Avatar of Gretchin~
+Covered only in grape vines and grapes, the Avatar of Gretchin stands here.
+~
+   Covered alluringly with grape vines and grapes a beautiful purple lady
+stands here. The grapes seem to be but an extension of her self. With her
+adoring Labradors trailing behind her, she brings a smile to everyone she
+meets. She is the Grape Girl
+
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2 1
+E
+#1407
+avatar clone statue~
+the Avatar of Arn~
+Looking the dapper english man, the Avatar of Arn stands here smirking.
+~
+   With a preoccupied and almost harried expression, the dapper Avatar of Arn
+stands here worring about a project he has to finish. He is a mighty
+Implementor and will nuke anyone who pisses him off. Generally though he is a
+really nice guy. A great supporter of the feminist movement he wants to be
+trained as a housewife ... While he isn't crushing enemies with his dry,
+sardonic humour.  
+
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1 1
+E
+$

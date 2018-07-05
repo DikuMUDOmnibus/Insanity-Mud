@@ -1,0 +1,40 @@
+#3800
+The Entrance to Lord Nikon's Castle.~
+   You look up and stare at the gigantic castle that stands before you. The
+castle is guarded by guards at the front entrance and there are guards up on
+the roof top. It looks very plain, no special designs, just bricks. A flag is
+upon the peak of the castle displaying a name. It reads "Lord Nikon". In
+front of you are 2 very mean looking guards.  
+~
+38 0 0
+D0
+~
+~
+0 0 3801
+S
+#3801
+Inside Lord Nikon's Castle.~
+   After getting passed them really mean bullying guards, you finally get
+inside the Castle. It looks amazing from the inside, from the outside it looks
+so plain and dull but from the inside this place flourishes with lots of
+different people. There are lots of shops to look at and plenty of places to
+eat if you are beginning to feel a little famished. There's a lot of friendly
+people here looking for someone to talk to so go out and make some new friends!
+ 
+~
+0 16 0
+D2
+~
+~
+0 0 3800
+S
+#3802
+Walking westward inside the Castle.~
+   As you start walking you look around you see little kids playing with toy
+swords, a shop to your south, an Inn to your north, and to your west seems to
+be the corner of the castle. You hear your stomach growl a little bit, maybe
+you should look for a place to eat.  
+~
+0 0 0
+S
+$~

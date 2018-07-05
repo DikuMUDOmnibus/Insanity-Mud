@@ -1,0 +1,546 @@
+#1900
+map northern minos~
+a Map of Northern Minos~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 100 0 0 0
+E
+map northern minos~
+
+Northern Minos.
+-=-=-=-=-=-=-=-
+
+                    MINOS ESTATE
+                        ^
+                        |     Cryo
+                        |      |
+                        +-----Hotel------Rent
+                        |
+                 Armory-+----Post Office           
+      Weapons           |                         
+         Store +   Doc--+  Bank  Library     Witchunter Guild
+West           |        |    |     |          |
+<-----+----+---+-< Market Street>--+----+-----+------>   East Gate.
+Gate  |    |            | Pet      |    |
+      +  Watershop      +---+  General  Magic Shop
+  Bread                 | Shop  Store 
+    Stall             +-+-+            
+          Druids      | | |          
+           Guild +----+-F-+---+ Avatars Guild
+                      | | |     
+       Mages Guild +--+-+-+      Thieves Guild
+                        |          |         
+-----+-------+-----<Side Alley >---+-------+---------
+     |       |     |                       |
+  Boat Yard. +     |                       |
+          Clerics  |                  Southern Minos
+           Guild.  +     
+               Warrior   
+                 Guild.                 F = Fountain.
+
+
+~
+#1901
+map southern minos~
+a Map of southern Minos~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+0 1500 0 0 0
+E
+map southern minos~
+
+Map Of Southen Minos.
+-=-=-=-=-=-=-=-=-=-=-
+
+      Northern Minos
+           |
+           +(Concourse)+------------+-------------+----------+
+           |           |            |             |          |
+           |           +            +----Cafe     +---Penny  |
+           |           |    Park--v |             |   Lane   |
+           |   City    |         +--+--+          |          |
+           |  Guard----+----+----+--o--+-----+----+---City   |
+           |     HQ    |                          |   Hall   |
+           |           +            +--(Emerald)--+          |
+      (Concourse)      |            |                   (Concourse)
+           |           +------(Park-+-Road)-------+          |
+           |                        |             |          |
+           |           +--(Emerald)-+             +---Elm    |
+           |           |                          |  Street  |
+           |           +                          +          |
+           |           |                          |          |
+           +-----------+------(Concourse)---------+----------+
+                                                  |
+                                              Graveyard 
+                                              Entrance
+~
+#1902
+map dwarf kingdom~
+a Map of the Dwarven Kingdom~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 2000 0 0 0
+E
+map dwarf kingdom~
+                         * * * The Dwarven Kingdom * * *
+                          = = ===================== = =
+                                Untangled by Ezra
+ 
+                    Dwarven
+                    Hospital
+                       |                                              *Path to
+         North of---Path by---Path by---Barracks     Guard--Door to----Castle
+          Shops     Hospital  Barracks  Entrance     House  Kingdom  Strangelove
+Granite     |                              |                   |
+Head's---Path North                      First               Narrow
+Bakery    of Shop                       Barracks              Path
+            |                              |                   |
+         Hide and    Turn               Back of     Bend in--Narrow
+        Tooth Shop--in Road             Barracks     Path     Path
+                       |                    \         |
+                    Path to               Dwarven   Narrow
+                    Village              Catacombs   Path
+                       |                              |
+             Store  *Inside    Entrance     Top of   Dark   *Mine
+             Room---Entrance--To Mountain--Mountain--Path--Entrance
+                \                             |                 \
+               Wine                        Middle of          Dwarven
+              Cellar                       Mountain            Mines
+                                               |
+                                           Base of
+                            Moria          Mountain           North
+                              |               |           Up\   |
+                              |            Path to            \ |
+                            Plains--Hills--Dwarven      West----+----East
+                              |            Kingdom              | \
+                              |                                 |   \Down
+            Minos City <----Cross                             South
+                            Roads
+~
+#1903
+map dwarven castle strangelove~
+a Map of the Dwarven Castle, Strangelove~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 5000 0 0 0
+E
+map dwarven castle strangelove~
+
+* * * Castle Strangelove * * *       __________
+ = = ==================== = =        \ Queen's \
+      Untangled by Ezra               \ Bedroom \
+                                       \_________\
+                                                *
+                               __________    ____\_____
+     North  Up                 \  Top of \    \ Waiting \
+        \   |                   \ Stairs  \----\  Room   \
+          \ |                    \_________\    \_________\
+  West ---- + ---- East             |
+            | \                _____|____
+            |   \              \         \
+          Down  South           \ Stairs  \    [] - You need the Castle Key
+                                 \_________\        to get beyond this point.
+                                    |               The Castle Key can be
+                               _____|____           found on the Grinning
+                               \         \          Dwarves in the Barracks.
+                                \ Stairs  \
+                                 \_________\    * - You need the Deep Green
+                                    |               Key to get beyond this
+                __________     _____|____           point.  This key can be
+                \ Door to \    \ Inside  \          found on the Wraith in
+                 \ Castle  \-[]-\ Castle  \         the wine cellar or on one
+                  \_________\    \_________\        of the Dwarven Guards on
+                           \                        the Dark path.
+                         ____\_____
+                         \ Path to \
+                          \ Castle  \
+                           \_________\
+                                    \
+                   __________     ____\_____
+                   \ Door to \    \ Path to \
+                    \ Kingdom \----\ Castle  \
+                     \_________\    \_________\
+                              \
+                           To Dwarven
+                             Kingdom
+~
+#1904
+map moria level 1 one~
+the first map of Moria~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 6000 0 0 0
+E
+map moria level one~
+
+* * * MORIA - Map 1 * * *                                           To Mahn-Tor
+ = = =============== = =                                                 |
+Talk about a mess! by Ezra                                           Foothills
+                                                                         |
+This is as far as our courageous, noble, brave           Light Cave    Valley
+and apparently quite deceased cartographers                   |           |
+could get.  Perhaps more maps could be found             Smelly Tunnel  Cave
+in the depths of Moria itself.                                |           |
+                                                  Cave---Many Tunnels---Tunnel
+                                                    |         |           |
+         West End--Large Cave--East End           Cave      Tunnel      *Hole
+            |          |                            |         |        (Map 2)
+            |        Tunnel---------Tunnel--------Tunnel----Tunnel
+            |                                       |
+ *Hole----Damp----Damp  Tunnel--Tunnel--Tunnel    Tunnel
+(Map 3)  Tunnel  Tunnel   |               |         |
+                   |      |            (*Map 3)  The Cave
+                   |      |                         |
+                   |    Tunnel--Light--Maze      End of
+                   |            Cave    |        The Path
+                   |                  Light         |
+                   |                  Cave      The Hills--> Dwarven Kingdom
+                   |                    |           |
+                 Tunnel----Tunnel-----Light     The Plains
+                                      Cave          |
+                                                 The Lane
+                                                    |
+                                      Minos    <--Cross--> Eastern Road
+                                                  Roads
+~
+#1905
+map moria level two~
+the Second map of Moria~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 6500 0 0 0
+E
+map moria level two~
+
+    * * * MORIA - Map 2 * * *
+     = = =============== = =
+         Messy, by Ezra
+
+Maze--Maze
+ |     |    (Map 1)
+ |    Maze--Tunnel*
+ |
+Maze--Maze--Maze--Maze
+              |
+     Large--Large
+     Cave   Cave
+      |       |
+     Large--Large--Tunnel--End of
+     Cave    Cave    |     Tunnel
+                   *Hole
+                  (Map 3)
+
+~
+#1906
+map moria level three final~
+the final Map of Moria~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 8000 0 0 0
+E
+map final moria level three~
+
+    * * * MORIA - Map 3 * * *
+     = = =============== = =
+         Messy, by Ezra
+
+                                                   (Map 1*)
+                             Long                     |
+        Tunnel----Tunnel----Tunnel--Tunnel--Tunnel--Tunnel
+          |                   |
+          |                  Gold--Gold
+          |                  Cave  Cave
+          |                   |      |
+          |                  Gold--Gold---Passage
+          |                  Cave  Cave      |
+          |                   |           Passage--Tunnel--Tunnel--Tunnel
+          |          Dark*---Gold            |
+          |         Passage  Cave            |     Secret
+          |                               Passage  Chamber
+          |                      Hole        |       |
+          |                        |      Passage  Secret
+        Large   Large   Large    Small       |     Chamber--Cave--Cave
+        Tunnel--Tunnel--Tunnel--Passage      |                |      |
+          |                        |      Passage-----------Cave--Cave
+          |                       Long
+          |                      Tunnel
+         Wet    Small  Small       |
+        Tunnel--Maze---Maze   Inscription
+          |       |      |         |
+         Wet    Small--Small-----Small
+        Tunnel  Maze   Maze      Maze
+          |       |                |
+          |      Wet    Wet      End of
+        Water    Maze---Maze-----Tunnel
+          |       |      |
+        Water---Water  End of
+                       Maze*
+                      (Map 2)
+~
+#1907
+map new thalos~
+a Map of New Thalos~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 1200 0 0 0
+E
+map new thalos~
+
+           * * * **************** New Thalos ***************** * * *
+                   "Not Thalos or Old Thalos but New Thalos"
+            = = =============================================== = =
+                     (C) ROM - This place is HUGE! by Ezra
+
+                                   Plains
+                                     |
+Northwest--West Casbah-------------North-----------------Casbah--------Northeast
+  Tower     |                       Gate                    |            Tower
+          Alley                      |                      |              |
+            |    Guard            Sultan's                  |  Library----Kali
+          Alley  House              Walk                    |             Row
+                   |                 |      Dancing         |              |
+     Sultan's----Grand----Palace--Sultan's--Daemon          |   Dance-----Kali
+      Palace    Entrance   Gate     Walk      Inn           |   Hall      Row
+                   |                 |                      |
+                 Guard               |         Bowyer--Guildsman's--Mason's
+                 House               |         Guild       Row      Guild
+ High                                |                      |
+Priest                               |         Weaver--Guildsman's--Craftsman
+Chamber  Altar                    Sultan's     Guild       Row        Guild
+  |        |                        Walk                    |
+Inside--Inside--Donation             |         Tanner--Guildsman's--Museum
+Temple  Temple    Room               |         Guild       Row      of the
+  |        |                         |                      |       Greater
+Cleric     |                         |                 Guildsman's---Gods
+Guild     /                          |                     Row
+        /                            |                      |
+     Temple             Ahkeem's  Sultan's  Vera's     Guildsman's         Mage
+     Gates                Stuff     Walk   Veggies         Row             Tower
+       |     Alley--Alley    |       |       |              |                |
+     Temple    |           Market--Market--Market           | Witch's  Magic |
+     Square  Alley   Bank--Square  Square  Square--Butchery |  Brew    Shop  |
+       |       |             |       |       |              |    |      |    |
+West--West---West---West---Market--Center--Market---East--East--East--East--East
+Gate  Main   Main   Main   Square  Square  Square   Main  Main  Main  Main  Gate
+  |    |       |             |       |       |              |    |
+  |  Repair  Alley  Store--Market--Market--Market--Abdul's  | Mercenary--Thieves
+  |   Shop     |           Square  Square  Sqaure   Armor   |   Guild     Guild
+  |          Alley--Alley    |       |       |             Alley
+Warrior's                  Bread   Medina  Igor's  Leather  |           Smuggler
+  Guild                    Stand     |    Weapons   Shop---Alley--Alley---Inn
+                                   Medina                        /
+      Warehouse    Shipwright        |     Forge  Stables      /    Cass's  Dump
+       |     |          |          Common    |       |        |       |      |
+       +-----West Ishtar Drive-----Square----+---East Ishtar Drive----+------+
+                        |            |
+                    Boat Ramp        |
+                        |          South
+===================Ishtar River====Bridge======================> To Dragon Sea
+                                     |
+                                   South
+                                   Gate
+~
+#1908
+map sewers one first~
+the first map of the Sewers~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 10000 0 0 0
+E
+map sewers first one~
+
+                           * * * Sewer - Map 1 * * *
+                            = = =============== = =
+                              Cartographed by Ezra
+ 
+                          * = Hole Down   % = Hole Up
+ 
+        Muddy---------Muddy-----Sewer-----> Round----> Small---Water---Water
+        Sewer          Pipe       |         Room       Room    Edge    Bend
+          |             |         |                      |               |
+Muddy   Muddy---Muddy   |    Another--Threeway--Sewer  Sewer           Water
+Sewer   Sewer   Bend    |       Int.  Junction  Room   Pipe            Sewer
+  |               |     |         |        |      |      |               |
+Muddy---Muddy   MUDDY-->|<----Junction   Store  Sewer  Grand---Dark    Water
+Junct.  Bend     Int.   |         |      Room   Room   Sewer  Hallway    |
+  |      |        |     |         |               |      |      |     Junct.--L
+Muddy  Muddy----Muddy   | *Old---Sewer----Pipe  Sewer--South   Dark      |    e
+*Hole   Int.    Sewer   | Well  Junction  Bend  Pool    End   Passage  Water  d
+         |              |                   |                   |        |    g
+         |  Ordinary--Quiet------Triple---Pipe                 Dark   Junct.--e*
+         |      Bend   Pipe     Junction  Bend  *Shaft  Dead  Passage    |
+         |         |                |              |     End    |      Water
+Dark---Sewer-----Sewer    *Odd--Quadruple--*Pit  Sewer    |    Dark    Sewer
+*Pit  Junction  Junction  Room  Junction@       Entrance  |   Passage    |
+         |         |                |              |      |     |      Water
+       Bend-----Ordinary---------Triple------Threeway--Junct.--Dark----Bend
+                Junction        Junction     Junction         Passage
+~
+#1909
+map sewers second two~
+a Seconds Sewer Map~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 12000 0 0 0
+E
+map second sewer~
+
+                   * * * Sewer - Map 2 * * *
+                    = = =============== = =
+                      Cartographed by Ezra
+ 
+                  * = Hole Down   % = Hole Up
+ 
+                     Ledge--Narrow---Ledge
+                       |     Ledge     |
+                    Narrow           Narrow
+                     Ledge           Ledge
+                       |               |
+                    Narrow           Narrow
+                     Ledge           Ledge
+                       |      Air      |
+                    Narrow           Narrow
+                     Ledge           Ledge
+                       |               |
+                    Narrow           Narrow--Under
+                     Ledge           Ledge   Shaft%
+                       |     Broad     |
+                    *Ledge---Ledge---Ledge
+                       |       |
+                       |     Sewer
+     Under----Muddy    |     *Line
+     Mudhole  Bend     |
+                |      |
+     Under--Junction--Odd--Under
+     *Pit%            Int.  Pit
+~
+#1910
+map third sewer~
+a Third Sewer Map~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 15000 0 0 0
+E
+map third sewer~
+
+                          * * * Sewer - Map 3 * * *
+                           = = =============== = =
+                             Cartographed by Ezra
+ 
+                                 % = Hole Up
+ 
+               Stair <--------------------Tunnel---Glittering---Secret
+                Room                       End        Room      Passage
+                 |                                     |
+                Dark    L-Shaped--Circular--Dusty---Crossing---Wind---Burned
+               Tunnel     Room      Hall    Tunnel     |      Tunnel   Room
+                 |         |                           |                |
+                Lair     North                      L-Shaped---------Dragon's
+              Entrance   Tunnel                       Room             Lair
+                 |         |
+    Basilisk--Basilisk   Square--Square-----East-----Cave---Cave----Turning
+      Cave      Cave      Lair    Lair     Tunnel    Room  T-Cross   Point
+       |         |         |       |                  |       |        |
+    Basilisk--Basilisk    Lair---Square   Treasure   Cave    Long    Secret
+      Cave      Cave      End     Lair      Room    Tunnel  Tunnel    Room
+       |                           |         |        |       |        |
+     Small                     Stalagmite--Blind    %Cave   Tunnel---Mudhole
+      Cave                      T-Cross     End    Entrance   |
+       |                           |                          |
+      Pool--Pool               Stalagmite------------Small---Hot
+       |     |                    Cave               Room    Room
+       |     |                     |
+      Pool--Pool------Spongy---Stalagmite
+                       Room      Tunnel
+~
+#1911
+map sewer final~
+the final Sewer Map~
+A Map has been left here.~
+~
+12 0 1
+0 0 0 0
+3 18000 0 0 0
+E
+map sewer final~
+
+
+ Treasury---Inner             * * * Sewer - Map 4 * * *
+            Lair               = = =============== = =
+             |                   Cartographed by Ezra
+            Lair--Lair
+             |     |                 % = Hole Up
+            Lair--Lair
+             |     |
+            Lair--Lair           Small    Sewer---Drain
+             |                    Cave    Drain    End
+            Lair                   |        |
+          Entrance---Crawlway---Fourway---Sewer
+                                Junction  Drain
+                                   |
+                                Half-Wet
+                                 Drain
+                                   |
+                                 Under
+                                 Water
+                                   |
+                          Dry---Half-Dry---Small
+                         Sewer   Drain      Room
+                           |
+                           |   Sewer--Rat's
+                           |   Drain  Lair                       Sewer
+                           |     |                                 |
+                           |   Sewer--Strange---Damp---Strange---Sewer
+                           |           Sewer    Sewer   Sewer   Junction
+                           |                                       |
+                         Boring------------Sewer------Sewer------Sewer
+                         Drain             Drain%     Drain      Bend
+~
+#1912
+robe~
+a beautiful robe~
+This robe has many different flowers of every colour, it hangs neatly here.~
+~
+11 17827072 1025
+0 0 0 0
+5 1000 0 0 30
+E
+robe flower~
+The colours are bright but still not blinding as you take in the beauty of this magnificent robe.
+It has been crafted by the best designers in all of Insanity, it is said that anyone who wears it is blessed with good luck.
+~
+A
+5 2
+A
+13 25
+A
+17 -20
+A
+4 2
+A
+19 5
+A
+18 5
+$~

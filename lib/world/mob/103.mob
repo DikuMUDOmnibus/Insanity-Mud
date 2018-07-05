@@ -1,0 +1,232 @@
+#10300
+Captain Benjamin Sisko~
+Captain Sisko~
+Captain Sisko is here coordinating the battle in progress against the Dominion.
+~
+Benjamin Sisko is a tall  black man with a lot of confidence, both in
+himself and his crew.  He wears a red command uniform with Captain's
+pips on his collar.
+He has a worried look on his face now, though.  maybe if you
+look around, you can find out why.
+~
+149594 4198572 250 E
+102 -20 -10 10d30+21000 25d40+90
+10000 450000
+8 8 1 2
+BareHandAttack: 12
+E
+#10301
+Kira~
+Kira~
+Colonel Kira is here hunting Jem'hadar.
+~
+Nothing.
+~
+555016 37032 400 E
+80 -20 -7 0d1+22000 15d20+55
+10000 75000
+8 8 2 1
+BareHandAttack: 13
+E
+#10302
+worf klingon~
+Worf~
+A really big Klingon is here defending the station.
+~
+He looks like Worf, of the House of Mar'tok.
+He is dressed in his Starfleet uniform.
+~
+22616 295080 500 E
+100 -100 -10 24d10+29000 30d65+100
+5000 750000
+8 8 1 3
+BareHandAttack: 6
+E
+#10303
+Ezri Dax~
+little Ezri~
+Little Ezri Dax is here doing her best to defend DS9.
+~
+Ezri stands no more than 5 feet, 2 inches tall.  She
+has black hair that is cut short, an innocent look in her
+face and especially her eyes.  Her body is very compact,
+but in good shape.  She is a starfleet officer as was Judzia.
+~
+555336 4206732 1000 E
+75 -60 -10 14d5+22657 30d18+75
+9000 550000
+8 8 2 8
+BareHandAttack: 12
+E
+#10304
+Quark~
+Quark~
+Quark is here cheerily refilling someone's glass.
+~
+Quark is a Ferengi even though he has gotten a bit soft, according
+to evil rumors from Ferenganar.  He is short, cringes at the
+first sign of trouble and carries on his business from behind the
+bar.  Ferengi rules state that war is a great time for business.
+~
+147466 4206760 -100 E
+112 -100 10 20d100+30000 30d120+120
+10000 90000
+8 8 1 10
+BareHandAttack: 11
+E
+#10305
+Garak~
+Garak~
+Garak the tailor is here to cloth you.
+~
+Garak is a Cardassian with what most humans would say is a peculiar past.
+Although he was once a member of the Cardassian's Obsidian Order, he no
+longer lives that life.  He is now a common tailor.  A Cardassian who is
+not trusted even on Cardassia Prime.
+He smiles and ask, "what can I do for you today, <insert your name here>."
+~
+253978 16790700 500 E
+110 -100 -20 30d1+30000 30d100+120
+10000 800000
+8 8 1 10
+BareHandAttack: 11
+E
+#10306
+kai winn~
+Kai Winn~
+Kai Winn is here getting in Starfleet's way.
+~
+She looks decrepit, poor, and out of place in the middle of such a battle.
+~
+204940 34340864 -1000 E
+10 15 10 1d5+5000 30d1+5
+1500 12000
+8 8 2 10
+BareHandAttack: 4
+E
+#10307
+starfleet fleet marine~
+a Starfleet marine~
+A Starfleet marine is here to assist in holding Deep Space 9.
+~
+Starfleet marines are decked out in the latest battlefield technologies.
+The latest being their targeting helmets that assist in aquiring, and
+eliminating hostile targets.  They also assist marine HQ in keeping track
+of all of their soldiers health and whereabouts when in combat.
+The marine before you is alert and ready for combat!
+~
+4312 1192 0 E
+60 -30 -4 10d30+5450 18d15+35
+8000 220000
+8 8 0 10
+E
+#10315
+lisa nudika~
+Lisa Nudika~
+Lisa is here tending to the school store.
+~
+Lisa is a well developed young teen with an infectious smile that displays
+perfect teeth held straight with braces.  Like everyone else, she wears
+a school uniform. This allows you to notice her perfect legs and her
+small ankle bracelet.  She has long black hair and has a babyface
+with chinese eyes and a small, cute nose.
+~
+679962 4199592 -25 E
+18 5 -10 1d0+2000 15d10+10
+4000 10
+8 8 2 8
+E
+#10316
+jem'hadar scout~
+a Jem'hadar scout~
+A young Jem'hadar is here looking for the shield's EPS conduit.
+~
+It looks unfinished.
+~
+34908 9248 -1000 E
+70 -70 -1 1d1+7000 10d20+35
+8000 225000
+8 8 0 3
+BareHandAttack: 6
+E
+#10317
+Jem'Hadar Warrior~
+a Jem'Hadar Warrior~
+A Jem'Hadar warrior is here trying to take over the station.
+~
+It looks unfinished.
+~
+2152 4981792 -1000 E
+78 -30 -8 10d15+21000 15d20+50
+2000 350000
+8 8 0 3
+BareHandAttack: 12
+E
+#10318
+jem'hadar guard~
+a Jem'hadar guard~
+A Jem'Hadar guard protects his post.
+~
+It looks unfinished.
+~
+18554 4727840 -500 E
+35 -25 -10 5d18+15000 20d15+75
+6000 199999
+8 8 0 1
+BareHandAttack: 12
+E
+#10319
+dust mite~
+dust mite~
+Something is moving beneath the layer of dust all around you.
+~
+It looks unfinished.
+~
+260120 4325409 0 E
+25 -5 -20 0d1+5000 5d3+20
+120 50000
+8 8 0 5
+E
+#10320
+bones~
+bones~
+Some bones are here turning to dust.
+~
+It looks like a bunch of bones that are out to kill you!
+~
+141322 33554434 -1000 E
+40 -80 10 30d5+4500 10d8+20
+0 175000
+8 8 0 4
+E
+#10321
+angeline owner shopkeeper~
+Angeline the Magess~
+Angeline, the great magess from Orion 4, is here selling her wares.
+~
+Angeline has the face of an angel, which looks like the face
+of a 16 year old.  Angeline turned 18 March 16, 1999.
+She is wearing a white robe with a green sash.  The robe
+material is very thin, and reveals her curves a bit too well
+for most of those who cling to religious beliefs.
+When a smile crosses her face, you just want to eat her up!
+~
+192602 132264 1000 E
+101 -79 -10 30d90+30000 20d100+120
+7777 350000
+8 8 2 2
+BareHandAttack: 6
+E
+#10322
+julian bashir doctor~
+Julian Bashir~
+Dr Bashir is here to sell you a healing for the battles ahead.
+~
+Julian is in standard starfleet medical colors: green and black.
+~
+188426 168 0 E
+113 20 10 0d1+30000 30d127+0
+10000 1000
+8 8 1 10
+E
+$

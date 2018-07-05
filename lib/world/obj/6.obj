@@ -1,0 +1,117 @@
+#600
+great dark fountain water~
+Great Dark Fountain~
+The fountain in front of you has an illuminous black appearance.~
+~
+23 0 0
+10000 10000 15 0
+10005 0 0 0 0
+#601
+The water sword~
+a water sword~
+The water sword is hovering here.~
+~
+5 909330 8193
+0 8 7 3
+10 1000000 0 0 0
+A
+18 6
+A
+19 6
+A
+14 -44
+#602
+Flag~
+a large flag~
+The flag of Foo's clan is here.~
+~
+1 65539 16385
+0 0 750 0
+1 1000 0 0 0
+#603
+recall~
+Recall scroll~
+An unfinished object is lying here.~
+~
+2 0 16385
+1 42 42 0
+0 300000 0 0 0
+#604
+shield~
+the water shield~
+The water shield is winking at you.~
+~
+9 12291 16897
+13 0 0 0
+12 0 0 0 0
+A
+1 -3
+A
+18 2
+A
+19 3
+#605
+potion~
+the potion~
+The potion of true sensing is here.~
+~
+10 65543 16385
+50 44 20 19
+1 1000 0 0 0
+#606
+axe~
+a Battle axe~
+A huge battle axe is lying here.~
+~
+5 81 24577
+0 8 8 3
+20 1000 0 0 0
+A
+1 2
+A
+4 -1
+A
+18 3
+A
+19 3
+#607
+bracelet~
+Power bracelet~
+The bracelet of immense power is humming here.~
+~
+9 34111520 4097
+10 0 0 0
+2 10 0 0 0
+A
+1 -1
+A
+3 -1
+A
+19 5
+#608
+battle armour~
+the battle armour~
+The titanium battle armour is lying here.~
+~
+9 355 9
+15 0 0 0
+15 1000000 0 0 0
+A
+1 2
+A
+2 -3
+A
+13 40
+A
+19 4
+A
+20 -10
+#699
+Castle Flag~
+the Castle flag~
+The Flag of castle six.~
+~
+12 0 1
+0 0 0 0
+18 0 0 0 0
+$~

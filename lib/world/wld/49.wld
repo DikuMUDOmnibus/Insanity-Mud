@@ -1,0 +1,250 @@
+#4900
+Entrance to The Golden City~
+The Golden City is a marvel of advanced technology. The city itself is
+completely contained within a large, bubble-like structure that regulates
+weather, temperature, and most everything. The streets appear to be made of
+gold, and are all polished to a glossy shine. Despite this, it still has fine
+traction.  
+~
+49 256 0
+D0
+~
+~
+0 0 4901
+S
+#4901
+The Golden Road~
+This is the main form of transportation for the Golden City. The streets all
+seem to be at a downhill slant so walking them is extremely easy. They're
+polished to such a shine that you can see your own reflection in them.  
+~
+49 0 0
+D2
+~
+~
+0 0 4900
+D3
+~
+~
+0 0 4902
+S
+#4902
+The Golden Road~
+This is the main form of transportation for the Golden City. The streets all
+seem to be at a downhill slant so walking them is extremely easy. They're
+polished to such a shine that you can see your own reflection in them.  
+~
+49 0 0
+D1
+~
+~
+0 0 4901
+D3
+~
+~
+0 0 4903
+S
+#4903
+The Golden Road~
+This is the main form of transportation for the Golden City. The streets all
+seem to be at a downhill slant so walking them is extremely easy. They're
+polished to such a shine that you can see your own reflection in them.  
+~
+49 0 0
+D1
+~
+~
+0 0 4902
+D3
+~
+~
+0 0 4904
+S
+#4904
+The Golden Road~
+This is the main form of transportation for the Golden City. The streets all
+seem to be at a downhill slant so walking them is extremely easy. They're
+polished to such a shine that you can see your own reflection in them.  
+~
+49 0 0
+D0
+~
+~
+0 0 4905
+D1
+~
+~
+0 0 4903
+S
+#4905
+The Battle Hall~
+This is The Battle Hall, a place where the citizens of Golden City are allowed
+to compete in contests of speed and strength. Warriors of all walks of life
+and technique fight here for the right to wear the Belt Of Champions, the prize
+given to the best Warrior.  
+
+There is also a sign here which I suggest you read.
+
+~
+49 4 0
+D0
+~
+~
+0 0 4906
+D2
+~
+~
+0 0 4904
+E
+sign~
+The sign explains that in order to rightfully qualify for the next battle, you
+must defeat each contestant. At the end is the current Champion.  
+~
+S
+#4906
+A Battle Hall~
+You are now in the Arena. Always be prepared to attack or be attacked, as the
+fighting here is fierce.  
+~
+0 0 0
+D0
+~
+~
+0 0 4907
+D2
+~
+~
+0 0 4905
+S
+#4907
+A Battle Hall~
+You are now in the Arena. Always be prepared to attack or be attacked, as the
+fighting here is fierce.  
+~
+0 0 0
+D0
+~
+~
+0 0 4908
+D2
+~
+~
+0 0 4906
+S
+#4908
+A Battle Hall~
+You are now in the Arena. Always be prepared to attack or be attacked, as the
+fighting here is fierce.  
+~
+0 0 0
+D0
+~
+~
+0 0 4909
+D2
+~
+~
+0 0 4907
+S
+#4909
+A Battle Hall~
+You are now in the Arena. Always be prepared to attack or be attacked, as the
+fighting here is fierce.  
+~
+0 0 0
+D0
+~
+~
+0 0 4910
+D2
+~
+~
+0 0 4908
+S
+#4910
+A Battle Hall~
+You are now in the Arena. Always be prepared to attack or be attacked, as the
+fighting here is fierce.  
+~
+0 0 0
+D0
+~
+~
+0 0 4911
+D2
+~
+~
+0 0 4909
+S
+#4911
+A Battle Hall~
+You are now in the Arena. Always be prepared to attack or be attacked, as the
+fighting here is fierce.  
+~
+0 0 0
+D0
+~
+~
+0 0 4912
+D2
+~
+~
+0 0 4910
+S
+#4912
+A Battle Hall~
+You are now in the Arena. Always be prepared to attack or be attacked, as the
+fighting here is fierce.  
+~
+0 0 0
+D0
+~
+~
+0 0 4913
+D2
+~
+~
+0 0 4911
+S
+#4913
+A Battle Hall~
+You are now in the Arena. Always be prepared to attack or be attacked, as the
+fighting here is fierce.  
+~
+0 0 0
+D0
+~
+~
+0 0 4914
+D2
+~
+~
+0 0 4912
+S
+#4914
+A Battle Hall~
+You are now in the Arena. Always be prepared to attack or be attacked, as the
+fighting here is fierce.  
+~
+0 0 0
+D0
+~
+~
+0 0 4915
+D2
+~
+~
+0 0 4913
+S
+#4915
+A Battle Hall~
+You are now in the Arena. Always be prepared to attack or be attacked, as the
+fighting here is fierce.  
+~
+0 0 0
+D2
+~
+~
+0 0 4914
+S
+$~

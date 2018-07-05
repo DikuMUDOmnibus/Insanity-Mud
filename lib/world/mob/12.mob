@@ -1,0 +1,85 @@
+#1201
+postmaster master post~
+the Immortal Postmaster~
+The Immortal Postmaster is hard at work here.
+~
+Scary... a postal worker... working?
+~
+73739 32768 0 E
+110 0 -10 1d49+901 4d8+5
+0 0
+8 8 2 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#1202
+Cabbage Living~
+the Living Cabbage~
+The Living Cabbage wanders about tidying up.
+~
+   What! I hear you cry, how can this be a Living Cabbage? Well we don't know
+either, just accept it we have! It cleans up after you as well, so stop
+complaining, if you don't like it purge it, but it will only load up again so
+just ignore it! What has it every done to you? Its a cabbage for christ's
+sake, a harmless little cabbage, ok its got legs and arms and can speak, ignore
+that, this is a mud, an Insane one at that!  
+~
+81997 295944 0 E
+112 0 -10 1d49+901 4d8+5
+0 0
+8 8 0 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#1203
+rose~
+a giant flower~
+A giant yellow rose stands here
+~
+It looks unfinished.
+this is a quest mob
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0 1
+E
+#1298
+Nonononnoononono!~
+This is not appropriate!~
+An eriee ghost with many hole throughout its body is here to remind you of the evils of the trench coat mafia.
+~
+The ghost is a shimmering lightness of a poor dead student of a High School where
+a massacre occured on April 20, 1999, in Littleton Colorado.
+When you look closely you can make out several holes in the light of the ghost.
+~
+245784 132140 50 E
+45 -5 5 10d55+1005 10d26+80
+35 55000
+8 8 0 2
+BareHandAttack: 6
+E
+#1299
+dog doberman thumper~
+Miri's dog Thumper~
+Thumper is here growling softly at the intrusion.
+~
+Thumper is a very well groomed doberman.  He
+has a fine, shiny black coat and a white chest.
+He also has some white around his tail.
+~
+223240 4207800 1000 E
+110 -100 -10 30d1+30000 30d127+120
+10000 500000
+8 8 1 10
+BareHandAttack: 4
+E
+$

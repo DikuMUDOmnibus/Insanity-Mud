@@ -1,0 +1,98 @@
+#2101
+ogre gang member~
+a gang member~
+A member of the Ogres wanders about here.
+~
+He's lived a life of violence ever since he was little.
+~
+76 0 -100 E
+5 15 5 5d5+50 1d5+5
+200 600
+8 8 1 1
+E
+#2102
+troll gang member~
+a gang member~
+A member of the Trolls wanders about here.
+~
+He wants to rid the world of every last Ogre gang member.
+~
+76 0 100 E
+5 15 5 5d5+50 1d7+5
+210 700
+8 8 1 1
+E
+#2103
+gang leader~
+the gang leader~
+The gang leader is not pleased you found his hideout!
+~
+He's risen to be leader through brute force and cunning leadership.
+~
+106 0 0 E
+13 8 2 13d13+130 1d10+12
+2000 10000
+8 8 1 1
+E
+#2104
+bruiser~
+a bruiser~
+A big, mean bruiser is looking for limbs to break.
+~
+He's 6'6" 245 pounds and enough muscle to bash your head in.
+~
+236 8 -333 E
+10 9 -1 10d10+100 1d6+10
+1500 4500
+8 8 1 1
+E
+#2105
+doll~
+a doll~
+A gang doll looks naughty and nice.
+~
+She's a beauty (ok in RELATIVE terms) but you better not touch!
+~
+204 0 0 E
+7 8 3 7d7+70 1d6+4
+1000 1500
+8 8 2 1
+E
+#2106
+patrolman patrol man~
+a patrolman~
+A patrolman is trying to keep the peace.
+~
+He'd rather be at the local pub then out here with these nasty kids.
+~
+72 0 700 E
+8 13 4 8d8+80 1d6+8
+1000 2000
+8 8 1 1
+E
+#2107
+vandal~
+a vandal~
+A vandal is spray painting pro-gang slogans on the wall here.
+~
+He has a wary eye and a fine hand for art.
+~
+136 262144 -400 E
+10 10 1 10d10+100 1d6+6
+500 3800
+8 8 1 1
+E
+#2108
+dog pit bull pitbull~
+a pitbull~
+A vicious pitbull is foaming at the mouth in rabid anticipation.
+~
+You get a nice close look at him while he's tearing at your throat.
+His fangs are blood-stained from hearty meals of ... steak?!
+~
+106 524296 -100 E
+5 10 2 5d5+50 1d6+3
+10 700
+8 8 1 1
+E
+$
